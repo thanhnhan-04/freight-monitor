@@ -1,53 +1,68 @@
 {
-  "updated": "2026-06-22T03:44:56Z",
+  "updated": "2026-06-22T03:57:49Z",
   "series": [
     {
       "key": "rwtc",
       "name": "Dầu thô WTI (giao ngay)",
       "unit": "$/bbl",
-      "error": "HTTP Error 404: Not Found"
+      "value": 84.65,
+      "date": "2026-06-15",
+      "chg": -3.97,
+      "chgPct": -4.48
     },
     {
       "key": "rbrte",
       "name": "Dầu Brent (giao ngay)",
       "unit": "$/bbl",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "key": "eer_epmru_pf4_y35ny_dpg",
-      "name": "Xăng RBOB (NY Harbor)",
-      "unit": "$/gal",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "key": "eer_epd2dxl0_pf4_y35ny_dpg",
-      "name": "Diesel ULSD (NY Harbor)",
-      "unit": "$/gal",
-      "error": "HTTP Error 404: Not Found"
+      "value": 84.36,
+      "date": "2026-06-15",
+      "chg": -4.28,
+      "chgPct": -4.83
     },
     {
       "key": "wcestus1",
       "name": "Tồn kho dầu thô Mỹ",
       "unit": "nghìn bbl",
-      "error": "HTTP Error 404: Not Found"
+      "value": 418222.0,
+      "date": "2026-06-12",
+      "chg": -8263.0,
+      "chgPct": -1.94
     },
     {
       "key": "wgtstus1",
       "name": "Tồn kho xăng Mỹ",
       "unit": "nghìn bbl",
-      "error": "HTTP Error 404: Not Found"
+      "value": 214235.0,
+      "date": "2026-06-12",
+      "chg": -906.0,
+      "chgPct": -0.42
+    },
+    {
+      "key": "wdistus1",
+      "name": "Tồn kho diesel/distillate Mỹ",
+      "unit": "nghìn bbl",
+      "value": 103052.0,
+      "date": "2026-06-12",
+      "chg": 951.0,
+      "chgPct": 0.93
     },
     {
       "key": "wprstus1",
       "name": "Tồn kho propane Mỹ",
       "unit": "nghìn bbl",
-      "error": "HTTP Error 404: Not Found"
+      "value": 87429.0,
+      "date": "2026-06-12",
+      "chg": 2969.0,
+      "chgPct": 3.52
     },
     {
       "key": "wcrexus2",
       "name": "Xuất khẩu dầu thô Mỹ",
       "unit": "nghìn bbl/ngày",
-      "error": "HTTP Error 404: Not Found"
+      "value": 4327.0,
+      "date": "2026-06-12",
+      "chg": -513.0,
+      "chgPct": -10.6
     }
   ]
 }
