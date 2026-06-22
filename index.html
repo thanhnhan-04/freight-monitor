@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Freight Rate Monitor — Tanker / Dry Bulk / LPG</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
+<style>
+:root{ color-scheme: light;
+  --bg:#f6f7f9; --card:#ffffff; --ink:#1d2433; --muted:#6b7280; --line:#e6e8ec;
+  --up:#16a34a; --upbg:#e8f6ec; --down:#dc2626; --downbg:#fdeaea; --flat:#9ca3af; --flatbg:#f0f1f3;
+  --accent:#0f4c81; --supply:#b45309; --demand:#1d4ed8;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:14px;line-height:1.45}
+.wrap{max-width:1180px;margin:0 auto;padding:20px 18px 60px}
+h1{font-size:20px;margin:0 0 2px}
+.sub{color:var(--muted);font-size:12.5px;margin-bottom:16px}
+.sub b{color:var(--ink)}
+.summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:16px}
+@media(max-width:820px){.summary{grid-template-columns:repeat(2,1fr)}}
+.sumcard{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 14px 12px;cursor:pointer;transition:.15s;display:block}
+.sumcard:hover{box-shadow:0 4px 14px rgba(0,0,0,.07);transform:translateY(-1px)}
+.sumcard.active{border-color:var(--accent);box-shadow:0 0 0 2px rgba(15,76,129,.12)}
+.sumcard .seg{font-size:12px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.4px}
+.sumcard .sig{font-size:18px;font-weight:700;margin:6px 0 2px}
+.gauge{height:8px;border-radius:6px;background:linear-gradient(90deg,#dc2626,#f59e0b,#d1d5db,#84cc16,#16a34a);position:relative;margin-top:8px}
+.gauge .pin{position:absolute;top:-3px;width:3px;height:14px;background:#111;border-radius:2px;transform:translateX(-50%);transition:left .25s}
+.gauge .pin.unset{background:#c7ccd4}
+.conf{font-size:11px;color:var(--muted);margin-top:7px}
+.livepanel{border:1px solid var(--line);border-radius:12px;padding:13px 15px;margin:0 0 16px;background:#fbfdff}
+.lphead{font-size:13px;font-weight:700;margin-bottom:10px;display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px}
+.lphead .upd{font-size:11px;font-weight:500;color:var(--muted)}
+.lpgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@media(max-width:820px){.lpgrid{grid-template-columns:repeat(2,1fr)}}
+.lpcard{border:1px solid var(--line);border-radius:9px;padding:9px 11px;background:#fff}
+.lpname{font-size:11px;color:var(--muted);font-weight:600;line-height:1.3}
+.lpval{font-size:17px;font-weight:800;margin-top:3px}
+.lpchg{font-size:11.5px;font-weight:700;margin-top:1px}
+.lpchg.up{color:var(--up)}.lpchg.down{color:var(--down)}.lpchg.flat{color:var(--muted)}
+.lpdate{font-size:10px;color:#aab0ba;margin-top:2px}
+.bdibox{height:320px;border:1px solid var(--line);border-radius:9px;overflow:hidden;margin-top:11px;background:#f3f4f6}
+.lpnote{font-size:11px;color:var(--muted);margin-top:9px;line-height:1.5}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;border-bottom:2px solid var(--line);margin-bottom:0}
+.tab{appearance:none;background:transparent;border:none;border-bottom:3px solid transparent;margin-bottom:-2px;padding:10px 16px;font-size:14px;font-weight:600;color:var(--muted);cursor:pointer;display:flex;align-items:center;gap:8px;border-radius:8px 8px 0 0}
+.tab:hover{background:#eef1f4;color:var(--ink)}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent);background:#fff}
+.tab.news.active{color:#b45309;border-bottom-color:#b45309}
+.tab .dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.tab .mini{font-size:11px;font-weight:700}
+.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:14px 0 14px}
+.btn{background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:12.5px;cursor:pointer;color:var(--ink)}
+.btn:hover{background:#f3f4f6}
+.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.note{font-size:11.5px;color:var(--muted)}
+section.seg{background:var(--card);border:1px solid var(--line);border-top:none;border-radius:0 0 14px 14px;padding:18px}
+.seghead{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+.seghead h2{font-size:17px;margin:0}
+.bench{font-size:12px;color:var(--muted);margin-top:2px}
+.bigsig{text-align:right;min-width:150px}
+.bigsig .lbl{font-size:19px;font-weight:800}
+.bigsig .score{font-size:12px;color:var(--muted)}
+.reviewed{font-size:11.5px;color:var(--muted);margin-top:4px;display:flex;gap:6px;align-items:center;justify-content:flex-end}
+.reviewed input{font-size:11.5px;border:1px solid var(--line);border-radius:6px;padding:2px 5px}
+.mktcaveat{font-size:11.5px;color:#8a6d3b;background:#fcf6e8;border:1px solid #f0e2bf;border-radius:8px;padding:8px 11px;margin:12px 0 12px}
+.mktgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+@media(max-width:820px){.mktgrid{grid-template-columns:1fr}}
+.mktcard{border:1px solid var(--line);border-radius:11px;padding:11px 12px 12px;background:#fcfcfd}
+.mkttitle{font-size:12.5px;font-weight:700;margin-bottom:2px}
+.mktsub{font-size:10.5px;color:var(--muted);margin-bottom:6px}
+.mktbox{position:relative;height:185px}
+.sdcaption{font-size:12.5px;line-height:1.55;color:#3a4150;background:#f4f7fb;border:1px solid #dde6f0;border-left:3px solid var(--accent);border-radius:8px;padding:11px 13px;margin-top:12px}
+.sdcaption b{color:var(--ink)}
+.sdcaption a{color:var(--accent);text-decoration:none;white-space:nowrap}
+.sdtab{width:100%;border-collapse:collapse;margin-top:4px}
+.sdtab td{padding:7px 6px;border-bottom:1px solid var(--line);font-size:12px;vertical-align:top}
+.sdtab tr:last-child td{border-bottom:none}
+.sdk{color:var(--muted);width:42%;font-weight:600}
+.sdv{color:var(--ink)}
+.sdv a{color:var(--accent);text-decoration:none}
+.dlayer{display:flex;flex-direction:column;gap:8px;margin-top:14px;border:1px solid var(--line);border-radius:10px;padding:12px;background:#fafbfc}
+.dlrow{display:flex;gap:12px;align-items:flex-start;flex-wrap:wrap}
+.dltag{font-size:12px;font-weight:700;min-width:215px;padding-top:4px}
+.dltag.spot{color:#0f4c81}.dltag.tc{color:#7c3aed}.dltag.asset{color:#b45309}
+.dlbtns{display:flex;gap:7px;flex-wrap:wrap;flex:1}
+@media(max-width:640px){.dltag{min-width:100%}}
+.srcbtn{font-size:12px;font-weight:600;color:var(--accent);background:#eef4fa;border:1px solid #d6e3f0;border-radius:999px;padding:5px 11px;text-decoration:none}
+.srcbtn:hover{background:#e2edf7}
+.srcbtn.direct{background:#e8f6ec;border-color:#bfe6c9;color:#0f7a33}
+.lcnote{font-size:11px;color:var(--muted);margin-top:9px;line-height:1.5}
+.grid2{display:grid;grid-template-columns:1.55fr .85fr;gap:18px;margin-top:16px}
+@media(max-width:820px){.grid2{grid-template-columns:1fr}}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font-size:10.5px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);font-weight:700;padding:6px 8px;border-bottom:2px solid var(--line)}
+td{padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.grouprow td{background:#f8f9fb;font-weight:700;font-size:11px;letter-spacing:.4px;text-transform:uppercase;padding:5px 8px}
+.grouprow.demand td{color:var(--demand)}
+.grouprow.supply td{color:var(--supply)}
+.assessrow td{font-size:11.5px;line-height:1.55;padding:9px 10px}
+.assessrow b{color:var(--ink)}
+.assessrow.demand td{background:#f3f6fc;border-left:3px solid var(--demand);color:#2a3340}
+.assessrow.supply td{background:#fdf6ee;border-left:3px solid var(--supply);color:#3a2e1f}
+.dname{font-weight:600}
+.mech{font-size:11.5px;color:var(--muted);margin-top:2px}
+.src a{font-size:11.5px;color:var(--accent);text-decoration:none}
+.src a:hover{text-decoration:underline}
+select.read{width:100%;font-size:12px;padding:4px 4px;border:1px solid var(--line);border-radius:7px;background:#fff;font-weight:600}
+select.read.s2{background:var(--upbg);color:#0f7a33;border-color:#bfe6c9}
+select.read.s1{background:#f0faf2;color:#178a3d}
+select.read.s0{background:var(--flatbg);color:#4b5563}
+select.read.sm1{background:#fdf1f1;color:#c23030}
+select.read.sm2{background:var(--downbg);color:#b91c1c;border-color:#f3c0c0}
+input.val{width:100%;font-size:11.5px;padding:4px 5px;border:1px solid var(--line);border-radius:7px;margin-top:3px}
+.wt{font-size:10px;color:#aab0ba;font-weight:600}
+.chartbox{position:relative;height:300px}
+.legend{font-size:11px;color:var(--muted);margin-top:8px;line-height:1.5}
+.disclaimer{font-size:11.5px;color:var(--muted);background:#fff;border:1px dashed var(--line);border-radius:10px;padding:12px 14px;margin-top:16px}
+.kbd{font-family:monospace;background:#eef0f3;border-radius:4px;padding:1px 5px;font-size:11px}
+/* news */
+.newshead{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:4px}
+.newshead h2{font-size:17px;margin:0}
+.newsitem{display:flex;gap:13px;padding:13px 0;border-top:1px solid var(--line)}
+.newsitem:first-of-type{border-top:none}
+.newsdate{font-size:11px;font-weight:700;color:#fff;background:var(--accent);border-radius:6px;padding:3px 7px;height:fit-content;white-space:nowrap}
+.newsbody{flex:1}
+.newsseg{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.3px;border-radius:5px;padding:1px 7px;margin-right:7px}
+.sg-crude{background:#e8f0fa;color:#0f4c81}.sg-product{background:#efe9fb;color:#6d28d9}.sg-dry{background:#fdf0e1;color:#b45309}.sg-lpg{background:#e8f6ec;color:#0f7a33}.sg-macro{background:#f0f1f3;color:#4b5563}
+.newstitle{font-weight:600;margin:3px 0 2px}
+.newsdesc{font-size:12.5px;color:#444b59}
+.newssrc{font-size:11.5px;margin-top:3px}
+.newssrc a{color:var(--accent);text-decoration:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Freight Rate Monitor — Crude / Product / Dry Bulk / LPG</h1>
+  <div class="sub">Mỗi loại cước: <b>chart giá cước · chart thuê định hạn · chart cung–cầu</b> + scorecard driver → <b>tín hiệu xu hướng cước</b>. Tab <b>Tin tức</b> cập nhật tin quan trọng. <span id="savedAt"></span></div>
+
+  <div class="livepanel">
+    <div class="lphead">📡 Driver thị trường — TỰ CẬP NHẬT (EIA, mỗi sáng) <span class="upd" id="lpupdated"></span></div>
+    <div class="lpgrid" id="lpgrid"><div class="lpname">Đang tải dữ liệu…</div></div>
+    <div class="bdibox" id="bdiembed"></div>
+    <div class="lpnote"><b>Khối này tự cập nhật</b> qua bot GitHub Action (giá dầu/xăng/diesel/propane, tồn kho, xuất khẩu — nguồn EIA) và chart BDI nhúng live (TradingView). Các số cước Baltic/TC trong các tab bên dưới là bản chụp gần nhất (cập nhật định kỳ), vì Baltic không có API miễn phí.</div>
+  </div>
+
+  <div class="summary" id="summary"></div>
+
+  <div class="tabs" id="tabs"></div>
+  <div id="panel"></div>
+
+  <div class="toolbar">
+    <button class="btn primary" id="resetAll">Đặt lại tất cả</button>
+    <span class="note">Thay đổi tự lưu (localStorage). Driver chọn mức tác động <b>lên cước</b>: ▲▲ rất hỗ trợ … ▼▼ rất tiêu cực.</span>
+  </div>
+
+  <div class="disclaimer">
+    <b>Nguồn & giới hạn dữ liệu.</b> Chart giá cước / thuê định hạn / cung–cầu được <b>biên soạn từ mốc số liệu năm</b> trên nguồn công khai (Baltic, Clarksons, Fearnleys, IEA, BIMCO, Veson) — phản ánh <b>xu hướng theo năm</b>, không phải chuỗi theo ngày và không tự cập nhật. Số cước/TC/giá tàu theo thời gian thực nằm sau đăng nhập Clarksons/Baltic/Veson; dùng các nút nguồn để xem bản chính xác. Tín hiệu scorecard = trung bình có trọng số các driver đã đánh giá (−100…+100).
+  </div>
+</div>
+
+<script>
+const CFG = [
+ { id:"crude", name:"Dầu thô — Crude / Dirty Tanker", bench:"Baltic BDTI · VLCC TD3C (ME→TQ)",
+   drivers:[
+    {g:"demand", n:"Cầu dầu & refinery runs toàn cầu", m:"↑ cầu/lọc → ↑ hàng → ↑ cước", s:"IEA OMR · EIA STEO", u:"https://www.iea.org/data-and-statistics/data-product/oil-market-report-omr", w:3},
+    {g:"demand", n:"Sản lượng OPEC+ (Trung Đông long-haul)", m:"↑ sản lượng ME → ↑ ton-mile → ↑ cước", s:"OPEC MOMR", u:"https://www.opec.org/monthly-oil-market-report.html", w:3},
+    {g:"demand", n:"Xuất khẩu dầu thô Mỹ/Đại Tây Dương → Á", m:"↑ long-haul Atlantic→Á → ↑ ton-mile → ↑ cước", s:"EIA Petroleum", u:"https://www.eia.gov/petroleum/data.php", w:2},
+    {g:"demand", n:"Nhập khẩu dầu thô Trung Quốc", m:"↑ nhập khẩu TQ → ↑ cầu tàu → ↑ cước", s:"China Customs", u:"https://english.customs.gov.cn/", w:2},
+    {g:"demand", n:"Gián đoạn chokepoint / reroute", m:"↑ căng thẳng Hormuz/Biển Đỏ → reroute → ↑ ton-mile → ↑ cước", s:"EIA Chokepoints", u:"https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints", w:2},
+    {g:"demand", n:"Floating storage / contango", m:"↑ floating storage → giam tàu → ↓ cung → ↑ cước", s:"IEA OMR · EIA", u:"https://www.eia.gov/petroleum/data.php", w:1},
+    {g:"supply", n:"Orderbook & bàn giao tàu mới", m:"↑ tàu mới → ↑ cung → ↓ cước", s:"(tracking ngành)", u:"", w:3},
+    {g:"supply", n:"Scrapping tàu già", m:"↑ phá dỡ → ↓ cung → ↑ cước", s:"(tracking ngành)", u:"", w:1},
+    {g:"supply", n:"Dark/sanctioned fleet & slow steaming", m:"↑ dark fleet / chạy chậm → ↓ cung mainstream → ↑ cước", s:"(tracking ngành)", u:"", w:2},
+    {g:"supply", n:"Tắc nghẽn cảng", m:"↑ tắc cảng → ↓ cung hiệu dụng → ↑ cước", s:"(tracking ngành)", u:"", w:1}
+   ]},
+ { id:"product", name:"Sản phẩm dầu — Clean Tanker", bench:"Baltic BCTI · MR TC2 · LR2 TC1",
+   drivers:[
+    {g:"demand", n:"Biên lọc & công suất lọc dầu toàn cầu", m:"↑ biên/run lọc → ↑ sản phẩm → ↑ cước", s:"EIA Products Outlook", u:"https://www.eia.gov/outlooks/steo/report/petro_prod.php", w:3},
+    {g:"demand", n:"Thương mại sản phẩm long-haul (Tây→Đông)", m:"↑ diesel/jet đường dài → ↑ ton-mile → ↑ cước", s:"IEA OMR", u:"https://www.iea.org/data-and-statistics/data-product/oil-market-report-omr", w:3},
+    {g:"demand", n:"Chênh lệch giá vùng / arbitrage", m:"↑ arb mở → ↑ giao thương → ↑ cước", s:"EIA Product data", u:"https://www.eia.gov/petroleum/data.php", w:2},
+    {g:"demand", n:"Reroute Biển Đỏ / Suez (clean)", m:"↑ tránh Suez → ↑ ton-mile → ↑ cước", s:"EIA Chokepoints", u:"https://www.eia.gov/international/analysis/special-topics/world_oil_transit_Chokepoints", w:2},
+    {g:"demand", n:"Cầu diesel/gasoline/jet", m:"↑ tiêu thụ sản phẩm → ↑ cước", s:"EIA STEO", u:"https://www.eia.gov/outlooks/steo/report/petro_prod.php", w:2},
+    {g:"demand", n:"Dịch chuyển công suất lọc (đóng Tây / mở Đông)", m:"↑ dịch chuyển → ↑ long-haul cấu trúc → ↑ cước", s:"IEA / JODI", u:"https://www.jodidata.org/oil/database/overview.aspx", w:1},
+    {g:"supply", n:"Orderbook & bàn giao tàu clean", m:"↑ tàu mới → ↑ cung → ↓ cước", s:"(tracking ngành)", u:"", w:3},
+    {g:"supply", n:"LR2 chuyển sang chở dầu bẩn", m:"↑ LR2 sang dirty → ↓ cung clean → ↑ cước", s:"(tracking ngành)", u:"", w:2},
+    {g:"supply", n:"Scrapping MR già + tốc độ/tắc cảng", m:"↑ phá dỡ / chậm / tắc → ↓ cung → ↑ cước", s:"(tracking ngành)", u:"", w:1}
+   ]},
+ { id:"dry", name:"Hàng rời — Dry Bulk", bench:"Baltic BDI · BCI · BPI · BSI",
+   drivers:[
+    {g:"demand", n:"Sản lượng thép & nhập quặng sắt TQ", m:"↑ thép/quặng TQ → ↑ Cape → ↑ cước", s:"Worldsteel · China Customs", u:"https://worldsteel.org/data/", w:3},
+    {g:"demand", n:"BĐS / hạ tầng / kích thích TQ", m:"↑ xây dựng → ↑ thép & xi măng → ↑ cước", s:"China NBS", u:"https://www.stats.gov.cn/english/", w:2},
+    {g:"demand", n:"Thương mại than (nhiệt + luyện)", m:"↑ nhập than → ↑ cước", s:"China Customs", u:"https://english.customs.gov.cn/", w:2},
+    {g:"demand", n:"Thương mại ngũ cốc & mùa vụ", m:"↑ xuất ngũ cốc → ↑ Panamax/Supramax → ↑ cước", s:"USDA WASDE · IGC", u:"https://www.igc.int/en/gmr_summary.aspx", w:2},
+    {g:"demand", n:"Bauxite / minor bulk long-haul", m:"↑ Guinea→TQ → ↑ Cape long-haul → ↑ cước", s:"China Customs", u:"https://english.customs.gov.cn/", w:1},
+    {g:"demand", n:"Ton-mile (nguồn quặng Brazil vs Úc)", m:"↑ tỷ trọng Brazil → ↑ long-haul → ↑ cước", s:"Baltic Weekly", u:"https://www.balticexchange.com/en/data-services/WeeklyRoundup.html", w:1},
+    {g:"supply", n:"Orderbook & bàn giao (hiện thấp lịch sử)", m:"↑ tàu mới → ↑ cung → ↓ cước", s:"(tracking ngành)", u:"", w:2},
+    {g:"supply", n:"Tắc cảng (TQ, Brazil) & tốc độ (CII)", m:"↑ tắc / chạy chậm → ↓ cung → ↑ cước", s:"(tracking ngành)", u:"", w:2},
+    {g:"supply", n:"Hạn chế kênh Panama / Suez", m:"↑ hạn chế → reroute → ↑ ton-mile → ↑ cước", s:"(tracking ngành)", u:"", w:1},
+    {g:"supply", n:"Scrapping", m:"↑ phá dỡ → ↓ cung → ↑ cước", s:"(tracking ngành)", u:"", w:1}
+   ]},
+ { id:"lpg", name:"LPG — VLGC", bench:"Baltic BLPG1/BLPG3 · VLGC TCE",
+   drivers:[
+    {g:"demand", n:"Xuất khẩu LPG / propane Mỹ", m:"↑ xuất khẩu Mỹ → ↑ cầu VLGC → ↑ cước", s:"EIA Propane", u:"https://www.eia.gov/petroleum/data.php", w:3},
+    {g:"demand", n:"Tồn kho & sản lượng propane Mỹ", m:"↑ tồn kho/sản lượng → ↑ nguồn xuất → ↑ cước", s:"EIA · Today in Energy", u:"https://www.eia.gov/todayinenergy/", w:2},
+    {g:"demand", n:"Cầu nhập TQ/Ấn & PDH mới", m:"↑ PDH / nhập khẩu → ↑ cước", s:"China Customs · JODI", u:"https://www.jodidata.org/oil/database/overview.aspx", w:2},
+    {g:"demand", n:"Arb Mỹ→Á (FEI vs Mont Belvieu)", m:"↑ arb mở → ↑ cargo đường dài → ↑ cước", s:"EIA / thị trường", u:"https://www.eia.gov/todayinenergy/", w:2},
+    {g:"demand", n:"Ton-mile US Gulf → Á long-haul", m:"↑ tỷ trọng đường dài → ↑ cước", s:"JODI LPG", u:"https://www.jodidata.org/oil/database/overview.aspx", w:1},
+    {g:"supply", n:"Orderbook & bàn giao VLGC (hiện cao)", m:"↑ tàu mới → ↑ cung → ↓ cước", s:"(tracking ngành)", u:"", w:3},
+    {g:"supply", n:"Tắc / hạn chế kênh Panama", m:"↑ hạn chế → reroute Cape/Suez → ↑ ton-mile → ↑ cước", s:"Panama Canal ETA", u:"https://pancanal.com/en/maritime-services/vessel-eta-and-transit-booking/", w:2},
+    {g:"supply", n:"Tốc độ chạy & tắc cảng", m:"↑ chạy chậm / tắc → ↓ cung → ↑ cước", s:"(tracking ngành)", u:"", w:1}
+   ]}
+];
+
+// Chuỗi theo QUÝ (biên soạn từ nguồn công khai: Baltic/MacroMicro/Investing/StockQ) — bám đỉnh/đáy & chiều hiện tại
+const QLBL=["Q1·22","Q2·22","Q3·22","Q4·22","Q1·23","Q2·23","Q3·23","Q4·23","Q1·24","Q2·24","Q3·24","Q4·24","Q1·25","Q2·25","Q3·25","Q4·25","Q1·26","19/6 ●"];
+const YRS=["2021","2022","2023","2024","2025","2026*"];
+const SDY=["2024","2025","2026E"];
+const MKT={
+ crude:{ spot:{t:"Giá cước spot — BDTI",u:"điểm chỉ số · theo quý",data:[700,1100,1400,2200,1300,1100,950,1250,1150,1200,1000,1100,1000,950,1050,1200,2800,1107]},
+   tc:{t:"Thuê định hạn — VLCC 1 năm",u:"$ nghìn/ngày · theo quý",data:[25,28,32,40,50,48,45,48,48,50,45,42,40,38,35,75,95,100]},
+   sd:{yrs:["2024","2025","2026E"],supply:[1.0,0.6,1.5],demand:[6.1,1.0,1.5],note:"<b>Cầu (ton-mile dầu)</b>: +6,1% (2024) → +1,0% (2025) → BIMCO dự báo <b>+1–2% (2026)</b> nhờ định tuyến lại & xuất khẩu Atlantic→Á. <b>Cung (đội tàu)</b>: +1% (2024) → +0,6% (2025, thấp kỷ lục) → <b>+1,5% (2026E)</b>, tăng nhanh +3,5% (2027E) khi tàu mới về. ⇒ cân bằng 2026, yếu dần 2027.",src:"BIMCO/Clarksons",url:"https://gcaptain.com/bimco-sees-tanker-markets-splitting-as-geopolitics-reshape-global-oil-trade/"} },
+ product:{ spot:{t:"Giá cước spot — BCTI",u:"điểm chỉ số · theo quý",data:[600,1250,1500,1300,1750,950,680,900,1150,1000,950,830,560,660,700,670,1850,1300]},
+   tc:{t:"Thuê định hạn — MR 1 năm",u:"$ nghìn/ngày · theo quý",data:[15,22,28,27,28,26,25,27,29,30,28,26,24,25,25,27,28,27]},
+   sd:{yrs:["2024","2025","2026E"],supply:[1.0,2.4,5.5],demand:[6.1,1.0,1.5],note:"<b>Cung (đội tàu)</b> tăng tốc lên <b>+5–6% (2026 & 2027)</b> do giao tàu đỉnh 15 năm; <b>cầu</b> chỉ +1–2%. ⇒ cung vượt cầu mạnh (~12 điểm %), cước suy yếu. <i>(Cung 2024–2025 là đội tàu tanker chung — Clarksons.)</i>",src:"BIMCO/Clarksons",url:"https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/082825-bimco-forecasts-steady-freight-rates-for-crude-tankers-product-tankers-to-falter"} },
+ dry:{ spot:{t:"Giá cước spot — BDI",u:"điểm chỉ số · theo quý",data:[2000,2400,1900,1500,900,1300,1100,2100,1900,1850,1800,1500,1000,1300,1700,2400,1700,2818]},
+   tc:{t:"Thuê định hạn — Capesize 1 năm",u:"$ nghìn/ngày · theo quý",data:[27,25,20,16,15,17,16,18,24,26,24,20,18,20,22,23,22,21.6]},
+   sd:{yrs:["2024","2025","2026E"],supply:[2.4,2.0,2.5],demand:[1.0,1.5,2.5],note:"<b>Cung (đội tàu)</b>: +2,4% (2024) → +2,0% (2025) → <b>+2,5% (2026E)</b>→+3% (2027E). <b>Cầu</b>: +1% (2024) → +1,5% (2025) → <b>+2–3% (2026E)</b>, nâng nhờ quãng đường dài hơn (quặng/bauxite Nam Đại Tây Dương→Á). ⇒ cân bằng/ổn định 2026.",src:"BIMCO/S&P",url:"https://safety4sea.com/bimco-dry-bulk-supply-demand-balance-to-remain-stable-in-2026/"} },
+ lpg:{ spot:{t:"Giá cước spot — BLPG3 (USG→Chiba)",u:"$/tấn · theo quý",data:[90,110,106,150,120,150,189,180,120,90,130,120,70,60,75,90,130,290]},
+   tc:{t:"Thuê định hạn — VLGC 1 năm",u:"$ nghìn/ngày · theo quý",data:[35,38,42,45,48,50,55,50,48,45,50,50,45,46,50,52,52,55]},
+   sd:{yrs:["2024","2025","2026E"],supply:[7.5,5.5,7.0],demand:[12.3,8.7,6.0],note:"<b>Cầu (xuất khẩu LPG Mỹ/ton-mile)</b>: +12,3% (2024) → +8,7% (2025) → <b>+6% (2026E)</b>. <b>Cung (đội tàu VLGC)</b>: +7,5% (2024) → +5,5% (2025) → <b>+7% (2026E)</b>, tăng vọt +16% (2027E) do orderbook ~30% đội. ⇒ thừa nhẹ 2026, áp lực mạnh 2027.",src:"Drewry/McQuilling",url:"https://www.drewry.co.uk/maritime-research-opinion-browser/maritime-research-opinions/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026"} }
+};
+
+// Nguồn data 3 lớp (ưu tiên trang hiện số trực tiếp)
+const SRC={
+  smc:{t:"SpotMarketCap",u:"https://www.spotmarketcap.com/shipping",d:1},
+  fearn:{t:"Fearnleys Weekly",u:"https://fearnpulse.com/fearnleys-weekly-report",d:1},
+  clark:{t:"Clarksons (login)",u:"https://www.clarksons.net/n/#/portal/insights"},
+  veson:{t:"Veson/VesselsValue",u:"https://veson.com/blog/category/market-data-insights/"}
+};
+const TC_SRC=[SRC.fearn,SRC.smc,SRC.clark,SRC.veson];
+const ASSET_SRC=[SRC.fearn,SRC.smc,SRC.clark,SRC.veson];
+const LIVE={
+  crude:{ idx:"BDTI", spot:[{t:"BDTI · StockQ",u:"https://en.stockq.org/index/BDTI.php",d:1},{t:"BDTI · Investing",u:"https://www.investing.com/indices/baltic-dirty-tanker-chart",d:1},SRC.smc], tc:TC_SRC, asset:ASSET_SRC },
+  product:{ idx:"BCTI", spot:[{t:"BCTI · StockQ",u:"https://en.stockq.org/index/BCTI.php",d:1},{t:"BCTI · Investing",u:"https://www.investing.com/indices/baltic-clean-tanker-chart",d:1},SRC.smc], tc:TC_SRC, asset:ASSET_SRC },
+  dry:{ idx:"BDI", spot:[{t:"BDI · StockQ",u:"https://en.stockq.org/index/BDI.php",d:1},{t:"BDI · Investing",u:"https://www.investing.com/indices/baltic-dry-historical-data",d:1},{t:"BDI · TradingEconomics",u:"https://tradingeconomics.com/commodity/baltic",d:1}], tc:TC_SRC, asset:ASSET_SRC },
+  lpg:{ idx:"BLPG", spot:[SRC.smc,{t:"Baltic gas",u:"https://www.balticexchange.com/en/data-services/market-information0/gas-services.html"},SRC.fearn], tc:TC_SRC, asset:ASSET_SRC }
+};
+const btns=(arr)=>arr.map(l=>`<a class="srcbtn${l.d?' direct':''}" href="${l.u}" target="_blank" rel="noopener">${l.t} ↗</a>`).join('');
+
+const NEWS_DATE="2026-06-20";
+const NEWS=[
+ {d:"19/06",s:"macro",t:"Hormuz ký thỏa thuận mở lại nhưng vật lý vẫn đóng (~Day 111)",x:"Mỹ–Iran ký MOU mở eo Hormuz không thu phí ≥60 ngày; thực tế ~0 tàu qua, giải phóng backlog cần vài tuần → áp lực giảm cước tanker/LPG nếu thông suốt.",su:"CNBC",url:"https://www.cnbc.com/amp/2026/06/18/strait-hormuz-reopening-shipping-oil.html"},
+ {d:"15/06",s:"product",t:"Clean tanker phân hóa: MR USG bùng rồi hạ, LR2 mềm dần",x:"MR TC14 (USG→UK-Cont) đỉnh WS315 về WS250 (TCE ~$28k/ngày); LR2 TC1 ~WS501 hạ nhiệt.",su:"IndexBox / Baltic",url:"https://www.indexbox.io/blog/tanker-market-shows-mixed-movements-for-week-ending-june-15-2026/"},
+ {d:"10/06",s:"dry",t:"BDI xuống đáy 2026 (~2,770), Capesize kéo giảm",x:"Thép TQ yếu + nguồn than nội địa tăng khiến cầu Cape/Panamax suy; Supramax nhỉnh nhẹ.",su:"TradingEconomics",url:"https://tradingeconomics.com/commodity/baltic/news/533728"},
+ {d:"05/06",s:"crude",t:"VLCC TD3C ~WS402, TCE ~$400k/ngày — vùng kỷ lục",x:"Reroute do Hormuz + xuất khẩu Mỹ kỷ lục đẩy cước dầu thô lên rất cao; rủi ro đảo chiều khi eo mở lại.",su:"The Edge / Baltic",url:"https://theedgemalaysia.com/node/806052"},
+ {d:"Q2",s:"lpg",t:"~43% LPG US Gulf→Á đi Cape of Good Hope; BLPG3 đỉnh ~$305/t",x:"Phí slot Panama >$1tr, chờ >3 ngày → tàu chuyển sang Cape, ton-mile bùng nổ; cước VLGC vùng cao 2.5 năm.",su:"Hellenic / IndexBox",url:"https://www.hellenicshippingnews.com/cape-of-good-hope-captures-43-share-of-us-asia-lpg-voyages/"},
+ {d:"05",s:"crude",t:"OPEC+ tăng hạn ngạch tháng 6 +188 kb/d (lần đầu sau khi UAE rời)",x:"Mức tăng mang tính tượng trưng; xuất khẩu ME thực tế bị nghẽn do Hormuz.",su:"CNBC",url:"https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html"},
+ {d:"2026",s:"crude",t:"Đặt đóng tàu dầu thô Q1 kỷ lục (129 tàu, 81 VLCC); +358% YoY",x:"Orderbook tanker ~16% đội — áp lực cung dần lộ sau 2025, dù phần lớn thay tàu già.",su:"gCaptain / AXSMarine",url:"https://gcaptain.com/global-ship-order-book-hits-17-year-high-as-tanker-orders-surge/"},
+ {d:"2026",s:"lpg",t:"VLGC 1yr TC 2026 dự phóng ~$53k/ngày; orderbook ~130 tàu (~30% đội)",x:"Đội tàu tăng nhanh từ 2026 → áp lực cung trung hạn dù cầu xuất khẩu Mỹ mạnh.",su:"Marsoft / Hellenic",url:"https://www.hellenicshippingnews.com/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026/"},
+ {d:"04",s:"dry",t:"Thép TQ −4.1% YTD (April yếu nhất từ 2018); tồn cảng quặng cao kỷ lục",x:"BĐS suy yếu cấu trúc, chính sách ưu tiên hạ tầng/sản xuất → cầu Cape yếu; tồn kho là tích trữ.",su:"Discovery Alert",url:"https://discoveryalert.com.au/china-steel-production-drop-2026-market-dynamics/"},
+ {d:"05",s:"macro",t:"IEA hạ dự báo cầu dầu 2026 còn +640 kb/d; xuất khẩu Mỹ kỷ lục 5.2 mb/d",x:"Cầu yếu hơn nhưng dòng chảy Atlantic→Á dài hơn hỗ trợ ton-mile tanker.",su:"IEA OMR",url:"https://www.iea.org/reports/oil-market-report-may-2026"},
+ {d:"2026",s:"dry",t:"BIMCO/Veson: cân bằng cung–cầu dry bulk ổn định 2026; ton-mile +1.5–2.5%",x:"Đội tàu +3%, cầu hàng yếu nhưng quãng đường (Brazil/Guinea→Á) dài hơn nâng đỡ.",su:"Safety4Sea / Breakwave",url:"https://safety4sea.com/bimco-dry-bulk-supply-demand-balance-to-remain-stable-in-2026/"}
+];
+
+// Nhận định tác động ngắn cho mỗi nhóm Cầu/Cung (cập nhật theo diễn biến mới nhất)
+const ASSESS={
+ crude:{demand:"Cầu yếu đi vì (1) IEA hạ dự báo tăng trưởng cầu dầu 2026 do kinh tế chậm & xung đột Trung Đông; (2) ton-mile từng vọt nhờ phải đi vòng tránh Hormuz, nay eo <b>mở lại (18/6)</b> nên quãng đường ngắn lại ⇒ BDTI rơi 3.723→~1.107.",
+   supply:"Cung ngắn hạn còn thắt vì dark fleet bị siết và backlog tàu quanh Hormuz; nhưng <b>orderbook Q1/26 kỷ lục</b> (đặt đóng nhiều) sẽ làm tàu mới về dồn dập từ 2027 ⇒ dư cung dần. TC 1 năm vẫn ~$100k vì chủ hàng khoá giá phòng bất ổn."},
+ product:{demand:"Cầu được đỡ vì <b>biên lọc dầu cao</b> (nhà máy chạy mạnh → nhiều sản phẩm để chở) và sản phẩm phải đi đường vòng; nhưng Hormuz/Biển Đỏ dịu lại nên quãng đường ngắn dần ⇒ BCTI hạ từ ~1.850 về ~1.300.",
+   supply:"Cung tăng nhanh vì <b>tàu sản phẩm đóng mới về ở mức đỉnh 15 năm</b> (orderbook lớn dồn giao 2026) ⇒ cung +5–6% vượt xa cầu ~1–2%, ép cước giảm 2026–27."},
+ dry:{demand:"Cầu khối lượng yếu vì <b>thép Trung Quốc giảm</b> (−4,1% YTD) và BĐS TQ suy yếu kéo cầu quặng/than xuống; chỉ được nâng nhẹ nhờ quãng đường dài hơn (mua quặng Brazil & bauxite Guinea xa hơn Úc).",
+   supply:"Cung tăng đều ~2,5%/năm vì giao tàu mới nhích lên (nhất là Panamax/Supramax) ⇒ cân đối cung–cầu mong manh, dễ lệch sang dư cung 2027."},
+ lpg:{demand:"Cầu mạnh vì <b>xuất khẩu LPG Mỹ tăng</b> (sản lượng shale dồi dào) + chênh giá Mỹ–Á mở rộng khuyến khích chở xa + <b>kênh Panama tắc</b> buộc đi vòng Cape ⇒ ton-mile dài hơn, đẩy BLPG3 ~$290.",
+   supply:"Cung là rủi ro chính vì <b>orderbook VLGC ~30% đội tàu</b>, tàu mới về dồn (+7% 2026, +16% 2027) ⇒ trung hạn dư cung lớn, kìm cước."}
+};
+const OPTS=[{v:"2",t:"▲▲ Rất hỗ trợ cước"},{v:"1",t:"▲ Hỗ trợ"},{v:"0",t:"● Trung tính"},{v:"-1",t:"▼ Tiêu cực"},{v:"-2",t:"▼▼ Rất tiêu cực"}];
+const KEY="freightDash_v1";
+const SEED={ v:"2026-06-20-r2",
+  r:{
+    crude_0:"-1",crude_1:"0",crude_2:"2",crude_3:"1",crude_4:"-1",crude_5:"0",crude_6:"-1",crude_7:"0",crude_8:"1",crude_9:"0",
+    product_0:"1",product_1:"1",product_2:"1",product_3:"0",product_4:"1",product_5:"1",product_6:"-1",product_7:"1",product_8:"0",
+    dry_0:"-2",dry_1:"-1",dry_2:"-1",dry_3:"0",dry_4:"1",dry_5:"0",dry_6:"1",dry_7:"0",dry_8:"1",dry_9:"0",
+    lpg_0:"2",lpg_1:"1",lpg_2:"0",lpg_3:"1",lpg_4:"2",lpg_5:"-2",lpg_6:"2",lpg_7:"1"
+  },
+  notes:{
+    crude_0:"IEA hạ cầu 2026 còn +640 kb/d (−210) do xung đột ME",
+    crude_1:"OPEC+ chỉ +188 kb/d (tượng trưng); xuất ME nghẽn vì Hormuz",
+    crude_2:"Xuất khẩu Mỹ kỷ lục 5.2 mb/d (4/26); Atlantic→Á long-haul",
+    crude_3:"TQ chuyển nguồn sang Atlantic → quãng đường dài hơn",
+    crude_4:"Hormuz đang MỞ LẠI (thỏa thuận 18/6) → reroute đảo chiều; BDTI rơi 3.723 (3/26) → ~1.107 (19/6). Lưu ý: VLCC 1yr TC vẫn ~$100k do thuê dài hạn",
+    crude_5:"Gián đoạn nguồn → một phần floating storage",
+    crude_6:"Orderbook Q1/26 kỷ lục (129 tàu, 81 VLCC) nhưng chủ yếu thay tàu già",
+    crude_7:"Phá dỡ thấp; có thể tăng khi tàu mới về",
+    crude_8:"Shadow fleet bị siết → kéo tonnage tuân thủ, cung mainstream thắt",
+    crude_9:"Backlog tàu quanh Hormuz / định tuyến lại",
+    product_0:"Biên lọc khỏe; dislocation sản phẩm do xung đột ME",
+    product_1:"Reroute Cape; diesel/jet đường dài kéo dài quãng đường",
+    product_2:"Arb biến động; MR USG TC14 bùng WS315 rồi về WS250",
+    product_3:"Hormuz/Biển Đỏ dịu lại → ton-mile clean giảm dần; BCTI hạ từ ~1.850 (Q1) về ~1.300 (19/6)",
+    product_4:"Tiêu thụ sản phẩm ổn định",
+    product_5:"Đóng lọc phương Tây / mở phía Đông tiếp diễn",
+    product_6:"Bàn giao tàu clean cao gây áp lực cung",
+    product_7:"Dirty rất cao hút LR2 sang chở dầu thô → cung clean thắt",
+    product_8:"Tắc cảng / định tuyến lại hỗ trợ · LR2 TC1 ~WS501 (mềm dần)",
+    dry_0:"Thép TQ −4.1% YTD (April yếu nhất từ 2018); tồn cảng quặng cao kỷ lục = tích trữ · BDI ~2,770 (2026 low)",
+    dry_1:"BĐS suy yếu cấu trúc; chính sách ưu tiên hạ tầng/sản xuất",
+    dry_2:"Cầu than yếu, nguồn nội địa TQ tăng (mùa vụ)",
+    dry_3:"Chưa tín hiệu mạnh; theo dõi WASDE/IGC",
+    dry_4:"Bauxite Guinea→TQ vẫn là điểm sáng long-haul",
+    dry_5:"Chưa rõ chuyển dịch nguồn Brazil/Úc",
+    dry_6:"Orderbook dry bulk thấp lịch sử — hỗ trợ cấu trúc",
+    dry_7:"Tắc cảng bình thường",
+    dry_8:"Panama tắc + tránh Suez hỗ trợ một phần",
+    dry_9:"Phá dỡ thấp",
+    lpg_0:"Xuất khẩu LPG Mỹ +5% tổng (Nhật/Hàn/Ấn bù TQ)",
+    lpg_1:"Sản lượng/tồn kho propane Mỹ cao",
+    lpg_2:"Cầu TQ chững (thuế; PDH đã đỉnh, chỉ 2 unit mới 2026); Ấn/Nhật/Hàn bù",
+    lpg_3:"Arb Mỹ→Á mở, cargo chảy mạnh",
+    lpg_4:"~43% USG→Á đi Cape of Good Hope → ton-mile bùng nổ",
+    lpg_5:"Orderbook 130 tàu (~30% đội), ~38 giao 2026 → áp lực cung lớn dần",
+    lpg_6:"Panama: phí slot >$1tr, chờ >3 ngày → ép tàu sang Cape",
+    lpg_7:"Hải trình kéo dài → cung VLGC thắt · BLPG3 ~$305/t (5/26)"
+  },
+  rev:{ crude:"2026-06-20", product:"2026-06-20", dry:"2026-06-20", lpg:"2026-06-20" }
+};
+let STATE=load();
+if(STATE.seedV!==SEED.v){
+  STATE.r=Object.assign({},STATE.r,SEED.r);
+  STATE.notes=Object.assign({},STATE.notes,SEED.notes);
+  STATE.rev=Object.assign({},STATE.rev,SEED.rev);
+  STATE.seedV=SEED.v;
+  try{localStorage.setItem(KEY,JSON.stringify(STATE));}catch(e){}
+}
+function load(){try{return JSON.parse(localStorage.getItem(KEY))||{r:{},notes:{},rev:{}}}catch(e){return{r:{},notes:{},rev:{}}}}
+function save(){STATE.saved=new Date().toISOString();try{localStorage.setItem(KEY,JSON.stringify(STATE));}catch(e){}
+  const d=new Date(STATE.saved);const el=document.getElementById("savedAt");if(el)el.innerHTML="· <b>Đã lưu</b> "+d.toLocaleString('vi-VN');}
+function did(seg,i){return seg+"_"+i}
+
+const TABKEY="freightDash_tab";
+let ACTIVE=localStorage.getItem(TABKEY)||CFG[0].id;
+if(ACTIVE!=="news" && !CFG.find(s=>s.id===ACTIVE))ACTIVE=CFG[0].id;
+function setTab(id){ACTIVE=id;try{localStorage.setItem(TABKEY,id);}catch(e){}render();}
+
+function band(score,n){
+  if(n===0) return {lbl:"Chưa có dữ liệu",col:"#9ca3af"};
+  if(score>=40) return {lbl:"Cước ↑↑ Mạnh",col:"#16a34a"};
+  if(score>=15) return {lbl:"Cước ↑",col:"#22a04a"};
+  if(score>-15) return {lbl:"Đi ngang",col:"#6b7280"};
+  if(score>-40) return {lbl:"Cước ↓",col:"#e0573e"};
+  return {lbl:"Cước ↓↓ Mạnh",col:"#dc2626"};
+}
+function compute(seg){
+  let num=0,den=0,set=0;const contrib=[];
+  seg.drivers.forEach((d,i)=>{
+    const raw=STATE.r[did(seg.id,i)];
+    if(raw!==undefined&&raw!==""){const s=parseInt(raw);num+=s*d.w;den+=d.w*2;set++;contrib.push({n:d.n,c:s*d.w,g:d.g});}
+    else contrib.push({n:d.n,c:0,g:d.g});
+  });
+  const score=den?Math.round(num/den*100):0;
+  const conf=Math.round(set/seg.drivers.length*100);
+  return{score,conf,set,contrib};
+}
+function shortName(seg){return seg.name.split('—')[0].trim();}
+
+const CH={};
+function mkChart(id,cfg){const el=document.getElementById(id);if(!el)return;if(CH[id]){try{CH[id].destroy()}catch(e){}}CH[id]=new Chart(el,cfg);}
+
+function render(){
+  Object.keys(CH).forEach(k=>{try{CH[k].destroy()}catch(e){}delete CH[k];});
+  const sum=document.getElementById("summary");sum.innerHTML="";
+  const tabs=document.getElementById("tabs");tabs.innerHTML="";
+  const panel=document.getElementById("panel");panel.innerHTML="";
+
+  CFG.forEach(seg=>{
+    const {score,conf,set}=compute(seg);const b=band(score,set);
+    const pct=((score+100)/200*100).toFixed(1);
+    const c=document.createElement("div");c.className="sumcard"+(seg.id===ACTIVE?" active":"");
+    c.onclick=()=>setTab(seg.id);
+    c.innerHTML=`<div class="seg">${shortName(seg)}</div>
+      <div class="sig" style="color:${b.col}">${b.lbl}</div>
+      <div class="gauge"><div class="pin ${set?'':'unset'}" style="left:${set?pct:50}%"></div></div>
+      <div class="conf">Score ${set?(score>0?'+':'')+score:'—'} · Conf ${conf}% (${set}/${seg.drivers.length})</div>`;
+    sum.appendChild(c);
+    const btn=document.createElement("button");btn.className="tab"+(seg.id===ACTIVE?" active":"");
+    btn.onclick=()=>setTab(seg.id);
+    btn.innerHTML=`<span class="dot" style="background:${b.col}"></span><span>${shortName(seg)}</span><span class="mini" style="color:${b.col}">${set?(score>0?'+':'')+score:'—'}</span>`;
+    tabs.appendChild(btn);
+  });
+  const nb=document.createElement("button");nb.className="tab news"+(ACTIVE==="news"?" active":"");
+  nb.onclick=()=>setTab("news");nb.innerHTML=`📰 <span>Tin tức</span>`;tabs.appendChild(nb);
+
+  if(ACTIVE==="news"){renderNews(panel);return;}
+  renderSegment(panel,CFG.find(s=>s.id===ACTIVE));
+}
+
+function renderSegment(panel,seg){
+  const L=LIVE[seg.id];const M=MKT[seg.id];
+  const {score,conf,set}=compute(seg);const b=band(score,set);
+  const rev=STATE.rev[seg.id]||"";
+  let rows="";let lastg="";const A=ASSESS[seg.id]||{};
+  seg.drivers.forEach((d,i)=>{
+    if(d.g!==lastg){
+      if(lastg==="demand"&&A.demand)rows+=`<tr class="assessrow demand"><td colspan="2">💡 <b>Tác động cầu:</b> ${A.demand}</td></tr>`;
+      lastg=d.g;rows+=`<tr class="grouprow ${d.g}"><td colspan="2">${d.g==='demand'?'▼ Phía CẦU (Demand)':'▲ Phía CUNG (Supply)'}</td></tr>`;}
+    const id=did(seg.id,i);const val=STATE.r[id]??"";
+    const scls=val===""?"":(val==="2"?"s2":val==="1"?"s1":val==="0"?"s0":val==="-1"?"sm1":"sm2");
+    const note=STATE.notes[id]||"";
+    const srcHtml=d.u?`<a href="${d.u}" target="_blank" rel="noopener">${d.s} ↗</a>`:`<span style="color:#aab0ba;font-size:11.5px">${d.s}</span>`;
+    rows+=`<tr>
+      <td><div class="dname">${d.n} <span class="wt">w${d.w}</span></div><div class="mech">${d.m}</div><div class="src">${srcHtml}</div></td>
+      <td style="width:160px">
+        <select class="read ${scls}" data-id="${id}">
+          <option value="">— Chưa đánh giá</option>
+          ${OPTS.map(o=>`<option value="${o.v}" ${val===o.v?'selected':''}>${o.t}</option>`).join('')}
+        </select>
+        <input class="val" data-note="${id}" placeholder="giá trị / ghi chú…" value="${note.replace(/"/g,'&quot;')}">
+      </td>
+    </tr>`;
+  });
+  if(A.supply)rows+=`<tr class="assessrow supply"><td colspan="2">💡 <b>Tác động cung:</b> ${A.supply}</td></tr>`;
+  const sec=document.createElement("section");sec.className="seg";
+  sec.innerHTML=`
+    <div class="seghead">
+      <div><h2>${seg.name}</h2><div class="bench">${seg.bench}</div></div>
+      <div class="bigsig">
+        <div class="lbl" style="color:${b.col}">${b.lbl}</div>
+        <div class="score">Score ${set?(score>0?'+':'')+score:'—'} / ±100 · Conf ${conf}%</div>
+        <div class="reviewed">Cập nhật: <input type="date" data-rev="${seg.id}" value="${rev}"></div>
+      </div>
+    </div>
+    <div class="mktcaveat">⚠️ <b>Giá cước</b> = lịch sử theo quý ghép từ giá đã công bố (Baltic/MacroMicro/Investing/StockQ); <b>điểm cuối (đỏ) = giá ngày mới nhất 19/6/2026</b> (BDTI ~1.107 · BCTI ~1.300 · BDI ~2.818 · BLPG3 ~$290). Không tự cập nhật — bấm nút nguồn để xem realtime. <b>Thuê định hạn</b> = mức TC 1 năm theo quý (ước tính từ fixtures công bố), điểm cuối = mức gần nhất (VLCC ~$100k, Capesize ~$21,6k). <b>Cân đối cung–cầu</b> = dự báo trích dẫn BIMCO/Drewry (không tự forecast). Số chính xác/realtime: dùng nút nguồn bên dưới.</div>
+    <div class="mktgrid">
+      <div class="mktcard"><div class="mkttitle">${M.spot.t}</div><div class="mktsub">${M.spot.u} · điểm cuối = ngày 19/6/2026</div><div class="mktbox"><canvas id="ch_spot"></canvas></div></div>
+      <div class="mktcard"><div class="mkttitle">${M.tc.t}</div><div class="mktsub">${M.tc.u} · điểm cuối = 19/6/2026</div><div class="mktbox"><canvas id="ch_tc"></canvas></div></div>
+      <div class="mktcard"><div class="mkttitle">Cung vs Cầu (% tăng/năm)</div><div class="mktsub">2024–25 thực tế · 2026E dự báo (cột nhạt)</div><div class="mktbox"><canvas id="ch_sd"></canvas></div></div>
+    </div>
+    <div class="sdcaption">📌 ${M.sd.note} <a href="${M.sd.url}" target="_blank" rel="noopener">Nguồn: ${M.sd.src} ↗</a></div>
+    <div class="dlayer">
+      <div class="dlrow"><span class="dltag spot">① Chỉ số cước spot (${L.idx})</span><span class="dlbtns">${btns(L.spot)}</span></div>
+      <div class="dlrow"><span class="dltag tc">② Cước thuê định hạn (TC 1–3 năm)</span><span class="dlbtns">${btns(L.tc)}</span></div>
+      <div class="dlrow"><span class="dltag asset">③ Giá mua-bán & đóng mới tàu (S&P·newbuild·scrap)</span><span class="dlbtns">${btns(L.asset)}</span></div>
+      <div class="lcnote">Nút <span style="color:#0f7a33;font-weight:700">xanh</span> = trang hiện số trực tiếp (StockQ/Investing/SpotMarketCap/Fearnleys). Clarksons/Veson đầy đủ hơn nhưng cần đăng nhập. <b>SpotMarketCap</b> & <b>Fearnleys Weekly</b> phủ cả 3 lớp.</div>
+    </div>
+    <div class="grid2">
+      <div><table><thead><tr><th>Driver · cơ chế · nguồn</th><th>Đọc hiện tại (tác động lên cước)</th></tr></thead><tbody>${rows}</tbody></table></div>
+      <div>
+        <div class="chartbox"><canvas id="ch_active"></canvas></div>
+        <div class="legend"><b style="color:var(--demand)">Xanh</b> = driver phía cầu · <b style="color:var(--supply)">Cam</b> = phía cung. Thanh phải (+) đẩy cước <b>lên</b>, trái (−) đẩy <b>xuống</b>; độ dài = mức × trọng số.</div>
+      </div>
+    </div>`;
+  panel.appendChild(sec);
+
+  document.querySelectorAll("select.read").forEach(s=>s.onchange=e=>{STATE.r[e.target.dataset.id]=e.target.value;save();render();});
+  document.querySelectorAll("input.val").forEach(s=>s.oninput=e=>{STATE.notes[e.target.dataset.note]=e.target.value;save();});
+  document.querySelectorAll("input[data-rev]").forEach(s=>s.onchange=e=>{STATE.rev[e.target.dataset.rev]=e.target.value;save();});
+
+  drawMarket(seg);
+  drawContribution(seg);
+}
+
+function lineCfg(label,data,color,labels){
+  const n=data.length;
+  return {type:"line",data:{labels,datasets:[{label,data,borderColor:color,backgroundColor:color+"22",fill:true,tension:.2,pointRadius:data.map((_,i)=>i===n-1?4:(n>8?1.5:3)),pointBackgroundColor:data.map((_,i)=>i===n-1?"#dc2626":color),borderWidth:2}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:c=>c[0].label,label:c=>label+': '+c.parsed.y}}},
+      scales:{y:{beginAtZero:true,grid:{color:'#eef0f3'},ticks:{font:{size:10}}},x:{grid:{display:false},ticks:{font:{size:9},maxRotation:0,autoSkip:true,maxTicksLimit:7}}}}};
+}
+function drawMarket(seg){
+  const M=MKT[seg.id];
+  mkChart("ch_spot",lineCfg(M.spot.t,M.spot.data,"#0f4c81",QLBL));
+  mkChart("ch_tc",lineCfg(M.tc.t,M.tc.data,"#7c3aed",QLBL));
+  const fc=M.sd.yrs.length-1;
+  mkChart("ch_sd",{type:"bar",data:{labels:M.sd.yrs,datasets:[
+      {label:"Cung (đội tàu)",data:M.sd.supply,backgroundColor:M.sd.yrs.map((_,i)=>i>=fc?"#ecca9a":"#d18a2e"),borderRadius:3},
+      {label:"Cầu (ton-mile)",data:M.sd.demand,backgroundColor:M.sd.yrs.map((_,i)=>i>=fc?"#aecbf5":"#3b6fe0"),borderRadius:3}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:"bottom",labels:{font:{size:10},boxWidth:10}},tooltip:{callbacks:{label:c=>c.dataset.label+': +'+c.parsed.y+'%'}}},
+      scales:{y:{beginAtZero:true,grid:{color:'#eef0f3'},ticks:{font:{size:10},callback:v=>v+'%'}},x:{grid:{display:false},ticks:{font:{size:10}}}}}});
+}
+function drawContribution(seg){
+  const {contrib}=compute(seg);
+  mkChart("ch_active",{type:"bar",
+    data:{labels:contrib.map(c=>c.n.length>30?c.n.slice(0,29)+'…':c.n),
+      datasets:[{data:contrib.map(c=>c.c),
+        backgroundColor:contrib.map(c=>c.c===0?'#d1d5db':(c.g==='demand'?(c.c>0?'#3b6fe0':'#9db8f0'):(c.c>0?'#d18a2e':'#e8c79a'))),
+        borderRadius:3,barThickness:11}]},
+    options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>'Đóng góp: '+(c.parsed.x>0?'+':'')+c.parsed.x}}},
+      scales:{x:{min:-6,max:6,grid:{color:'#eef0f3'},ticks:{font:{size:10}}},
+              y:{grid:{display:false},ticks:{font:{size:10},autoSkip:false}}}}});
+}
+
+function renderNews(panel){
+  const segName={crude:"Dầu thô",product:"Sản phẩm",dry:"Hàng rời",lpg:"LPG",macro:"Vĩ mô"};
+  let items="";
+  NEWS.forEach(n=>{
+    items+=`<div class="newsitem">
+      <div class="newsdate">${n.d}</div>
+      <div class="newsbody">
+        <div><span class="newsseg sg-${n.s}">${segName[n.s]}</span></div>
+        <div class="newstitle">${n.t}</div>
+        <div class="newsdesc">${n.x}</div>
+        <div class="newssrc"><a href="${n.url}" target="_blank" rel="noopener">${n.su} ↗</a></div>
+      </div></div>`;
+  });
+  const sec=document.createElement("section");sec.className="seg";
+  sec.innerHTML=`
+    <div class="newshead"><h2>📰 Tin tức thị trường vận tải</h2><div class="note">Ảnh chụp ${new Date(NEWS_DATE).toLocaleDateString('vi-VN')} · không tự cập nhật</div></div>
+    <div class="mktcaveat">Danh sách tin quan trọng tổng hợp tại thời điểm cập nhật. Để có bản tin <b>mỗi ngày tự động</b>, có thể đặt scheduled task quét nguồn và làm mới mục này.</div>
+    ${items}
+    <div class="lcnote" style="margin-top:14px">Nguồn theo dõi hằng ngày: <a href="https://www.balticexchange.com/en/data-services/WeeklyRoundup.html" target="_blank" rel="noopener">Baltic Weekly</a> · <a href="https://fearnpulse.com/fearnleys-weekly-report" target="_blank" rel="noopener">Fearnleys Weekly</a> · <a href="https://www.spotmarketcap.com/shipping" target="_blank" rel="noopener">SpotMarketCap</a> · <a href="https://www.hellenicshippingnews.com/" target="_blank" rel="noopener">Hellenic Shipping News</a> · <a href="https://splash247.com/" target="_blank" rel="noopener">Splash247</a></div>`;
+  panel.appendChild(sec);
+}
+
+document.getElementById("resetAll").onclick=()=>{if(confirm("Xóa toàn bộ đánh giá & ghi chú đã nhập?")){STATE={r:{},notes:{},rev:{},seedV:SEED.v};save();render();}};
+
+render();
+if(STATE.saved){const d=new Date(STATE.saved);document.getElementById("savedAt").innerHTML="· <b>Đã lưu</b> "+d.toLocaleString('vi-VN');}
+</script>
+<script>
+// ===== Live drivers panel: đọc data.json (bot EIA cập nhật) + nhúng chart BDI =====
+(function(){
+  fetch('data.json?_='+Date.now()).then(r=>r.json()).then(j=>{
+    const up=document.getElementById('lpupdated');
+    if(j.updated)up.textContent='· cập nhật '+new Date(j.updated).toLocaleString('vi-VN');
+    const g=document.getElementById('lpgrid');g.innerHTML='';
+    (j.series||[]).forEach(s=>{
+      const c=document.createElement('div');c.className='lpcard';
+      if(s.error){c.innerHTML=`<div class="lpname">${s.name}</div><div class="lpchg flat">— lỗi tải</div>`;g.appendChild(c);return;}
+      const dir=s.chgPct>0.05?'up':(s.chgPct<-0.05?'down':'flat');
+      const arrow=dir==='up'?'▲':(dir==='down'?'▼':'■');
+      const val=s.value>=1000?Number(s.value).toLocaleString('en-US'):s.value;
+      c.innerHTML=`<div class="lpname">${s.name}</div><div class="lpval">${val} <span style="font-size:11px;color:#9aa1ab;font-weight:600">${s.unit||''}</span></div>
+        <div class="lpchg ${dir}">${arrow} ${s.chgPct>0?'+':''}${s.chgPct}% (${s.chg>0?'+':''}${s.chg})</div>
+        <div class="lpdate">${s.date||''}</div>`;
+      g.appendChild(c);
+    });
+  }).catch(e=>{
+    document.getElementById('lpgrid').innerHTML='<div class="lpname">Chưa có data.json (chạy bot lần đầu hoặc mở bằng file:// — cần host).</div>';
+  });
+  // BDI live embed (TradingView, chỉ số thật)
+  try{
+    const host=document.getElementById('bdiembed');
+    host.innerHTML='<div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div></div>';
+    const sc=document.createElement('script');
+    sc.src='https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js';sc.async=true;
+    sc.text=JSON.stringify({symbol:'INDEX:BDI',autosize:true,interval:'D',range:'12M',theme:'light',style:'3',locale:'vi',hide_top_toolbar:false,hide_side_toolbar:true,allow_symbol_change:false});
+    host.querySelector('.tradingview-widget-container').appendChild(sc);
+  }catch(e){}
+})();
+</script>
+</body>
+</html>

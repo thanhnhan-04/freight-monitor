@@ -1,0 +1,14 @@
+{
+  "updated": "2026-06-20T00:00:00Z",
+  "note": "SEED ban đầu — sẽ được bot GitHub Action ghi đè bằng số EIA mới nhất sau lần chạy đầu.",
+  "series": [
+    {"key":"wti","name":"Dầu thô WTI (giao ngay)","unit":"$/bbl","value":68.5,"date":"2026-06-19","chg":-1.2,"chgPct":-1.7},
+    {"key":"brent","name":"Dầu Brent (giao ngay)","unit":"$/bbl","value":72.0,"date":"2026-06-19","chg":-1.1,"chgPct":-1.5},
+    {"key":"gasoline","name":"Xăng RBOB (giao ngay)","unit":"$/gal","value":2.15,"date":"2026-06-19","chg":0.02,"chgPct":0.9},
+    {"key":"distillate","name":"Diesel/Distillate (giao ngay)","unit":"$/gal","value":2.35,"date":"2026-06-19","chg":0.01,"chgPct":0.4},
+    {"key":"crude_stocks","name":"Tồn kho dầu thô Mỹ","unit":"nghìn bbl","value":441000,"date":"2026-06-13","chg":-2500,"chgPct":-0.6},
+    {"key":"gasoline_stocks","name":"Tồn kho xăng Mỹ","unit":"nghìn bbl","value":230000,"date":"2026-06-13","chg":-1200,"chgPct":-0.5},
+    {"key":"propane_stocks","name":"Tồn kho propane Mỹ","unit":"nghìn bbl","value":72000,"date":"2026-06-13","chg":3000,"chgPct":4.3},
+    {"key":"crude_exports","name":"Xuất khẩu dầu thô Mỹ","unit":"nghìn bbl/ngày","value":4800,"date":"2026-06-13","chg":300,"chgPct":6.7}
+  ]
+}
