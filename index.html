@@ -247,8 +247,8 @@ const LIVE={
 };
 const btns=(arr)=>arr.map(l=>`<a class="srcbtn${l.d?' direct':''}" href="${l.u}" target="_blank" rel="noopener">${l.t} ↗</a>`).join('');
 
-const NEWS_DATE="2026-06-20";
-const NEWS=[
+let NEWS_DATE="2026-06-20";
+let NEWS=[
  {d:"19/06",s:"macro",t:"Hormuz ký thỏa thuận mở lại nhưng vật lý vẫn đóng (~Day 111)",x:"Mỹ–Iran ký MOU mở eo Hormuz không thu phí ≥60 ngày; thực tế ~0 tàu qua, giải phóng backlog cần vài tuần → áp lực giảm cước tanker/LPG nếu thông suốt.",su:"CNBC",url:"https://www.cnbc.com/amp/2026/06/18/strait-hormuz-reopening-shipping-oil.html"},
  {d:"15/06",s:"product",t:"Clean tanker phân hóa: MR USG bùng rồi hạ, LR2 mềm dần",x:"MR TC14 (USG→UK-Cont) đỉnh WS315 về WS250 (TCE ~$28k/ngày); LR2 TC1 ~WS501 hạ nhiệt.",su:"IndexBox / Baltic",url:"https://www.indexbox.io/blog/tanker-market-shows-mixed-movements-for-week-ending-june-15-2026/"},
  {d:"10/06",s:"dry",t:"BDI xuống đáy 2026 (~2,770), Capesize kéo giảm",x:"Thép TQ yếu + nguồn than nội địa tăng khiến cầu Cape/Panamax suy; Supramax nhỉnh nhẹ.",su:"TradingEconomics",url:"https://tradingeconomics.com/commodity/baltic/news/533728"},
@@ -263,7 +263,7 @@ const NEWS=[
 ];
 
 // Nhận định tác động ngắn cho mỗi nhóm Cầu/Cung (cập nhật theo diễn biến mới nhất)
-const ASSESS={
+let ASSESS={
  crude:{demand:"Cầu yếu đi vì (1) IEA hạ dự báo tăng trưởng cầu dầu 2026 do kinh tế chậm & xung đột Trung Đông; (2) ton-mile từng vọt nhờ phải đi vòng tránh Hormuz, nay eo <b>mở lại (18/6)</b> nên quãng đường ngắn lại ⇒ BDTI rơi 3.723→~1.107.",
    supply:"Cung ngắn hạn còn thắt vì dark fleet bị siết và backlog tàu quanh Hormuz; nhưng <b>orderbook Q1/26 kỷ lục</b> (đặt đóng nhiều) sẽ làm tàu mới về dồn dập từ 2027 ⇒ dư cung dần. TC 1 năm vẫn ~$100k vì chủ hàng khoá giá phòng bất ổn."},
  product:{demand:"Cầu được đỡ vì <b>biên lọc dầu cao</b> (nhà máy chạy mạnh → nhiều sản phẩm để chở) và sản phẩm phải đi đường vòng; nhưng Hormuz/Biển Đỏ dịu lại nên quãng đường ngắn dần ⇒ BCTI hạ từ ~1.850 về ~1.300.",
@@ -513,6 +513,16 @@ function renderNews(panel){
 document.getElementById("resetAll").onclick=()=>{if(confirm("Xóa toàn bộ đánh giá & ghi chú đã nhập?")){STATE={r:{},notes:{},rev:{},seedV:SEED.v};save();render();}};
 
 render();
+// Nạp Tin tức + nhận định driver từ JSON (bot Claude cập nhật mỗi sáng); fallback nội dung sẵn có
+Promise.all([
+  fetch('news.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch('assess.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null)
+]).then(([nw,as])=>{
+  let ch=false;
+  if(nw&&Array.isArray(nw.items)&&nw.items.length){NEWS=nw.items;if(nw.date)NEWS_DATE=nw.date;ch=true;}
+  if(as&&as.segments){ASSESS=Object.assign({},ASSESS,as.segments);ch=true;}
+  if(ch)render();
+}).catch(()=>{});
 if(STATE.saved){const d=new Date(STATE.saved);document.getElementById("savedAt").innerHTML="· <b>Đã lưu</b> "+d.toLocaleString('vi-VN');}
 </script>
 <script>
