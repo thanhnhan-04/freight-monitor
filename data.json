@@ -1,68 +1,68 @@
 {
-  "updated": "2026-07-01T02:56:56Z",
+  "updated": "2026-07-02T02:47:31Z",
   "series": [
     {
       "key": "rwtc",
       "name": "Dầu thô WTI (giao ngay)",
       "unit": "$/bbl",
-      "value": 78.94,
-      "date": "2026-06-22",
-      "chg": -1.41,
-      "chgPct": -1.75
+      "value": 71.87,
+      "date": "2026-06-29",
+      "chg": 1.57,
+      "chgPct": 2.23
     },
     {
       "key": "rbrte",
       "name": "Dầu Brent (giao ngay)",
       "unit": "$/bbl",
-      "value": 76.49,
-      "date": "2026-06-22",
-      "chg": -3.97,
-      "chgPct": -4.93
+      "value": 71.59,
+      "date": "2026-06-29",
+      "chg": 1.43,
+      "chgPct": 2.04
     },
     {
       "key": "wcestus1",
       "name": "Tồn kho dầu thô Mỹ",
       "unit": "nghìn bbl",
-      "value": 412134.0,
-      "date": "2026-06-19",
-      "chg": -6088.0,
-      "chgPct": -1.46
+      "value": 408359.0,
+      "date": "2026-06-26",
+      "chg": -3775.0,
+      "chgPct": -0.92
     },
     {
       "key": "wgtstus1",
       "name": "Tồn kho xăng Mỹ",
       "unit": "nghìn bbl",
-      "value": 216299.0,
-      "date": "2026-06-19",
-      "chg": 2064.0,
-      "chgPct": 0.96
+      "value": 213966.0,
+      "date": "2026-06-26",
+      "chg": -2333.0,
+      "chgPct": -1.08
     },
     {
       "key": "wdistus1",
       "name": "Tồn kho diesel/distillate Mỹ",
       "unit": "nghìn bbl",
-      "value": 106116.0,
-      "date": "2026-06-19",
-      "chg": 3064.0,
-      "chgPct": 2.97
+      "value": 108599.0,
+      "date": "2026-06-26",
+      "chg": 2483.0,
+      "chgPct": 2.34
     },
     {
       "key": "wprstus1",
       "name": "Tồn kho propane Mỹ",
       "unit": "nghìn bbl",
-      "value": 90047.0,
-      "date": "2026-06-19",
-      "chg": 2618.0,
-      "chgPct": 2.99
+      "value": 91306.0,
+      "date": "2026-06-26",
+      "chg": 1259.0,
+      "chgPct": 1.4
     },
     {
       "key": "wcrexus2",
       "name": "Xuất khẩu dầu thô Mỹ",
       "unit": "nghìn bbl/ngày",
-      "value": 4669.0,
-      "date": "2026-06-19",
-      "chg": 342.0,
-      "chgPct": 7.9
+      "value": 4008.0,
+      "date": "2026-06-26",
+      "chg": -661.0,
+      "chgPct": -14.16
     }
   ]
 }
