@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-07-09",
   "segments": {
     "crude": {
-      "demand": "Cầu suy yếu vì (1) IEA/EIA hạ nhiệt kỳ vọng cầu dầu 2026 & Brent tháng 5 giảm về ~$107/b; (2) ton-mile co lại do <b>Hormuz dần mở lại</b> (dòng dầu hồi từ 9.6 lên ~12 mb/d) khiến quãng đường ngắn hơn ⇒ VLCC spot rơi −38% từ đỉnh tháng 3 về ~$197k/ngày.",
-      "supply": "Cung ngắn hạn còn thắt do backlog quanh Hormuz đang giải phóng, nhưng <b>orderbook Q1/26 kỷ lục</b> (~16% đội) sẽ ép dư cung từ 2027. TC 1 năm vẫn ~$100k vì chủ hàng khoá giá phòng bất ổn."
+      "demand": "Cầu bật lại mạnh vì <b>rủi ro Hormuz tái căng</b>: dù volume VLCC giảm 36%, tàu né eo đi vòng khiến ton-mile kéo dài; đợt spike thứ 2 đẩy VLCC qua Hormuz lên đỉnh mới ~$470k/ngày ⇒ cước dầu thô vọt từ vùng vừa hạ nhiệt.",
+      "supply": "Cung ngắn hạn thắt do tàu dồn né Hormuz, nhưng <b>orderbook Q1/26 kỷ lục</b> (~16% đội, 81 VLCC) sẽ ép dư cung từ 2027; chủ hàng vẫn khoá TC dài phòng bất ổn."
     },
     "product": {
-      "demand": "Cầu yếu dần vì clean tanker <b>đã mất gần hết upside Hormuz</b>; Aframax USG–EU về ~$37.2k/ngày, ngang cùng kỳ năm ngoái khi căng thẳng dịu nên ton-mile ngắn lại ⇒ áp lực giảm cước.",
-      "supply": "Cung tăng nhanh vì <b>tàu sản phẩm đóng mới ở đỉnh ~15 năm</b> dồn giao 2026 (cung +5–6% vượt cầu ~1–2%) ⇒ ép cước 2026–27."
+      "demand": "Cầu yếu dần vì clean tanker <b>hưởng lợi ít hơn crude từ Hormuz</b>; khi eo mở lại ton-mile ngắn lại nên động lực ngắn hạn suy giảm ⇒ áp lực giảm cước.",
+      "supply": "Cung tăng nhanh vì <b>tàu sản phẩm đóng mới ở đỉnh ~15 năm</b> dồn giao 2026 (cung +5–6% vượt cầu ~1–2%) nên ép cước 2026–27."
     },
     "dry": {
-      "demand": "Cầu khối lượng yếu vì <b>thép & BĐS Trung Quốc suy</b> (quặng giữ ~$102/t 2026) kéo BDI về đáy ~2 tháng (~2,591) và Capesize −3.1% còn 3,827; chỉ được nâng nhẹ nhờ quãng đường dài hơn (Brazil/Guinea).",
-      "supply": "Cung tăng đều ~3%/năm khi giao tàu mới nhích lên ⇒ cân đối cung–cầu mong manh, dễ lệch dư cung 2027."
+      "demand": "Cầu ổn định hơn kỳ vọng: BDI giữ vùng lành mạnh ~3,124, Capesize earnings ~$47,641/ngày; <b>nhập quặng TQ vẫn tăng dù sản lượng thép yếu</b> (tồn cảng kỷ lục) và ton-mile dài (Brazil/Guinea) nâng đỡ khối lượng.",
+      "supply": "Cung tăng đều ~3%/năm khi giao tàu mới nhích lên nên cân đối cung–cầu mong manh, dễ lệch dư cung 2027."
     },
     "lpg": {
-      "demand": "Cầu mạnh vì <b>xuất khẩu LPG Mỹ tăng</b> + thiếu tàu trầm trọng tháng 6 đẩy cước/tấn lập kỷ lục mới; chênh giá Mỹ–Á rộng khuyến khích chở xa ⇒ VLGC giữ vùng đỉnh.",
-      "supply": "Cung là rủi ro chính vì <b>orderbook VLGC ~30% đội</b>, tàu mới về dồn (+7% 2026, +16% 2027) ⇒ trung hạn dư cung lớn, kìm cước."
+      "demand": "Cầu rất mạnh vì <b>28% LPG/LNG qua Hormuz bị gián đoạn</b> cộng thiếu tàu ex-USG đẩy VLGC lên ~$74k/ngày (vs ~$20k thường), cước/tấn lập kỷ lục ⇒ VLGC giữ vùng đỉnh.",
+      "supply": "Cung là rủi ro chính vì <b>orderbook VLGC ~30% đội</b>, tàu mới về dồn (+7% 2026, +16% 2027) nên trung hạn dư cung lớn, kìm cước."
     }
   }
 }
