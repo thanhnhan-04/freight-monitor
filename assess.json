@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "segments": {
     "crude": {
-      "demand": "Cầu bật lại mạnh vì <b>rủi ro Hormuz tái căng</b>: dù volume VLCC giảm 36%, tàu né eo đi vòng khiến ton-mile kéo dài; đợt spike thứ 2 đẩy VLCC qua Hormuz lên đỉnh mới ~$470k/ngày ⇒ cước dầu thô vọt từ vùng vừa hạ nhiệt.",
+      "demand": "Cầu bật lại mạnh vì <b>rủi ro Hormuz tái căng</b>: dù volume VLCC giảm 36%, tàu né eo đi vòng khiến ton-mile kéo dài; đợt spike thứ 2 đẩy VLCC qua Hormuz lên đỉnh mới ~$470k/ngày và Q2 spot TB ~$140k/ngày ⇒ nền cước dầu thô vào Q3 ở vùng lịch sử.",
       "supply": "Cung ngắn hạn thắt do tàu dồn né Hormuz, nhưng <b>orderbook Q1/26 kỷ lục</b> (~16% đội, 81 VLCC) sẽ ép dư cung từ 2027; chủ hàng vẫn khoá TC dài phòng bất ổn."
     },
     "product": {
-      "demand": "Cầu yếu dần vì clean tanker <b>hưởng lợi ít hơn crude từ Hormuz</b>; khi eo mở lại ton-mile ngắn lại nên động lực ngắn hạn suy giảm ⇒ áp lực giảm cước.",
+      "demand": "Cầu yếu dần vì clean tanker <b>hưởng lợi ít hơn crude từ Hormuz</b>; MR Q2 TB ~$40k/ngày vẫn cao nhưng khi eo mở lại ton-mile ngắn lại nên động lực ngắn hạn suy giảm ⇒ áp lực giảm cước.",
       "supply": "Cung tăng nhanh vì <b>tàu sản phẩm đóng mới ở đỉnh ~15 năm</b> dồn giao 2026 (cung +5–6% vượt cầu ~1–2%) nên ép cước 2026–27."
     },
     "dry": {
-      "demand": "Cầu ổn định hơn kỳ vọng: BDI giữ vùng lành mạnh ~3,124, Capesize earnings ~$47,641/ngày; <b>nhập quặng TQ vẫn tăng dù sản lượng thép yếu</b> (tồn cảng kỷ lục) và ton-mile dài (Brazil/Guinea) nâng đỡ khối lượng.",
+      "demand": "Cầu hạ nhiệt: <b>BDI rơi về 2,771 (−9 phiên) do Capesize suy yếu</b> từ vùng ~3,124 đầu tháng 6; nhập quặng TQ vẫn tăng và ton-mile dài (Brazil/Guinea) đỡ khối lượng nhưng cầu thép TQ yếu kìm giá ⇒ cước hàng khô mềm lại.",
       "supply": "Cung tăng đều ~3%/năm khi giao tàu mới nhích lên nên cân đối cung–cầu mong manh, dễ lệch dư cung 2027."
     },
     "lpg": {
