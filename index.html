@@ -212,7 +212,7 @@ const CFG = [
 ];
 
 // Chuỗi theo QUÝ (biên soạn từ nguồn công khai: Baltic/MacroMicro/Investing/StockQ) — bám đỉnh/đáy & chiều hiện tại
-const QLBL=["Q1·22","Q2·22","Q3·22","Q4·22","Q1·23","Q2·23","Q3·23","Q4·23","Q1·24","Q2·24","Q3·24","Q4·24","Q1·25","Q2·25","Q3·25","Q4·25","Q1·26","19/6 ●"];
+const QLBL=["Q1·22","Q2·22","Q3·22","Q4·22","Q1·23","Q2·23","Q3·23","Q4·23","Q1·24","Q2·24","Q3·24","Q4·24","Q1·25","Q2·25","Q3·25","Q4·25","Q1·26","gần nhất ●"];
 const YRS=["2021","2022","2023","2024","2025","2026*"];
 const SDY=["2024","2025","2026E"];
 const MKT={
@@ -222,11 +222,11 @@ const MKT={
  product:{ spot:{t:"Giá cước spot — BCTI",u:"điểm chỉ số · theo quý",data:[600,1250,1500,1300,1750,950,680,900,1150,1000,950,830,560,660,700,670,1850,1300]},
    tc:{t:"Thuê định hạn — MR 1 năm",u:"$ nghìn/ngày · theo quý",data:[15,22,28,27,28,26,25,27,29,30,28,26,24,25,25,27,28,27]},
    sd:{yrs:["2024","2025","2026E"],supply:[1.0,2.4,5.5],demand:[6.1,1.0,1.5],note:"<b>Cung (đội tàu)</b> tăng tốc lên <b>+5–6% (2026 & 2027)</b> do giao tàu đỉnh 15 năm; <b>cầu</b> chỉ +1–2%. ⇒ cung vượt cầu mạnh (~12 điểm %), cước suy yếu. <i>(Cung 2024–2025 là đội tàu tanker chung — Clarksons.)</i>",src:"BIMCO/Clarksons",url:"https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/082825-bimco-forecasts-steady-freight-rates-for-crude-tankers-product-tankers-to-falter"} },
- dry:{ spot:{t:"Giá cước spot — BDI",u:"điểm chỉ số · theo quý",data:[2000,2400,1900,1500,900,1300,1100,2100,1900,1850,1800,1500,1000,1300,1700,2400,1700,2818]},
+ dry:{ spot:{t:"Giá cước spot — BDI",u:"điểm chỉ số · theo quý",data:[2000,2400,1900,1500,900,1300,1100,2100,1900,1850,1800,1500,1000,1300,1700,2400,1700,2771]},
    tc:{t:"Thuê định hạn — Capesize 1 năm",u:"$ nghìn/ngày · theo quý",data:[27,25,20,16,15,17,16,18,24,26,24,20,18,20,22,23,22,21.6]},
    sd:{yrs:["2024","2025","2026E"],supply:[2.4,2.0,2.5],demand:[1.0,1.5,2.5],note:"<b>Cung (đội tàu)</b>: +2,4% (2024) → +2,0% (2025) → <b>+2,5% (2026E)</b>→+3% (2027E). <b>Cầu</b>: +1% (2024) → +1,5% (2025) → <b>+2–3% (2026E)</b>, nâng nhờ quãng đường dài hơn (quặng/bauxite Nam Đại Tây Dương→Á). ⇒ cân bằng/ổn định 2026.",src:"BIMCO/S&P",url:"https://safety4sea.com/bimco-dry-bulk-supply-demand-balance-to-remain-stable-in-2026/"} },
  lpg:{ spot:{t:"Giá cước spot — BLPG3 (USG→Chiba)",u:"$/tấn · theo quý",data:[90,110,106,150,120,150,189,180,120,90,130,120,70,60,75,90,130,290]},
-   tc:{t:"Thuê định hạn — VLGC 1 năm",u:"$ nghìn/ngày · theo quý",data:[35,38,42,45,48,50,55,50,48,45,50,50,45,46,50,52,52,55]},
+   tc:{t:"Thuê định hạn — VLGC 1 năm",u:"$ nghìn/ngày · theo quý",data:[35,38,42,45,48,50,55,50,48,45,50,50,45,46,50,52,52,53]},
    sd:{yrs:["2024","2025","2026E"],supply:[7.5,5.5,7.0],demand:[12.3,8.7,6.0],note:"<b>Cầu (xuất khẩu LPG Mỹ/ton-mile)</b>: +12,3% (2024) → +8,7% (2025) → <b>+6% (2026E)</b>. <b>Cung (đội tàu VLGC)</b>: +7,5% (2024) → +5,5% (2025) → <b>+7% (2026E)</b>, tăng vọt +16% (2027E) do orderbook ~30% đội. ⇒ thừa nhẹ 2026, áp lực mạnh 2027.",src:"Drewry/McQuilling",url:"https://www.drewry.co.uk/maritime-research-opinion-browser/maritime-research-opinions/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026"} }
 };
 
@@ -247,81 +247,80 @@ const LIVE={
 };
 const btns=(arr)=>arr.map(l=>`<a class="srcbtn${l.d?' direct':''}" href="${l.u}" target="_blank" rel="noopener">${l.t} ↗</a>`).join('');
 
-let NEWS_DATE="2026-06-20";
+let NEWS_DATE="2026-07-10";
 let NEWS=[
- {d:"19/06",s:"macro",t:"Hormuz ký thỏa thuận mở lại nhưng vật lý vẫn đóng (~Day 111)",x:"Mỹ–Iran ký MOU mở eo Hormuz không thu phí ≥60 ngày; thực tế ~0 tàu qua, giải phóng backlog cần vài tuần → áp lực giảm cước tanker/LPG nếu thông suốt.",su:"CNBC",url:"https://www.cnbc.com/amp/2026/06/18/strait-hormuz-reopening-shipping-oil.html"},
- {d:"15/06",s:"product",t:"Clean tanker phân hóa: MR USG bùng rồi hạ, LR2 mềm dần",x:"MR TC14 (USG→UK-Cont) đỉnh WS315 về WS250 (TCE ~$28k/ngày); LR2 TC1 ~WS501 hạ nhiệt.",su:"IndexBox / Baltic",url:"https://www.indexbox.io/blog/tanker-market-shows-mixed-movements-for-week-ending-june-15-2026/"},
- {d:"10/06",s:"dry",t:"BDI xuống đáy 2026 (~2,770), Capesize kéo giảm",x:"Thép TQ yếu + nguồn than nội địa tăng khiến cầu Cape/Panamax suy; Supramax nhỉnh nhẹ.",su:"TradingEconomics",url:"https://tradingeconomics.com/commodity/baltic/news/533728"},
- {d:"05/06",s:"crude",t:"VLCC TD3C ~WS402, TCE ~$400k/ngày — vùng kỷ lục",x:"Reroute do Hormuz + xuất khẩu Mỹ kỷ lục đẩy cước dầu thô lên rất cao; rủi ro đảo chiều khi eo mở lại.",su:"The Edge / Baltic",url:"https://theedgemalaysia.com/node/806052"},
- {d:"Q2",s:"lpg",t:"~43% LPG US Gulf→Á đi Cape of Good Hope; BLPG3 đỉnh ~$305/t",x:"Phí slot Panama >$1tr, chờ >3 ngày → tàu chuyển sang Cape, ton-mile bùng nổ; cước VLGC vùng cao 2.5 năm.",su:"Hellenic / IndexBox",url:"https://www.hellenicshippingnews.com/cape-of-good-hope-captures-43-share-of-us-asia-lpg-voyages/"},
- {d:"05",s:"crude",t:"OPEC+ tăng hạn ngạch tháng 6 +188 kb/d (lần đầu sau khi UAE rời)",x:"Mức tăng mang tính tượng trưng; xuất khẩu ME thực tế bị nghẽn do Hormuz.",su:"CNBC",url:"https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html"},
- {d:"2026",s:"crude",t:"Đặt đóng tàu dầu thô Q1 kỷ lục (129 tàu, 81 VLCC); +358% YoY",x:"Orderbook tanker ~16% đội — áp lực cung dần lộ sau 2025, dù phần lớn thay tàu già.",su:"gCaptain / AXSMarine",url:"https://gcaptain.com/global-ship-order-book-hits-17-year-high-as-tanker-orders-surge/"},
- {d:"2026",s:"lpg",t:"VLGC 1yr TC 2026 dự phóng ~$53k/ngày; orderbook ~130 tàu (~30% đội)",x:"Đội tàu tăng nhanh từ 2026 → áp lực cung trung hạn dù cầu xuất khẩu Mỹ mạnh.",su:"Marsoft / Hellenic",url:"https://www.hellenicshippingnews.com/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026/"},
- {d:"04",s:"dry",t:"Thép TQ −4.1% YTD (April yếu nhất từ 2018); tồn cảng quặng cao kỷ lục",x:"BĐS suy yếu cấu trúc, chính sách ưu tiên hạ tầng/sản xuất → cầu Cape yếu; tồn kho là tích trữ.",su:"Discovery Alert",url:"https://discoveryalert.com.au/china-steel-production-drop-2026-market-dynamics/"},
- {d:"05",s:"macro",t:"IEA hạ dự báo cầu dầu 2026 còn +640 kb/d; xuất khẩu Mỹ kỷ lục 5.2 mb/d",x:"Cầu yếu hơn nhưng dòng chảy Atlantic→Á dài hơn hỗ trợ ton-mile tanker.",su:"IEA OMR",url:"https://www.iea.org/reports/oil-market-report-may-2026"},
- {d:"2026",s:"dry",t:"BIMCO/Veson: cân bằng cung–cầu dry bulk ổn định 2026; ton-mile +1.5–2.5%",x:"Đội tàu +3%, cầu hàng yếu nhưng quãng đường (Brazil/Guinea→Á) dài hơn nâng đỡ.",su:"Safety4Sea / Breakwave",url:"https://safety4sea.com/bimco-dry-bulk-supply-demand-balance-to-remain-stable-in-2026/"}
+ {d:"30/06",s:"crude",t:"VLCC lập đỉnh mới ~$470k/ngày cho tuyến qua Hormuz (Delos $469k AG–China)",x:"Đợt tăng cước dầu thô lần 2 kể từ đầu xung đột; tàu chịu rủi ro qua Hormuz đòi giá kỷ lục, tuyến vòng Vịnh Oman chỉ ~$220–230k.",su:"Seatrade / Tankers International",url:"https://www.seatrade-maritime.com/tankers/vlcc-rates-near-470-000-a-day-for-fixtures-through-hormuz"},
+ {d:"30/06",s:"crude",t:"Q2 VLCC spot earnings TB ~$140k/ngày; MR sản phẩm ~$40k/ngày",x:"Dù Hormuz đóng, mặt bằng cả quý vẫn rất cao — nền cước tanker bước vào Q3 ở vùng lịch sử.",su:"Lloyd's List / Hellenic Q3 Outlook",url:"https://www.hellenicshippingnews.com/shipping-market-outlook-q3-2026/"},
+ {d:"30/06",s:"crude",t:"Hormuz cắt 36% khối lượng VLCC nhưng quãng đường dài hơn",x:"Volume giảm mạnh song ton-mile kéo dài do tàu né Hormuz đi vòng nên vẫn nâng đỡ cước.",su:"Lloyd's List",url:"https://www.lloydslist.com/LL1157100/Hormuz-crisis-slashes-VLCC-volumes-by-36-but-voyages-are-longer"},
+ {d:"25/06",s:"lpg",t:"VLGC ~$74k/ngày (vs ~$20k thường); thiếu tàu ex-USG đẩy cước/tấn lập kỷ lục",x:"28% LPG/LNG đi qua Hormuz bị gián đoạn cộng availability cạn nên cước khí hoá lỏng giữ vùng đỉnh.",su:"WEF / Fearnleys",url:"https://www.weforum.org/stories/2026/04/beyond-oil-lng-commodities-impacted-closure-hormuz-strait/"},
+ {d:"18/06",s:"macro",t:"Islamabad MOU (17/6) hạ nhiệt Iran; Hormuz thông trở lại dần, dòng dầu hồi 9.6 lên ~12 mb/d",x:"Kỳ vọng thông eo giảm phí rủi ro nhưng bình thường hoá hoàn toàn khó trước cuối năm ⇒ cước tanker còn biến động.",su:"EIA STEO / IEA OMR",url:"https://www.eia.gov/outlooks/steo/report/global_oil.php"},
+ {d:"15/06",s:"macro",t:"IEA: cung dầu toàn cầu 2026 giảm 3.9 mb/d còn 102.4 mb/d do mất nguồn Vùng Vịnh",x:"Mất cung Vùng Vịnh bù một phần bởi non-OPEC+ (+1.4 mb/d) nên nền cước tanker còn bất định.",su:"IEA Oil Market Report June 2026",url:"https://www.iea.org/reports/oil-market-report-june-2026"},
+ {d:"10/06",s:"dry",t:"BDI rơi về 2,771 điểm (−9 phiên liên tiếp) do Capesize suy yếu",x:"Từ ~3,124 đầu tháng 6 xuống 2,771; Cape mất đà kéo chỉ số chung xuống ⇒ cước hàng khô hạ nhiệt.",su:"Discovery Alert / Baltic Exchange",url:"https://discoveryalert.com.au/baltic-dry-index-capesize-rates-bauxite-trade-2026/"},
+ {d:"08/06",s:"macro",t:"Nhập quặng TQ tăng dù sản lượng thép yếu, tồn cảng kỷ lục; TQ chặn quặng portside Fortescue",x:"BĐS TQ suy cấu trúc kìm cầu thép nhưng nhập quặng vẫn tăng nên nâng đỡ khối lượng hàng khô.",su:"ISS Bulk Shipping Watch June 2026",url:"https://www.iss-shipping.com/bulk-shipping-watch-newsletter-june-2026/"},
+ {d:"18/06",s:"crude",t:"Đặt đóng tàu dầu thô Q1 kỷ lục (129 tàu, 81 VLCC); +358% YoY",x:"Orderbook tanker ~16% đội — áp lực dư cung dần lộ từ 2027 dù phần lớn thay tàu già.",su:"gCaptain / AXSMarine",url:"https://gcaptain.com/global-ship-order-book-hits-17-year-high-as-tanker-orders-surge/"},
+ {d:"10/06",s:"lpg",t:"VLGC 1yr TC 2026 ~$53k/ngày; orderbook ~130 tàu (~30% đội)",x:"Đội tàu tăng nhanh từ 2026 nên áp lực cung trung hạn dù cầu xuất khẩu Mỹ mạnh.",su:"Marsoft / Hellenic",url:"https://www.hellenicshippingnews.com/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026/"}
 ];
 
 // Nhận định tác động ngắn cho mỗi nhóm Cầu/Cung (cập nhật theo diễn biến mới nhất)
 let ASSESS={
- crude:{demand:"Cầu yếu đi vì (1) IEA hạ dự báo tăng trưởng cầu dầu 2026 do kinh tế chậm & xung đột Trung Đông; (2) ton-mile từng vọt nhờ phải đi vòng tránh Hormuz, nay eo <b>mở lại (18/6)</b> nên quãng đường ngắn lại ⇒ BDTI rơi 3.723→~1.107.",
-   supply:"Cung ngắn hạn còn thắt vì dark fleet bị siết và backlog tàu quanh Hormuz; nhưng <b>orderbook Q1/26 kỷ lục</b> (đặt đóng nhiều) sẽ làm tàu mới về dồn dập từ 2027 ⇒ dư cung dần. TC 1 năm vẫn ~$100k vì chủ hàng khoá giá phòng bất ổn."},
- product:{demand:"Cầu được đỡ vì <b>biên lọc dầu cao</b> (nhà máy chạy mạnh → nhiều sản phẩm để chở) và sản phẩm phải đi đường vòng; nhưng Hormuz/Biển Đỏ dịu lại nên quãng đường ngắn dần ⇒ BCTI hạ từ ~1.850 về ~1.300.",
-   supply:"Cung tăng nhanh vì <b>tàu sản phẩm đóng mới về ở mức đỉnh 15 năm</b> (orderbook lớn dồn giao 2026) ⇒ cung +5–6% vượt xa cầu ~1–2%, ép cước giảm 2026–27."},
- dry:{demand:"Cầu khối lượng yếu vì <b>thép Trung Quốc giảm</b> (−4,1% YTD) và BĐS TQ suy yếu kéo cầu quặng/than xuống; chỉ được nâng nhẹ nhờ quãng đường dài hơn (mua quặng Brazil & bauxite Guinea xa hơn Úc).",
-   supply:"Cung tăng đều ~2,5%/năm vì giao tàu mới nhích lên (nhất là Panamax/Supramax) ⇒ cân đối cung–cầu mong manh, dễ lệch sang dư cung 2027."},
- lpg:{demand:"Cầu mạnh vì <b>xuất khẩu LPG Mỹ tăng</b> (sản lượng shale dồi dào) + chênh giá Mỹ–Á mở rộng khuyến khích chở xa + <b>kênh Panama tắc</b> buộc đi vòng Cape ⇒ ton-mile dài hơn, đẩy BLPG3 ~$290.",
-   supply:"Cung là rủi ro chính vì <b>orderbook VLGC ~30% đội tàu</b>, tàu mới về dồn (+7% 2026, +16% 2027) ⇒ trung hạn dư cung lớn, kìm cước."}
+ crude:{demand:"Cầu bật lại mạnh vì <b>rủi ro Hormuz tái căng</b>: dù volume VLCC giảm 36%, tàu né eo đi vòng khiến ton-mile kéo dài; đợt spike thứ 2 đẩy VLCC qua Hormuz lên đỉnh mới ~$470k/ngày và Q2 spot TB ~$140k/ngày ⇒ nền cước dầu thô vào Q3 ở vùng lịch sử.",
+   supply:"Cung ngắn hạn thắt do tàu dồn né Hormuz, nhưng <b>orderbook Q1/26 kỷ lục</b> (~16% đội, 81 VLCC) sẽ ép dư cung từ 2027; chủ hàng vẫn khoá TC dài phòng bất ổn."},
+ product:{demand:"Cầu yếu dần vì clean tanker <b>hưởng lợi ít hơn crude từ Hormuz</b>; MR Q2 TB ~$40k/ngày vẫn cao nhưng khi eo mở lại ton-mile ngắn lại nên động lực ngắn hạn suy giảm ⇒ áp lực giảm cước.",
+   supply:"Cung tăng nhanh vì <b>tàu sản phẩm đóng mới ở đỉnh ~15 năm</b> dồn giao 2026 (cung +5–6% vượt cầu ~1–2%) nên ép cước 2026–27."},
+ dry:{demand:"Cầu hạ nhiệt: <b>BDI rơi về 2,771 (−9 phiên) do Capesize suy yếu</b> từ vùng ~3,124 đầu tháng 6; nhập quặng TQ vẫn tăng và ton-mile dài (Brazil/Guinea) đỡ khối lượng nhưng cầu thép TQ yếu kìm giá ⇒ cước hàng khô mềm lại.",
+   supply:"Cung tăng đều ~3%/năm khi giao tàu mới nhích lên nên cân đối cung–cầu mong manh, dễ lệch dư cung 2027."},
+ lpg:{demand:"Cầu rất mạnh vì <b>28% LPG/LNG qua Hormuz bị gián đoạn</b> cộng thiếu tàu ex-USG đẩy VLGC lên ~$74k/ngày (vs ~$20k thường), cước/tấn lập kỷ lục ⇒ VLGC giữ vùng đỉnh.",
+   supply:"Cung là rủi ro chính vì <b>orderbook VLGC ~30% đội</b>, tàu mới về dồn (+7% 2026, +16% 2027) nên trung hạn dư cung lớn, kìm cước."}
 };
 const OPTS=[{v:"2",t:"▲▲ Rất hỗ trợ cước"},{v:"1",t:"▲ Hỗ trợ"},{v:"0",t:"● Trung tính"},{v:"-1",t:"▼ Tiêu cực"},{v:"-2",t:"▼▼ Rất tiêu cực"}];
 const KEY="freightDash_v1";
-const SEED={ v:"2026-06-20-r2",
+const SEED={ v:"2026-07-10-r1",
   r:{
-    crude_0:"-1",crude_1:"0",crude_2:"2",crude_3:"1",crude_4:"-1",crude_5:"0",crude_6:"-1",crude_7:"0",crude_8:"1",crude_9:"0",
+    crude_0:"-1",crude_1:"0",crude_2:"2",crude_3:"1",crude_4:"2",crude_5:"0",crude_6:"-1",crude_7:"0",crude_8:"1",crude_9:"0",
     product_0:"1",product_1:"1",product_2:"1",product_3:"0",product_4:"1",product_5:"1",product_6:"-1",product_7:"1",product_8:"0",
     dry_0:"-2",dry_1:"-1",dry_2:"-1",dry_3:"0",dry_4:"1",dry_5:"0",dry_6:"1",dry_7:"0",dry_8:"1",dry_9:"0",
     lpg_0:"2",lpg_1:"1",lpg_2:"0",lpg_3:"1",lpg_4:"2",lpg_5:"-2",lpg_6:"2",lpg_7:"1"
   },
   notes:{
-    crude_0:"IEA hạ cầu 2026 còn +640 kb/d (−210) do xung đột ME",
-    crude_1:"OPEC+ chỉ +188 kb/d (tượng trưng); xuất ME nghẽn vì Hormuz",
-    crude_2:"Xuất khẩu Mỹ kỷ lục 5.2 mb/d (4/26); Atlantic→Á long-haul",
+    crude_0:"IEA: cung dầu 2026 −3.9 mb/d còn 102.4 do mất nguồn Vùng Vịnh; cầu dầu nền vẫn yếu",
+    crude_1:"OPEC+ chỉ +188 kb/d (tượng trưng); xuất ME nghẽn/đứt vì Hormuz",
+    crude_2:"Xuất khẩu Mỹ kỷ lục; Atlantic→Á long-haul đỡ ton-mile",
     crude_3:"TQ chuyển nguồn sang Atlantic → quãng đường dài hơn",
-    crude_4:"Hormuz đang MỞ LẠI (thỏa thuận 18/6) → reroute đảo chiều; BDTI rơi 3.723 (3/26) → ~1.107 (19/6). Lưu ý: VLCC 1yr TC vẫn ~$100k do thuê dài hạn",
+    crude_4:"Hormuz TÁI CĂNG (spike thứ 2, 30/6): VLCC qua Hormuz đỉnh mới ~$470k/ngày, tuyến vòng Vịnh Oman ~$220–230k; volume VLCC −36% nhưng né eo đi vòng kéo dài ton-mile · Q2 spot TB ~$140k/ngày",
     crude_5:"Gián đoạn nguồn → một phần floating storage",
-    crude_6:"Orderbook Q1/26 kỷ lục (129 tàu, 81 VLCC) nhưng chủ yếu thay tàu già",
+    crude_6:"Orderbook Q1/26 kỷ lục (129 tàu, 81 VLCC, ~16% đội) → ép dư cung từ 2027, chủ yếu thay tàu già",
     crude_7:"Phá dỡ thấp; có thể tăng khi tàu mới về",
-    crude_8:"Shadow fleet bị siết → kéo tonnage tuân thủ, cung mainstream thắt",
+    crude_8:"Shadow fleet bị siết + tàu dồn né Hormuz → cung mainstream thắt ngắn hạn",
     crude_9:"Backlog tàu quanh Hormuz / định tuyến lại",
     product_0:"Biên lọc khỏe; dislocation sản phẩm do xung đột ME",
     product_1:"Reroute Cape; diesel/jet đường dài kéo dài quãng đường",
-    product_2:"Arb biến động; MR USG TC14 bùng WS315 rồi về WS250",
-    product_3:"Hormuz/Biển Đỏ dịu lại → ton-mile clean giảm dần; BCTI hạ từ ~1.850 (Q1) về ~1.300 (19/6)",
+    product_2:"MR Q2 TB ~$40k/ngày vẫn cao nhưng arb biến động; MR USG TC14 bùng rồi hạ",
+    product_3:"Clean hưởng lợi ít hơn crude từ Hormuz; khi eo dịu ton-mile ngắn lại → động lực ngắn hạn suy giảm · BCTI ~1.300",
     product_4:"Tiêu thụ sản phẩm ổn định",
     product_5:"Đóng lọc phương Tây / mở phía Đông tiếp diễn",
-    product_6:"Bàn giao tàu clean cao gây áp lực cung",
+    product_6:"Tàu sản phẩm đóng mới đỉnh ~15 năm, giao dồn 2026 → cung +5–6% vượt cầu ~1–2%",
     product_7:"Dirty rất cao hút LR2 sang chở dầu thô → cung clean thắt",
-    product_8:"Tắc cảng / định tuyến lại hỗ trợ · LR2 TC1 ~WS501 (mềm dần)",
-    dry_0:"Thép TQ −4.1% YTD (April yếu nhất từ 2018); tồn cảng quặng cao kỷ lục = tích trữ · BDI ~2,770 (2026 low)",
+    product_8:"Tắc cảng / định tuyến lại hỗ trợ · LR2 TC1 mềm dần",
+    dry_0:"BDI rơi về 2,771 (−9 phiên) từ ~3,124 đầu tháng 6; Capesize suy yếu, thép TQ yếu; tồn cảng quặng kỷ lục = tích trữ",
     dry_1:"BĐS suy yếu cấu trúc; chính sách ưu tiên hạ tầng/sản xuất",
     dry_2:"Cầu than yếu, nguồn nội địa TQ tăng (mùa vụ)",
     dry_3:"Chưa tín hiệu mạnh; theo dõi WASDE/IGC",
     dry_4:"Bauxite Guinea→TQ vẫn là điểm sáng long-haul",
-    dry_5:"Chưa rõ chuyển dịch nguồn Brazil/Úc",
+    dry_5:"Nhập quặng TQ vẫn tăng, ton-mile dài Brazil/Guinea đỡ khối lượng",
     dry_6:"Orderbook dry bulk thấp lịch sử — hỗ trợ cấu trúc",
     dry_7:"Tắc cảng bình thường",
     dry_8:"Panama tắc + tránh Suez hỗ trợ một phần",
     dry_9:"Phá dỡ thấp",
-    lpg_0:"Xuất khẩu LPG Mỹ +5% tổng (Nhật/Hàn/Ấn bù TQ)",
+    lpg_0:"Xuất khẩu LPG Mỹ mạnh; thiếu tàu ex-USG + 28% LPG/LNG qua Hormuz gián đoạn đẩy VLGC ~$74k/ngày (vs ~$20k thường)",
     lpg_1:"Sản lượng/tồn kho propane Mỹ cao",
-    lpg_2:"Cầu TQ chững (thuế; PDH đã đỉnh, chỉ 2 unit mới 2026); Ấn/Nhật/Hàn bù",
+    lpg_2:"Cầu TQ chững (thuế; PDH đã đỉnh); Ấn/Nhật/Hàn bù",
     lpg_3:"Arb Mỹ→Á mở, cargo chảy mạnh",
-    lpg_4:"~43% USG→Á đi Cape of Good Hope → ton-mile bùng nổ",
-    lpg_5:"Orderbook 130 tàu (~30% đội), ~38 giao 2026 → áp lực cung lớn dần",
-    lpg_6:"Panama: phí slot >$1tr, chờ >3 ngày → ép tàu sang Cape",
-    lpg_7:"Hải trình kéo dài → cung VLGC thắt · BLPG3 ~$305/t (5/26)"
+    lpg_4:"Ton-mile US Gulf→Á kéo dài → cước/tấn lập kỷ lục",
+    lpg_5:"Orderbook ~130 tàu (~30% đội), +7% 2026 / +16% 2027 → dư cung trung hạn; VLGC 1yr TC ~$53k",
+    lpg_6:"Panama dịu hơn; nhưng thiếu tàu ex-USG + gián đoạn Hormuz giữ cước vùng đỉnh",
+    lpg_7:"Hải trình kéo dài → cung VLGC thắt · VLGC spot ~$74k/ngày (vs ~$20k)"
   },
-  rev:{ crude:"2026-06-20", product:"2026-06-20", dry:"2026-06-20", lpg:"2026-06-20" }
+  rev:{ crude:"2026-07-10", product:"2026-07-10", dry:"2026-07-10", lpg:"2026-07-10" }
 };
 let STATE=load();
 if(STATE.seedV!==SEED.v){
