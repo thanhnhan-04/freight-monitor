@@ -1,15 +1,113 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-20",
   "items": [
-    {"d":"30/06","s":"crude","t":"VLCC lập đỉnh mới ~$470k/ngày cho tuyến qua Hormuz (Delos $469k AG–China)","x":"Đợt tăng cước dầu thô lần 2 kể từ đầu xung đột; tàu chịu rủi ro qua Hormuz đòi giá kỷ lục, tuyến vòng Vịnh Oman chỉ ~$220–230k.","su":"Seatrade / Tankers International","url":"https://www.seatrade-maritime.com/tankers/vlcc-rates-near-470-000-a-day-for-fixtures-through-hormuz"},
-    {"d":"30/06","s":"crude","t":"Q2 VLCC spot earnings TB ~$140k/ngày; MR sản phẩm ~$40k/ngày","x":"Dù Hormuz đóng, mặt bằng cả quý vẫn rất cao — nền cước tanker bước vào Q3 ở vùng lịch sử.","su":"Lloyd's List / Hellenic Q3 Outlook","url":"https://www.hellenicshippingnews.com/shipping-market-outlook-q3-2026/"},
-    {"d":"30/06","s":"crude","t":"Hormuz cắt 36% khối lượng VLCC nhưng quãng đường dài hơn","x":"Volume giảm mạnh song ton-mile kéo dài do tàu né Hormuz đi vòng nên vẫn nâng đỡ cước.","su":"Lloyd's List","url":"https://www.lloydslist.com/LL1157100/Hormuz-crisis-slashes-VLCC-volumes-by-36-but-voyages-are-longer"},
-    {"d":"25/06","s":"lpg","t":"VLGC ~$74k/ngày (vs ~$20k thường); thiếu tàu ex-USG đẩy cước/tấn lập kỷ lục","x":"28% LPG/LNG đi qua Hormuz bị gián đoạn cộng availability cạn nên cước khí hoá lỏng giữ vùng đỉnh.","su":"WEF / Fearnleys","url":"https://www.weforum.org/stories/2026/04/beyond-oil-lng-commodities-impacted-closure-hormuz-strait/"},
-    {"d":"18/06","s":"macro","t":"Islamabad MOU (17/6) hạ nhiệt Iran; Hormuz thông trở lại dần, dòng dầu hồi 9.6 lên ~12 mb/d","x":"Kỳ vọng thông eo giảm phí rủi ro nhưng bình thường hoá hoàn toàn khó trước cuối năm ⇒ cước tanker còn biến động.","su":"EIA STEO / IEA OMR","url":"https://www.eia.gov/outlooks/steo/report/global_oil.php"},
-    {"d":"15/06","s":"macro","t":"IEA: cung dầu toàn cầu 2026 giảm 3.9 mb/d còn 102.4 mb/d do mất nguồn Vùng Vịnh","x":"Mất cung Vùng Vịnh bù một phần bởi non-OPEC+ (+1.4 mb/d) nên nền cước tanker còn bất định.","su":"IEA Oil Market Report June 2026","url":"https://www.iea.org/reports/oil-market-report-june-2026"},
-    {"d":"10/06","s":"dry","t":"BDI rơi về 2,771 điểm (−9 phiên liên tiếp) do Capesize suy yếu","x":"Từ ~3,124 đầu tháng 6 xuống 2,771; Cape mất đà kéo chỉ số chung xuống ⇒ cước hàng khô hạ nhiệt.","su":"Discovery Alert / Baltic Exchange","url":"https://discoveryalert.com.au/baltic-dry-index-capesize-rates-bauxite-trade-2026/"},
-    {"d":"08/06","s":"macro","t":"Nhập quặng TQ tăng dù sản lượng thép yếu, tồn cảng kỷ lục; TQ chặn quặng portside Fortescue","x":"BĐS TQ suy cấu trúc kìm cầu thép nhưng nhập quặng vẫn tăng nên nâng đỡ khối lượng hàng khô.","su":"ISS Bulk Shipping Watch June 2026","url":"https://www.iss-shipping.com/bulk-shipping-watch-newsletter-june-2026/"},
-    {"d":"18/06","s":"crude","t":"Đặt đóng tàu dầu thô Q1 kỷ lục (129 tàu, 81 VLCC); +358% YoY","x":"Orderbook tanker ~16% đội — áp lực dư cung dần lộ từ 2027 dù phần lớn thay tàu già.","su":"gCaptain / AXSMarine","url":"https://gcaptain.com/global-ship-order-book-hits-17-year-high-as-tanker-orders-surge/"},
-    {"d":"10/06","s":"lpg","t":"VLGC 1yr TC 2026 ~$53k/ngày; orderbook ~130 tàu (~30% đội)","x":"Đội tàu tăng nhanh từ 2026 nên áp lực cung trung hạn dù cầu xuất khẩu Mỹ mạnh.","su":"Marsoft / Hellenic","url":"https://www.hellenicshippingnews.com/trade-policies-and-stronger-fleet-growth-pose-challenges-for-lpg-shipping-in-2026/"}
+    {
+      "published": "2026-07-19T21:00:59+00:00",
+      "d": "19/07",
+      "s": "product",
+      "t": "Clean Tankers: Higher Rates in Store?",
+      "x": "The prospect of improving freight rates over the next few months, is looking increasingly likely over the next few months. In its latest weekly report, shipbroker Gibson said that “with the Middle East crisis at the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/clean-tankers-higher-rates-in-store/"
+    },
+    {
+      "published": "2026-07-19T21:00:59+00:00",
+      "d": "19/07",
+      "s": "macro",
+      "t": "Asia-US container rates mostly lower, tanker rates steady to lower",
+      "x": "Rates for shipping containers from east Asia and China to the US were mostly softer as the frontloading of imports to beat new tariffs is slowing, while liquid tanker rates were flat to lower. CONTAINER RATES Rates from...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mostly-lower-tanker-rates-steady-to-lower/"
+    },
+    {
+      "published": "2026-07-19T21:00:58+00:00",
+      "d": "19/07",
+      "s": "dry",
+      "t": "Dry Bulk Shipping: Capesizes Lost Momentum",
+      "x": "Capesize The market lost momentum over the course of the week, reversing an encouraging start to finish on a notably weaker footing as sentiment deteriorated across both the Pacific and Atlantic basins. Early support...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-lost-momentum/"
+    },
+    {
+      "published": "2026-07-19T21:00:57+00:00",
+      "d": "19/07",
+      "s": "crude",
+      "t": "VLCC Tanker Rates on the Rise",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index moved consistently upward this week to WS432 (+70). A voyage west climbed in value this week with the TC20 90kt MEG/UK-Continent index going from $7.94 million to $8.66 million. In...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/vlcc-tanker-rates-on-the-rise/"
+    },
+    {
+      "published": "2026-07-19T21:00:55+00:00",
+      "d": "19/07",
+      "s": "crude",
+      "t": "How much of China’s crude demand will return?",
+      "x": "With crude benchmarks retreating from above $100/b, market attention is shifting from supply disruptions to the post-crisis rebalancing of global oil markets, despite continued uncertainty over physical trade flows...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/how-much-of-chinas-crude-demand-will-return/"
+    },
+    {
+      "published": "2026-07-19T21:00:53+00:00",
+      "d": "19/07",
+      "s": "crude",
+      "t": "Strait of Hormuz Daily Vessel Traffic Down by 60%",
+      "x": "Following our update last week on changing vessel behaviour in the Strait of Hormuz, we’d like to share AXSMarine’s latest consolidated figures through the full day of 16 July. Our earlier data showed that vessels...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/strait-of-hormuz-daily-vessel-traffic-down-by-60/"
+    },
+    {
+      "published": "2026-07-19T16:55:27+00:00",
+      "d": "19/07",
+      "s": "crude",
+      "t": "Caspian Pipeline Consortium Oil Loadings Suspended After Drone Attacks On Tankers",
+      "x": "MOSCOW, July 19 (Reuters) – Two oil tankers were attacked at the Caspian Pipeline Consortium (CPC) terminal off Russia’s Black Sea coast, CPC said on Sunday, adding that oil loadings were suspended....",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/caspian-pipeline-consortium-oil-loadings-suspended-after-drone-attacks-on-tankers/"
+    },
+    {
+      "published": "2026-07-18T21:48:29+00:00",
+      "d": "18/07",
+      "s": "macro",
+      "t": "Sanctioned Tanker Is Leaking Oil Near Oman",
+      "x": "By Catherine Cartier and Jonathan Saul July 17 (Reuters) – A vessel under sanctions for moving Russian fuel is likely leaking oil in a protected marine area off the coast of Oman,...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/"
+    },
+    {
+      "published": "2026-07-18T16:18:55+00:00",
+      "d": "18/07",
+      "s": "crude",
+      "t": "Exxon-Chartered Oil Tanker Attacked By Drones Near Black Sea Terminal",
+      "x": "MOSCOW, July 18 (Reuters) – An oil tanker chartered for loading oil at the Caspian Pipeline Consortium terminal off Russia’s Black Sea coast was attacked and damaged by two drones on Friday, CPC...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/"
+    },
+    {
+      "published": "2026-07-18T15:37:05+00:00",
+      "d": "18/07",
+      "s": "crude",
+      "t": "Thousands Of Trucks Haul Iraq’s Oil Through Syria In Sign Of Hormuz Legacy",
+      "x": "By Archie Hunter, Anthony Di Paola, Khalid Al-Ansary and Nicholas Lua Jul 18, 2026 (Bloomberg) –Iraq is using a vast fleet of trucks to carry fuel oil through Syria and reroute...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/thousands-of-trucks-haul-iraqs-oil-through-syria-in-sign-of-hormuz-legacy/"
+    },
+    {
+      "published": "2026-07-17T08:00:40+00:00",
+      "d": "17/07",
+      "s": "macro",
+      "t": "Iran primes Houthis to shut Bab el-Mandeb",
+      "x": "The risk of the Red Sea shipping crisis erupting again has risen, with Iran reportedly asking Yemen’s Houthi movement to prepare to close the Bab el-Mandeb Strait if the United States attacks Iranian power...",
+      "su": "Splash247",
+      "url": "https://splash247.com/iran-primes-houthis-to-shut-bab-el-mandeb/"
+    },
+    {
+      "published": "2026-07-17T07:45:46+00:00",
+      "d": "17/07",
+      "s": "crude",
+      "t": "Splash Wrap: Chokepoints under siege",
+      "x": "Over the past five days, the Hormuz crisis has worsened sharply. A 7,000 teu Global Feeder Shipping containership was attacked and caught fire, forcing the crew to abandon ship and prompting fresh US and Iranian...",
+      "su": "Splash247",
+      "url": "https://splash247.com/splash-wrap-chokepoints-under-siege/"
+    }
   ]
 }

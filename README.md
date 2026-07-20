@@ -7,6 +7,7 @@ Website tĩnh theo dõi cước vận tải biển (dầu thô / sản phẩm / 
 | Khối | Tự cập nhật? | Nguồn |
 |---|---|---|
 | 📡 Driver thị trường (giá dầu/xăng/diesel, tồn kho, xuất khẩu) | ✅ Bot mỗi sáng | EIA API (miễn phí) |
+| 📰 Tin tức thị trường | ✅ Bot mỗi sáng | RSS công khai: Hellenic / Splash247 / gCaptain |
 | Chart BDI (Baltic Dry) nhúng | ✅ Tự mới khi mở trang | TradingView |
 | Số cước Baltic BDTI/BCTI/BLPG + TC + scorecard | ❌ Bản chụp định kỳ | Không có API free (cần feed trả phí Kpler/Baltic) |
 
@@ -20,7 +21,7 @@ Website tĩnh theo dõi cước vận tải biển (dầu thô / sản phẩm / 
 ### 2) Tạo repository GitHub
 - Tạo repo mới (vd `freight-monitor`), **Public** (để dùng GitHub Pages miễn phí).
 - Upload toàn bộ các file trong thư mục này vào repo (kéo-thả trên giao diện web GitHub cũng được):
-  - `index.html`, `data.json`, `fetch_data.py`, `README.md`
+  - `index.html`, `data.json`, `news.json`, `assess.json`, `fetch_data.py`, `fetch_news.py`, `README.md`
   - thư mục `.github/workflows/update.yml`
 
 ### 3) Thêm EIA key vào Secrets

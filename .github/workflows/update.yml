@@ -24,11 +24,14 @@ jobs:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
         run: python fetch_data.py
 
+      - name: Lay tin tuc shipping RSS
+        run: python fetch_news.py
+
       - name: Commit & push neu co thay doi
         run: |
           git config user.name "freight-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
+          git add data.json news.json
           if git diff --staged --quiet; then
             echo "Khong co thay doi, bo qua."
             exit 0

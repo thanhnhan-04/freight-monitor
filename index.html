@@ -502,8 +502,8 @@ function renderNews(panel){
   });
   const sec=document.createElement("section");sec.className="seg";
   sec.innerHTML=`
-    <div class="newshead"><h2>📰 Tin tức thị trường vận tải</h2><div class="note">Ảnh chụp ${new Date(NEWS_DATE).toLocaleDateString('vi-VN')} · không tự cập nhật</div></div>
-    <div class="mktcaveat">Danh sách tin quan trọng tổng hợp tại thời điểm cập nhật. Để có bản tin <b>mỗi ngày tự động</b>, có thể đặt scheduled task quét nguồn và làm mới mục này.</div>
+    <div class="newshead"><h2>📰 Tin tức thị trường vận tải</h2><div class="note">Cập nhật ${new Date(NEWS_DATE).toLocaleDateString('vi-VN')} · RSS shipping công khai</div></div>
+    <div class="mktcaveat">Danh sách tin lấy tự động từ RSS công khai trong <b>news.json</b>; đây là tiêu đề/mô tả nguồn, không phải nhận định phân tích sâu.</div>
     ${items}
     <div class="lcnote" style="margin-top:14px">Nguồn theo dõi hằng ngày: <a href="https://www.balticexchange.com/en/data-services/WeeklyRoundup.html" target="_blank" rel="noopener">Baltic Weekly</a> · <a href="https://fearnpulse.com/fearnleys-weekly-report" target="_blank" rel="noopener">Fearnleys Weekly</a> · <a href="https://www.spotmarketcap.com/shipping" target="_blank" rel="noopener">SpotMarketCap</a> · <a href="https://www.hellenicshippingnews.com/" target="_blank" rel="noopener">Hellenic Shipping News</a> · <a href="https://splash247.com/" target="_blank" rel="noopener">Splash247</a></div>`;
   panel.appendChild(sec);
@@ -512,10 +512,10 @@ function renderNews(panel){
 document.getElementById("resetAll").onclick=()=>{if(confirm("Xóa toàn bộ đánh giá & ghi chú đã nhập?")){STATE={r:{},notes:{},rev:{},seedV:SEED.v};save();render();}};
 
 render();
-// Nạp Tin tức + nhận định driver từ JSON (bot Claude cập nhật mỗi sáng); fallback nội dung sẵn có
+// Nạp Tin tức RSS + nhận định driver từ JSON; fallback nội dung sẵn có
 Promise.all([
-  fetch('news.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null),
-  fetch('assess.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null)
+  fetch('https://thanhnhan-04.github.io/freight-monitor/news.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch('https://thanhnhan-04.github.io/freight-monitor/assess.json?_='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null)
 ]).then(([nw,as])=>{
   let ch=false;
   if(nw&&Array.isArray(nw.items)&&nw.items.length){NEWS=nw.items;if(nw.date)NEWS_DATE=nw.date;ch=true;}
@@ -527,7 +527,7 @@ if(STATE.saved){const d=new Date(STATE.saved);document.getElementById("savedAt")
 <script>
 // ===== Live drivers panel: đọc data.json (bot EIA cập nhật) + nhúng chart BDI =====
 (function(){
-  fetch('data.json?_='+Date.now()).then(r=>r.json()).then(j=>{
+  fetch('https://thanhnhan-04.github.io/freight-monitor/data.json?_='+Date.now()).then(r=>r.json()).then(j=>{
     const up=document.getElementById('lpupdated');
     if(j.updated)up.textContent='· cập nhật '+new Date(j.updated).toLocaleString('vi-VN');
     const g=document.getElementById('lpgrid');g.innerHTML='';
@@ -537,9 +537,10 @@ if(STATE.saved){const d=new Date(STATE.saved);document.getElementById("savedAt")
       const dir=s.chgPct>0.05?'up':(s.chgPct<-0.05?'down':'flat');
       const arrow=dir==='up'?'▲':(dir==='down'?'▼':'■');
       const val=s.value>=1000?Number(s.value).toLocaleString('en-US'):s.value;
+      const period=s.date?'Kỳ dữ liệu: '+new Date(s.date+'T00:00:00').toLocaleDateString('vi-VN'):'';
       c.innerHTML=`<div class="lpname">${s.name}</div><div class="lpval">${val} <span style="font-size:11px;color:#9aa1ab;font-weight:600">${s.unit||''}</span></div>
         <div class="lpchg ${dir}">${arrow} ${s.chgPct>0?'+':''}${s.chgPct}% (${s.chg>0?'+':''}${s.chg})</div>
-        <div class="lpdate">${s.date||''}</div>`;
+        <div class="lpdate">${period}</div>`;
       g.appendChild(c);
     });
   }).catch(e=>{
