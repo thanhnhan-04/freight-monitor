@@ -1,113 +1,113 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "items": [
     {
-      "published": "2026-07-21T01:27:22+00:00",
+      "published": "2026-07-21T21:00:59+00:00",
+      "d": "21/07",
+      "s": "dry",
+      "t": "Baltic Dry Index Edges Down on Tuesday",
+      "x": "The Baltic dry index decreased 1 point to 2,670 on Tuesday, following a 2.9% fall on Monday. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, dropped 2.1% to 2,181. Also, the supramax index...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-on-tuesday/"
+    },
+    {
+      "published": "2026-07-21T21:00:59+00:00",
+      "d": "21/07",
+      "s": "lpg",
+      "t": "More Newbuilding Deals This Week",
+      "x": "Ship owners kept contracting more newbuildings over the past week. In its latest weekly report, shipbroker Banchero Costa noted that “newbuilding activity continued this week, with fresh ordering interest emerging in...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/more-newbuilding-deals-this-week/"
+    },
+    {
+      "published": "2026-07-21T21:00:58+00:00",
       "d": "21/07",
       "s": "crude",
-      "t": "New Tanker Attack Reported Near Strait of Hormuz as U.S. Continues Strikes on Iran",
-      "x": "A commercial tanker reported being struck by what was described as either a drone or missile near the Strait of Hormuz on Monday, marking the latest attack on merchant shipping...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/new-tanker-attack-reported-near-strait-of-hormuz-as-u-s-continues-strikes-on-iran/"
-    },
-    {
-      "published": "2026-07-20T21:00:59+00:00",
-      "d": "20/07",
-      "s": "dry",
-      "t": "Baltic Dry Index Falls to Over 2-Week Low",
-      "x": "The Baltic dry index fell 2.9% to 2,671 on Monday, its lowest since July 2. The capesize index, which typically transport 150,000-ton cargoes, including iron ore and coal, dropped 5.1% to an over two-week low of 3,889...",
+      "t": "War risk insurance under pressure as volatility reshapes shipping routes",
+      "x": "From the Red Sea to the Strait of Hormuz, overlapping conflicts have disrupted major trade routes and challenged the assumptions on which war risk coverage has long depended. This escalation of geopolitical tensions...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-over-2-week-low-2/"
+      "url": "https://www.hellenicshippingnews.com/war-risk-insurance-under-pressure-as-volatility-reshapes-shipping-routes/"
     },
     {
-      "published": "2026-07-20T21:00:59+00:00",
-      "d": "20/07",
-      "s": "dry",
-      "t": "Dry Bulk Shipping: Coal Usage on the Rise, Amid LNG Disruptions",
-      "x": "Demand for coal cargoes could rise in the near future, as further disruptions in LNG flows appear to be the norm, after the latest escalation. In a recent weekly report, shipbroker Intermodal said that “with the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-coal-usage-on-the-rise-amid-lng-disruptions/"
-    },
-    {
-      "published": "2026-07-20T21:00:58+00:00",
-      "d": "20/07",
+      "published": "2026-07-21T21:00:57+00:00",
+      "d": "21/07",
       "s": "crude",
-      "t": "Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite",
-      "x": "AXSMarine’s live fleet tracker recorded 728 tankers in the Arabian Gulf following the renewed escalation around the Strait of Hormuz. Crude tankers accounted for 179 vessels (24.6%) of the total tanker fleet present...",
+      "t": "Tanker attacks at CPC disrupt oil loading for Kazakhstan main export route",
+      "x": "Caspian Pipeline Consortium oil loading was disrupted again July 20, after a fourth tanker loading at the network was attacked in as many days, CPC said in a statement. Ukrainian attacks on CPC have intensified...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-count-on-both-sides-of-hormuz-exceeds-700-as-strait-tensions-reignite/"
+      "url": "https://www.hellenicshippingnews.com/tanker-attacks-at-cpc-disrupt-oil-loading-for-kazakhstan-main-export-route/"
     },
     {
-      "published": "2026-07-20T21:00:57+00:00",
-      "d": "20/07",
+      "published": "2026-07-21T21:00:53+00:00",
+      "d": "21/07",
+      "s": "product",
+      "t": "Capital Ship Management, K Shipbuilding and LR target scalable wind-assisted propulsion for MR tanker sector",
+      "x": "Capital Ship Management Corp., K Shipbuilding and Lloyd’s Register (LR) have launched a Joint Development Project (JDP) to develop a wind-assisted 50,000 dwt Medium Range (MR) tanker. While wind-assisted propulsion has...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/capital-ship-management-k-shipbuilding-and-lr-target-scalable-wind-assisted-propulsion-for-mr-tanker-sector/"
+    },
+    {
+      "published": "2026-07-21T21:00:52+00:00",
+      "d": "21/07",
+      "s": "crude",
+      "t": "Banchero Costa Weekly Market Report, Week 29 2026",
+      "x": "After a marginal decline in 2024, when global crude oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year Source: banchero costa & c s.p.a",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/"
+    },
+    {
+      "published": "2026-07-21T16:28:50+00:00",
+      "d": "21/07",
+      "s": "crude",
+      "t": "Hormuz on a Knife-Edge: Shipping Pays the Price as the Iran-U.S. Ceasefire Unravels",
+      "x": "The Strait of Hormuz is bleeding trade confidence again. Barely a month after Washington and Tehran signed a memorandum of understanding meant to end months of tanker attacks, the truce has come apart. Both sides are...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/hormuz-on-a-knife-edge-shipping-pays-the-price-as-the-iran-u-s-ceasefire-unravels/"
+    },
+    {
+      "published": "2026-07-21T15:59:16+00:00",
+      "d": "21/07",
+      "s": "crude",
+      "t": "Two Tankers Carrying Saudi Crude Make U-turns in Red Sea After Houthi Warning",
+      "x": "Two oil tankers loaded with Saudi crude for China and India made U-turns in the Red Sea on Tuesday, heading towards the Suez Canal rather than braving the Yemeni coast at the sea's mouth following a warning from Yemen's...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/two-tankers-carrying-saudi-crude-make-u-turns-in-red-sea-after-houthi-warning/"
+    },
+    {
+      "published": "2026-07-21T15:52:56+00:00",
+      "d": "21/07",
       "s": "macro",
-      "t": "China’s Vehicle Export Machine: How Chinese OEMs are Reshaping Global Car Carrier Demand",
-      "x": "China’s rise as the world’s dominant light vehicle (LV) exporter is no longer a trend, it is a structural shift that is fundamentally reshaping the global Vehicle Carrier market. In just five years, Chinese full-year LV...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/chinas-vehicle-export-machine-how-chinese-oems-are-reshaping-global-car-carrier-demand/"
-    },
-    {
-      "published": "2026-07-20T21:00:55+00:00",
-      "d": "20/07",
-      "s": "macro",
-      "t": "Strong growth in earnings for global terminal operators has led to a surge in capital investment during 2025 as...",
-      "x": "Global port throughput volumes in 2025 demonstrated remarkable resilience, rising 6.5% YoY to 994 mteu, despite challenging geopolitical conditions. As a group, the global terminal operators (GTOs) outperformed the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/strong-growth-in-earnings-for-global-terminal-operators-has-led-to-a-surge-in-capital-investment-during-2025-as-container-handling-demonstrates-remarkable-resilience-amid-supply-chain-shocks/"
-    },
-    {
-      "published": "2026-07-20T21:00:53+00:00",
-      "d": "20/07",
-      "s": "crude",
-      "t": "What are the implications of a renewed closure of the Strait of Hormuz?",
-      "x": "A prolonged closure of the Strait of Hormuz could send Brent crude to $150 a barrel, revive inflation and force major central banks to raise interest rates despite slowing economic growth, Capital Economics said in a...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/what-are-the-implications-of-a-renewed-closure-of-the-strait-of-hormuz/"
-    },
-    {
-      "published": "2026-07-20T18:00:49+00:00",
-      "d": "20/07",
-      "s": "crude",
-      "t": "Crew Abandons Burning Tanker After Attack Near Strait of Hormuz",
-      "x": "A merchant tanker was abandoned after being struck by an unknown projectile near the Strait of Hormuz, according to an updated advisory from the United Kingdom Maritime Trade Operations (UKMTO)....",
+      "t": "Global Trade Faces Fresh Test as Panama Canal Curbs Bookings",
+      "x": "Global trade faces a fresh headache on top of the months-long snarls in the Middle East that have roiled flows, with the Panama Canal moving to curtail some vessel-booking slots because of water-supply challenges.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/crew-abandons-burning-tanker-after-attack-near-strait-of-hormuz/"
+      "url": "https://gcaptain.com/global-trade-faces-fresh-test-as-panama-canal-curbs-bookings/"
     },
     {
-      "published": "2026-07-20T15:17:41+00:00",
-      "d": "20/07",
+      "published": "2026-07-21T15:29:45+00:00",
+      "d": "21/07",
       "s": "crude",
-      "t": "Dynacom’s Hormuz Strategy Tested as Two Tankers Come Under Attack",
-      "x": "Greek tanker manager Dynacom, which previously emerged as the largest non-Iranian commercial operator continuing to move oil through the Strait of Hormuz after the conflict erupted, saw two of its...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/dynacoms-hormuz-strategy-tested-as-two-tankers-come-under-attack/"
-    },
-    {
-      "published": "2026-07-20T14:38:28+00:00",
-      "d": "20/07",
-      "s": "dry",
-      "t": "Seacon adds $66m bulker pair at Tsuneishi Zhoushan",
-      "x": "Hong Kong-listed Seacon Shipping has returned to Tsuneishi Group’s Chinese shipyard for two bulk carrier newbuildings worth $66m. The Qingdao-based owner will pay $33m per ship, with one vessel scheduled for completion...",
+      "t": "Tankers turn back after Houthi threat to Saudi shipping",
+      "x": "Two tankers carrying Saudi crude and a third due to load at Yanbu have reversed course following Houthi threats against ships calling at the kingdom’s ports. The COSCO Shipping-managed VLCC Xin Long Yang, carrying...",
       "su": "Splash247",
-      "url": "https://splash247.com/seacon-adds-66m-bulker-pair-at-tsuneishi-zhoushan/"
+      "url": "https://splash247.com/tankers-turn-back-after-houthi-threat-to-saudi-shipping/"
     },
     {
-      "published": "2026-07-20T14:18:41+00:00",
-      "d": "20/07",
-      "s": "dry",
-      "t": "California Forever, Labor and Business Coalition Blame Permitting Delays for Losing $3.2 Billion Shipyard to Texas",
-      "x": "California Forever and a broad coalition of labor, manufacturing, construction, housing, and business organizations say California lost Saronic’s planned $3.2 billion Port Alpha shipyard because the state could not...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/california-forever-blames-permitting-delays-for-losing-saronics-3-2-billion-shipyard-to-texas/"
-    },
-    {
-      "published": "2026-07-20T13:58:06+00:00",
-      "d": "20/07",
+      "published": "2026-07-21T13:42:36+00:00",
+      "d": "21/07",
       "s": "crude",
-      "t": "Dynacom Reports Two Tankers Attacked Near Strait of Hormuz",
-      "x": "July 20 (Reuters) – Greek shipping company Dynacom Tankers said two of its managed vessels were hit by projectiles of unknown origin on Monday while sailing off the coast of Oman. The re-escalation in fighting between...",
+      "t": "Second Tanker Abandoned in 24 Hours After Latest Strait of Hormuz Attack",
+      "x": "A second commercial tanker has been abandoned by its crew in less than 24 hours after being struck by an unidentified projectile near the Strait of Hormuz, according to the...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/dynacom-reports-two-tankers-attacked-near-strait-of-hormuz/"
+      "url": "https://gcaptain.com/second-tanker-abandoned-in-24-hours-after-latest-strait-of-hormuz-attack/"
+    },
+    {
+      "published": "2026-07-21T11:09:17+00:00",
+      "d": "21/07",
+      "s": "macro",
+      "t": "Houthis Warn All Ships Against Calling at Saudi Arabia’s Ports",
+      "x": "A message from Yemen’s Houthi rebels to shipowners warned all vessels against calling at Saudi Arabian ports, shedding light on the scope of a threat that puts millions of barrels of exports from the kingdom at risk.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/houthis-warn-all-ships-against-calling-at-saudi-arabias-ports/"
     }
   ]
 }
