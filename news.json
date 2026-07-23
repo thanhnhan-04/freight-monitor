@@ -1,113 +1,104 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "items": [
     {
-      "published": "2026-07-21T21:00:59+00:00",
-      "d": "21/07",
+      "published": "2026-07-22T22:09:17+00:00",
+      "d": "22/07",
+      "s": "crude",
+      "t": "Houthis Resume Attacks on Shipping, Claim Strikes on Two Saudi Tankers",
+      "x": "Yemen’s Houthi movement has resumed direct attacks on commercial shipping, claiming responsibility for strikes on two Saudi oil tankers just minutes after the UK Maritime Trade Operations (UKMTO) reported a...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/houthis-resume-attacks-on-shipping-claim-strikes-on-two-saudi-tankers/"
+    },
+    {
+      "published": "2026-07-22T21:00:59+00:00",
+      "d": "22/07",
+      "s": "macro",
+      "t": "Ship Recycling Market Finding Renewed Support",
+      "x": "The ship recycling market gained ground last week, as supply remained short. In its latest weekly report, Best Oasis (www.best-oasis.com), a leading cash buyer of ships, said that “the Indian market strengthened during...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ship-recycling-market-finding-renewed-support/"
+    },
+    {
+      "published": "2026-07-22T21:00:57+00:00",
+      "d": "22/07",
       "s": "dry",
-      "t": "Baltic Dry Index Edges Down on Tuesday",
-      "x": "The Baltic dry index decreased 1 point to 2,670 on Tuesday, following a 2.9% fall on Monday. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, dropped 2.1% to 2,181. Also, the supramax index...",
+      "t": "Baltic Dry Index Rises to 1-Week High",
+      "x": "The Baltic dry index rose 1.7% to 2,715 on Wednesday, recording its first gain since July 14. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 4.7% to 4,114, its...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-on-tuesday/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-1-week-high/"
     },
     {
-      "published": "2026-07-21T21:00:59+00:00",
-      "d": "21/07",
-      "s": "lpg",
-      "t": "More Newbuilding Deals This Week",
-      "x": "Ship owners kept contracting more newbuildings over the past week. In its latest weekly report, shipbroker Banchero Costa noted that “newbuilding activity continued this week, with fresh ordering interest emerging in...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/more-newbuilding-deals-this-week/"
-    },
-    {
-      "published": "2026-07-21T21:00:58+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "War risk insurance under pressure as volatility reshapes shipping routes",
-      "x": "From the Red Sea to the Strait of Hormuz, overlapping conflicts have disrupted major trade routes and challenged the assumptions on which war risk coverage has long depended. This escalation of geopolitical tensions...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/war-risk-insurance-under-pressure-as-volatility-reshapes-shipping-routes/"
-    },
-    {
-      "published": "2026-07-21T21:00:57+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "Tanker attacks at CPC disrupt oil loading for Kazakhstan main export route",
-      "x": "Caspian Pipeline Consortium oil loading was disrupted again July 20, after a fourth tanker loading at the network was attacked in as many days, CPC said in a statement. Ukrainian attacks on CPC have intensified...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-attacks-at-cpc-disrupt-oil-loading-for-kazakhstan-main-export-route/"
-    },
-    {
-      "published": "2026-07-21T21:00:53+00:00",
-      "d": "21/07",
-      "s": "product",
-      "t": "Capital Ship Management, K Shipbuilding and LR target scalable wind-assisted propulsion for MR tanker sector",
-      "x": "Capital Ship Management Corp., K Shipbuilding and Lloyd’s Register (LR) have launched a Joint Development Project (JDP) to develop a wind-assisted 50,000 dwt Medium Range (MR) tanker. While wind-assisted propulsion has...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/capital-ship-management-k-shipbuilding-and-lr-target-scalable-wind-assisted-propulsion-for-mr-tanker-sector/"
-    },
-    {
-      "published": "2026-07-21T21:00:52+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "Banchero Costa Weekly Market Report, Week 29 2026",
-      "x": "After a marginal decline in 2024, when global crude oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year Source: banchero costa & c s.p.a",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/"
-    },
-    {
-      "published": "2026-07-21T16:28:50+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "Hormuz on a Knife-Edge: Shipping Pays the Price as the Iran-U.S. Ceasefire Unravels",
-      "x": "The Strait of Hormuz is bleeding trade confidence again. Barely a month after Washington and Tehran signed a memorandum of understanding meant to end months of tanker attacks, the truce has come apart. Both sides are...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/hormuz-on-a-knife-edge-shipping-pays-the-price-as-the-iran-u-s-ceasefire-unravels/"
-    },
-    {
-      "published": "2026-07-21T15:59:16+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "Two Tankers Carrying Saudi Crude Make U-turns in Red Sea After Houthi Warning",
-      "x": "Two oil tankers loaded with Saudi crude for China and India made U-turns in the Red Sea on Tuesday, heading towards the Suez Canal rather than braving the Yemeni coast at the sea's mouth following a warning from Yemen's...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/two-tankers-carrying-saudi-crude-make-u-turns-in-red-sea-after-houthi-warning/"
-    },
-    {
-      "published": "2026-07-21T15:52:56+00:00",
-      "d": "21/07",
+      "published": "2026-07-22T21:00:57+00:00",
+      "d": "22/07",
       "s": "macro",
-      "t": "Global Trade Faces Fresh Test as Panama Canal Curbs Bookings",
-      "x": "Global trade faces a fresh headache on top of the months-long snarls in the Middle East that have roiled flows, with the Panama Canal moving to curtail some vessel-booking slots because of water-supply challenges.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/global-trade-faces-fresh-test-as-panama-canal-curbs-bookings/"
+      "t": "Weekly Dry Market Monitor: Port Hedland Average Waiting Time – Iron-Ore Congestion Meets Labour Action",
+      "x": "Waiting time reached multi-month highs. The average vessel waiting time at Port Hedland rose to approximately 8.7 days in the week to 17 July, up from about 8.4 days a week earlier. The 30-day moving average stood at...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/weekly-dry-market-monitor-port-hedland-average-waiting-time-iron-ore-congestion-meets-labour-action/"
     },
     {
-      "published": "2026-07-21T15:29:45+00:00",
-      "d": "21/07",
+      "published": "2026-07-22T21:00:51+00:00",
+      "d": "22/07",
       "s": "crude",
-      "t": "Tankers turn back after Houthi threat to Saudi shipping",
-      "x": "Two tankers carrying Saudi crude and a third due to load at Yanbu have reversed course following Houthi threats against ships calling at the kingdom’s ports. The COSCO Shipping-managed VLCC Xin Long Yang, carrying...",
+      "t": "Renewed Strait of Hormuz tensions expose a hidden payments challenge for global shipping, says Ebury",
+      "x": "Renewed tensions in and around the Strait of Hormuz are forcing shipping companies to rethink more than just their vessel routes. According to Ebury, a maritime payments and trade specialist, every change in a shipping...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/renewed-strait-of-hormuz-tensions-expose-a-hidden-payments-challenge-for-global-shipping-says-ebury/"
+    },
+    {
+      "published": "2026-07-22T21:00:49+00:00",
+      "d": "22/07",
+      "s": "crude",
+      "t": "China’s imports of Russian crude fall to the lowest in months",
+      "x": "Russia’s crude deliveries to its top three buyers — India, China and Turkey — declined sharply in the week to July 15, according to S&P Global Commodities(opens in a new tab) at Sea data, as significantly lower imports...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/chinas-imports-of-russian-crude-fall-to-the-lowest-in-months/"
+    },
+    {
+      "published": "2026-07-22T21:00:41+00:00",
+      "d": "22/07",
+      "s": "crude",
+      "t": "INTERTANKO: Advice for Members regarding situation in Gulf Region",
+      "x": "The Arabian Gulf has seen a further cycle of violence with attacks on ships and shore installations. Two tankers were struck while transiting the Strait of Hormuz, resulting in multiple casualties and one seafarer...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/intertanko-advice-for-members-regarding-situation-in-gulf-region/"
+    },
+    {
+      "published": "2026-07-22T20:00:07+00:00",
+      "d": "22/07",
+      "s": "macro",
+      "t": "Splash Ports: A new home for ports intelligence",
+      "x": "Splash Ports, a dedicated vertical covering the ports and terminals sector across container, bulk, and energy operations worldwide, launches today. The new publication has been created to provide daily reporting...",
       "su": "Splash247",
-      "url": "https://splash247.com/tankers-turn-back-after-houthi-threat-to-saudi-shipping/"
+      "url": "https://splash247.com/splash-ports-a-new-home-for-ports-intelligence/"
     },
     {
-      "published": "2026-07-21T13:42:36+00:00",
-      "d": "21/07",
-      "s": "crude",
-      "t": "Second Tanker Abandoned in 24 Hours After Latest Strait of Hormuz Attack",
-      "x": "A second commercial tanker has been abandoned by its crew in less than 24 hours after being struck by an unidentified projectile near the Strait of Hormuz, according to the...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/second-tanker-abandoned-in-24-hours-after-latest-strait-of-hormuz-attack/"
-    },
-    {
-      "published": "2026-07-21T11:09:17+00:00",
-      "d": "21/07",
+      "published": "2026-07-22T15:42:39+00:00",
+      "d": "22/07",
       "s": "macro",
-      "t": "Houthis Warn All Ships Against Calling at Saudi Arabia’s Ports",
-      "x": "A message from Yemen’s Houthi rebels to shipowners warned all vessels against calling at Saudi Arabian ports, shedding light on the scope of a threat that puts millions of barrels of exports from the kingdom at risk.",
+      "t": "Houthi Threats Give Oil Markets a ‘Two Chokepoint Problem’",
+      "x": "Ships continue to turn away from the southern end of the Red Sea, after Yemen’s Iran-backed Houthi rebels announced an embargo on Saudi exports through the Bab el-Mandeb Strait, a narrow channel that has become a...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/houthis-warn-all-ships-against-calling-at-saudi-arabias-ports/"
+      "url": "https://gcaptain.com/houthi-threats-give-oil-markets-a-two-chokepoint-problem/"
+    },
+    {
+      "published": "2026-07-22T11:30:00+00:00",
+      "d": "22/07",
+      "s": "product",
+      "t": "Fairfield lands Neste charter for ice-class MR tanker pair",
+      "x": "Fairfield Maritime Japan has secured a long-term charter from Finnish refiner Neste covering two ice-class MR product and chemical tankers scheduled for delivery in 2029. The agreement will allow Fairfield Maritime...",
+      "su": "Splash247",
+      "url": "https://splash247.com/fairfield-lands-neste-charter-for-ice-class-mr-tanker-pair/"
+    },
+    {
+      "published": "2026-07-22T08:45:00+00:00",
+      "d": "22/07",
+      "s": "crude",
+      "t": "Houthi threat tightens Saudi oil pincer",
+      "x": "Tankers carrying Saudi crude as well as a Chinese car carrier have turned back in the Red Sea over the past 24 hours after Yemen’s Houthis declared a naval blockade on Saudi Arabia, threatening the fallback export route...",
+      "su": "Splash247",
+      "url": "https://splash247.com/houthi-threat-tightens-saudi-oil-pincer/"
     }
   ]
 }
