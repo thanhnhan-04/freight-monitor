@@ -1,104 +1,113 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "items": [
     {
-      "published": "2026-07-22T22:09:17+00:00",
-      "d": "22/07",
+      "published": "2026-07-23T21:00:59+00:00",
+      "d": "23/07",
       "s": "crude",
-      "t": "Houthis Resume Attacks on Shipping, Claim Strikes on Two Saudi Tankers",
-      "x": "Yemen’s Houthi movement has resumed direct attacks on commercial shipping, claiming responsibility for strikes on two Saudi oil tankers just minutes after the UK Maritime Trade Operations (UKMTO) reported a...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/houthis-resume-attacks-on-shipping-claim-strikes-on-two-saudi-tankers/"
-    },
-    {
-      "published": "2026-07-22T21:00:59+00:00",
-      "d": "22/07",
-      "s": "macro",
-      "t": "Ship Recycling Market Finding Renewed Support",
-      "x": "The ship recycling market gained ground last week, as supply remained short. In its latest weekly report, Best Oasis (www.best-oasis.com), a leading cash buyer of ships, said that “the Indian market strengthened during...",
+      "t": "Tankers make sharp U-turns after Houthi shipping threat",
+      "x": "At least seven oil tankers have made U-turns close to Yemen since the Iran-linked Houthi group announced a “maritime embargo” against Saudi Arabia on Monday, ship-tracking data shows. All of the ships were travelling...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ship-recycling-market-finding-renewed-support/"
+      "url": "https://www.hellenicshippingnews.com/tankers-make-sharp-u-turns-after-houthi-shipping-threat/"
     },
     {
-      "published": "2026-07-22T21:00:57+00:00",
-      "d": "22/07",
+      "published": "2026-07-23T21:00:58+00:00",
+      "d": "23/07",
+      "s": "crude",
+      "t": "South Asia capacity cuts and Hormuz closure boost freight rates to 3-year highs",
+      "x": "Freight rates from South Asia to the US and Europe have surged about 50% in the last two weeks, while rates to the UAE and Saudi Arabia have remained more than three times historical levels for the past three months as...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/south-asia-capacity-cuts-and-hormuz-closure-boost-freight-rates-to-3-year-highs/"
+    },
+    {
+      "published": "2026-07-23T21:00:57+00:00",
+      "d": "23/07",
       "s": "dry",
-      "t": "Baltic Dry Index Rises to 1-Week High",
-      "x": "The Baltic dry index rose 1.7% to 2,715 on Wednesday, recording its first gain since July 14. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 4.7% to 4,114, its...",
+      "t": "Baltic Dry Index Rises for 2nd Session",
+      "x": "The Baltic dry index increased 0.4% to 2,725 on Thursday, extending a 1.7% rise in the previous session. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2% to...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-1-week-high/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-2nd-session/"
     },
     {
-      "published": "2026-07-22T21:00:57+00:00",
-      "d": "22/07",
+      "published": "2026-07-23T21:00:53+00:00",
+      "d": "23/07",
       "s": "macro",
-      "t": "Weekly Dry Market Monitor: Port Hedland Average Waiting Time – Iron-Ore Congestion Meets Labour Action",
-      "x": "Waiting time reached multi-month highs. The average vessel waiting time at Port Hedland rose to approximately 8.7 days in the week to 17 July, up from about 8.4 days a week earlier. The 30-day moving average stood at...",
+      "t": "Houthi threat to Saudi port traffic adds fresh Red Sea shipping risk: analysts",
+      "x": "The Houthis’ latest threat to strike tankers calling at Saudi Arabian ports has opened a second major chokepoint on an already strained global energy supply chain, maritime and naval analysts said July 22 during a...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/weekly-dry-market-monitor-port-hedland-average-waiting-time-iron-ore-congestion-meets-labour-action/"
+      "url": "https://www.hellenicshippingnews.com/houthi-threat-to-saudi-port-traffic-adds-fresh-red-sea-shipping-risk-analysts/"
     },
     {
-      "published": "2026-07-22T21:00:51+00:00",
-      "d": "22/07",
-      "s": "crude",
-      "t": "Renewed Strait of Hormuz tensions expose a hidden payments challenge for global shipping, says Ebury",
-      "x": "Renewed tensions in and around the Strait of Hormuz are forcing shipping companies to rethink more than just their vessel routes. According to Ebury, a maritime payments and trade specialist, every change in a shipping...",
+      "published": "2026-07-23T21:00:51+00:00",
+      "d": "23/07",
+      "s": "dry",
+      "t": "Panama Canal to temporarily suspend Period 3 daily auctions; dry bulk markets weigh impact",
+      "x": "The Panama Canal Authority (ACP) will temporarily suspend Daily Auctions for Period 3 booking slots for Regular and Super vessel segments from July 25, reducing booking availability through the Panamax locks as the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/renewed-strait-of-hormuz-tensions-expose-a-hidden-payments-challenge-for-global-shipping-says-ebury/"
+      "url": "https://www.hellenicshippingnews.com/panama-canal-to-temporarily-suspend-period-3-daily-auctions-dry-bulk-markets-weigh-impact/"
     },
     {
-      "published": "2026-07-22T21:00:49+00:00",
-      "d": "22/07",
-      "s": "crude",
-      "t": "China’s imports of Russian crude fall to the lowest in months",
-      "x": "Russia’s crude deliveries to its top three buyers — India, China and Turkey — declined sharply in the week to July 15, according to S&P Global Commodities(opens in a new tab) at Sea data, as significantly lower imports...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/chinas-imports-of-russian-crude-fall-to-the-lowest-in-months/"
-    },
-    {
-      "published": "2026-07-22T21:00:41+00:00",
-      "d": "22/07",
-      "s": "crude",
-      "t": "INTERTANKO: Advice for Members regarding situation in Gulf Region",
-      "x": "The Arabian Gulf has seen a further cycle of violence with attacks on ships and shore installations. Two tankers were struck while transiting the Strait of Hormuz, resulting in multiple casualties and one seafarer...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/intertanko-advice-for-members-regarding-situation-in-gulf-region/"
-    },
-    {
-      "published": "2026-07-22T20:00:07+00:00",
-      "d": "22/07",
+      "published": "2026-07-23T21:00:45+00:00",
+      "d": "23/07",
       "s": "macro",
-      "t": "Splash Ports: A new home for ports intelligence",
-      "x": "Splash Ports, a dedicated vertical covering the ports and terminals sector across container, bulk, and energy operations worldwide, launches today. The new publication has been created to provide daily reporting...",
-      "su": "Splash247",
-      "url": "https://splash247.com/splash-ports-a-new-home-for-ports-intelligence/"
+      "t": "China restarts LNG re-exports on sufficient summer supply, stronger JKM",
+      "x": "Chinese LNG buyers have resumed commercial re-export activity after a three-month pause, as stronger Northeast Asian spot LNG prices and weaker-than-expected domestic demand made selling cargoes abroad more profitable...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/china-restarts-lng-re-exports-on-sufficient-summer-supply-stronger-jkm/"
     },
     {
-      "published": "2026-07-22T15:42:39+00:00",
-      "d": "22/07",
-      "s": "macro",
-      "t": "Houthi Threats Give Oil Markets a ‘Two Chokepoint Problem’",
-      "x": "Ships continue to turn away from the southern end of the Red Sea, after Yemen’s Iran-backed Houthi rebels announced an embargo on Saudi exports through the Bab el-Mandeb Strait, a narrow channel that has become a...",
+      "published": "2026-07-23T17:05:30+00:00",
+      "d": "23/07",
+      "s": "crude",
+      "t": "Houthi Attacks on Saudi Tankers Constrict Crude Trade",
+      "x": "The flow of Middle East energy trade is evolving yet again after attacks on two tankers in the Red Sea by Iran-backed Houthi militants. In a recent maritime security webinar,...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/houthi-threats-give-oil-markets-a-two-chokepoint-problem/"
+      "url": "https://gcaptain.com/houthi-attacks-on-saudi-tankers-constrict-crude-trade/"
     },
     {
-      "published": "2026-07-22T11:30:00+00:00",
-      "d": "22/07",
-      "s": "product",
-      "t": "Fairfield lands Neste charter for ice-class MR tanker pair",
-      "x": "Fairfield Maritime Japan has secured a long-term charter from Finnish refiner Neste covering two ice-class MR product and chemical tankers scheduled for delivery in 2029. The agreement will allow Fairfield Maritime...",
-      "su": "Splash247",
-      "url": "https://splash247.com/fairfield-lands-neste-charter-for-ice-class-mr-tanker-pair/"
+      "published": "2026-07-23T16:26:00+00:00",
+      "d": "23/07",
+      "s": "dry",
+      "t": "Shipowners Halt Calls at Ukraine’s Black Sea Ports, Wary of Russian Strikes",
+      "x": "Shipowners halted vessel arrivals at Ukraine's Black Sea ports due to intensified Russian strikes, Kyiv said, as President Volodymyr Zelenskiy warned Moscow might escalate attacks in order to block the country's main...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/shipowners-halt-calls-at-ukraines-black-sea-ports-wary-of-russian-strikes/"
     },
     {
-      "published": "2026-07-22T08:45:00+00:00",
-      "d": "22/07",
+      "published": "2026-07-23T15:31:22+00:00",
+      "d": "23/07",
+      "s": "macro",
+      "t": "Container Spot Rates Fall as Capacity Growth Pressures Freight Rates",
+      "x": "Spot container freight rates continued to ease this week as additional vessel capacity and softer demand weighed on the world’s major east-west trade lanes, according to the latest Drewry World...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/container-spot-rates-fall-as-capacity-growth-pressures-freight-rates/"
+    },
+    {
+      "published": "2026-07-23T14:57:55+00:00",
+      "d": "23/07",
       "s": "crude",
-      "t": "Houthi threat tightens Saudi oil pincer",
-      "x": "Tankers carrying Saudi crude as well as a Chinese car carrier have turned back in the Red Sea over the past 24 hours after Yemen’s Houthis declared a naval blockade on Saudi Arabia, threatening the fallback export route...",
+      "t": "DP World Expands UAE Gateway Bypassing the Strait of Hormuz",
+      "x": "DP World has signed an agreement in principle with the Fujairah Ports Authority to develop two new port terminals on the UAE’s east coast, expanding capacity at a strategically located...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/dp-world-expands-uae-gateway-bypassing-the-strait-of-hormuz/"
+    },
+    {
+      "published": "2026-07-23T14:45:49+00:00",
+      "d": "23/07",
+      "s": "dry",
+      "t": "Diana rolls panamax bulker into stronger Stone Shipping fixture",
+      "x": "New York-listed Greek owner Diana Shipping has locked in a 63% rate increase for one of its panamax bulkers after extending the vessel’s employment with Stone Shipping. The 2014-built, 77,529 dwt ice-class Atalandi will...",
       "su": "Splash247",
-      "url": "https://splash247.com/houthi-threat-tightens-saudi-oil-pincer/"
+      "url": "https://splash247.com/diana-rolls-panamax-bulker-into-stronger-stone-shipping-fixture/"
+    },
+    {
+      "published": "2026-07-23T14:32:16+00:00",
+      "d": "23/07",
+      "s": "crude",
+      "t": "Trump Warns Iran of ‘Major Military Punishment’ After Houthi Tanker Attacks",
+      "x": "President Donald Trump on Thursday threatened direct military retaliation against Iran after Yemen’s Houthi movement resumed attacks on commercial shipping, targeting two Saudi oil tankers in the Red Sea and...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/trump-warns-iran-of-major-military-punishment-after-houthi-tanker-attacks/"
     }
   ]
 }
