@@ -1,107 +1,113 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "items": [
     {
-      "published": "2026-08-03T21:00:59+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "MABUX: Bunker Market Volatility to Persist in August",
-      "x": "The global bunker market in July was shaped primarily by geopolitical developments, crude price volatility, regional supply dynamics and logistics constraints. The key market drivers included: Middle East geopolitical...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/mabux-bunker-market-volatility-to-persist-in-august/"
-    },
-    {
-      "published": "2026-08-03T21:00:59+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "Tanker Shipping Under Fire from Middle East Tensions",
-      "x": "Navigational safety is once again the topic of discussion in the Middle East, after the latest escalation coming from the Houthi regime in Yemen, on top of concerns regarding Hormuz. In its latest weekly report...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-shipping-under-fire-from-middle-east-tensions/"
-    },
-    {
-      "published": "2026-08-03T21:00:58+00:00",
-      "d": "03/08",
+      "published": "2026-08-04T21:00:59+00:00",
+      "d": "04/08",
       "s": "dry",
-      "t": "A Renewed Chapter on the Strikes: The Capesize Pacific in Focus",
-      "x": "August opens with a renewed chapter on the Port Hedland strikes. Using AXS Dry Insights, we review the Capesize Pacific the flow of iron-ore shipments and the ballasters map to gauge the impact on today’s spot market...",
+      "t": "Baltic Dry Index at 3-Week High",
+      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, adavanced for a fourth straight session on Tuesday, rising about 3.3% to a three-week high of 2,936 points. The...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-3-week-high/"
     },
     {
-      "published": "2026-08-03T21:00:57+00:00",
-      "d": "03/08",
+      "published": "2026-08-04T21:00:59+00:00",
+      "d": "04/08",
+      "s": "crude",
+      "t": "Will the Gulf Oil Be Transported By Land in the Future?",
+      "x": "The tanker market could be faced with a totally different scenario in the future, regardless of what happens in the Strait of Hormuz, since, it now looks that the previous status won’t return, even after an agreement is...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/will-the-gulf-oil-be-transported-by-land-in-the-future/"
+    },
+    {
+      "published": "2026-08-04T21:00:58+00:00",
+      "d": "04/08",
+      "s": "crude",
+      "t": "From products to crude: how the strikes reshaped Russia’s seaborne exports",
+      "x": "From products to crude: how the strikes reshaped Russia’s seaborne exports Ukraine’s strikes on Russian ports and refineries stepped up sharply after March 2026, and the effect on Russia’s seaborne oil trade was not...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports/"
+    },
+    {
+      "published": "2026-08-04T21:00:53+00:00",
+      "d": "04/08",
+      "s": "crude",
+      "t": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+      "x": "The threat to ships carrying oil in the Middle East is at its worst since the Iran war started, experts have said, after a spate of attacks on another key route in the region. The warning comes after a number of attacks...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/threat-to-oil-tankers-in-middle-east-worst-since-start-of-iran-war-analysts-say/"
+    },
+    {
+      "published": "2026-08-04T21:00:51+00:00",
+      "d": "04/08",
+      "s": "macro",
+      "t": "OneLink Performance calls on maritime industry to turn data into profit",
+      "x": "Leading digital platform OneLink Performance is urging shipowners, operators and technical managers to rethink the role of maritime dashboards, arguing that reporting should guide decisions and prove business impact...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/onelink-performance-calls-on-maritime-industry-to-turn-data-into-profit/"
+    },
+    {
+      "published": "2026-08-04T21:00:49+00:00",
+      "d": "04/08",
+      "s": "macro",
+      "t": "ENGINE: East of Suez Fuel Availability Outlook",
+      "x": "Singapore and Malaysia VLSFO availability in Singapore remains tight, with suppliers recommending lead times of 12-24 days, compared with 16-20 days last week. Supply continues to be under pressure as the port’s fuel...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-fuel-availability-outlook-5/"
+    },
+    {
+      "published": "2026-08-04T19:28:10+00:00",
+      "d": "04/08",
+      "s": "macro",
+      "t": "Canada Charters Finnish Icebreaker Nordica to Support Arctic Operations",
+      "x": "Finnish state-owned icebreaking company Arctia has secured a contract to deploy one of its multipurpose icebreakers to Canada’s Arctic later this year, providing additional capacity for the Canadian Coast Guard...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/canada-charters-finnish-icebreaker-nordica-to-support-arctic-operations/"
+    },
+    {
+      "published": "2026-08-04T12:35:03+00:00",
+      "d": "04/08",
+      "s": "product",
+      "t": "Torm tied to MR newbuild series in China",
+      "x": "Danish product tanker giant Torm has been linked to an order for up to eight MR newbuildings at China’s Zhoushan Changhong International Shipyard. Shipbroking sources are reporting a deal covering six firm 50,000 dwt...",
+      "su": "Splash247",
+      "url": "https://splash247.com/torm-tied-to-mr-newbuild-series-in-china/"
+    },
+    {
+      "published": "2026-08-04T09:47:00+00:00",
+      "d": "04/08",
+      "s": "product",
+      "t": "Arcadia expands newbuild programme with Hengli LR2 trio",
+      "x": "Greek tanker owner Arcadia Shipmanagement has added three aframax/LR2 newbuildings at China’s Hengli Heavy Industries, taking its tanker orderbook to nine ships. The Panagiotis and George Angelopoulos-led company has...",
+      "su": "Splash247",
+      "url": "https://splash247.com/arcadia-expands-newbuild-programme-with-hengli-lr2-trio/"
+    },
+    {
+      "published": "2026-08-04T08:33:06+00:00",
+      "d": "04/08",
+      "s": "macro",
+      "t": "Three seriously injured as drone strikes Turkish roro off Novorossiysk",
+      "x": "Three seafarers have been seriously injured after the Turkish-owned roro Nadezhda was struck by a drone close to Russia’s Black Sea port of Novorossiysk, the latest merchant ship casualty in an increasingly lethal...",
+      "su": "Splash247",
+      "url": "https://splash247.com/three-seriously-injured-as-drone-strikes-turkish-roro-off-novorossiysk/"
+    },
+    {
+      "published": "2026-08-04T08:04:31+00:00",
+      "d": "04/08",
       "s": "dry",
-      "t": "Baltic Dry Index Extends Gains to Over 2-Week High",
-      "x": "The Baltic dry index surged 4.1% to 2,843 on Monday, its highest level since July 15. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, soared 6.2% to an over two-week high...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-extends-gains-to-over-2-week-high/"
+      "t": "Crewmember missing after bulker struck in Hormuz",
+      "x": "A seafarer is reported missing after a Greek-operated bulk carrier was struck by an unidentified projectile while sailing northbound through the Strait of Hormuz, the latest merchant ship casualty in waters off Oman...",
+      "su": "Splash247",
+      "url": "https://splash247.com/crewmember-missing-after-bulker-struck-in-hormuz/"
     },
     {
-      "published": "2026-08-03T21:00:55+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "A Second Qatari LNG Carrier Struck as 22 Chinese Vessels Cross the Red Sea Unharmed",
-      "x": "Operational Overview Two parallel escalations are shaping the maritime picture. Iran is tightening its grip on Hormuz. The Houthis are tightening theirs on the Red Sea. Chinese-linked shipping is moving freely through...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/a-second-qatari-lng-carrier-struck-as-22-chinese-vessels-cross-the-red-sea-unharmed/"
-    },
-    {
-      "published": "2026-08-03T21:00:54+00:00",
-      "d": "03/08",
-      "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 31 July 2026",
-      "x": "In the week ending Jul-31, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-31-july-2026/"
-    },
-    {
-      "published": "2026-08-03T15:55:43+00:00",
-      "d": "03/08",
-      "s": "macro",
-      "t": "EU Warship Boards Another Sanctioned Russian Shadow Fleet Tanker in Mediterranean",
-      "x": "European naval forces have boarded another sanctioned tanker linked to Russia’s so-called “shadow fleet,” marking the latest enforcement action as the European Union ramps up pressure on vessels suspected of...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/eu-warship-boards-another-sanctioned-russian-shadow-fleet-tanker-in-mediterranean/"
-    },
-    {
-      "published": "2026-08-03T13:41:38+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "Clarksons Posts Record First-Half Profit as Hormuz Crisis Drives Shipping Boom",
-      "x": "Shipbroker and maritime services giant Clarksons reported record first-half earnings on Monday, saying disruption caused by the Strait of Hormuz crisis helped fuel exceptional trading conditions across global shipping...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/clarksons-posts-record-first-half-profit-as-hormuz-crisis-drives-shipping-boom/"
-    },
-    {
-      "published": "2026-08-03T10:32:14+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "Russia Assembles Unprecedented Arctic Oil Convoy to Bypass Global Shipping Hotspots",
-      "x": "Russia has assembled an unprecedented fleet of oil tankers in the Arctic as it accelerates crude exports to Asia via the Northern Sea Route, with vessels carrying roughly 8 million barrels of oil already transiting or...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-assembles-unprecedented-arctic-oil-convoy-to-bypass-global-shipping-hotspots/"
-    },
-    {
-      "published": "2026-08-03T09:46:00+00:00",
-      "d": "03/08",
-      "s": "macro",
-      "t": "Saudi’s Yanbu Port Bustles as More Tankers Cross Chokepoint Dark",
-      "x": "The key Saudi export port of Yanbu in the Red Sea appeared to have its busiest day since Houthi threats upended shipping in the region, while more ships transited dark through the Bab el-Mandeb chokepoint.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/saudis-yanbu-port-bustles-as-more-tankers-cross-chokepoint-dark/"
-    },
-    {
-      "published": "2026-08-03T01:38:42+00:00",
-      "d": "03/08",
-      "s": "crude",
-      "t": "Two Tankers With Saudi Oil Exit Red Sea Over Weekend",
-      "x": "By Florence Tan SINGAPORE, Aug 3 (Reuters) – Two tankers laden with Saudi oil crossed the Bab el-Mandeb strait over the weekend, while traffic in the Strait of Hormuz slowed following reports...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/two-tankers-with-saudi-oil-exit-red-sea-over-weekend/"
+      "published": "2026-08-04T06:17:46+00:00",
+      "d": "04/08",
+      "s": "dry",
+      "t": "Zodiac Maritime lands record price in first capesize sale of the year",
+      "x": "Eyal Ofer’s Zodiac Maritime has completed its first capesize disposal of the year, with brokers telling Splash the company has secured a record price for a vintage vessel. No taker has been linked to the deal. The...",
+      "su": "Splash247",
+      "url": "https://splash247.com/zodiac-maritime-lands-record-price-in-first-capesize-sale-of-the-year/"
     }
-  ],
-  "errors": [
-    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
