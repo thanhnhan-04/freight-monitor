@@ -1,113 +1,95 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "items": [
     {
-      "published": "2026-08-04T21:00:59+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T21:00:59+00:00",
+      "d": "05/08",
       "s": "dry",
-      "t": "Baltic Dry Index at 3-Week High",
-      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, adavanced for a fourth straight session on Tuesday, rising about 3.3% to a three-week high of 2,936 points. The...",
+      "t": "Baltic Dry Index Up to 2-Month High",
+      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for a fifth straight session on Wednesday, climbing by 4.3% to its highest since June 3 at 3,063 points...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-3-week-high/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-to-2-month-high/"
     },
     {
-      "published": "2026-08-04T21:00:59+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T21:00:58+00:00",
+      "d": "05/08",
       "s": "crude",
-      "t": "Will the Gulf Oil Be Transported By Land in the Future?",
-      "x": "The tanker market could be faced with a totally different scenario in the future, regardless of what happens in the Strait of Hormuz, since, it now looks that the previous status won’t return, even after an agreement is...",
+      "t": "Dirty tanker loadings drop 62% from Russian ports in the Black Sea and Sea of Azov",
+      "x": "“During the last two weeks of July, dirty tanker loadings from Russian Black Sea and Sea of Azov ports fell 62% compared to the previous four weeks’ average. Exports averaged 0.98 million barrels per day (mbpd) compared...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/will-the-gulf-oil-be-transported-by-land-in-the-future/"
+      "url": "https://www.hellenicshippingnews.com/dirty-tanker-loadings-drop-62-from-russian-ports-in-the-black-sea-and-sea-of-azov/"
     },
     {
-      "published": "2026-08-04T21:00:58+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T21:00:57+00:00",
+      "d": "05/08",
+      "s": "lpg",
+      "t": "Geopolitical Disruption Boosts Dorian LPG’s First Quarter Fiscal Year 2027 Financial Results",
+      "x": "Dorian LPG Ltd., a leading owner and operator of modern very large gas carriers (“VLGCs”), reported its financial results for the three months ended June 30, 2026. Key Recent Developments • Declared an irregular cash...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/geopolitical-disruption-boosts-dorian-lpgs-first-quarter-fiscal-year-2027-financial-results/"
+    },
+    {
+      "published": "2026-08-05T21:00:55+00:00",
+      "d": "05/08",
       "s": "crude",
-      "t": "From products to crude: how the strikes reshaped Russia’s seaborne exports",
-      "x": "From products to crude: how the strikes reshaped Russia’s seaborne exports Ukraine’s strikes on Russian ports and refineries stepped up sharply after March 2026, and the effect on Russia’s seaborne oil trade was not...",
+      "t": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+      "x": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products. Exports of...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports/"
+      "url": "https://www.hellenicshippingnews.com/strait-of-hormuz-disruption-hits-energy-fertilizer-and-industrial-trade/"
     },
     {
-      "published": "2026-08-04T21:00:53+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T21:00:54+00:00",
+      "d": "05/08",
+      "s": "macro",
+      "t": "Fearnleys Week 32 2026",
+      "x": "Geopolitical tensions continue to fuel the volatility in rates. Houthi attacks are now starting to restrict movements and transits into the Red Sea. Source: Fearnleys A.S",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/fearnleys-week-32-2026/"
+    },
+    {
+      "published": "2026-08-05T21:00:53+00:00",
+      "d": "05/08",
       "s": "crude",
-      "t": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "x": "The threat to ships carrying oil in the Middle East is at its worst since the Iran war started, experts have said, after a spate of attacks on another key route in the region. The warning comes after a number of attacks...",
+      "t": "Ukraine’s Drones Reach Western Tonnage in the Black Sea as Saudi Diversions Around the Cape Widen",
+      "x": "Operational Overview Two parallel adaptations are now visibly reshaping the world’s crude flows. In the Black Sea, Ukraine’s drone campaign has widened beyond Russia’s own shadow fleet to Western-affiliated vessels...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/threat-to-oil-tankers-in-middle-east-worst-since-start-of-iran-war-analysts-say/"
+      "url": "https://www.hellenicshippingnews.com/ukraines-drones-reach-western-tonnage-in-the-black-sea-as-saudi-diversions-around-the-cape-widen/"
     },
     {
-      "published": "2026-08-04T21:00:51+00:00",
-      "d": "04/08",
-      "s": "macro",
-      "t": "OneLink Performance calls on maritime industry to turn data into profit",
-      "x": "Leading digital platform OneLink Performance is urging shipowners, operators and technical managers to rethink the role of maritime dashboards, arguing that reporting should guide decisions and prove business impact...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/onelink-performance-calls-on-maritime-industry-to-turn-data-into-profit/"
-    },
-    {
-      "published": "2026-08-04T21:00:49+00:00",
-      "d": "04/08",
-      "s": "macro",
-      "t": "ENGINE: East of Suez Fuel Availability Outlook",
-      "x": "Singapore and Malaysia VLSFO availability in Singapore remains tight, with suppliers recommending lead times of 12-24 days, compared with 16-20 days last week. Supply continues to be under pressure as the port’s fuel...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-fuel-availability-outlook-5/"
-    },
-    {
-      "published": "2026-08-04T19:28:10+00:00",
-      "d": "04/08",
-      "s": "macro",
-      "t": "Canada Charters Finnish Icebreaker Nordica to Support Arctic Operations",
-      "x": "Finnish state-owned icebreaking company Arctia has secured a contract to deploy one of its multipurpose icebreakers to Canada’s Arctic later this year, providing additional capacity for the Canadian Coast Guard...",
+      "published": "2026-08-05T17:39:34+00:00",
+      "d": "05/08",
+      "s": "crude",
+      "t": "Houthis Escalate Red Sea Campaign, Claim Eighth Saudi Tanker Attack",
+      "x": "The Houthis on Wednesday claimed responsibility for another attack on a Saudi oil tanker, while UK Maritime Trade Operations (UKMTO) issued a fresh warning about a separate explosion near a...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/canada-charters-finnish-icebreaker-nordica-to-support-arctic-operations/"
+      "url": "https://gcaptain.com/houthis-escalate-red-sea-campaign-claim-eighth-saudi-tanker-attack/"
     },
     {
-      "published": "2026-08-04T12:35:03+00:00",
-      "d": "04/08",
-      "s": "product",
-      "t": "Torm tied to MR newbuild series in China",
-      "x": "Danish product tanker giant Torm has been linked to an order for up to eight MR newbuildings at China’s Zhoushan Changhong International Shipyard. Shipbroking sources are reporting a deal covering six firm 50,000 dwt...",
-      "su": "Splash247",
-      "url": "https://splash247.com/torm-tied-to-mr-newbuild-series-in-china/"
+      "published": "2026-08-05T11:32:38+00:00",
+      "d": "05/08",
+      "s": "crude",
+      "t": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
+      "x": "A growing flotilla of Iranian oil tankers is gathering off the country’s coast, a sign the renewed US naval blockade is disrupting Tehran’s energy exports and depriving it of much-needed revenue.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/dozens-of-idling-iranian-oil-tankers-show-us-blockade-is-working/"
     },
     {
-      "published": "2026-08-04T09:47:00+00:00",
-      "d": "04/08",
-      "s": "product",
-      "t": "Arcadia expands newbuild programme with Hengli LR2 trio",
-      "x": "Greek tanker owner Arcadia Shipmanagement has added three aframax/LR2 newbuildings at China’s Hengli Heavy Industries, taking its tanker orderbook to nine ships. The Panagiotis and George Angelopoulos-led company has...",
-      "su": "Splash247",
-      "url": "https://splash247.com/arcadia-expands-newbuild-programme-with-hengli-lr2-trio/"
-    },
-    {
-      "published": "2026-08-04T08:33:06+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T10:20:06+00:00",
+      "d": "05/08",
       "s": "macro",
-      "t": "Three seriously injured as drone strikes Turkish roro off Novorossiysk",
-      "x": "Three seafarers have been seriously injured after the Turkish-owned roro Nadezhda was struck by a drone close to Russia’s Black Sea port of Novorossiysk, the latest merchant ship casualty in an increasingly lethal...",
+      "t": "Goldenport lifts ultramax newbuild bet",
+      "x": "Greek owner Goldenport Shipmanagement has reportedly doubled its ultramax newbuilding programme at China’s Nantong Xiangyu Shipbuilding & Offshore Engineering, adding two more vessels. Broker database entries show the...",
       "su": "Splash247",
-      "url": "https://splash247.com/three-seriously-injured-as-drone-strikes-turkish-roro-off-novorossiysk/"
+      "url": "https://splash247.com/goldenport-lifts-ultramax-newbuild-bet/"
     },
     {
-      "published": "2026-08-04T08:04:31+00:00",
-      "d": "04/08",
+      "published": "2026-08-05T08:07:51+00:00",
+      "d": "05/08",
       "s": "dry",
-      "t": "Crewmember missing after bulker struck in Hormuz",
-      "x": "A seafarer is reported missing after a Greek-operated bulk carrier was struck by an unidentified projectile while sailing northbound through the Strait of Hormuz, the latest merchant ship casualty in waters off Oman...",
+      "t": "Black Sea attacks choke grain, coal and iron ore trades",
+      "x": "Russia has claimed strikes on four vessels and port infrastructure across Ukraine as the Black Sea has become the world’s most dangerous environment for commercial shipping. The Russian defence ministry said its forces...",
       "su": "Splash247",
-      "url": "https://splash247.com/crewmember-missing-after-bulker-struck-in-hormuz/"
-    },
-    {
-      "published": "2026-08-04T06:17:46+00:00",
-      "d": "04/08",
-      "s": "dry",
-      "t": "Zodiac Maritime lands record price in first capesize sale of the year",
-      "x": "Eyal Ofer’s Zodiac Maritime has completed its first capesize disposal of the year, with brokers telling Splash the company has secured a record price for a vintage vessel. No taker has been linked to the deal. The...",
-      "su": "Splash247",
-      "url": "https://splash247.com/zodiac-maritime-lands-record-price-in-first-capesize-sale-of-the-year/"
+      "url": "https://splash247.com/black-sea-attacks-choke-grain-coal-and-iron-ore-trades/"
     }
   ]
 }
