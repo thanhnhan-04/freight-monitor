@@ -1,113 +1,113 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-10",
   "items": [
     {
-      "published": "2026-08-06T21:00:59+00:00",
-      "d": "06/08",
-      "s": "dry",
-      "t": "Baltic Dry Index Breaks 5-Day Advance",
-      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, snapped a five-day winning streak on Thursday, falling about 0.2% to 3,057 points. The capesize index, which...",
+      "published": "2026-08-09T21:00:59+00:00",
+      "d": "09/08",
+      "s": "crude",
+      "t": "Tanker Market: Can Kazakh Crude Fill the Gaps?",
+      "x": "With crude oil loading hubs in the Middle East already under pressure, things aren’t so bright either in other parts of the world. In its latest weekly report, shipbroker Gibson said that “after the disruption at the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-5-day-advance/"
+      "url": "https://www.hellenicshippingnews.com/tanker-market-can-kazakh-crude-fill-the-gaps/"
     },
     {
-      "published": "2026-08-06T21:00:59+00:00",
-      "d": "06/08",
+      "published": "2026-08-09T21:00:58+00:00",
+      "d": "09/08",
+      "s": "dry",
+      "t": "Asia-US container rates rise, tanker rates ex-USG steady; Panama Canal lowers draft limits",
+      "x": "Rates for shipping containers from east Asia and China to the US were mostly higher, liquid chemical tanker rates ex-US Gulf were largely stable, and the Panama Canal issued further drafts restrictions, highlighting...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-tanker-rates-ex-usg-steady-panama-canal-lowers-draft-limits/"
+    },
+    {
+      "published": "2026-08-09T21:00:58+00:00",
+      "d": "09/08",
+      "s": "dry",
+      "t": "Dry Bulk Market: Capesizes Showing Strength",
+      "x": "Capesize The market enjoyed a notably stronger week overall, with sentiment remaining firmly positive throughout. Strength in both the Pacific and Atlantic basins underpinned the rally, driving the BCI 5TC from $41,395...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strength/"
+    },
+    {
+      "published": "2026-08-09T21:00:56+00:00",
+      "d": "09/08",
+      "s": "crude",
+      "t": "Tankers: VLCCs Moving Higher",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index ticked up early this week by 14 points to WS522 where it currently has been for 3 days. A voyage west, on the other hand, dropped marginally with the TC20 90kt MEG/UK-Continent...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-vlccs-moving-higher/"
+    },
+    {
+      "published": "2026-08-09T21:00:52+00:00",
+      "d": "09/08",
+      "s": "crude",
+      "t": "Oil Producers Buy Tankers Directly to Navigate Blocked Routes",
+      "x": "Oil-producing countries that have frequently experienced blockages in major Middle Eastern shipping routes, such as the Strait of Hormuz and the Red Sea due to wars, are increasingly purchasing oil tankers directly—a...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/oil-producers-buy-tankers-directly-to-navigate-blocked-routes/"
+    },
+    {
+      "published": "2026-08-09T21:00:50+00:00",
+      "d": "09/08",
+      "s": "crude",
+      "t": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "x": "Iran on Saturday laid out sweeping demands to the U.S. for reopening the Strait of Hormuz, according to media reports. The Secretary of Iran’s Supreme National Security Council, Mohammad Bagher Zolghadr, said Saturday...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/iran-sets-conditions-for-opening-strait-of-hormuz-after-uae-says-one-of-its-ships-was-targeted-by-airstrike/"
+    },
+    {
+      "published": "2026-08-09T20:00:00+00:00",
+      "d": "09/08",
       "s": "product",
-      "t": "Strong Newbuilding Ordering Still the Norm",
-      "x": "Strong newbuilding ordering has remained the case over the past week. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained healthy this week, with contracting led by strong...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/strong-newbuilding-ordering-still-the-norm/"
-    },
-    {
-      "published": "2026-08-06T21:00:57+00:00",
-      "d": "06/08",
-      "s": "crude",
-      "t": "Strait of Hormuz — a Renewed Blockade Impairs Dry-Bulk Crossings",
-      "x": "On 13 July 2026, US Central Command announced a renewed naval blockade of Iranian ports (effective 14 July), ending a 60-day ceasefire following Iran’s 7 July attacks on commercial vessels in the strait. Average daily...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/strait-of-hormuz-a-renewed-blockade-impairs-dry-bulk-crossings/"
-    },
-    {
-      "published": "2026-08-06T21:00:47+00:00",
-      "d": "06/08",
-      "s": "dry",
-      "t": "Panama Canal Announces New Draft Adjustments for Neopanamax Locks",
-      "x": "The Panama Canal Authority announced, through a notice to shipping companies, that effective August 26, 2026, the maximum authorized draft for vessels transiting the Neopanamax locks will be reduced to 48 feet (14.63...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/panama-canal-announces-new-draft-adjustments-for-neopanamax-locks/"
-    },
-    {
-      "published": "2026-08-06T21:00:45+00:00",
-      "d": "06/08",
-      "s": "product",
-      "t": "ThPA S.A.: A new investment in state-of-the-art equipment to enhance productivity and improve service quality",
-      "x": "ThPA S.A. has received and is commissioning into operation eight new hybrid diesel-electric Straddle Carriers, further renewing the mechanical equipment of the Container Terminal, in parallel with the progress of the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/thpa-s-a-a-new-investment-in-state-of-the-art-equipment-to-enhance-productivity-and-improve-service-quality/"
-    },
-    {
-      "published": "2026-08-06T21:00:33+00:00",
-      "d": "06/08",
-      "s": "dry",
-      "t": "DryDel secures K Line charter for four scrubber-fitted bulk carriers",
-      "x": "The four vessels will be Greek dry bulk shipowner DryDel Shipping’s first Capesize newbuilds. The vessels are being built at Japan’s Namura Shipbuilding and will operate under five-year charters. These scrubber-fitted...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/drydel-secures-k-line-charter-for-four-scrubber-fitted-bulk-carriers/"
-    },
-    {
-      "published": "2026-08-06T20:49:30+00:00",
-      "d": "06/08",
-      "s": "crude",
-      "t": "UK Targets Arctic LNG Carrier, Five Oil Tankers in Latest Russia Sanctions Package",
-      "x": "The United Kingdom has expanded its sanctions against Russia with a new package targeting shipping, banking, and industrial entities, including six vessels accused of transporting Russian energy exports and an...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/uk-targets-arctic-lng-carrier-five-oil-tankers-in-latest-russia-sanctions-package/"
-    },
-    {
-      "published": "2026-08-06T15:46:58+00:00",
-      "d": "06/08",
-      "s": "crude",
-      "t": "Shipping Industry Sees Major Obstacles to Iran’s Hormuz Control Plan",
-      "x": "A proposed deal between Iran and Oman that would give Tehran control over ships entering the Gulf through the Strait of Hormuz is not easily workable due to U.S. sanctions and restrictive insurance clauses on any...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/shipping-industry-sees-major-obstacles-to-irans-hormuz-control-plan/"
-    },
-    {
-      "published": "2026-08-06T14:19:09+00:00",
-      "d": "06/08",
-      "s": "dry",
-      "t": "Panama Canal to Tighten Draft Limits Again as Water Levels Continue to Fall",
-      "x": "The Panama Canal Authority (ACP) will impose another round of draft restrictions for vessels transiting its Neopanamax locks later this month as water levels in Gatun Lake continue to decline...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/panama-canal-to-tighten-draft-limits-again-as-water-levels-continue-to-fall/"
-    },
-    {
-      "published": "2026-08-06T13:39:23+00:00",
-      "d": "06/08",
-      "s": "crude",
-      "t": "Middle East Situation Remains “Predictably Unpredictable,” Lloyd’s List Intelligence",
-      "x": "Almost six months into the U.S./ Israel war with Iran, the state of the Strait of Hormuz is still constrained. Ambrey has alerted another tanker aborted its transit through the Strait of Hormuz after two explosions were...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/middle-east-situation-remains-predictably-unpredictable-lloyds-list-intelligence/"
-    },
-    {
-      "published": "2026-08-06T09:59:00+00:00",
-      "d": "06/08",
-      "s": "crude",
-      "t": "Bruton lands six-figure rate for second new VLCC",
-      "x": "Tor Olav Trøim-backed Bruton has fixed its second VLCC newbuilding at a net rate of $105,700 per day. The Oslo-listed tanker owner has placed the 300,000 dwt Mount Horizon on a fixed-rate charter lasting between 12 and...",
+      "t": "Brookfield inherits major Torm stake",
+      "x": "Brookfield has taken indirect control of a 19.86% stake in Danish product tanker owner Torm following the Canadian investment group’s full acquisition of Oaktree. Torm said Oaktree no longer indirectly held any shares...",
       "su": "Splash247",
-      "url": "https://splash247.com/bruton-lands-six-figure-rate-for-second-new-vlcc/"
+      "url": "https://splash247.com/brookfield-inherits-major-torm-stake/"
     },
     {
-      "published": "2026-08-06T09:30:00+00:00",
-      "d": "06/08",
+      "published": "2026-08-09T19:20:00+00:00",
+      "d": "09/08",
       "s": "dry",
-      "t": "Hagland brings in Gerdes newbuild on charter",
-      "x": "Norwegian shortsea operator Hagland Shipping has taken a battery-hybrid mini-bulker on a multiyear charter from Germany’s Reederei Gerdes and commercial platform over-C. The 2026-built Forty-Two G is a 3,800 dwt Damen...",
+      "t": "Castor shifts kamsarmax into Fearnley-backed venture",
+      "x": "Castor Maritime has moved its kamsarmax Magic Starlight into a Fearnley-arranged joint venture, taking $18.75m in cash while retaining a 30% interest in the vessel. The Nasdaq-listed owner established the vehicle with...",
       "su": "Splash247",
-      "url": "https://splash247.com/hagland-brings-in-gerdes-newbuild-on-charter/"
+      "url": "https://splash247.com/castor-shifts-kamsarmax-into-fearnley-backed-venture/"
+    },
+    {
+      "published": "2026-08-09T19:00:00+00:00",
+      "d": "09/08",
+      "s": "dry",
+      "t": "Diana adds to rate gains with new capesize fixture",
+      "x": "Greek bulker owner Diana Shipping has secured an 18% rate increase for its capesize Florida in a new charter with Japan’s NYK. The 2022-built, 182,063 dwt vessel will earn $30,500 per day, minus a 5% commission, for...",
+      "su": "Splash247",
+      "url": "https://splash247.com/diana-adds-to-rate-gains-with-new-capesize-fixture/"
+    },
+    {
+      "published": "2026-08-09T16:18:23+00:00",
+      "d": "09/08",
+      "s": "macro",
+      "t": "Turkey Resumes Black Sea Ship Transits Via Straits After Delays",
+      "x": "By Patrick Sykes Aug 9, 2026 (Bloomberg) –Turkey resumed allowing ships to transit its straits on the way to the Black Sea, following unexplained delays for some vessels amid heightened security...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/turkey-resumes-black-sea-ship-transits-via-straits-after-delays/"
+    },
+    {
+      "published": "2026-08-09T13:10:48+00:00",
+      "d": "09/08",
+      "s": "macro",
+      "t": "Russia Says It Struck Vessels And Military Facilities Supporting Ukraine In Odesa",
+      "x": "MOSCOW, Aug 8 (Reuters) – Russia continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military, Russia’s Defence Ministry said on Saturday. The ministry said Russian forces used...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa/"
+    },
+    {
+      "published": "2026-08-08T13:07:44+00:00",
+      "d": "08/08",
+      "s": "crude",
+      "t": "UAE Says Iran Attacked Vessel With Missile In Strait of Hormuz",
+      "x": "Aug 8 (Reuters) – The United Arab Emirates on Saturday condemned what it said was an Iranian attack on a carrier linked to its state oil company as it passed through the Strait...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/uae-says-iran-attacked-vessel-with-missile-in-strait-of-hormuz/"
     }
   ]
 }
