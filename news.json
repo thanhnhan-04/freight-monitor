@@ -1,113 +1,113 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "items": [
     {
-      "published": "2026-08-09T21:00:59+00:00",
-      "d": "09/08",
-      "s": "crude",
-      "t": "Tanker Market: Can Kazakh Crude Fill the Gaps?",
-      "x": "With crude oil loading hubs in the Middle East already under pressure, things aren’t so bright either in other parts of the world. In its latest weekly report, shipbroker Gibson said that “after the disruption at the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-market-can-kazakh-crude-fill-the-gaps/"
-    },
-    {
-      "published": "2026-08-09T21:00:58+00:00",
-      "d": "09/08",
+      "published": "2026-08-10T21:00:59+00:00",
+      "d": "10/08",
       "s": "dry",
-      "t": "Asia-US container rates rise, tanker rates ex-USG steady; Panama Canal lowers draft limits",
-      "x": "Rates for shipping containers from east Asia and China to the US were mostly higher, liquid chemical tanker rates ex-US Gulf were largely stable, and the Panama Canal issued further drafts restrictions, highlighting...",
+      "t": "Chinese port stocks rise further as steel demand softens",
+      "x": "Iron ore market fundamentals softened further in July as Chinese steel demand remained subdued and port inventories continued to build. While Australia’s and Brazil’s exports face growing headwinds, Simandou is steadily...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-tanker-rates-ex-usg-steady-panama-canal-lowers-draft-limits/"
+      "url": "https://www.hellenicshippingnews.com/chinese-port-stocks-rise-further-as-steel-demand-softens/"
     },
     {
-      "published": "2026-08-09T21:00:58+00:00",
-      "d": "09/08",
+      "published": "2026-08-10T21:00:59+00:00",
+      "d": "10/08",
+      "s": "macro",
+      "t": "LNG Shipping Softened Last Week",
+      "x": "LNG The LNG market softened this week, with shrinking cargo enquiry and a growing tonnage list putting pressure on freight rates. On the BLNG1 Australia–Japan route, rates eased by $800 week-on-week to settle at...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/lng-shipping-softened-last-week/"
+    },
+    {
+      "published": "2026-08-10T21:00:55+00:00",
+      "d": "10/08",
+      "s": "crude",
+      "t": "Ukraine agrees to avoid targeting some tankers and Black Sea oil infrastructure",
+      "x": "Ukraine has agreed not to target certain non-Russian oil tankers or infrastructure used to export Kazakhstan’s crude through the Black Sea, Bloomberg reported, citing a U.S. official familiar with the private agreement...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ukraine-agrees-to-avoid-targeting-some-tankers-and-black-sea-oil-infrastructure/"
+    },
+    {
+      "published": "2026-08-10T21:00:50+00:00",
+      "d": "10/08",
       "s": "dry",
-      "t": "Dry Bulk Market: Capesizes Showing Strength",
-      "x": "Capesize The market enjoyed a notably stronger week overall, with sentiment remaining firmly positive throughout. Strength in both the Pacific and Atlantic basins underpinned the rally, driving the BCI 5TC from $41,395...",
+      "t": "Xclusiv Shipbrokers Weekly 10th August 2026",
+      "x": "The dry bulk freight market delivered a considerably stronger performance during the first seven months of Source: Xclusiv Shipbrokers Inc.",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strength/"
+      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/"
     },
     {
-      "published": "2026-08-09T21:00:56+00:00",
-      "d": "09/08",
-      "s": "crude",
-      "t": "Tankers: VLCCs Moving Higher",
-      "x": "Clean LR2 The TC1 75kt MEG/Japan index ticked up early this week by 14 points to WS522 where it currently has been for 3 days. A voyage west, on the other hand, dropped marginally with the TC20 90kt MEG/UK-Continent...",
+      "published": "2026-08-10T21:00:49+00:00",
+      "d": "10/08",
+      "s": "macro",
+      "t": "HMM expands global reach with new India-East Africa route",
+      "x": "HMM, Korea’s largest container shipping line, will launch a new container service connecting India and East Africa starting in September, the company said Wednesday. The new Gulf-India-East Africa Service will use the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tankers-vlccs-moving-higher/"
+      "url": "https://www.hellenicshippingnews.com/hmm-expands-global-reach-with-new-india-east-africa-route/"
     },
     {
-      "published": "2026-08-09T21:00:52+00:00",
-      "d": "09/08",
-      "s": "crude",
-      "t": "Oil Producers Buy Tankers Directly to Navigate Blocked Routes",
-      "x": "Oil-producing countries that have frequently experienced blockages in major Middle Eastern shipping routes, such as the Strait of Hormuz and the Red Sea due to wars, are increasingly purchasing oil tankers directly—a...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/oil-producers-buy-tankers-directly-to-navigate-blocked-routes/"
-    },
-    {
-      "published": "2026-08-09T21:00:50+00:00",
-      "d": "09/08",
-      "s": "crude",
-      "t": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-      "x": "Iran on Saturday laid out sweeping demands to the U.S. for reopening the Strait of Hormuz, according to media reports. The Secretary of Iran’s Supreme National Security Council, Mohammad Bagher Zolghadr, said Saturday...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/iran-sets-conditions-for-opening-strait-of-hormuz-after-uae-says-one-of-its-ships-was-targeted-by-airstrike/"
-    },
-    {
-      "published": "2026-08-09T20:00:00+00:00",
-      "d": "09/08",
+      "published": "2026-08-10T21:00:45+00:00",
+      "d": "10/08",
       "s": "product",
-      "t": "Brookfield inherits major Torm stake",
-      "x": "Brookfield has taken indirect control of a 19.86% stake in Danish product tanker owner Torm following the Canadian investment group’s full acquisition of Oaktree. Torm said Oaktree no longer indirectly held any shares...",
-      "su": "Splash247",
-      "url": "https://splash247.com/brookfield-inherits-major-torm-stake/"
+      "t": "d’AMICO International Shipping S.A. Announces The Exercise Of Its Purchase Option On Mt High Discovery",
+      "x": "d’Amico International Shipping S.A. (Borsa Italiana: DIS) (the “Company” or “DIS”), an international marine transportation company operating in the product tanker market, announces that its operating subsidiary, d’Amico...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/damico-international-shipping-s-a-announces-the-exercise-of-its-purchase-option-on-mt-high-discovery/"
     },
     {
-      "published": "2026-08-09T19:20:00+00:00",
-      "d": "09/08",
+      "published": "2026-08-10T20:00:00+00:00",
+      "d": "10/08",
       "s": "dry",
-      "t": "Castor shifts kamsarmax into Fearnley-backed venture",
-      "x": "Castor Maritime has moved its kamsarmax Magic Starlight into a Fearnley-arranged joint venture, taking $18.75m in cash while retaining a 30% interest in the vessel. The Nasdaq-listed owner established the vehicle with...",
+      "t": "Splash Singapore: Western Bulk’s Torbjorn Gjervik on the search for new ideas",
+      "x": "Western Bulk’s chief executive says the best industry gatherings sharpen thinking, while geopolitics, grain flows and a growing orderbook will dominate dry bulk discussions at Splash Singapore. For Torbjorn Gjervik, a...",
       "su": "Splash247",
-      "url": "https://splash247.com/castor-shifts-kamsarmax-into-fearnley-backed-venture/"
+      "url": "https://splash247.com/splash-singapore-western-bulks-torbjorn-gjervik-on-the-search-for-new-ideas/"
     },
     {
-      "published": "2026-08-09T19:00:00+00:00",
-      "d": "09/08",
+      "published": "2026-08-10T18:51:22+00:00",
+      "d": "10/08",
+      "s": "macro",
+      "t": "White House Extends Jones Act Waiver in Longest Suspension in Law’s History",
+      "x": "President Donald Trump has extended for 90 days a waiver allowing foreign-flagged ships to transport oil and other commodities between U.S. ports, but imposed new limits after shipbuilders and their allies in Congress...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/white-house-extends-jones-act-waiver-in-longest-suspension-in-laws-history/"
+    },
+    {
+      "published": "2026-08-10T16:59:19+00:00",
+      "d": "10/08",
+      "s": "lpg",
+      "t": "NTSB Blames Unapproved Hot Work for Deadly NYC Sludge Tanker Explosion",
+      "x": "By Daniel Katzive (gCaptain) – Unapproved use of a propane torch on deck triggered the explosion aboard a New York City municipal sludge tanker Hunts Point last May, according to...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/ntsb-blames-unapproved-hot-work-for-deadly-nyc-sludge-tanker-explosion/"
+    },
+    {
+      "published": "2026-08-10T16:53:53+00:00",
+      "d": "10/08",
       "s": "dry",
-      "t": "Diana adds to rate gains with new capesize fixture",
-      "x": "Greek bulker owner Diana Shipping has secured an 18% rate increase for its capesize Florida in a new charter with Japan’s NYK. The 2022-built, 182,063 dwt vessel will earn $30,500 per day, minus a 5% commission, for...",
-      "su": "Splash247",
-      "url": "https://splash247.com/diana-adds-to-rate-gains-with-new-capesize-fixture/"
-    },
-    {
-      "published": "2026-08-09T16:18:23+00:00",
-      "d": "09/08",
-      "s": "macro",
-      "t": "Turkey Resumes Black Sea Ship Transits Via Straits After Delays",
-      "x": "By Patrick Sykes Aug 9, 2026 (Bloomberg) –Turkey resumed allowing ships to transit its straits on the way to the Black Sea, following unexplained delays for some vessels amid heightened security...",
+      "t": "Black Sea Grain Exports Squeezed as Danube Hits Record-Low Levels",
+      "x": "Black Sea grain exports are facing fresh constraints as record-low Danube levels restrict flows through Romania just as escalating Russian strikes divert Ukrainian grain from Odesa and other ports.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/turkey-resumes-black-sea-ship-transits-via-straits-after-delays/"
+      "url": "https://gcaptain.com/black-sea-grain-exports-squeezed-as-danube-hits-record-low-levels/"
     },
     {
-      "published": "2026-08-09T13:10:48+00:00",
-      "d": "09/08",
-      "s": "macro",
-      "t": "Russia Says It Struck Vessels And Military Facilities Supporting Ukraine In Odesa",
-      "x": "MOSCOW, Aug 8 (Reuters) – Russia continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military, Russia’s Defence Ministry said on Saturday. The ministry said Russian forces used...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa/"
-    },
-    {
-      "published": "2026-08-08T13:07:44+00:00",
-      "d": "08/08",
+      "published": "2026-08-10T16:03:55+00:00",
+      "d": "10/08",
       "s": "crude",
-      "t": "UAE Says Iran Attacked Vessel With Missile In Strait of Hormuz",
-      "x": "Aug 8 (Reuters) – The United Arab Emirates on Saturday condemned what it said was an Iranian attack on a carrier linked to its state oil company as it passed through the Strait...",
+      "t": "Oman Says Massive Oil Spill from Grounded Shadow Fleet Tanker",
+      "x": "An oil slick is covering an area of around 390 square kilometers (150 square miles) off the coast of Oman, the country's government said on Monday, after a vessel under sanctions and carrying Russian crude sustained...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/uae-says-iran-attacked-vessel-with-missile-in-strait-of-hormuz/"
+      "url": "https://gcaptain.com/oil-spill-off-oman-from-tanker-under-sanctions-against-russia-spreads-over-huge-area/"
+    },
+    {
+      "published": "2026-08-10T15:45:14+00:00",
+      "d": "10/08",
+      "s": "macro",
+      "t": "Maersk and Hapag-Lloyd Expand Red Sea Return With New Jeddah Call",
+      "x": "Maersk and Hapag-Lloyd are expanding their renewed use of the Red Sea and Suez Canal, adding a call at Saudi Arabia’s Jeddah to their AE15 Asia-Mediterranean service even as renewed...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/maersk-and-hapag-lloyd-expand-red-sea-return-with-new-jeddah-call/"
     }
   ]
 }
