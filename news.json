@@ -1,113 +1,71 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
     {
-      "published": "2026-08-10T21:00:59+00:00",
-      "d": "10/08",
-      "s": "dry",
-      "t": "Chinese port stocks rise further as steel demand softens",
-      "x": "Iron ore market fundamentals softened further in July as Chinese steel demand remained subdued and port inventories continued to build. While Australia’s and Brazil’s exports face growing headwinds, Simandou is steadily...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/chinese-port-stocks-rise-further-as-steel-demand-softens/"
-    },
-    {
-      "published": "2026-08-10T21:00:59+00:00",
-      "d": "10/08",
+      "published": "2026-08-11T21:00:59+00:00",
+      "d": "11/08",
       "s": "macro",
-      "t": "LNG Shipping Softened Last Week",
-      "x": "LNG The LNG market softened this week, with shrinking cargo enquiry and a growing tonnage list putting pressure on freight rates. On the BLNG1 Australia–Japan route, rates eased by $800 week-on-week to settle at...",
+      "t": "ENGINE: East of Suez Fuel Availability Outlook",
+      "x": "Singapore and Malaysia VLSFO availability in Singapore remains tight, with suppliers now recommending lead times of 12–21 days, compared with 12–24 days last week. Supply continues to face pressure as the port’s fuel...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/lng-shipping-softened-last-week/"
+      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-fuel-availability-outlook-6/"
     },
     {
-      "published": "2026-08-10T21:00:55+00:00",
-      "d": "10/08",
+      "published": "2026-08-11T21:00:54+00:00",
+      "d": "11/08",
+      "s": "dry",
+      "t": "Banchero Costa Weekly Market Report, Week 32 2026",
+      "x": "In Jan-Jul 2026, global seaborne coal loadings increased by +3.0% y-o-y to 756.8 mln t (excluding cabotage), based on vessel tracking data from Source: banchero costa & c s.p.a",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-32-2026/"
+    },
+    {
+      "published": "2026-08-11T21:00:51+00:00",
+      "d": "11/08",
+      "s": "macro",
+      "t": "ABS Issues Product Design Assessment to Fleetzero’s Leviathan™ Battery Energy Storage System",
+      "x": "ABS has issued a product design assessment (PDA) to Fleetzero for its LeviathanTM Battery Energy Storage System, marking the first lithium iron phosphate (LFP) marine battery system manufactured in the United States to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/abs-issues-product-design-assessment-to-fleetzeros-leviathan-battery-energy-storage-system/"
+    },
+    {
+      "published": "2026-08-11T21:00:45+00:00",
+      "d": "11/08",
+      "s": "macro",
+      "t": "ABB to power Allseas’ heavy transport vessel for offshore wind industry",
+      "x": "ABB’s integrated power and propulsion package chosen for new semi-submersible vessel that will transport converter stations to world’s largest construction vessel Pioneering Spirit Grand Tour will be equipped with four...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-industry/"
+    },
+    {
+      "published": "2026-08-11T21:00:43+00:00",
+      "d": "11/08",
+      "s": "dry",
+      "t": "Baltic Dry Index Falls for 2nd Session",
+      "x": "The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-for-2nd-session/"
+    },
+    {
+      "published": "2026-08-11T21:00:41+00:00",
+      "d": "11/08",
+      "s": "macro",
+      "t": "Reed Smith relocates sanctions partner from London to Singapore",
+      "x": "Global law firm Reed Smith today announces the relocation of global shipping and sanctions partner Alex Brandt from London to Singapore. Brandt advises insurers, owners, charterers, brokers, and traders on all aspects...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/reed-smith-relocates-sanctions-partner-from-london-to-singapore/"
+    },
+    {
+      "published": "2026-08-11T16:40:23+00:00",
+      "d": "11/08",
       "s": "crude",
-      "t": "Ukraine agrees to avoid targeting some tankers and Black Sea oil infrastructure",
-      "x": "Ukraine has agreed not to target certain non-Russian oil tankers or infrastructure used to export Kazakhstan’s crude through the Black Sea, Bloomberg reported, citing a U.S. official familiar with the private agreement...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ukraine-agrees-to-avoid-targeting-some-tankers-and-black-sea-oil-infrastructure/"
-    },
-    {
-      "published": "2026-08-10T21:00:50+00:00",
-      "d": "10/08",
-      "s": "dry",
-      "t": "Xclusiv Shipbrokers Weekly 10th August 2026",
-      "x": "The dry bulk freight market delivered a considerably stronger performance during the first seven months of Source: Xclusiv Shipbrokers Inc.",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/"
-    },
-    {
-      "published": "2026-08-10T21:00:49+00:00",
-      "d": "10/08",
-      "s": "macro",
-      "t": "HMM expands global reach with new India-East Africa route",
-      "x": "HMM, Korea’s largest container shipping line, will launch a new container service connecting India and East Africa starting in September, the company said Wednesday. The new Gulf-India-East Africa Service will use the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/hmm-expands-global-reach-with-new-india-east-africa-route/"
-    },
-    {
-      "published": "2026-08-10T21:00:45+00:00",
-      "d": "10/08",
-      "s": "product",
-      "t": "d’AMICO International Shipping S.A. Announces The Exercise Of Its Purchase Option On Mt High Discovery",
-      "x": "d’Amico International Shipping S.A. (Borsa Italiana: DIS) (the “Company” or “DIS”), an international marine transportation company operating in the product tanker market, announces that its operating subsidiary, d’Amico...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/damico-international-shipping-s-a-announces-the-exercise-of-its-purchase-option-on-mt-high-discovery/"
-    },
-    {
-      "published": "2026-08-10T20:00:00+00:00",
-      "d": "10/08",
-      "s": "dry",
-      "t": "Splash Singapore: Western Bulk’s Torbjorn Gjervik on the search for new ideas",
-      "x": "Western Bulk’s chief executive says the best industry gatherings sharpen thinking, while geopolitics, grain flows and a growing orderbook will dominate dry bulk discussions at Splash Singapore. For Torbjorn Gjervik, a...",
-      "su": "Splash247",
-      "url": "https://splash247.com/splash-singapore-western-bulks-torbjorn-gjervik-on-the-search-for-new-ideas/"
-    },
-    {
-      "published": "2026-08-10T18:51:22+00:00",
-      "d": "10/08",
-      "s": "macro",
-      "t": "White House Extends Jones Act Waiver in Longest Suspension in Law’s History",
-      "x": "President Donald Trump has extended for 90 days a waiver allowing foreign-flagged ships to transport oil and other commodities between U.S. ports, but imposed new limits after shipbuilders and their allies in Congress...",
+      "t": "Pakistan Says US and Iran Close to ‘Some Sort’ of Deal Despite Attacks on Shipping",
+      "x": "Pakistan said on Tuesday the United States and Iran were close to \"some sort\" of deal, and fellow mediator Qatar said talks on managing the Strait of Hormuz were at an advanced stage, despite reports of new attacks on...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/white-house-extends-jones-act-waiver-in-longest-suspension-in-laws-history/"
-    },
-    {
-      "published": "2026-08-10T16:59:19+00:00",
-      "d": "10/08",
-      "s": "lpg",
-      "t": "NTSB Blames Unapproved Hot Work for Deadly NYC Sludge Tanker Explosion",
-      "x": "By Daniel Katzive (gCaptain) – Unapproved use of a propane torch on deck triggered the explosion aboard a New York City municipal sludge tanker Hunts Point last May, according to...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/ntsb-blames-unapproved-hot-work-for-deadly-nyc-sludge-tanker-explosion/"
-    },
-    {
-      "published": "2026-08-10T16:53:53+00:00",
-      "d": "10/08",
-      "s": "dry",
-      "t": "Black Sea Grain Exports Squeezed as Danube Hits Record-Low Levels",
-      "x": "Black Sea grain exports are facing fresh constraints as record-low Danube levels restrict flows through Romania just as escalating Russian strikes divert Ukrainian grain from Odesa and other ports.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/black-sea-grain-exports-squeezed-as-danube-hits-record-low-levels/"
-    },
-    {
-      "published": "2026-08-10T16:03:55+00:00",
-      "d": "10/08",
-      "s": "crude",
-      "t": "Oman Says Massive Oil Spill from Grounded Shadow Fleet Tanker",
-      "x": "An oil slick is covering an area of around 390 square kilometers (150 square miles) off the coast of Oman, the country's government said on Monday, after a vessel under sanctions and carrying Russian crude sustained...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-spill-off-oman-from-tanker-under-sanctions-against-russia-spreads-over-huge-area/"
-    },
-    {
-      "published": "2026-08-10T15:45:14+00:00",
-      "d": "10/08",
-      "s": "macro",
-      "t": "Maersk and Hapag-Lloyd Expand Red Sea Return With New Jeddah Call",
-      "x": "Maersk and Hapag-Lloyd are expanding their renewed use of the Red Sea and Suez Canal, adding a call at Saudi Arabia’s Jeddah to their AE15 Asia-Mediterranean service even as renewed...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/maersk-and-hapag-lloyd-expand-red-sea-return-with-new-jeddah-call/"
+      "url": "https://gcaptain.com/pakistan-says-us-and-iran-close-to-some-sort-of-deal-despite-attacks-on-shipping/"
     }
+  ],
+  "errors": [
+    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
