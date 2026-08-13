@@ -1,71 +1,113 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
     {
-      "published": "2026-08-11T21:00:59+00:00",
-      "d": "11/08",
+      "published": "2026-08-12T21:54:56+00:00",
+      "d": "12/08",
       "s": "macro",
-      "t": "ENGINE: East of Suez Fuel Availability Outlook",
-      "x": "Singapore and Malaysia VLSFO availability in Singapore remains tight, with suppliers now recommending lead times of 12–21 days, compared with 12–24 days last week. Supply continues to face pressure as the port’s fuel...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-fuel-availability-outlook-6/"
-    },
-    {
-      "published": "2026-08-11T21:00:54+00:00",
-      "d": "11/08",
-      "s": "dry",
-      "t": "Banchero Costa Weekly Market Report, Week 32 2026",
-      "x": "In Jan-Jul 2026, global seaborne coal loadings increased by +3.0% y-o-y to 756.8 mln t (excluding cabotage), based on vessel tracking data from Source: banchero costa & c s.p.a",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-32-2026/"
-    },
-    {
-      "published": "2026-08-11T21:00:51+00:00",
-      "d": "11/08",
-      "s": "macro",
-      "t": "ABS Issues Product Design Assessment to Fleetzero’s Leviathan™ Battery Energy Storage System",
-      "x": "ABS has issued a product design assessment (PDA) to Fleetzero for its LeviathanTM Battery Energy Storage System, marking the first lithium iron phosphate (LFP) marine battery system manufactured in the United States to...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/abs-issues-product-design-assessment-to-fleetzeros-leviathan-battery-energy-storage-system/"
-    },
-    {
-      "published": "2026-08-11T21:00:45+00:00",
-      "d": "11/08",
-      "s": "macro",
-      "t": "ABB to power Allseas’ heavy transport vessel for offshore wind industry",
-      "x": "ABB’s integrated power and propulsion package chosen for new semi-submersible vessel that will transport converter stations to world’s largest construction vessel Pioneering Spirit Grand Tour will be equipped with four...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-industry/"
-    },
-    {
-      "published": "2026-08-11T21:00:43+00:00",
-      "d": "11/08",
-      "s": "dry",
-      "t": "Baltic Dry Index Falls for 2nd Session",
-      "x": "The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-for-2nd-session/"
-    },
-    {
-      "published": "2026-08-11T21:00:41+00:00",
-      "d": "11/08",
-      "s": "macro",
-      "t": "Reed Smith relocates sanctions partner from London to Singapore",
-      "x": "Global law firm Reed Smith today announces the relocation of global shipping and sanctions partner Alex Brandt from London to Singapore. Brandt advises insurers, owners, charterers, brokers, and traders on all aspects...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/reed-smith-relocates-sanctions-partner-from-london-to-singapore/"
-    },
-    {
-      "published": "2026-08-11T16:40:23+00:00",
-      "d": "11/08",
-      "s": "crude",
-      "t": "Pakistan Says US and Iran Close to ‘Some Sort’ of Deal Despite Attacks on Shipping",
-      "x": "Pakistan said on Tuesday the United States and Iran were close to \"some sort\" of deal, and fellow mediator Qatar said talks on managing the Strait of Hormuz were at an advanced stage, despite reports of new attacks on...",
+      "t": "IRS Rules Out Key Tax Exemption for Foreign Ships Using Jones Act Waiver",
+      "x": "The Internal Revenue Service has issued new guidance clarifying that foreign shipping companies operating between U.S. ports under the Jones Act waiver cannot claim a longstanding tax exemption normally available...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/pakistan-says-us-and-iran-close-to-some-sort-of-deal-despite-attacks-on-shipping/"
+      "url": "https://gcaptain.com/irs-rules-out-key-tax-exemption-for-foreign-ships-using-jones-act-waiver/"
+    },
+    {
+      "published": "2026-08-12T21:00:59+00:00",
+      "d": "12/08",
+      "s": "lpg",
+      "t": "Stealth Maritime Expands ShipIn’s FleetVision Fleetwide, Strengthening TMSA Safety Evidence",
+      "x": "ShipIn Systems announced that Stealth Maritime has expanded FleetVision™ from a 12-vessel pilot to nearly its entire fleet of over 50 tankers and gas carriers. The expansion strengthens Stealth’s ability to support...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/stealth-maritime-expands-shipins-fleetvision-fleetwide-strengthening-tmsa-safety-evidence/"
+    },
+    {
+      "published": "2026-08-12T21:00:59+00:00",
+      "d": "12/08",
+      "s": "dry",
+      "t": "Shipping Number of the Week , China’s iron ore mining cools as imports rise 6% and steel production weakens",
+      "x": "“In the first half of 2026, Chinese iron ore mining fell by 7% y/y due to a 6% y/y increase in iron ore net imports and weaker steel production. The country is increasingly sourcing its iron ore from abroad because it...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/shipping-number-of-the-week-chinas-iron-ore-mining-cools-as-imports-rise-6-and-steel-production-weakens/"
+    },
+    {
+      "published": "2026-08-12T21:00:58+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "Regional conflicts and their implications for charterparties",
+      "x": "Introduction International shipping has entered a new era of sustained geopolitical disruption. A series of entrenched regional conflicts affecting some of the world’s most strategically vital maritime...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/regional-conflicts-and-their-implications-for-charterparties/"
+    },
+    {
+      "published": "2026-08-12T21:00:54+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "Fearnleys Week 33 2026",
+      "x": "There’s no lack of VLCC activity judging from a long list of ships reported fixed or onsubs. Details of which are few and far in between, these days Source: Fearnleys A.S",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/fearnleys-week-33-2026/"
+    },
+    {
+      "published": "2026-08-12T21:00:51+00:00",
+      "d": "12/08",
+      "s": "macro",
+      "t": "Axpo and Vitol launch LNG bunkering at Italy’s largest cruise port",
+      "x": "Axpo and Vitol have completed the first liquefied natural gas (LNG) bunkering operation at the Port of Civitavecchia in Italy, refuelling a flagship vessel of a leading international cruise line. In brief: First...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/axpo-and-vitol-launch-lng-bunkering-at-italys-largest-cruise-port/"
+    },
+    {
+      "published": "2026-08-12T21:00:45+00:00",
+      "d": "12/08",
+      "s": "macro",
+      "t": "Cheniere Highlights 10 Years of LNG Exports in 2025 Corporate Responsibility Report",
+      "x": "Cheniere Energy, Inc. (“Cheniere” or the “Company”) (NYSE: LNG) today published its 2025 Corporate Responsibility Report, titled “Powered By Our Values: A Decade Since Our First LNG Cargo.” The report celebrates a...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/cheniere-highlights-10-years-of-lng-exports-in-2025-corporate-responsibility-report/"
+    },
+    {
+      "published": "2026-08-12T19:26:28+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "Black Sea Oil Tanker Rates Surge to Record on Drones Barrage",
+      "x": "(Bloomberg) — Freight costs for oil tankers shipping crude from the Black Sea to the Mediterranean have risen to a record after a flurry of drone attacks, driving down prices...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/black-sea-oil-tanker-rates-surge-to-record-on-drones-barrage/"
+    },
+    {
+      "published": "2026-08-12T16:44:40+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "Ukraine Halts Strikes on Tankers Using Russian Port at U.S. Request",
+      "x": "Ukraine has paused drone strikes on oil tankers using Russia's Black Sea port of Novorossiysk after a request from U.S. Vice President JD Vance, the Financial Times said on Wednesday, citing Ukrainian officials.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/ukraine-halts-strikes-on-tankers-using-russian-port-at-u-s-request/"
+    },
+    {
+      "published": "2026-08-12T16:40:25+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "UAE Shuttles Iraqi Oil Exports Through the Strait of Hormuz",
+      "x": "Abu Dhabi National Oil Co.’s trading arm is offering to shuttle exports of Iraqi oil through the Strait of Hormuz, using its dark-transit playbook to transport Basrah and other crude to refiners in Asia, according to...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/uae-shuttles-iraqi-oil-exports-through-the-strait-of-hormuz/"
+    },
+    {
+      "published": "2026-08-12T15:36:40+00:00",
+      "d": "12/08",
+      "s": "crude",
+      "t": "IEA Warns Oil Market Risks Mount as Hormuz Disruptions Drain Inventories",
+      "x": "The International Energy Agency has again cut its outlook for global oil supply and demand as renewed fighting around the Strait of Hormuz disrupts Gulf exports, drains inventories and pushes...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/iea-warns-oil-market-risks-mount-as-hormuz-disruptions-drain-inventories/"
+    },
+    {
+      "published": "2026-08-12T09:34:47+00:00",
+      "d": "12/08",
+      "s": "dry",
+      "t": "Baltic Exchange taps Marcura executive for deputy CEO role",
+      "x": "The Baltic Exchange has appointed shipping and technology executive Sigrid Teig as deputy chief executive. Teig joins the freight market benchmark provider after most recently serving as director of strategic customer...",
+      "su": "Splash247",
+      "url": "https://splash247.com/baltic-exchange-taps-marcura-executive-for-deputy-ceo-role/"
     }
-  ],
-  "errors": [
-    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
