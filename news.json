@@ -1,95 +1,113 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
-      "published": "2026-08-17T21:00:59+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T21:00:59+00:00",
+      "d": "18/08",
       "s": "dry",
-      "t": "Baltic Dry Index Up for 2nd Day",
-      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically...",
+      "t": "Baltic dry bulk index falls to lowest level since July 31",
+      "x": "The Baltic Exchange’s dry bulk sea freight index dropped on Tuesday, ending a two-session rise and reaching its lowest point in more than two weeks as rates for capesize and panamax vessels declined. The main Baltic...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day-3/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-bulk-index-falls-to-lowest-level-since-july-31/"
     },
     {
-      "published": "2026-08-17T21:00:57+00:00",
-      "d": "17/08",
-      "s": "crude",
-      "t": "A Second ADNOC Strike in a Week as Koh-e-Mubarak Hardens Into an Evasion Hub",
-      "x": "At a Glance • Two ADNOC-affiliated vessels were struck by UAVs while transiting the Strait of Hormuz on August 14, with no injuries reported, in the second ADNOC-linked incident in under a week. • The UAE Ministry of...",
+      "published": "2026-08-18T21:00:59+00:00",
+      "d": "18/08",
+      "s": "dry",
+      "t": "Divergence in the coal market offers opportunities",
+      "x": "Global seaborne coal flows mask a sharp divergence between thermal and metallurgical coal markets. Thermal coal volumes declined as weaker European and U.S. demand offset resilient Asian imports, while met coal flows...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/a-second-adnoc-strike-in-a-week-as-koh-e-mubarak-hardens-into-an-evasion-hub/"
+      "url": "https://www.hellenicshippingnews.com/divergence-in-the-coal-market-offers-opportunities/"
     },
     {
-      "published": "2026-08-17T21:00:55+00:00",
-      "d": "17/08",
-      "s": "crude",
-      "t": "Strait of Hormuz traffic hits record low of one ship on Aug. 16",
-      "x": "Only one ship crossed the Strait of Hormuz on Aug. 16, down from eight ships on Aug. 15 and marking a record low, while Bab al-Mandab traffic slipped to 37 ships from 40 ships over the same period, S&P Global...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-hits-record-low-of-one-ship-on-aug-16/"
-    },
-    {
-      "published": "2026-08-17T21:00:54+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T21:00:57+00:00",
+      "d": "18/08",
       "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 14 August 2026",
-      "x": "In the week ending Aug-14, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes 2487.4 points, Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
+      "t": "Maritime Industry Turns Corruption Data into Operational Intelligence",
+      "x": "For more than a decade, the Maritime Anti- Corruption Network (MACN) has collected reports of corruption demands, delays, coercion, and other integrity challenges faced by vessels around the world. With support from The...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-14-august-2026/"
+      "url": "https://www.hellenicshippingnews.com/maritime-industry-turns-corruption-data-into-operational-intelligence/"
     },
     {
-      "published": "2026-08-17T21:00:49+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T21:00:57+00:00",
+      "d": "18/08",
+      "s": "product",
+      "t": "The global diesel crunch: Russia’s refinery crisis meets Middle East turmoil",
+      "x": "The global refined products market is being squeezed by two major disruptions occurring simultaneously. In the Middle East, the escalation of the US-Iran conflict and the effective closure of the Strait of Hormuz have...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/the-global-diesel-crunch-russias-refinery-crisis-meets-middle-east-turmoil/"
+    },
+    {
+      "published": "2026-08-18T21:00:55+00:00",
+      "d": "18/08",
       "s": "macro",
-      "t": "Singapore July petrochemical exports fall 22.5%; NODX grows 24.2%",
-      "x": "Singapore’s petrochemical exports in July fell by 22.5% year on year to Singapore dollar (S$) 809.6 million ($633.6 million), official data showed on Monday. The southeast Asian country’s overall non-oil domestic...",
+      "t": "Clean Arctic Alliance Reacts to Ships Sailing From Asia to Europe Via Arctic Route",
+      "x": "Responding to reports that the Liberian-flagged container vessel Dubai Tower has departed the Chinese port city of Ningbo in an attempt to cross the Northern Sea Route through the Arctic, and news that South Korea’s...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/singapore-july-petrochemical-exports-fall-22-5-nodx-grows-24-2/"
+      "url": "https://www.hellenicshippingnews.com/clean-arctic-alliance-reacts-to-ships-sailing-from-asia-to-europe-via-arctic-route/"
     },
     {
-      "published": "2026-08-17T21:00:47+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T21:00:49+00:00",
+      "d": "18/08",
+      "s": "dry",
+      "t": "Top 10 Buyers across the Bulker and Tanker Markets",
+      "x": "The Strait of Hormuz crisis has shaped sentiment across both the Tanker and Bulker markets this year, disrupting established trade routes and driving voyage costs as owners navigate rerouting, higher bunker expenses...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/top-10-buyers-across-the-bulker-and-tanker-markets/"
+    },
+    {
+      "published": "2026-08-18T18:40:28+00:00",
+      "d": "18/08",
       "s": "macro",
-      "t": "Seaborne ethane flow concentration deepens at both ends",
-      "x": "Global seaborne ethane imports averaged ~760kbd in July, of which China discharged ~560kbd, or 74% of the total. June was higher at ~76%, the highest monthly share in Vortexa’s 2016-2026 dataset. On the selling side...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/seaborne-ethane-flow-concentration-deepens-at-both-ends/"
-    },
-    {
-      "published": "2026-08-17T19:18:57+00:00",
-      "d": "17/08",
-      "s": "crude",
-      "t": "Abu Dhabi Wealth Fund L’imad’s Ports Deal Signals Growing Role",
-      "x": "Abu Dhabi wealth fund L’imad Holding is offering to buy out minority shareholders in the city’s port operator valuing the firm at 31.8 billion dirhams ($8.66 billion), potentially bolstering the emirate’s efforts to...",
+      "t": "U.S. Lifts Decade-Old Security Restrictions on Ships Arriving From Nigeria",
+      "x": "The United States has lifted security restrictions imposed on vessels arriving from Nigeria after more than a decade, the Marine and Blue economy Minister Adegboyega Oyetola said on Tuesday, in a move expected to cut...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/abu-dhabi-wealth-fund-limads-ports-deal-signals-growing-role/"
+      "url": "https://gcaptain.com/u-s-lifts-decade-old-security-restrictions-on-ships-arriving-from-nigeria/"
     },
     {
-      "published": "2026-08-17T15:53:02+00:00",
-      "d": "17/08",
-      "s": "macro",
-      "t": "Panama Canal Marks 112 Years With an Eye on the Future",
-      "x": "The Panama Canal marked its 112th anniversary over the weekend with vessel traffic on the rise, even as officials prepare for a strengthening El Niño that is again putting pressure...",
+      "published": "2026-08-18T16:01:22+00:00",
+      "d": "18/08",
+      "s": "crude",
+      "t": "Saudis Offer to Sell Oil Near Oman, a Possible Sign They’re Sailing Dark Through Hormuz",
+      "x": "Saudi Arabia is offering to sell oil from off the coast of Oman, a sign that the kingdom may be following the United Arab Emirates in shuttling more barrels through the Strait of Hormuz.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/panama-canal-marks-112-years-with-an-eye-on-the-future/"
+      "url": "https://gcaptain.com/saudis-offer-to-sell-oil-near-oman-a-possible-sign-theyre-sailing-dark-through-hormuz/"
     },
     {
-      "published": "2026-08-17T08:15:05+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T14:46:42+00:00",
+      "d": "18/08",
       "s": "crude",
-      "t": "Dark transits keep Hormuz oil flowing",
-      "x": "Abu Dhabi’s ADNOC has suffered another vessel attack in the Strait of Hormuz even as increasingly sophisticated shuttle operations allow Gulf oil exports to keep moving through one of the world’s most dangerous...",
-      "su": "Splash247",
-      "url": "https://splash247.com/dark-transits-keep-hormuz-oil-flowing/"
+      "t": "Seafarer Killed in Latest Strait of Hormuz Attack on Commercial Shipping",
+      "x": "Two bulk carriers have been struck by projectiles in separate attacks while transiting the Strait of Hormuz, resulting in two crew casualties, including one seafarer killed aboard the Liberia-flagged Minoan Dignity....",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/seafarer-killed-in-latest-strait-of-hormuz-attack-on-commercial-shipping/"
     },
     {
-      "published": "2026-08-17T05:00:00+00:00",
-      "d": "17/08",
+      "published": "2026-08-18T09:24:25+00:00",
+      "d": "18/08",
       "s": "crude",
-      "t": "Second IMS tanker hit in Black Sea drone campaign",
-      "x": "Greek tanker owner IMS has suffered another Black Sea drone strike, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage obtained by Greek broadcaster SKAI shows an aerial drone...",
+      "t": "Saudi Arabia Resumes Oil Loadings, Sales From Inside Strait of Hormuz",
+      "x": "Saudi Aramco resumed oil loading from inside the Strait of Hormuz last week and has more tankers waiting to load as the state energy giant offers spot heavy crude cargoes, according to shipping data and trade sources.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/"
+    },
+    {
+      "published": "2026-08-18T09:21:04+00:00",
+      "d": "18/08",
+      "s": "crude",
+      "t": "Oil Supertanker Earnings on Mideast Route Near $510,000 a Day",
+      "x": "Earnings for a supertanker procuring crude oil from within the Persian Gulf to Asia are nearing a two-month high, as exporters hunt for more vessels to deliver the fuel via the Strait of Hormuz even as the security...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oil-supertanker-earnings-on-mideast-route-near-510000-a-day/"
+    },
+    {
+      "published": "2026-08-18T06:54:18+00:00",
+      "d": "18/08",
+      "s": "crude",
+      "t": "Seafarer killed in latest Hormuz strike",
+      "x": "A seafarer has been killed in the latest attack on merchant shipping in the Strait of Hormuz, while Iran is claiming to have detained a UAE-owned tanker for failing to comply with Tehran’s new transit regime. The 76,801...",
       "su": "Splash247",
-      "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/"
+      "url": "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/"
     }
   ]
 }
