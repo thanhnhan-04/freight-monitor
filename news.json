@@ -1,95 +1,113 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "items": [
     {
-      "published": "2026-08-19T21:00:59+00:00",
-      "d": "19/08",
+      "published": "2026-08-20T21:00:59+00:00",
+      "d": "20/08",
       "s": "dry",
-      "t": "Baltic Dry Index Down for 2nd Day",
-      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for a second session on Wednesday, falling about 1.4% to a fresh low since July 31 at 2,776 points...",
+      "t": "Baltic Dry Index Rebounds",
+      "x": "The Baltic Exchange’s dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, snapped a two-day losing streak on Thursday, rising about 0.5% to 2,791 points. The capesize index, which...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-for-2nd-day-3/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rebounds-2/"
     },
     {
-      "published": "2026-08-19T21:00:59+00:00",
-      "d": "19/08",
+      "published": "2026-08-20T21:00:59+00:00",
+      "d": "20/08",
       "s": "dry",
-      "t": "A Fatal Strike and the First Seizure Since June as Iran’s Transit Rules Take Effect",
-      "x": "At a Glance • MINOAN DIGNITY, a Liberia-flagged bulk carrier, was struck by an unknown projectile in its engine room while transiting outbound through the Strait of Hormuz southern corridor overnight on August 17 to 18...",
+      "t": "Global grain shipments fall 8% as attacks in the Black Sea escalate",
+      "x": "“Over the last five weeks (week 29-33) global grain shipments have fallen 8% y/y, fuelled by a 26% y/y drop in grain exports from the Black Sea as Russian and Ukrainian attacks on ships and port infrastructure have...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/"
+      "url": "https://www.hellenicshippingnews.com/global-grain-shipments-fall-8-as-attacks-in-the-black-sea-escalate/"
     },
     {
-      "published": "2026-08-19T21:00:58+00:00",
-      "d": "19/08",
-      "s": "crude",
-      "t": "60 days of a broken US-Iran MoU: the market stopped waiting for Hormuz",
-      "x": "The 60-day window under the Islamabad MoU lapsed on 17 August with no deal, no extension, and no talks under way. Kpler data shows the truce cleared the war’s stranded backlog in 3 weeks and moved roughly 374 mb of...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/60-days-of-a-broken-us-iran-mou-the-market-stopped-waiting-for-hormuz/"
-    },
-    {
-      "published": "2026-08-19T21:00:57+00:00",
-      "d": "19/08",
+      "published": "2026-08-20T21:00:58+00:00",
+      "d": "20/08",
       "s": "macro",
-      "t": "Baltic Exchange highlights freight risk management opportunities at GCC 2026",
-      "x": "Baltic Exchange recently participated in Global Commodity Conclave 2026, a major gathering of exchanges, commodity producers, traders, consumers and policymakers focused on the convergence of physical and financial...",
+      "t": "Navios Maritime Partners L.P. Reports Financial Results for the Second Quarter and Six Months Ended June 30, 2026",
+      "x": "Navios Maritime Partners L.P. (“Navios Partners”) (NYSE: NMM), an international owner and operator of dry cargo and tanker vessels, reported its financial results for the second quarter and six month period ended June...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-exchange-highlights-freight-risk-management-opportunities-at-gcc-2026/"
+      "url": "https://www.hellenicshippingnews.com/navios-maritime-partners-l-p-reports-financial-results-for-the-second-quarter-and-six-months-ended-june-30-2026/"
     },
     {
-      "published": "2026-08-19T21:00:54+00:00",
-      "d": "19/08",
-      "s": "crude",
-      "t": "Banchero Costa Weekly Market Report, Week 33 2026",
-      "x": "After a marginal decline in 2024, when global crude oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year Source: banchero costa & c s.p.a",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/"
-    },
-    {
-      "published": "2026-08-19T21:00:50+00:00",
-      "d": "19/08",
-      "s": "crude",
-      "t": "Fearnleys Week 34 2026",
-      "x": "We’re in “stop the press” territory now with VLCC rates galloping in all areas in tandem with the Suez- and Aframax segments. In the Atlantic Source: Fearnleys A.S",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/fearnleys-week-34-2026/"
-    },
-    {
-      "published": "2026-08-19T17:02:08+00:00",
-      "d": "19/08",
-      "s": "crude",
-      "t": "Three Chinese Tankers U-Turn in Hormuz as Risks Remain High",
-      "x": "Three China-linked supertankers have U-turned in the Strait of Hormuz as risks to shipping remain elevated, with prospects for a normalization of traffic dimming after President Donald Trump took a hard line on Iran.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/"
-    },
-    {
-      "published": "2026-08-19T17:00:41+00:00",
-      "d": "19/08",
-      "s": "dry",
-      "t": "Russia and Ukraine’s Black Sea Grain Exports Grind to a Virtual Halt",
-      "x": "Attacks on shipping have shut down more than 97% of Russia and Ukraine's grain export capacity in the Azov and Black Sea basin, cutting off a major source of low-cost supplies and helping to drive up global prices.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-and-ukraines-black-sea-grain-exports-grind-to-a-virtual-halt/"
-    },
-    {
-      "published": "2026-08-19T16:16:21+00:00",
-      "d": "19/08",
-      "s": "dry",
-      "t": "Navigator Gas Sees U.S. Gas Export Boom Driving Handysize Demand",
-      "x": "Navigator Gas posted the strongest quarterly results in its 25-year history as booming U.S. gas exports and longer trade routes helped lift vessel earnings and terminal volumes to record levels.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/navigator-gas-sees-u-s-gas-export-boom-driving-handysize-demand/"
-    },
-    {
-      "published": "2026-08-19T10:00:00+00:00",
-      "d": "19/08",
+      "published": "2026-08-20T21:00:58+00:00",
+      "d": "20/08",
       "s": "macro",
-      "t": "US ends extra security measures on ships calling Nigeria",
-      "x": "The US Coast Guard has removed Nigeria from its Port Security Advisory, ending 12 years of additional security requirements imposed on ships trading from Nigerian ports to the US. The change takes effect today, August...",
+      "t": "What Defensible Marine Insurance Compliance Looks Like in 2026",
+      "x": "At a Glance • Compliance managers touch four of the five stages of the marine insurance coverage process, from underwriting through ongoing monitoring, claims support, and renewal. • The operating environment has...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/what-defensible-marine-insurance-compliance-looks-like-in-2026/"
+    },
+    {
+      "published": "2026-08-20T21:00:57+00:00",
+      "d": "20/08",
+      "s": "product",
+      "t": "Clean Tankers Under Pressure Amid Persistent Conflicts",
+      "x": "MR2 demand holds steady, LR2 at dataset lows Comparing post-conflict (March 2026) CPP tonne-miles against an uneventful 2019 baseline, the demand picture looks healthy for MR2s. Larger vessels have not fared as well...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/clean-tankers-under-pressure-amid-persistent-conflicts/"
+    },
+    {
+      "published": "2026-08-20T21:00:47+00:00",
+      "d": "20/08",
+      "s": "lpg",
+      "t": "Azane Lands Equinor Contract To Supply Ammonia Fuel For Ships",
+      "x": "Azane Fuel Solutions AS (Azane) has signed a framework agreement with Equinor Energy AS for the supply of ammonia and the execution of truck-to-ship ammonia bunkering operations for ammonia-fuelled vessels. The first...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/azane-lands-equinor-contract-to-supply-ammonia-fuel-for-ships/"
+    },
+    {
+      "published": "2026-08-20T17:00:28+00:00",
+      "d": "20/08",
+      "s": "lpg",
+      "t": "Soaring Panama Canal Fees Drive a Nascent LPG Shuttle Trade",
+      "x": "Exporters including Chevron Corp. are turning to ship-to-ship transfers to send liquefied petroleum gas from the US to Asia, an apparent change in strategy that comes as users of the Panama Canal grapple with congestion...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/soaring-panama-canal-fees-drive-a-nascent-lpg-shuttle-trade/"
+    },
+    {
+      "published": "2026-08-20T16:48:12+00:00",
+      "d": "20/08",
+      "s": "macro",
+      "t": "Transpacific Container Rates Surge as Carriers Cut Capacity",
+      "x": "Global container spot rates rose for a second straight week as tighter capacity and resilient demand pushed Transpacific prices sharply higher, according to Drewry. The Drewry World Container Index increased...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/transpacific-container-rates-surge-as-carriers-cut-capacity/"
+    },
+    {
+      "published": "2026-08-20T15:02:24+00:00",
+      "d": "20/08",
+      "s": "product",
+      "t": "Sanctioned Shadow Fleet Tanker Hijacked in Gulf of Aden and Diverted Toward Somalia",
+      "x": "A U.S.-sanctioned product tanker has been hijacked in the Gulf of Aden and redirected toward Somalia after six armed men boarded and seized control of the vessel, marking the second...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/sanctioned-shadow-fleet-tanker-hijacked-in-gulf-of-aden-and-diverted-toward-somalia/"
+    },
+    {
+      "published": "2026-08-20T12:13:47+00:00",
+      "d": "20/08",
+      "s": "crude",
+      "t": "Navios Partners takes VLCC newbuild spend past $840m with fresh trio",
+      "x": "New York-listed Navios Maritime Partners has added three more scrubber-fitted VLCC newbuildings in a $361.5m deal, taking its fresh supertanker programme to seven ships worth $843.5m. The Angeliki Frangou-led owner...",
       "su": "Splash247",
-      "url": "https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/"
+      "url": "https://splash247.com/navios-partners-takes-vlcc-newbuild-spend-past-840m-with-fresh-trio/"
+    },
+    {
+      "published": "2026-08-20T11:00:00+00:00",
+      "d": "20/08",
+      "s": "product",
+      "t": "Evalend reloads at Yangzijiang with $220m LR1 quartet",
+      "x": "Kriton Lendoudis-led Evalend Shipping is returning to Yangzijiang Shipbuilding for four more LR1 product tankers, further expanding the Greek owner’s sizeable newbuilding programme in China. Brokers have placed Evalend...",
+      "su": "Splash247",
+      "url": "https://splash247.com/evalend-reloads-at-yangzijiang-with-220m-lr1-quartet/"
+    },
+    {
+      "published": "2026-08-20T10:51:09+00:00",
+      "d": "20/08",
+      "s": "macro",
+      "t": "CK Hutchison Seeks $1.5 Billion for Loss of Panama Assets",
+      "x": "CK Hutchison Holdings Ltd. commenced international arbitration proceedings against Panama, seeking more than $1.5 billion in damages over the loss of its investments in two ports on the country’s strategic canal.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/ck-hutchison-seeks-1-5-billion-for-loss-of-panama-assets/"
     }
   ]
 }
