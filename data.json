@@ -1,23 +1,17 @@
 {
-  "updated": "2026-08-25T00:57:48Z",
+  "updated": "2026-08-26T00:59:03Z",
   "series": [
     {
       "key": "rwtc",
       "name": "Dầu thô WTI (giao ngay)",
       "unit": "$/bbl",
-      "value": 86.48,
-      "date": "2026-08-18",
-      "chg": 0.44,
-      "chgPct": 0.51
+      "error": "The read operation timed out"
     },
     {
       "key": "rbrte",
       "name": "Dầu Brent (giao ngay)",
       "unit": "$/bbl",
-      "value": 95.29,
-      "date": "2026-08-18",
-      "chg": 2.86,
-      "chgPct": 3.09
+      "error": "The read operation timed out"
     },
     {
       "key": "wcestus1",
