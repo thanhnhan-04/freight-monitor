@@ -1,113 +1,113 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-31",
   "items": [
     {
-      "published": "2026-08-28T08:12:50+00:00",
-      "d": "28/08",
+      "published": "2026-08-30T23:42:52+00:00",
+      "d": "30/08",
+      "s": "crude",
+      "t": "Vessels Crossing Strait Of Hormuz Drop To 5 Per Day",
+      "x": "By Florence Tan SINGAPORE, Aug 31 (Reuters) – The number of visible commodity vessels transiting the Strait of Hormuz dropped to five per day over the weekend,shipping data showed on Monday, as companies...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/vessels-crossing-strait-of-hormuz-drop-to-5-per-day/"
+    },
+    {
+      "published": "2026-08-30T21:15:00+00:00",
+      "d": "30/08",
+      "s": "dry",
+      "t": "Cetus Maritime eyes 13 Seacon ships in pre-IPO fleet deal",
+      "x": "Hong Kong bulker owner and operator Cetus Maritime is in talks to take interests in 13 vessels from Hong Kong-listed Seacon Shipping in a cash-and-shares transaction tied to the handysize specialist’s planned overseas...",
+      "su": "Splash247",
+      "url": "https://splash247.com/cetus-maritime-eyes-13-seacon-ships-in-pre-ipo-fleet-deal/"
+    },
+    {
+      "published": "2026-08-30T21:10:00+00:00",
+      "d": "30/08",
       "s": "product",
-      "t": "Hafnia cashes out of Andromeda joint venture",
-      "x": "Product tanker giant Hafnia has cashed out its stake in a joint venture with Monaco-based Andromeda Shipping, booking a $13.3m profit as it continues to prune older tonnage from its fleet. The BW Group-controlled owner...",
+      "t": "Pistiolis adds K Shipbuilding MR pair to tanker spree",
+      "x": "Greek shipowner Evangelos Pistiolis has been linked to another pair of MR tanker newbuildings, this time securing his first construction slots at South Korea’s K Shipbuilding. Market sources have tied the Central...",
       "su": "Splash247",
-      "url": "https://splash247.com/hafnia-cashes-out-of-andromeda-joint-venture/"
+      "url": "https://splash247.com/pistiolis-adds-k-shipbuilding-mr-pair-to-tanker-spree/"
     },
     {
-      "published": "2026-08-28T05:59:22+00:00",
-      "d": "28/08",
+      "published": "2026-08-30T21:00:59+00:00",
+      "d": "30/08",
+      "s": "product",
+      "t": "Tanker Market: Unplanned US Refinery Outages Could Impact Freight Trade",
+      "x": "The product tanker market could be faced with a limited supply of cargoes, if the upcoming refinery maintenance period takes some unexpected turns. In its latest weekly report, shipbroker Gibson said that “US refinery...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tanker-market-unplanned-us-refinery-outages-could-impact-freight-trade/"
+    },
+    {
+      "published": "2026-08-30T21:00:58+00:00",
+      "d": "30/08",
+      "s": "crude",
+      "t": "Tanker Shipping: VLCCs Keep Returning Major Profits",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index strengthened slightly this week, climbing 3.33 points to WS540 as sentiment improved in the East. A voyage west weakened, with the TC20 90kt MEG/UK-Continent index decreasing by...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tanker-shipping-vlccs-keep-returning-major-profits/"
+    },
+    {
+      "published": "2026-08-30T21:00:58+00:00",
+      "d": "30/08",
       "s": "dry",
-      "t": "Mercuria’s capesize shopping spree nears 1.5m dwt",
-      "x": "One notable exception in dry bulk this year has been Geneva-headquartered Mercuria , which is keeping European buyers firmly in the bidding game in the capesize segment. While Chinese buyers have been swooping on...",
+      "t": "Dry Bulk Shipping: Capesizes Retain Positive Momentum",
+      "x": "Capesize The market maintained a broadly positive trajectory throughout the week, with the BCI 5TC building on its opening level and rising from $42,105 to $48,399, as Atlantic strength and a firmer Pacific combined to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-retain-positive-momentum/"
+    },
+    {
+      "published": "2026-08-30T21:00:57+00:00",
+      "d": "30/08",
+      "s": "lpg",
+      "t": "The safety paradox of decarbonisation: new fuels, new risks",
+      "x": "As shipping accelerates its transition towards lower and zero greenhouse gas fuels, the industry is entering one of the most significant periods of operational change in its history. Methanol, ethanol, ammonia, hydrogen...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/the-safety-paradox-of-decarbonisation-new-fuels-new-risks/"
+    },
+    {
+      "published": "2026-08-30T21:00:56+00:00",
+      "d": "30/08",
+      "s": "macro",
+      "t": "Asia-US container rates edge higher, remain elevated on congestion at east Asian ports",
+      "x": "Rates for shipping containers from east Asia and China to the US edged higher this week and remain at the highest since mid-2022 on congestion at global ports. Shipping market intelligence firm Linerlytica said more...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-edge-higher-remain-elevated-on-congestion-at-east-asian-ports/"
+    },
+    {
+      "published": "2026-08-30T21:00:54+00:00",
+      "d": "30/08",
+      "s": "crude",
+      "t": "Middle East tanker spree stokes VLCC glut fears as 2028–2029 deliveries loom",
+      "x": "As the boom in the very large crude carrier (VLCC) market has continued this year on the back of the Middle East war, some are raising concerns about a supply glut in the tanker market. VLCC newbuilding orders have...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/middle-east-tanker-spree-stokes-vlcc-glut-fears-as-2028-2029-deliveries-loom/"
+    },
+    {
+      "published": "2026-08-30T20:20:00+00:00",
+      "d": "30/08",
+      "s": "dry",
+      "t": "Thenamaris makes boxship move with Hengli quartet",
+      "x": "Greek shipping major Thenamaris has returned to containership newbuildings with four 3,200 teu vessels at China’s Hengli Shipbuilding. The Nikolas Martinos-led group has added the quartet to its newbuilding programme...",
       "su": "Splash247",
-      "url": "https://splash247.com/mercurias-capesize-shopping-spree-nears-1-5m-dwt/"
+      "url": "https://splash247.com/thenamaris-makes-boxship-move-with-hengli-quartet/"
     },
     {
-      "published": "2026-08-28T04:07:19+00:00",
-      "d": "28/08",
-      "s": "crude",
-      "t": "U.S. Military Says It Has Cleared Iran’s Mines From Strait of Hormuz Shipping Lanes",
-      "x": "U.S. Central Command Commander Admiral Brad Cooper says U.S. forces have cleared sea mines laid by Iran from the internationally recognized shipping lanes through the Strait of Hormuz, offering new...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-military-says-it-has-cleared-irans-mines-from-strait-of-hormuz-shipping-lanes/"
-    },
-    {
-      "published": "2026-08-27T21:00:59+00:00",
-      "d": "27/08",
-      "s": "crude",
-      "t": "Hormuz transits still limited even as Iran, Oman near deal; carriers eye return to Suez route",
-      "x": "Vessel traffic through the Strait of Hormuz remined limited on Wednesday even as Iran and Oman were heard to be close to an agreement to manage traffic through the vital waterway, while some container shipping majors...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/hormuz-transits-still-limited-even-as-iran-oman-near-deal-carriers-eye-return-to-suez-route/"
-    },
-    {
-      "published": "2026-08-27T21:00:59+00:00",
-      "d": "27/08",
+      "published": "2026-08-30T20:15:00+00:00",
+      "d": "30/08",
       "s": "dry",
-      "t": "Newbuilding Activity Still Strong",
-      "x": "Ship owners have kept investing in more newbuildings over the past week. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained active this week, with contracting spread across...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/newbuilding-activity-still-strong/"
+      "t": "Winning locks in decade-long yard pact with Qingdao Beihai",
+      "x": "Singapore-based large bulkers specialist Winning International Group has signed a 10-year shipbuilding and repair agreement with CSSC Beihai Shipbuilding as it continues to build out a dedicated fleet of giant bauxite...",
+      "su": "Splash247",
+      "url": "https://splash247.com/winning-locks-in-decade-long-yard-pact-with-qingdao-beihai/"
     },
     {
-      "published": "2026-08-27T21:00:55+00:00",
-      "d": "27/08",
+      "published": "2026-08-30T18:54:09+00:00",
+      "d": "30/08",
       "s": "dry",
-      "t": "Baltic Dry Index Hits Near 3-Month Peak",
-      "x": "The Baltic Exchange’s dry bulk sea freight index rose 2.1% to 3,107 on Thursday, marking a sixth consecutive session of gains and reaching its highest level since June 3. The index tracks rates for capesize, panamax and...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-hits-near-3-month-peak/"
-    },
-    {
-      "published": "2026-08-27T21:00:53+00:00",
-      "d": "27/08",
-      "s": "dry",
-      "t": "CMB.TECH Expects Continued Strength In Seaborne Iron Ore Trade",
-      "x": "CMB.TECH NV reported its unaudited financial results today for the second quarter ended 30 June 2026. HIGHLIGHTS Financial highlights: • Profit for the period of USD 364.4 million in Q2 2026. • EBITDA for the same...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/cmb-tech-expects-continued-strength-in-seaborne-iron-ore-trade/"
-    },
-    {
-      "published": "2026-08-27T21:00:43+00:00",
-      "d": "27/08",
-      "s": "crude",
-      "t": "MISC Group Financial Results for the Second Quarter of 2026",
-      "x": "Datuk Zahid Osman, MISC President and Group CEO said, “MISC Group’s second-quarter results reflect exceptional performance by the Group, supported by particularly favourable tanker market conditions and strong...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/misc-group-financial-results-for-the-second-quarter-of-2026/"
-    },
-    {
-      "published": "2026-08-27T21:00:41+00:00",
-      "d": "27/08",
-      "s": "crude",
-      "t": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
-      "x": "Iran won’t allow military vessels to transit through the Strait of Hormuz under an agreement that the Islamic Republic is negotiating with Oman, Iran’s deputy foreign minister said. The top diplomats of the two...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/iran-warns-of-military-ship-ban-in-hormuz-under-potential-deal-with-oman-and-other-middle-east-news/"
-    },
-    {
-      "published": "2026-08-27T18:00:56+00:00",
-      "d": "27/08",
-      "s": "dry",
-      "t": "Black Sea Tensions Lead Grain Buyers to Tap Baltic States",
-      "x": "Baltic grain exporters are seeing a boost in demand as blocked supplies from the Black Sea region are spurring buyers to seek alternative sources.",
+      "t": "Panama Canal Loosens Neopanamax Booking Rules as Capacity Tightens",
+      "x": "The Panama Canal is temporarily relaxing key elements of its Neopanamax booking system, giving shipping companies more flexibility to secure transit slots as the waterway prepares for reduced capacity and...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/black-sea-tensions-lead-grain-buyers-to-tap-baltic-states/"
-    },
-    {
-      "published": "2026-08-27T17:51:54+00:00",
-      "d": "27/08",
-      "s": "crude",
-      "t": "Hormuz Oil Flows Rising as Gulf Giants’ Ramp Up Accelerates",
-      "x": "(Bloomberg) — The flow of crude through the Strait of Hormuz is creeping higher as producers across the Middle East boost exports in the face of Iran’s lingering threat to...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/hormuz-oil-flows-rising-as-gulf-giants-ramp-up-accelerates/"
-    },
-    {
-      "published": "2026-08-27T16:05:26+00:00",
-      "d": "27/08",
-      "s": "crude",
-      "t": "Tanker Hit in Strait of Hormuz as Trump Declares ‘Mission Accomplished’ in Iran",
-      "x": "Another tanker has been struck by a projectile while transiting the Strait of Hormuz, underscoring the continued risks to commercial shipping even as President Donald Trump declared victory in Iran...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/tanker-hit-in-strait-of-hormuz-as-trump-declares-mission-accomplished-in-iran/"
+      "url": "https://gcaptain.com/panama-canal-loosens-neopanamax-booking-rules-as-capacity-tightens/"
     }
   ]
 }
