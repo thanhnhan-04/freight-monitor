@@ -1,104 +1,113 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "items": [
     {
-      "published": "2026-08-31T21:44:39+00:00",
-      "d": "31/08",
-      "s": "macro",
-      "t": "Tanker Incident Involving Military Forces Reported Off Oman Amid U.S.-Iran Escalation",
-      "x": "A tanker has been involved in an incident with military forces in the Indian Ocean off Oman, according to a new UK Maritime Trade Operations advisory, raising the possibility of...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/tanker-incident-involving-military-forces-reported-off-oman-amid-u-s-iran-escalation/"
-    },
-    {
-      "published": "2026-08-31T21:00:59+00:00",
-      "d": "31/08",
-      "s": "crude",
-      "t": "VLCCs In High Demand Among Shipowners",
-      "x": "Ship owners are stocking up with VLCCs, betting on a long lasting surge of rates amid Middle East instability. In its latest weekly report, shipbroker Xclusiv said that “the January–July 2026 tanker Sale & Purchase...",
+      "published": "2026-09-01T21:00:57+00:00",
+      "d": "01/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Snaps 7-Day Winning Streak",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell about 0.9% to 3,157 points on Tuesday, halting a streak of seven straight sessions of advances. The capesize...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vlccs-in-high-demand-among-shipowners/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-7-day-winning-streak/"
     },
     {
-      "published": "2026-08-31T21:00:57+00:00",
-      "d": "31/08",
+      "published": "2026-09-01T21:00:55+00:00",
+      "d": "01/09",
+      "s": "crude",
+      "t": "MABUX: Bunker Prices Expect to Be Volatile During September",
+      "x": "The global bunker market in August was shaped primarily by Middle East geopolitical developments, crude oil volatility, tight distillate and low-sulphur fuel supply, and regional imbalances in bunker availability. The...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/mabux-bunker-prices-expect-to-be-volatile-during-september/"
+    },
+    {
+      "published": "2026-09-01T21:00:53+00:00",
+      "d": "01/09",
+      "s": "crude",
+      "t": "Hormuz shutdown reroutes Saudi crude, and Korean yards are booking the ships that carry it",
+      "x": "Korean shipyards are reportedly fielding a surge of Suezmax tanker inquiries as the U.S.-Iran conflict reroutes Middle East crude away from the Strait of Hormuz. Shipowners are paying premiums to secure the midsize...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/hormuz-shutdown-reroutes-saudi-crude-and-korean-yards-are-booking-the-ships-that-carry-it/"
+    },
+    {
+      "published": "2026-09-01T21:00:49+00:00",
+      "d": "01/09",
       "s": "product",
-      "t": "Europe’s diesel options narrow",
-      "x": "Half of Europe’s seaborne diesel imports from other regions now come from the US, up from a quarter a year ago. That leaves Europe’s marginal supply resting on one region, while inventories sit very low, autumn refinery...",
+      "t": "First Full-Scale Tests of 175DF Methanol Engine Successfully Started",
+      "x": "Everllence has announced the successful, full-scale testing of its 12-cylinder 175DF-M dual-fuel methanol engine at the company’s Test and Research Center in Frederikshavn, Denmark. The company reports that, following...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/europes-diesel-options-narrow/"
+      "url": "https://www.hellenicshippingnews.com/first-full-scale-tests-of-175df-methanol-engine-successfully-started/"
     },
     {
-      "published": "2026-08-31T21:00:57+00:00",
-      "d": "31/08",
-      "s": "macro",
-      "t": "Black Sea disruptions to weigh on vegoil carrier demand",
-      "x": "The Black Sea region remains the world’s most important corridor for sunflower oil exports, with Russia and Ukraine accounting for over 57% of global trade. However, recent attacks on port infrastructure and export...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/black-sea-disruptions-to-weigh-on-vegoil-carrier-demand/"
-    },
-    {
-      "published": "2026-08-31T21:00:54+00:00",
-      "d": "31/08",
-      "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 28 August 2026",
-      "x": "In the week ending Aug-28, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-28-august-2026/"
-    },
-    {
-      "published": "2026-08-31T21:00:50+00:00",
-      "d": "31/08",
-      "s": "dry",
-      "t": "Xclusiv Shipbrokers Weekly 31st August 2026",
-      "x": "Dry bulk trade from the Black Sea has moved into a markedly weaker phase during the summer months, with ex ports from Russia Source: Xclusiv Shipbrokers Inc.",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/"
-    },
-    {
-      "published": "2026-08-31T21:00:35+00:00",
-      "d": "31/08",
-      "s": "macro",
-      "t": "Ahti Climate integrates with DNV’s Veracity to streamline FuelEU Maritime pooling",
-      "x": "Ahti Climate announced a new integration with Veracity, DNV’s independent industry cloud platform, enabling shipowners and operators to seamlessly transfer DNV-verified emissions data into Ahti’s FuelEU pooling...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ahti-climate-integrates-with-dnvs-veracity-to-streamline-fueleu-maritime-pooling/"
-    },
-    {
-      "published": "2026-08-31T16:13:10+00:00",
-      "d": "31/08",
+      "published": "2026-09-01T21:00:45+00:00",
+      "d": "01/09",
       "s": "crude",
-      "t": "Oil Tankers Make Fortunes During War as Sinokor Dominates",
-      "x": "By Alex Longley and Archie Hunter (Bloomberg) — The world’s oil supertankers are making unprecedented sums sailing from the Persian Gulf as Iran keeps attacking ships — with one South Korean...",
+      "t": "Capital Tankers Corp. Reports Strong Second Quarter Results",
+      "x": "Capital Tankers Corp. announced its financial results for the second quarter ended June 30, 2026. Quarterly Highlights • During the second quarter, the Company took delivery of seven vessels, comprising three Suezmax...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/capital-tankers-corp-reports-strong-second-quarter-results/"
+    },
+    {
+      "published": "2026-09-01T21:00:43+00:00",
+      "d": "01/09",
+      "s": "crude",
+      "t": "TEN Ltd. Announces Sale of Two First-Generation Suezmax Tankers",
+      "x": "Following the recent delivery of the shuttle tanker Anfield from Samsung shipyard in South Korea in late July, TEN announced today the sale of two 2006-built Suezmax tankers. This transaction will release in excess of...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ten-ltd-announces-sale-of-two-first-generation-suezmax-tankers/"
+    },
+    {
+      "published": "2026-09-01T18:57:33+00:00",
+      "d": "01/09",
+      "s": "crude",
+      "t": "U.S. Strikes Iran as Tanker Attacks Raise Stakes in Strait of Hormuz",
+      "x": "By Jasper Ward and Parisa Hafezi WASHINGTON/DUBAI, Sept 1 (Reuters) – The U.S. launched new air strikes on Iranian targets on Tuesday, quashing hopes that an exchange of fire last weekend might...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-tankers-make-fortunes-during-war-as-sinokor-dominates/"
+      "url": "https://gcaptain.com/u-s-strikes-iran-as-tanker-attacks-raise-stakes-in-strait-of-hormuz/"
     },
     {
-      "published": "2026-08-31T08:33:55+00:00",
-      "d": "31/08",
+      "published": "2026-09-01T16:16:59+00:00",
+      "d": "01/09",
       "s": "crude",
-      "t": "Hormuz shipping back in firing line as US-Iran strikes resume",
-      "x": "The fragile lull in the Strait of Hormuz has shattered, with the US and Iran exchanging fire for the first time in more than a month just as a fresh series of attacks on merchant shipping threatens to close down...",
+      "t": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping",
+      "x": "Mine clearance in the Strait of Hormuz is “not sufficient on its own” to bring commercial shipping back to normal, INTERTANKO warned, even as the tanker industry group welcomed the...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/intertanko-hormuz-mine-clearance-not-sufficient-to-restore-normal-shipping/"
+    },
+    {
+      "published": "2026-09-01T12:30:15+00:00",
+      "d": "01/09",
+      "s": "macro",
+      "t": "Russia Doubles Its LNG Dark Fleet in Race to Boost Gas Exports",
+      "x": "Russia has almost doubled the fleet of tankers ferrying liquefied natural gas from its US-sanctioned Arctic project in less than a year, as the country pushes to boost lucrative exports of the super-chilled fuel in...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russia-doubles-its-lng-dark-fleet-in-race-to-boost-gas-exports/"
+    },
+    {
+      "published": "2026-09-01T12:30:00+00:00",
+      "d": "01/09",
+      "s": "crude",
+      "t": "SK Oceanplant lines up up to eight aframaxes for Greek owner",
+      "x": "South Korea’s SK Oceanplant has landed its biggest merchant shipbuilding deal in years, signing a Greek owner for up to eight aframax tankers worth around KRW800bn ($583m). The firm contract is for six 115,000 dwt...",
       "su": "Splash247",
-      "url": "https://splash247.com/hormuz-shipping-back-in-firing-line-as-us-iran-strikes-resume/"
+      "url": "https://splash247.com/sk-oceanplant-lines-up-up-to-eight-aframaxes-for-greek-owner/"
     },
     {
-      "published": "2026-08-30T23:42:52+00:00",
-      "d": "30/08",
+      "published": "2026-09-01T12:25:45+00:00",
+      "d": "01/09",
       "s": "crude",
-      "t": "Vessels Crossing Strait Of Hormuz Drop To 5 Per Day",
-      "x": "By Florence Tan SINGAPORE, Aug 31 (Reuters) – The number of visible commodity vessels transiting the Strait of Hormuz dropped to five per day over the weekend,shipping data showed on Monday, as companies...",
+      "t": "Two Tankers Carrying Saudi Oil Attacked in Strait of Hormuz",
+      "x": "Two supertankers carrying Saudi oil were struck by unknown projectiles within minutes of each other while transiting outbound through the Strait of Hormuz late on Monday, according to shipping intelligence and tracking...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/vessels-crossing-strait-of-hormuz-drop-to-5-per-day/"
+      "url": "https://gcaptain.com/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz/"
     },
     {
-      "published": "2026-08-30T18:54:09+00:00",
-      "d": "30/08",
+      "published": "2026-09-01T08:08:26+00:00",
+      "d": "01/09",
       "s": "dry",
-      "t": "Panama Canal Loosens Neopanamax Booking Rules as Capacity Tightens",
-      "x": "The Panama Canal is temporarily relaxing key elements of its Neopanamax booking system, giving shipping companies more flexibility to secure transit slots as the waterway prepares for reduced capacity and...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/panama-canal-loosens-neopanamax-booking-rules-as-capacity-tightens/"
+      "t": "Star Bulk readies Athens dual listing",
+      "x": "Petros Pappas-led Star Bulk Carriers is preparing to add Athens to its long-standing Nasdaq listing, becoming the latest major Greek shipping name to tap the country’s resurgent capital market. Greek financial reports...",
+      "su": "Splash247",
+      "url": "https://splash247.com/star-bulk-readies-athens-dual-listing/"
     }
   ]
 }
