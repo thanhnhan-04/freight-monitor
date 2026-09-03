@@ -1,113 +1,113 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
-      "published": "2026-09-01T21:00:57+00:00",
-      "d": "01/09",
+      "published": "2026-09-02T21:00:59+00:00",
+      "d": "02/09",
       "s": "dry",
-      "t": "Baltic Dry Index Snaps 7-Day Winning Streak",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell about 0.9% to 3,157 points on Tuesday, halting a streak of seven straight sessions of advances. The capesize...",
+      "t": "Baltic Dry Index Jumps to 2023-Highs",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, surged by 5.5% by 3,331 points on Wednesday, reaching its highest since December 2023. Gains were broad-based...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-7-day-winning-streak/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-jumps-to-2023-highs/"
     },
     {
-      "published": "2026-09-01T21:00:55+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "MABUX: Bunker Prices Expect to Be Volatile During September",
-      "x": "The global bunker market in August was shaped primarily by Middle East geopolitical developments, crude oil volatility, tight distillate and low-sulphur fuel supply, and regional imbalances in bunker availability. The...",
+      "published": "2026-09-02T21:00:57+00:00",
+      "d": "02/09",
+      "s": "dry",
+      "t": "Danube congestion continues to tighten general cargo and small dry bulk vessel availability in the Black Sea",
+      "x": "Persistent congestion in the Danube River has been lowering vessel availability in the Black Sea, particularly for smaller general cargo tonnage, while also affecting some dry bulk vessels. Prolonged delays are likely...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/mabux-bunker-prices-expect-to-be-volatile-during-september/"
+      "url": "https://www.hellenicshippingnews.com/danube-congestion-continues-to-tighten-general-cargo-and-small-dry-bulk-vessel-availability-in-the-black-sea/"
     },
     {
-      "published": "2026-09-01T21:00:53+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "Hormuz shutdown reroutes Saudi crude, and Korean yards are booking the ships that carry it",
-      "x": "Korean shipyards are reportedly fielding a surge of Suezmax tanker inquiries as the U.S.-Iran conflict reroutes Middle East crude away from the Strait of Hormuz. Shipowners are paying premiums to secure the midsize...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/hormuz-shutdown-reroutes-saudi-crude-and-korean-yards-are-booking-the-ships-that-carry-it/"
-    },
-    {
-      "published": "2026-09-01T21:00:49+00:00",
-      "d": "01/09",
-      "s": "product",
-      "t": "First Full-Scale Tests of 175DF Methanol Engine Successfully Started",
-      "x": "Everllence has announced the successful, full-scale testing of its 12-cylinder 175DF-M dual-fuel methanol engine at the company’s Test and Research Center in Frederikshavn, Denmark. The company reports that, following...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/first-full-scale-tests-of-175df-methanol-engine-successfully-started/"
-    },
-    {
-      "published": "2026-09-01T21:00:45+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "Capital Tankers Corp. Reports Strong Second Quarter Results",
-      "x": "Capital Tankers Corp. announced its financial results for the second quarter ended June 30, 2026. Quarterly Highlights • During the second quarter, the Company took delivery of seven vessels, comprising three Suezmax...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/capital-tankers-corp-reports-strong-second-quarter-results/"
-    },
-    {
-      "published": "2026-09-01T21:00:43+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "TEN Ltd. Announces Sale of Two First-Generation Suezmax Tankers",
-      "x": "Following the recent delivery of the shuttle tanker Anfield from Samsung shipyard in South Korea in late July, TEN announced today the sale of two 2006-built Suezmax tankers. This transaction will release in excess of...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ten-ltd-announces-sale-of-two-first-generation-suezmax-tankers/"
-    },
-    {
-      "published": "2026-09-01T18:57:33+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "U.S. Strikes Iran as Tanker Attacks Raise Stakes in Strait of Hormuz",
-      "x": "By Jasper Ward and Parisa Hafezi WASHINGTON/DUBAI, Sept 1 (Reuters) – The U.S. launched new air strikes on Iranian targets on Tuesday, quashing hopes that an exchange of fire last weekend might...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-strikes-iran-as-tanker-attacks-raise-stakes-in-strait-of-hormuz/"
-    },
-    {
-      "published": "2026-09-01T16:16:59+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping",
-      "x": "Mine clearance in the Strait of Hormuz is “not sufficient on its own” to bring commercial shipping back to normal, INTERTANKO warned, even as the tanker industry group welcomed the...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/intertanko-hormuz-mine-clearance-not-sufficient-to-restore-normal-shipping/"
-    },
-    {
-      "published": "2026-09-01T12:30:15+00:00",
-      "d": "01/09",
+      "published": "2026-09-02T21:00:57+00:00",
+      "d": "02/09",
       "s": "macro",
-      "t": "Russia Doubles Its LNG Dark Fleet in Race to Boost Gas Exports",
-      "x": "Russia has almost doubled the fleet of tankers ferrying liquefied natural gas from its US-sanctioned Arctic project in less than a year, as the country pushes to boost lucrative exports of the super-chilled fuel in...",
+      "t": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
+      "x": "U.S. liquefied natural gas (LNG) exports averaged 17.4 billion cubic feet per day (Bcf/d) in the first six months of the year, 23% more than the same period in 2025, according to our Natural Gas Monthly. In our latest...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/u-s-lng-exports-rose-23-in-the-first-half-of-2026-because-of-higher-capacity/"
+    },
+    {
+      "published": "2026-09-02T21:00:56+00:00",
+      "d": "02/09",
+      "s": "product",
+      "t": "How Conflict in the Middle East is Impacting Maritime",
+      "x": "Roughly 70 LR2s, equivalent to 154 MR2s in dwt terms, have reportedly dirtied up so far this year, as the crude market considerably outperformed the oil products market. The predominant market for product carrying LR2s...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/how-conflict-in-the-middle-east-is-impacting-maritime-2/"
+    },
+    {
+      "published": "2026-09-02T21:00:51+00:00",
+      "d": "02/09",
+      "s": "lpg",
+      "t": "STEALTHGAS INC. Reports Strong Second Quarter Results",
+      "x": "STEALTHGAS INC., a ship-owning company serving the liquefied petroleum gas (LPG) sector of the international shipping industry, announced today its unaudited financial and operating results for the second quarter and...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/stealthgas-inc-reports-strong-second-quarter-results/"
+    },
+    {
+      "published": "2026-09-02T21:00:39+00:00",
+      "d": "02/09",
+      "s": "macro",
+      "t": "El Niño, Panama Canal restrictions, and routing off Cape Horn",
+      "x": "The Panama Canal remains the preferred route for vessels trading between the Atlantic and Pacific Oceans. However, recurring drought conditions associated with the El Niño phenomenon have repeatedly reduced water...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/el-nino-panama-canal-restrictions-and-routing-off-cape-horn/"
+    },
+    {
+      "published": "2026-09-02T20:08:04+00:00",
+      "d": "02/09",
+      "s": "macro",
+      "t": "New RAmparts 4300 ASD Tug Design for Guangzhou Port",
+      "x": "Robert Allan Ltd. has been awarded a contract to design a new RAmparts 4300 ASD tug for Guangzhou Port. The vessel will mark the first Robert Allan Ltd.-designed tug to join Guangzhou...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-doubles-its-lng-dark-fleet-in-race-to-boost-gas-exports/"
+      "url": "https://gcaptain.com/new-ramparts-4300-asd-tug-design-for-guangzhou-port/"
     },
     {
-      "published": "2026-09-01T12:30:00+00:00",
-      "d": "01/09",
+      "published": "2026-09-02T17:26:34+00:00",
+      "d": "02/09",
       "s": "crude",
-      "t": "SK Oceanplant lines up up to eight aframaxes for Greek owner",
-      "x": "South Korea’s SK Oceanplant has landed its biggest merchant shipbuilding deal in years, signing a Greek owner for up to eight aframax tankers worth around KRW800bn ($583m). The firm contract is for six 115,000 dwt...",
-      "su": "Splash247",
-      "url": "https://splash247.com/sk-oceanplant-lines-up-up-to-eight-aframaxes-for-greek-owner/"
-    },
-    {
-      "published": "2026-09-01T12:25:45+00:00",
-      "d": "01/09",
-      "s": "crude",
-      "t": "Two Tankers Carrying Saudi Oil Attacked in Strait of Hormuz",
-      "x": "Two supertankers carrying Saudi oil were struck by unknown projectiles within minutes of each other while transiting outbound through the Strait of Hormuz late on Monday, according to shipping intelligence and tracking...",
+      "t": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
+      "x": "Saudi Arabia’s observed crude exports last month slumped to the lowest in at least nine years, as tankers were attacked following rising tensions in the Middle East.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz/"
+      "url": "https://gcaptain.com/saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-sea/"
     },
     {
-      "published": "2026-09-01T08:08:26+00:00",
-      "d": "01/09",
+      "published": "2026-09-02T16:01:43+00:00",
+      "d": "02/09",
+      "s": "macro",
+      "t": "PHOTOS: U.S. Aircraft Carrier Abraham Lincoln Arrives in Thailand After 286 Days at Sea",
+      "x": "U.S. Navy aircraft carrier Abraham Lincoln arrived in port in eastern Thailand on Wednesday after 286 days at sea, including a lengthy deployment in the Middle East, amid reports of mental health concerns and...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/photos-u-s-aircraft-carrier-abraham-lincoln-arrives-in-thailand-after-286-days-at-sea/"
+    },
+    {
+      "published": "2026-09-02T15:45:58+00:00",
+      "d": "02/09",
+      "s": "crude",
+      "t": "Two Seafarers Killed in Strait of Hormuz Tanker Attack",
+      "x": "Two seafarers have been killed in an attack on a tanker in the Strait of Hormuz, UK Maritime Trade Operations confirmed Wednesday, bringing the known death toll from attacks on...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/two-seafarers-killed-in-strait-of-hormuz-tanker-attack/"
+    },
+    {
+      "published": "2026-09-02T12:00:00+00:00",
+      "d": "02/09",
       "s": "dry",
-      "t": "Star Bulk readies Athens dual listing",
-      "x": "Petros Pappas-led Star Bulk Carriers is preparing to add Athens to its long-standing Nasdaq listing, becoming the latest major Greek shipping name to tap the country’s resurgent capital market. Greek financial reports...",
+      "t": "CSSC Shipping expands dry bulk portfolio with 10 newbuilds",
+      "x": "Hong Kong-listed CSSC Shipping has signed up for ten 80,000 dwt bulk carrier newbuildings in China in a CNH3.235bn ($481m) fleet expansion. The ship leasing arm of state-owned China State Shipbuilding Corporation has...",
       "su": "Splash247",
-      "url": "https://splash247.com/star-bulk-readies-athens-dual-listing/"
+      "url": "https://splash247.com/cssc-shipping-expands-dry-bulk-portfolio-with-10-newbuilds/"
+    },
+    {
+      "published": "2026-09-02T11:02:00+00:00",
+      "d": "02/09",
+      "s": "product",
+      "t": "EuroHoldings locks in boxship cash flow for tanker push",
+      "x": "EuroHoldings has locked its two vintage feeder containerships into fresh period deals at $24,000 and $20,500 per day, adding around $24m of expected EBITDA as the company builds liquidity for its push into product...",
+      "su": "Splash247",
+      "url": "https://splash247.com/euroholdings-locks-in-boxship-cash-flow-for-tanker-push/"
     }
   ]
 }
