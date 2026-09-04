@@ -1,113 +1,113 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
     {
-      "published": "2026-09-02T21:00:59+00:00",
-      "d": "02/09",
-      "s": "dry",
-      "t": "Baltic Dry Index Jumps to 2023-Highs",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, surged by 5.5% by 3,331 points on Wednesday, reaching its highest since December 2023. Gains were broad-based...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-jumps-to-2023-highs/"
-    },
-    {
-      "published": "2026-09-02T21:00:57+00:00",
-      "d": "02/09",
-      "s": "dry",
-      "t": "Danube congestion continues to tighten general cargo and small dry bulk vessel availability in the Black Sea",
-      "x": "Persistent congestion in the Danube River has been lowering vessel availability in the Black Sea, particularly for smaller general cargo tonnage, while also affecting some dry bulk vessels. Prolonged delays are likely...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/danube-congestion-continues-to-tighten-general-cargo-and-small-dry-bulk-vessel-availability-in-the-black-sea/"
-    },
-    {
-      "published": "2026-09-02T21:00:57+00:00",
-      "d": "02/09",
-      "s": "macro",
-      "t": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
-      "x": "U.S. liquefied natural gas (LNG) exports averaged 17.4 billion cubic feet per day (Bcf/d) in the first six months of the year, 23% more than the same period in 2025, according to our Natural Gas Monthly. In our latest...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/u-s-lng-exports-rose-23-in-the-first-half-of-2026-because-of-higher-capacity/"
-    },
-    {
-      "published": "2026-09-02T21:00:56+00:00",
-      "d": "02/09",
+      "published": "2026-09-03T21:00:59+00:00",
+      "d": "03/09",
       "s": "product",
-      "t": "How Conflict in the Middle East is Impacting Maritime",
-      "x": "Roughly 70 LR2s, equivalent to 154 MR2s in dwt terms, have reportedly dirtied up so far this year, as the crude market considerably outperformed the oil products market. The predominant market for product carrying LR2s...",
+      "t": "Rerouting after Hormuz cuts clean tanker cargoes, yet fleet expands",
+      "x": "Amid ongoing disruptions from the Strait of Hormuz standoff, clean tanker trade is being sustained by longer routes and shuttle operations, but with more newbuild ships on the way industry professionals are warning of a...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/how-conflict-in-the-middle-east-is-impacting-maritime-2/"
+      "url": "https://www.hellenicshippingnews.com/rerouting-after-hormuz-cuts-clean-tanker-cargoes-yet-fleet-expands/"
     },
     {
-      "published": "2026-09-02T21:00:51+00:00",
-      "d": "02/09",
-      "s": "lpg",
-      "t": "STEALTHGAS INC. Reports Strong Second Quarter Results",
-      "x": "STEALTHGAS INC., a ship-owning company serving the liquefied petroleum gas (LPG) sector of the international shipping industry, announced today its unaudited financial and operating results for the second quarter and...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/stealthgas-inc-reports-strong-second-quarter-results/"
-    },
-    {
-      "published": "2026-09-02T21:00:39+00:00",
-      "d": "02/09",
-      "s": "macro",
-      "t": "El Niño, Panama Canal restrictions, and routing off Cape Horn",
-      "x": "The Panama Canal remains the preferred route for vessels trading between the Atlantic and Pacific Oceans. However, recurring drought conditions associated with the El Niño phenomenon have repeatedly reduced water...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/el-nino-panama-canal-restrictions-and-routing-off-cape-horn/"
-    },
-    {
-      "published": "2026-09-02T20:08:04+00:00",
-      "d": "02/09",
-      "s": "macro",
-      "t": "New RAmparts 4300 ASD Tug Design for Guangzhou Port",
-      "x": "Robert Allan Ltd. has been awarded a contract to design a new RAmparts 4300 ASD tug for Guangzhou Port. The vessel will mark the first Robert Allan Ltd.-designed tug to join Guangzhou...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/new-ramparts-4300-asd-tug-design-for-guangzhou-port/"
-    },
-    {
-      "published": "2026-09-02T17:26:34+00:00",
-      "d": "02/09",
-      "s": "crude",
-      "t": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
-      "x": "Saudi Arabia’s observed crude exports last month slumped to the lowest in at least nine years, as tankers were attacked following rising tensions in the Middle East.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-sea/"
-    },
-    {
-      "published": "2026-09-02T16:01:43+00:00",
-      "d": "02/09",
-      "s": "macro",
-      "t": "PHOTOS: U.S. Aircraft Carrier Abraham Lincoln Arrives in Thailand After 286 Days at Sea",
-      "x": "U.S. Navy aircraft carrier Abraham Lincoln arrived in port in eastern Thailand on Wednesday after 286 days at sea, including a lengthy deployment in the Middle East, amid reports of mental health concerns and...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/photos-u-s-aircraft-carrier-abraham-lincoln-arrives-in-thailand-after-286-days-at-sea/"
-    },
-    {
-      "published": "2026-09-02T15:45:58+00:00",
-      "d": "02/09",
-      "s": "crude",
-      "t": "Two Seafarers Killed in Strait of Hormuz Tanker Attack",
-      "x": "Two seafarers have been killed in an attack on a tanker in the Strait of Hormuz, UK Maritime Trade Operations confirmed Wednesday, bringing the known death toll from attacks on...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/two-seafarers-killed-in-strait-of-hormuz-tanker-attack/"
-    },
-    {
-      "published": "2026-09-02T12:00:00+00:00",
-      "d": "02/09",
+      "published": "2026-09-03T21:00:59+00:00",
+      "d": "03/09",
       "s": "dry",
-      "t": "CSSC Shipping expands dry bulk portfolio with 10 newbuilds",
-      "x": "Hong Kong-listed CSSC Shipping has signed up for ten 80,000 dwt bulk carrier newbuildings in China in a CNH3.235bn ($481m) fleet expansion. The ship leasing arm of state-owned China State Shipbuilding Corporation has...",
-      "su": "Splash247",
-      "url": "https://splash247.com/cssc-shipping-expands-dry-bulk-portfolio-with-10-newbuilds/"
+      "t": "Dry Bulk Shipping Facing Black Sea Disruptions",
+      "x": "Despite the latest rally in the dry bulk market, everything is not rosy, with disruptions in grains trade a major issue. In its latest weekly report, shipbroker Xclusiv said that “dry bulk trade from the Black Sea has...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-facing-black-sea-disruptions/"
     },
     {
-      "published": "2026-09-02T11:02:00+00:00",
-      "d": "02/09",
-      "s": "product",
-      "t": "EuroHoldings locks in boxship cash flow for tanker push",
-      "x": "EuroHoldings has locked its two vintage feeder containerships into fresh period deals at $24,000 and $20,500 per day, adding around $24m of expected EBITDA as the company builds liquidity for its push into product...",
+      "published": "2026-09-03T21:00:57+00:00",
+      "d": "03/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Surges Toward 5-Year High",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, advanced for a second session on Thursday, surging 4.7% to a peak since October 2021 at 3,488 points. Shipping...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-surges-toward-5-year-high/"
+    },
+    {
+      "published": "2026-09-03T21:00:53+00:00",
+      "d": "03/09",
+      "s": "macro",
+      "t": "Record port congestion exposes maritime’s collaboration problem, says PortXchange",
+      "x": "PortXchange says the latest rise in global port congestion underscores why shipping, ports, terminals, and service providers need to share information earlier and make decisions from a common operational picture. Record...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/record-port-congestion-exposes-maritimes-collaboration-problem-says-portxchange/"
+    },
+    {
+      "published": "2026-09-03T21:00:45+00:00",
+      "d": "03/09",
+      "s": "crude",
+      "t": "Lloyd’s Register and MARIC unveil tri-fuel-ready tanker concept designed to navigate fuel uncertainty",
+      "x": "Approval in Principle advances LNG, methanol and ammonia-ready tanker design, giving owners the flexibility to leverage multiple fuel pathways. Lloyd’s Register (LR) and the Marine Design and Research Institute of China...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/lloyds-register-and-maric-unveil-tri-fuel-ready-tanker-concept-designed-to-navigate-fuel-uncertainty/"
+    },
+    {
+      "published": "2026-09-03T21:00:43+00:00",
+      "d": "03/09",
+      "s": "macro",
+      "t": "Saudel makes third landfall in China; port disruption risks high",
+      "x": "Typhoon Saudel made its third landfall along the coast of Fujian province in east China early on Thursday, raising risks of renewed weather-related shipping disruptions. • Renewed threat follows widespread eastern China...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/saudel-makes-third-landfall-in-china-port-disruption-risks-high/"
+    },
+    {
+      "published": "2026-09-03T20:30:00+00:00",
+      "d": "03/09",
+      "s": "dry",
+      "t": "Shipfix co-founder swaps freight screens for synths",
+      "x": "Antoine Grisay, best known in shipping as the co-founder of maritime software platform Shipfix, has resurfaced with a rather different launch: electronic music under the nautical artist name Handysize. His first...",
       "su": "Splash247",
-      "url": "https://splash247.com/euroholdings-locks-in-boxship-cash-flow-for-tanker-push/"
+      "url": "https://splash247.com/shipfix-co-founder-swaps-freight-screens-for-synths/"
+    },
+    {
+      "published": "2026-09-03T19:04:26+00:00",
+      "d": "03/09",
+      "s": "macro",
+      "t": "‘Pink Corridor’ Project to Study Nuclear-Powered Container Route Across Atlantic",
+      "x": "Lloyd’s Register, A.P. Moller-Maersk and two major container ports are teaming up to examine what it would take to operate a nuclear-powered containership between the United States and United Kingdom....",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/pink-corridor-project-to-study-nuclear-powered-container-route-across-atlantic/"
+    },
+    {
+      "published": "2026-09-03T16:54:49+00:00",
+      "d": "03/09",
+      "s": "crude",
+      "t": "War Risk Claims Top $2 Billion as Shipping Attacks Spread Beyond Hormuz",
+      "x": "By Lori-Ann LaRocco – The payout to vessel owners damaged in the Iran War is the second-biggest payout for marine underwriters in more than a decade, according to maritime insurance...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/war-risk-claims-top-2-billion-as-shipping-attacks-spread-beyond-hormuz/"
+    },
+    {
+      "published": "2026-09-03T16:39:55+00:00",
+      "d": "03/09",
+      "s": "crude",
+      "t": "Ukraine Attacks Ship Used to Repair Key Black Sea Oil Moorings",
+      "x": "Ukraine attacked a small service ship involved in planned repair works at the key CPC oil terminal in the Black Sea, a person with knowledge of the matter said. The facility is vital to Kazakstan’s crude exports.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/ukraine-attacks-ship-used-to-repair-key-black-sea-oil-moorings/"
+    },
+    {
+      "published": "2026-09-03T16:31:08+00:00",
+      "d": "03/09",
+      "s": "dry",
+      "t": "Dry Bulk Shipping Rates Surge on Tight Capesize Vessel Supply",
+      "x": "A key measure of bulk-shipping rates has touched a two-year high and risks climbing further, according to analysts, as bad weather crimps the availability of Capesize vessels just as exporters ramp up delivery.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/dry-bulk-shipping-rates-surge-on-tight-capesize-vessel-supply/"
+    },
+    {
+      "published": "2026-09-03T16:20:05+00:00",
+      "d": "03/09",
+      "s": "macro",
+      "t": "Container Spot Rates Hold Steady as Transpacific Gains Offset Asia-Europe Declines",
+      "x": "Global container shipping rates held steady this week as stronger pricing on the Transpacific offset declines on Asia-Europe routes, according to Drewry. The Drewry World Container Index (WCI) was unchanged...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/container-spot-rates-hold-steady-as-transpacific-gains-offset-asia-europe-declines/"
     }
   ]
 }
