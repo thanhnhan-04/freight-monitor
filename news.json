@@ -1,113 +1,113 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "items": [
     {
-      "published": "2026-09-07T21:00:59+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T23:30:16+00:00",
+      "d": "08/09",
+      "s": "crude",
+      "t": "U.S. Destroys Five More IRGC Tankers After Iran Targets Navy Warship",
+      "x": "U.S. forces destroyed five Iranian crude oil tankers Tuesday after the Islamic Revolutionary Guard Corps targeted a U.S. Navy warship with ballistic missiles twice over the past two days, according...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-destroys-five-more-irgc-tankers-after-iran-targets-navy-warship/"
+    },
+    {
+      "published": "2026-09-08T21:00:59+00:00",
+      "d": "08/09",
       "s": "dry",
-      "t": "Baltic Dry Index Breaks 3-Day Advance",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell by 1.4% to 3,575 points on Monday, snapping a three-day advance but staying near its highest levels since...",
+      "t": "Shipowners Investing in More Vessels",
+      "x": "Dry bulkers and tankers have been the main investment focus by ship owners over the past week. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained active this week. In the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-3-day-advance/"
+      "url": "https://www.hellenicshippingnews.com/shipowners-investing-in-more-vessels/"
     },
     {
-      "published": "2026-09-07T21:00:58+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T21:00:59+00:00",
+      "d": "08/09",
       "s": "crude",
-      "t": "Vintage Tonnage Captures the Freight Premium",
-      "x": "The defining feature of the current asset market is not limited to five-year-old tonnage trading above newbuilding prices. Repricing spans the entire age curve and intensifies with vessel age. VLCC values are up 30%...",
+      "t": "Bunker price volatility boosts freight rates for LNG-fueled dirty tankers",
+      "x": "Bunker price volatility was the key driver behind higher LNG-fueled dirty tanker freight rates, compared with conventional tanker freight values, Aug. 31-Sept. 4, across benchmark routes. Platts Base Rates for...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vintage-tonnage-captures-the-freight-premium/"
+      "url": "https://www.hellenicshippingnews.com/bunker-price-volatility-boosts-freight-rates-for-lng-fueled-dirty-tankers/"
     },
     {
-      "published": "2026-09-07T21:00:57+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T21:00:57+00:00",
+      "d": "08/09",
+      "s": "macro",
+      "t": "Port congestion in Asia pushes carriers back to Suez as peak season splits across trade corridors",
+      "x": "Asia-Europe container freight rates are falling as port congestion in Asia pushes carriers back toward the Suez Canal, according to Sogese’s September Europe Container Market Update. Drewry’s 3 September World Container...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/port-congestion-in-asia-pushes-carriers-back-to-suez-as-peak-season-splits-across-trade-corridors/"
+    },
+    {
+      "published": "2026-09-08T21:00:55+00:00",
+      "d": "08/09",
+      "s": "dry",
+      "t": "Star Bulk Carriers Corp. Announcement Offering Price Range for the Equity Offering in Greece",
+      "x": "Star Bulk Carriers Corp. (the “Company”) SBLK, an international maritime shipping company based in the Marshall Islands specializing in the transportation of dry bulk commodities, today announced the offering price...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/star-bulk-carriers-corp-announcement-offering-price-range-for-the-equity-offering-in-greece/"
+    },
+    {
+      "published": "2026-09-08T21:00:53+00:00",
+      "d": "08/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Bounces Back",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose about 0.3% to 3,584 points on Tuesday, following a 1.4% decrease in the prior session. The capesize index...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-bounces-back/"
+    },
+    {
+      "published": "2026-09-08T21:00:51+00:00",
+      "d": "08/09",
+      "s": "macro",
+      "t": "Dynagas LNG Partners LP Reports Results for the Three and Six Months Ended June 30, 2026",
+      "x": "Dynagas LNG Partners LP, an owner of liquefied natural gas (“LNG”) carriers, announced its results for the three and six months ended June 30, 2026. Half year Highlights: Net Income and Earnings per common unit (basic...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dynagas-lng-partners-lp-reports-results-for-the-three-and-six-months-ended-june-30-2026/"
+    },
+    {
+      "published": "2026-09-08T16:10:46+00:00",
+      "d": "08/09",
       "s": "crude",
-      "t": "Geopolitical risk disconnects VLCC freight from demand",
-      "x": "VLCC fundamentals have softened from the tighter conditions seen earlier this year. Active VLCC tonne mile demand declined in August, while the ballast fleet increased as more vessels completed laden employment. Yet...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/geopolitical-risk-disconnects-vlcc-freight-from-demand/"
-    },
-    {
-      "published": "2026-09-07T21:00:57+00:00",
-      "d": "07/09",
-      "s": "crude",
-      "t": "Iran says it plans to announce a new ‘exclusion zone’ near the Strait of Hormuz",
-      "x": "The new head of Iran’s Supreme National Security Council on Sunday said Tehran plans to announce an “exclusion zone” outside the Strait of Hormuz aimed at vessels it believes are attempting to transit the waterway...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/iran-says-it-plans-to-announce-a-new-exclusion-zone-near-the-strait-of-hormuz/"
-    },
-    {
-      "published": "2026-09-07T21:00:54+00:00",
-      "d": "07/09",
-      "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 4 September 2026",
-      "x": "In the week ending Sep-4, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-4-september-2026/"
-    },
-    {
-      "published": "2026-09-07T21:00:45+00:00",
-      "d": "07/09",
-      "s": "macro",
-      "t": "Europe’s busiest ports ranked: Which move the most goods?",
-      "x": "Sea shipping keeps Europe fed, fuelled and supplied — and this year, the Iran war’s disruptions to shipping routes have thrust it into the headlines. Euronews looked at the busiest ports in Europe by volume of goods...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/europes-busiest-ports-ranked-which-move-the-most-goods/"
-    },
-    {
-      "published": "2026-09-07T15:58:24+00:00",
-      "d": "07/09",
-      "s": "macro",
-      "t": "Cargo Flow Is the Real Financial Risk for Ports",
-      "x": "By Sabrina Brigance, CMIP Ports have traditionally measured performance through cargo volume, vessel calls, crane productivity, and infrastructure capacity. Those metrics matter, but they do not tell the full...",
+      "t": "Suez Canal Revival Gathers Pace as Hormuz Crisis Reroutes Ships",
+      "x": "Suez Canal revenue rose 42% in July from the year earlier, as the Iran war’s effective closure of the Strait of Hormuz and Houthi threats in the southern Red Sea led more ships to use the Egyptian waterway.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/cargo-flow-is-the-real-financial-risk-for-ports/"
+      "url": "https://gcaptain.com/suez-canal-revival-gathers-pace-as-hormuz-crisis-reroutes-ships/"
     },
     {
-      "published": "2026-09-07T10:44:06+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T16:07:06+00:00",
+      "d": "08/09",
       "s": "crude",
-      "t": "Russia Launches Massive Vostok Oil Project, Marking New Arctic Shipping Era",
-      "x": "Russia has begun loading crude from its giant Vostok Oil development onto tankers at the newly built Bukhta Sever terminal on the Kara Sea, marking the start of what could become one of the largest new sources of...",
+      "t": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
+      "x": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-launches-massive-vostok-oil-project-marking-new-arctic-shipping-era/"
+      "url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/"
     },
     {
-      "published": "2026-09-07T08:27:53+00:00",
-      "d": "07/09",
-      "s": "crude",
-      "t": "Iran threatens wider Hormuz exclusion zone after tanker strikes",
-      "x": "The increasingly violent tanker war around the Strait of Hormuz is threatening to send oil prices sharply higher, with Goldman Sachs warning today Brent could hit $120 a barrel if attacks on shipping intensify. The...",
-      "su": "Splash247",
-      "url": "https://splash247.com/iran-threatens-wider-hormuz-exclusion-zone-after-tanker-strikes/"
-    },
-    {
-      "published": "2026-09-07T07:42:41+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T12:02:00+00:00",
+      "d": "08/09",
       "s": "macro",
-      "t": "Russian military-linked roro targeted near Crete",
-      "x": "Ukraine’s maritime campaign against Russian shipping has pushed deep into the Mediterranean, with reports over the weekend that the sanctioned Russian roro Lady Mariia was struck by drones near Crete. Drones dropped...",
+      "t": "Transport Capital-backed Seahawk moves into vessel lending",
+      "x": "Frankfurt-based investment manager Seahawk Investments has moved into direct ship lending with the launch of a Luxembourg maritime credit fund targeting smaller and mid-sized owners that have found access to traditional...",
       "su": "Splash247",
-      "url": "https://splash247.com/russian-military-linked-roro-targeted-near-crete/"
+      "url": "https://splash247.com/transport-capital-backed-seahawk-moves-into-vessel-lending/"
     },
     {
-      "published": "2026-09-07T05:29:01+00:00",
-      "d": "07/09",
+      "published": "2026-09-08T11:29:00+00:00",
+      "d": "08/09",
       "s": "crude",
-      "t": "Vostok Oil starts flowing from new Arctic terminal",
-      "x": "Russia has started shipping crude from the giant Vostok Oil development through the newly built Bukhta Sever terminal on the Taimyr Peninsula, opening what Moscow intends to become one of the Arctic’s largest oil export...",
+      "t": "Hunter’s VLCC charter dispute swells to $55m",
+      "x": "Hunter Group’s long-running VLCC charter dispute has escalated further, with the amount of unpaid hire claimed by the Oslo-listed company climbing above $55m after its largest monthly shortfall to date. The unnamed...",
       "su": "Splash247",
-      "url": "https://splash247.com/vostok-oil-starts-flowing-from-new-arctic-terminal/"
+      "url": "https://splash247.com/hunters-vlcc-charter-dispute-swells-to-55m/"
     },
     {
-      "published": "2026-09-07T01:43:47+00:00",
-      "d": "07/09",
-      "s": "crude",
-      "t": "Hormuz Traffic Dips To Lowest Since May After US, Iranian Strikes On Ships",
-      "x": "By Florence Tan SINGAPORE, Sept 7 (Reuters) – An average of 10 commodity ships transited the Strait of Hormuz per day over the past 10 days, the lowest since May, according to shipping data...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships/"
+      "published": "2026-09-08T11:03:00+00:00",
+      "d": "08/09",
+      "s": "dry",
+      "t": "GSD adds another Japanese bulker newbuild",
+      "x": "Turkey’s GSD Holding has added another Japanese-built bulker to its expanding newbuilding programme, signing up for a 40,300 dwt handysize for delivery in 2030. The Istanbul-listed group said its Marshall Islands-based...",
+      "su": "Splash247",
+      "url": "https://splash247.com/gsd-adds-another-japanese-bulker-newbuild/"
     }
   ]
 }
