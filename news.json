@@ -1,6 +1,105 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "items": [
+    {
+      "published": "2026-09-09T21:00:59+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
+      "x": "Four regions – the Strait of Hormuz, the Red Sea, the waters off Somalia, and the Black Sea – are now simultaneously active theatres of danger, on a scale the shipping industry has not seen before. Vessels and seafarers...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ships-and-seafarers-increasingly-caught-in-the-crossfire-of-unrelated-wars/"
+    },
+    {
+      "published": "2026-09-09T21:00:58+00:00",
+      "d": "09/09",
+      "s": "dry",
+      "t": "Capesize in focus — C3 at a multi-year high as ordering accelerates",
+      "x": "The Capesize market strengthened sharply over the week, led by sustained momentum in the Atlantic. The Baltic Capesize Index (BCI) rose by 950 points to 6,286, while average C5TC earnings increased by $8,612 to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/capesize-in-focus-c3-at-a-multi-year-high-as-ordering-accelerates/"
+    },
+    {
+      "published": "2026-09-09T21:00:57+00:00",
+      "d": "09/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Up for 2nd Day",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a second session on Wednesday, rising about 1% to 3,620 points, supported by all vessel segments. The...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day-4/"
+    },
+    {
+      "published": "2026-09-09T21:00:55+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Six months into Hormuz blockade, Qatar and UAE test ways to keep LNG moving",
+      "x": "LNG exporters are looking for ways around the disruption in Hormuz, with three Gulf cargoes recently moved using ship-to-ship transfers (STS) as Qatar and UAE exports remain far below pre-war levels. Qatar and the UAE...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/six-months-into-hormuz-blockade-qatar-and-uae-test-ways-to-keep-lng-moving/"
+    },
+    {
+      "published": "2026-09-09T21:00:47+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship",
+      "x": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships and Tehran hit back at American targets in Jordan, the latest burst of back-and-forth strikes...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/us-military-says-it-destroyed-5-more-iranian-oil-tankers-after-missile-attacks-on-navy-warship/"
+    },
+    {
+      "published": "2026-09-09T21:00:43+00:00",
+      "d": "09/09",
+      "s": "macro",
+      "t": "Uni-Fuels Reports Record First-Half 2026 Financial Results and Raises Full-Year Revenue Guidance to US$340M-US$360M",
+      "x": "Uni-Fuels Holdings Limited, a global provider of marine fuel solutions headquartered in Singapore, today announced its unaudited interim financial results for the six months ended June 30, 2026. First Half 2026...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/uni-fuels-reports-record-first-half-2026-financial-results-and-raises-full-year-revenue-guidance-to-us340m-us360m/"
+    },
+    {
+      "published": "2026-09-09T16:18:52+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Brent Crude Oil Rises Above $100 a Barrel as Middle East Conflict Intensifies",
+      "x": "Brent crude futures breached $100 a barrel on Wednesday for the first time since late July, as Iran and the U.S. hit tankers in the biggest wave of attacks on shipping since the war began, threatening to worsen the...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/brent-crude-oil-rises-above-100-a-barrel-as-middle-east-conflict-intensifies/"
+    },
+    {
+      "published": "2026-09-09T16:09:49+00:00",
+      "d": "09/09",
+      "s": "macro",
+      "t": "U.S. Container Imports Defy Expectations as Peak Season Stretches Into September",
+      "x": "The peak shipping season at major U.S. container ports is proving longer than expected, with September now forecast to become the busiest month of the year for imports, according to...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-container-imports-defy-expectations-as-peak-season-stretches-into-september/"
+    },
+    {
+      "published": "2026-09-09T15:12:25+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Greek-owned VLCC hit by drone in Iraqi waters",
+      "x": "A Greek-owned VLCC carrying around 2m barrels of Iraqi fuel oil was struck by a drone in Iraqi territorial waters on Wednesday. The 302,500 dwt New Andros was hit at around 06.00 local time east of Al-Faw, triggering a...",
+      "su": "Splash247",
+      "url": "https://splash247.com/greek-owned-vlcc-hit-by-drone-in-iraqi-waters/"
+    },
+    {
+      "published": "2026-09-09T12:08:38+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Iran and US Hit Tankers in Biggest Wave of Attacks on Shipping Since War Began",
+      "x": "Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the U.S. sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on shipping by both sides since the start of...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/"
+    },
+    {
+      "published": "2026-09-09T08:30:35+00:00",
+      "d": "09/09",
+      "s": "crude",
+      "t": "Hormuz tanker war spirals",
+      "x": "The maritime war around the Strait of Hormuz has escalated dramatically over the past 24 hours, with the US attacking five Iran-linked tankers and Tehran claiming to have subsequently targeted two US vessels, eight oil...",
+      "su": "Splash247",
+      "url": "https://splash247.com/hormuz-tanker-war-spirals/"
+    },
     {
       "published": "2026-09-08T23:30:16+00:00",
       "d": "08/09",
@@ -9,105 +108,6 @@
       "x": "U.S. forces destroyed five Iranian crude oil tankers Tuesday after the Islamic Revolutionary Guard Corps targeted a U.S. Navy warship with ballistic missiles twice over the past two days, according...",
       "su": "gCaptain",
       "url": "https://gcaptain.com/u-s-destroys-five-more-irgc-tankers-after-iran-targets-navy-warship/"
-    },
-    {
-      "published": "2026-09-08T21:00:59+00:00",
-      "d": "08/09",
-      "s": "dry",
-      "t": "Shipowners Investing in More Vessels",
-      "x": "Dry bulkers and tankers have been the main investment focus by ship owners over the past week. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained active this week. In the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/shipowners-investing-in-more-vessels/"
-    },
-    {
-      "published": "2026-09-08T21:00:59+00:00",
-      "d": "08/09",
-      "s": "crude",
-      "t": "Bunker price volatility boosts freight rates for LNG-fueled dirty tankers",
-      "x": "Bunker price volatility was the key driver behind higher LNG-fueled dirty tanker freight rates, compared with conventional tanker freight values, Aug. 31-Sept. 4, across benchmark routes. Platts Base Rates for...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/bunker-price-volatility-boosts-freight-rates-for-lng-fueled-dirty-tankers/"
-    },
-    {
-      "published": "2026-09-08T21:00:57+00:00",
-      "d": "08/09",
-      "s": "macro",
-      "t": "Port congestion in Asia pushes carriers back to Suez as peak season splits across trade corridors",
-      "x": "Asia-Europe container freight rates are falling as port congestion in Asia pushes carriers back toward the Suez Canal, according to Sogese’s September Europe Container Market Update. Drewry’s 3 September World Container...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/port-congestion-in-asia-pushes-carriers-back-to-suez-as-peak-season-splits-across-trade-corridors/"
-    },
-    {
-      "published": "2026-09-08T21:00:55+00:00",
-      "d": "08/09",
-      "s": "dry",
-      "t": "Star Bulk Carriers Corp. Announcement Offering Price Range for the Equity Offering in Greece",
-      "x": "Star Bulk Carriers Corp. (the “Company”) SBLK, an international maritime shipping company based in the Marshall Islands specializing in the transportation of dry bulk commodities, today announced the offering price...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/star-bulk-carriers-corp-announcement-offering-price-range-for-the-equity-offering-in-greece/"
-    },
-    {
-      "published": "2026-09-08T21:00:53+00:00",
-      "d": "08/09",
-      "s": "dry",
-      "t": "Baltic Dry Index Bounces Back",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose about 0.3% to 3,584 points on Tuesday, following a 1.4% decrease in the prior session. The capesize index...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-bounces-back/"
-    },
-    {
-      "published": "2026-09-08T21:00:51+00:00",
-      "d": "08/09",
-      "s": "macro",
-      "t": "Dynagas LNG Partners LP Reports Results for the Three and Six Months Ended June 30, 2026",
-      "x": "Dynagas LNG Partners LP, an owner of liquefied natural gas (“LNG”) carriers, announced its results for the three and six months ended June 30, 2026. Half year Highlights: Net Income and Earnings per common unit (basic...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dynagas-lng-partners-lp-reports-results-for-the-three-and-six-months-ended-june-30-2026/"
-    },
-    {
-      "published": "2026-09-08T16:10:46+00:00",
-      "d": "08/09",
-      "s": "crude",
-      "t": "Suez Canal Revival Gathers Pace as Hormuz Crisis Reroutes Ships",
-      "x": "Suez Canal revenue rose 42% in July from the year earlier, as the Iran war’s effective closure of the Strait of Hormuz and Houthi threats in the southern Red Sea led more ships to use the Egyptian waterway.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/suez-canal-revival-gathers-pace-as-hormuz-crisis-reroutes-ships/"
-    },
-    {
-      "published": "2026-09-08T16:07:06+00:00",
-      "d": "08/09",
-      "s": "crude",
-      "t": "Oil Tanker Company Says It’s Owed $55 Million in Rate Dispute",
-      "x": "Oil tanker company Hunter Group ASA says it’s owed $55 million by a counterparty that’s disputing its contractual obligations after a surge in the world’s benchmark freight rate.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-tanker-company-says-its-owed-55-million-in-rate-dispute/"
-    },
-    {
-      "published": "2026-09-08T12:02:00+00:00",
-      "d": "08/09",
-      "s": "macro",
-      "t": "Transport Capital-backed Seahawk moves into vessel lending",
-      "x": "Frankfurt-based investment manager Seahawk Investments has moved into direct ship lending with the launch of a Luxembourg maritime credit fund targeting smaller and mid-sized owners that have found access to traditional...",
-      "su": "Splash247",
-      "url": "https://splash247.com/transport-capital-backed-seahawk-moves-into-vessel-lending/"
-    },
-    {
-      "published": "2026-09-08T11:29:00+00:00",
-      "d": "08/09",
-      "s": "crude",
-      "t": "Hunter’s VLCC charter dispute swells to $55m",
-      "x": "Hunter Group’s long-running VLCC charter dispute has escalated further, with the amount of unpaid hire claimed by the Oslo-listed company climbing above $55m after its largest monthly shortfall to date. The unnamed...",
-      "su": "Splash247",
-      "url": "https://splash247.com/hunters-vlcc-charter-dispute-swells-to-55m/"
-    },
-    {
-      "published": "2026-09-08T11:03:00+00:00",
-      "d": "08/09",
-      "s": "dry",
-      "t": "GSD adds another Japanese bulker newbuild",
-      "x": "Turkey’s GSD Holding has added another Japanese-built bulker to its expanding newbuilding programme, signing up for a 40,300 dwt handysize for delivery in 2030. The Istanbul-listed group said its Marshall Islands-based...",
-      "su": "Splash247",
-      "url": "https://splash247.com/gsd-adds-another-japanese-bulker-newbuild/"
     }
   ]
 }
