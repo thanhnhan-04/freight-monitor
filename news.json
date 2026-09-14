@@ -1,113 +1,107 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "items": [
     {
-      "published": "2026-09-10T21:00:59+00:00",
-      "d": "10/09",
+      "published": "2026-09-13T21:00:58+00:00",
+      "d": "13/09",
       "s": "dry",
-      "t": "Baltic Dry Index Breaks 2-Day Advance",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped a two-day winning streak on Thursday, dropping about 2.7% to a one-week low of 3,521 points. Weaker rates...",
+      "t": "Dry Bulk Market: Capesize Steadying After Recent Gains",
+      "x": "Capesize The market experienced a mixed week, with the Pacific providing the main source of volatility while the Atlantic remained comparatively steady, albeit lacking consistent momentum. The Pacific initially came...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-2-day-advance/"
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesize-steadying-after-recent-gains/"
     },
     {
-      "published": "2026-09-10T21:00:59+00:00",
-      "d": "10/09",
-      "s": "dry",
-      "t": "Dry Bulk Market Enjoying Best Period in Five Years",
-      "x": "The dry bulk market has seen a healthy rally to the best levels of the past five years. In its latest weekly report, shipbroker Xclusiv said that “the Capesize market has moved into territory not seen for almost five...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-enjoying-best-period-in-five-years/"
-    },
-    {
-      "published": "2026-09-10T21:00:57+00:00",
-      "d": "10/09",
+      "published": "2026-09-13T21:00:58+00:00",
+      "d": "13/09",
       "s": "macro",
-      "t": "What port calls reveal about the LNG fleet",
-      "x": "Barcelona’s recent growth in LNG-powered vessel calls shows why fuel volumes alone do not tell the whole story of maritime deployment. The transition to alternative marine fuels is usually measured by fleet orderbooks...",
+      "t": "Asia-US container rates mixed, remain pressured by congested Asian ports, persistent demand",
+      "x": "Rates for shipping containers from east Asia and China to the US were mixed this week but continue to face upward pressure amid congested Asia ports and persistent demand, evidenced by rate increases set for 1 October...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/what-port-calls-reveal-about-the-lng-fleet/"
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-remain-pressured-by-congested-asian-ports-persistent-demand/"
     },
     {
-      "published": "2026-09-10T21:00:57+00:00",
-      "d": "10/09",
-      "s": "macro",
-      "t": "TEN, Ltd. Reports Skyrocketing Results For the First Half and Second Quarter of 2026",
-      "x": "TEN, Ltd. reported results (unaudited) for the six months and the second quarter ended June 30, 2026. FIRST HALF 2026 SUMMARY RESULTS TEN’s fleet generated record gross revenues of $551.4 million, an increase of $161.0...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ten-ltd-reports-skyrocketing-results-for-the-first-half-and-second-quarter-of-2026-2/"
-    },
-    {
-      "published": "2026-09-10T21:00:55+00:00",
-      "d": "10/09",
-      "s": "dry",
-      "t": "Panama Canal Restrictions Are Landing on an Already Broken Chokepoint Map",
-      "x": "The Panama Canal Authority will run nine daily slots at the Neopanamax locks and 25 at the Panamax locks from September 4, averaging 34 transits per day. That falls again on September 15, when the limit drops to 32...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/panama-canal-restrictions-are-landing-on-an-already-broken-chokepoint-map/"
-    },
-    {
-      "published": "2026-09-10T21:00:49+00:00",
-      "d": "10/09",
-      "s": "dry",
-      "t": "SEA-LNG calls on EU to protect the mass-balance pathway",
-      "x": "Industry coalition SEA-LNG is urging the European Commission’s Directorate-General for Energy (DG ENER) to protect the mass-balance terminal chain of custody. This comes ahead of expected proposed revisions in 2026 to...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/sea-lng-calls-on-eu-to-protect-the-mass-balance-pathway/"
-    },
-    {
-      "published": "2026-09-10T20:25:15+00:00",
-      "d": "10/09",
-      "s": "macro",
-      "t": "Houthi Seizure of Mocha Opens New Front in Iran-U.S. War",
-      "x": "Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands, military sources said, hours after President Donald Trump said he expected the Iran...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/houthi-seizure-of-mocha-opens-new-front-in-iran-u-s-war/"
-    },
-    {
-      "published": "2026-09-10T17:53:18+00:00",
-      "d": "10/09",
-      "s": "dry",
-      "t": "Shipyard Fire Kills 25 Aboard Bulk Carrier in China",
-      "x": "Twenty-five people died in a fire aboard a foreign cargo vessel undergoing repairs at a state-owned shipyard in the eastern Chinese city of Qingdao on Thursday, state media reported.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/shipyard-fire-kills-25-aboard-bulk-carrier-in-china/"
-    },
-    {
-      "published": "2026-09-10T16:59:33+00:00",
-      "d": "10/09",
+      "published": "2026-09-13T21:00:56+00:00",
+      "d": "13/09",
       "s": "crude",
-      "t": "Iraq Seeks Oil Tankers as Gulf Giants Try to Ensure Hormuz Flows",
-      "x": "Iraq is holding a tender to hire two or more oil supertankers to perform transits through the Strait of Hormuz, the latest evidence that producers in the region are trying to take greater control of their exports...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/"
+      "t": "Tankers: VLCC Market on the Rise",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index jumped 209 points this week to WS785 returning around $232,000/day on a Baltic round trip basis. A voyage west also shot up 66% to $16.5 million on the TC20 90kt MEG/UK-Continent...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-vlcc-market-on-the-rise/"
     },
     {
-      "published": "2026-09-10T16:34:46+00:00",
-      "d": "10/09",
-      "s": "macro",
-      "t": "Surging Tanker Rates Signal Deepening Global Energy Crisis",
-      "x": "Global tanker freight rates are surging to record levels with little respite in sight, a sign of the growing strain in oil markets as traders, shipowners, producers and buyers grapple with a drawn-out conflict in the...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/surging-tanker-rates-signal-deepening-global-energy-crisis/"
-    },
-    {
-      "published": "2026-09-10T13:29:39+00:00",
-      "d": "10/09",
-      "s": "dry",
-      "t": "25 dead in bulker blaze at Chinese shipyard",
-      "x": "Twenty-five people have died after a fire broke out on a bulk carrier undergoing repairs at CSSC-controlled Qingdao Beihai Shipbuilding in eastern China on Thursday. The fire started at around 11.15 am local time while...",
-      "su": "Splash247",
-      "url": "https://splash247.com/25-dead-in-bulker-blaze-at-chinese-shipyard/"
-    },
-    {
-      "published": "2026-09-10T12:12:08+00:00",
-      "d": "10/09",
+      "published": "2026-09-13T21:00:54+00:00",
+      "d": "13/09",
       "s": "crude",
-      "t": "Hormuz Shipping Traffic in Single Digits, Data Shows",
-      "x": "Vessel transits via the Strait of Hormuz fell on Wednesday to seven from 12 the previous day, preliminary ship-tracking data showed on Thursday, with levels also below the 10-day average of 14.",
+      "t": "Americas Aframax rates surge to record high as shipowners regain upper hand",
+      "x": "Aframax freight rates for the Vancouver-China route reached an all-time high on Sept. 10 as shipowners seized on tight tonnage amid strong global demand. “Blood in the water and the owners are sharks,” one shipbroker...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/americas-aframax-rates-surge-to-record-high-as-shipowners-regain-upper-hand/"
+    },
+    {
+      "published": "2026-09-13T21:00:52+00:00",
+      "d": "13/09",
+      "s": "crude",
+      "t": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
+      "x": "An Iranian commercial vessel was struck early Sunday off Qeshm Island in the Strait of Hormuz, with one person killed and four wounded, Iranian state media said, a day before Tehran seeks to brief regional countries on...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-with-1-dead-iranian-media-say/"
+    },
+    {
+      "published": "2026-09-13T21:00:44+00:00",
+      "d": "13/09",
+      "s": "dry",
+      "t": "Port Hedland Iron Ore Exports Rose 5% in August",
+      "x": "Pilbara Ports delivered a total monthly throughput of 65.9 million tonnes (Mt) during August 2026. No percentage increase or decrease compared to August 2025. The Port of Port Hedland achieved a monthly throughput of...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/port-hedland-iron-ore-exports-rose-5-in-august/"
+    },
+    {
+      "published": "2026-09-13T17:03:05+00:00",
+      "d": "13/09",
+      "s": "macro",
+      "t": "Russia Hits Odesa Again As Black Sea Shipping Disrupted",
+      "x": "By Bloomberg News Sep 12, 2026 (Bloomberg) –Russia carried out a large airstrike on Ukraine’s port city of Odesa and the surrounding region as shipping in the Black Sea remains disrupted...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/hormuz-shipping-traffic-in-single-digits-data-shows/"
+      "url": "https://gcaptain.com/russia-hits-odesa-again-as-black-sea-shipping-disrupted/"
+    },
+    {
+      "published": "2026-09-13T14:46:08+00:00",
+      "d": "13/09",
+      "s": "crude",
+      "t": "Crew Of Vessel Attacked In Hormuz Strait Evacuated",
+      "x": "CAIRO, Sept 13 (Reuters) – A vessel has been struck by an unknown projectile while transiting the Strait of Hormuz, the United Kingdom Maritime ?Trade Operations said early on Sunday. The crew were...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/crew-of-vessel-attacked-in-hormuz-strait-evacuated/"
+    },
+    {
+      "published": "2026-09-13T14:20:18+00:00",
+      "d": "13/09",
+      "s": "crude",
+      "t": "US Limits Air Defense Time Slots For Tankers Sailing Through Hormuz",
+      "x": "Sept 12 (Reuters) – The U.S. has asked tankers traveling through the Strait of Hormuz to sail only at specific times to guarantee military protection after Iran stepped up attacks on ships...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/us-limits-air-defense-time-slots-for-tankers-sailing-through-hormuz/"
+    },
+    {
+      "published": "2026-09-11T18:21:06+00:00",
+      "d": "11/09",
+      "s": "crude",
+      "t": "Oil Tanker Rates Hit Record Highs Following Iran, US Shipping Attacks",
+      "x": "The cost of shipping oil in the largest tankers hit record highs this week following the biggest wave of attacks on shipping since the U.S.-Iran war began in late February.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks/"
+    },
+    {
+      "published": "2026-09-11T17:25:50+00:00",
+      "d": "11/09",
+      "s": "crude",
+      "t": "U.S.-Facilitated Hormuz Transits Help Lift Gulf Crude Exports Above 10 Million Bpd",
+      "x": "Traffic through the Strait of Hormuz is still running far below normal, but the latest UKMTO data shows a steady flow of ships continuing to move through the waterway, much...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-facilitated-hormuz-transits-help-lift-gulf-crude-exports-above-10-million-bpd/"
     }
+  ],
+  "errors": [
+    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
