@@ -1,113 +1,113 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "published": "2026-09-14T21:00:59+00:00",
-      "d": "14/09",
+      "published": "2026-09-15T21:00:59+00:00",
+      "d": "15/09",
+      "s": "product",
+      "t": "LNG bunker price rally amplifies freight gains for LNG-fuelled clean tankers",
+      "x": "Rising LNG bunker prices pushed LNG-fueled clean tanker freight rates above conventional rates Sept. 7-11, highlighting the bunker-price sensitivity that alternative-fueled ships face. Platts LNG-fueled Clean tanker...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/lng-bunker-price-rally-amplifies-freight-gains-for-lng-fuelled-clean-tankers/"
+    },
+    {
+      "published": "2026-09-15T21:00:59+00:00",
+      "d": "15/09",
       "s": "dry",
-      "t": "Baltic Dry Index Falls for 3rd Session",
-      "x": "The Baltic dry index fell 1.8% to 3445 on Monday, extending losses for the third session to its lowest level since September 2. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and...",
+      "t": "Japanese-built Dry Bulkers Still in High Demand",
+      "x": "Buying interest remains high for both newbuilt and second-hand Japanese bulkers. However, all ships aren’t equal. In its latest weekly report, shipbroker Xclusiv said that “Japan’s dry bulk shipbuilding market is...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-for-3rd-session/"
+      "url": "https://www.hellenicshippingnews.com/japanese-built-dry-bulkers-still-in-high-demand/"
     },
     {
-      "published": "2026-09-14T21:00:59+00:00",
-      "d": "14/09",
+      "published": "2026-09-15T21:00:57+00:00",
+      "d": "15/09",
       "s": "crude",
-      "t": "Tanker Market To Gain Further Impetus From Rising Oil Output in America",
-      "x": "Despite the ongoing tension in Hormuz, a series of new developments could offer further oil cargoes from countries like Canada, Mexico and Venezuela, providing new tanker market support. In its latest weekly report...",
+      "t": "Crude tanker rates hit new highs as Hormuz risk escalates",
+      "x": "Crude tanker rates have broken to fresh highs as Iranian and US attacks across the Persian Gulf and Strait of Hormuz push shipping risk to its highest level since the war began. The pace of attacks has accelerated...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-market-to-gain-further-impetus-from-rising-oil-output-in-america/"
+      "url": "https://www.hellenicshippingnews.com/crude-tanker-rates-hit-new-highs-as-hormuz-risk-escalates/"
     },
     {
-      "published": "2026-09-14T21:00:58+00:00",
-      "d": "14/09",
-      "s": "crude",
-      "t": "Crude Tanker Rates Reach Record Levels",
-      "x": "Clarksons Research, the data and intelligence arm of the Clarksons Group, have reported all-time highs for crude transportation costs following further disruption in the Middle East Gulf region. Reviewing the all-time...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/crude-tanker-rates-reach-record-levels/"
-    },
-    {
-      "published": "2026-09-14T21:00:57+00:00",
-      "d": "14/09",
-      "s": "crude",
-      "t": "Russia shifts to Hong Kong tankers as Greek operators exit Black Sea",
-      "x": "Russia turned to non-G7 tankers for seaborne crude sales to foreign buyers in August, especially those operated by Hong Kong companies, as Greek tanker firms steered clear of the Black Sea amid an escalation in maritime...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/russia-shifts-to-hong-kong-tankers-as-greek-operators-exit-black-sea/"
-    },
-    {
-      "published": "2026-09-14T21:00:54+00:00",
-      "d": "14/09",
-      "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 11 September 2026",
-      "x": "In the week ending Sep-11, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-11-september-2026/"
-    },
-    {
-      "published": "2026-09-14T21:00:53+00:00",
-      "d": "14/09",
-      "s": "macro",
-      "t": "Can Iran replace sea trade with land routes?",
-      "x": "Can land corridors offset the impact of the maritime blockade on Iran? The US-led maritime blockade targeting Iranian ports has severely disrupted trade through its southern ports, but it is also accelerating a strategy...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/can-iran-replace-sea-trade-with-land-routes/"
-    },
-    {
-      "published": "2026-09-14T20:28:38+00:00",
-      "d": "14/09",
-      "s": "crude",
-      "t": "U.S. Rejects Iran’s Mine Claim as Hormuz Shipping Threat Remains Severe",
-      "x": "U.S. Central Command is disputing an Iranian claim that a Panama-flagged tanker recently struck a naval mine in the Strait of Hormuz, saying the ship was instead hit by Iranian...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-rejects-irans-mine-claim-as-hormuz-shipping-threat-remains-severe/"
-    },
-    {
-      "published": "2026-09-14T18:24:16+00:00",
-      "d": "14/09",
-      "s": "crude",
-      "t": "Oil Tanker Rates Top $1 Million a Day as Hormuz War Squeezes Fleet",
-      "x": "The cost of hiring an oil tanker on the industry’s benchmark trade route topped $1 million a day for the first time, as the Iran war leaves too few ships willing to cross the Strait of Hormuz to collect cargoes.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-tanker-rates-top-1-million-a-day-as-hormuz-war-squeezes-fleet/"
-    },
-    {
-      "published": "2026-09-14T15:53:32+00:00",
-      "d": "14/09",
-      "s": "macro",
-      "t": "Maersk, Hapag-Lloyd Accelerate Return to Suez Despite Red Sea Risks",
-      "x": "Maersk and Hapag-Lloyd are significantly expanding their return to the Suez Canal, shifting four additional Gemini Cooperation services away from the Cape of Good Hope even as the security outlook...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/maersk-hapag-lloyd-accelerate-return-to-suez-despite-red-sea-risks/"
-    },
-    {
-      "published": "2026-09-14T10:00:00+00:00",
-      "d": "14/09",
-      "s": "crude",
-      "t": "Aegean cashes in modern aframax for $83m",
-      "x": "George Melissanidis-led Aegean Shipping Management has agreed to sell its 2022-built aframax/LR2 tanker for around $83m, continuing to cash in on historically strong values for modern tanker tonnage. Greek S&P sources...",
-      "su": "Splash247",
-      "url": "https://splash247.com/aegean-cashes-in-modern-aframax-for-83m/"
-    },
-    {
-      "published": "2026-09-14T09:30:00+00:00",
-      "d": "14/09",
+      "published": "2026-09-15T21:00:55+00:00",
+      "d": "15/09",
       "s": "dry",
-      "t": "Transworld keeps fleet reshuffle rolling with bulker sale",
-      "x": "India’s Transworld Shipping Lines has struck a deal to sell one of its two dry bulk carriers, agreeing a $9.25m sale of the 2011-built TBC Kailash. The Mumbai-listed owner is selling the 35,152 dwt unit to Mandarine...",
-      "su": "Splash247",
-      "url": "https://splash247.com/transworld-keeps-fleet-reshuffle-rolling-with-bulker-sale/"
+      "t": "Baltic Dry Index Down for 4th Day",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, retreated for a fourth session on Tuesday, dropping about 2.5% to a new low since September 2 at 3,360 points...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-for-4th-day-2/"
     },
     {
-      "published": "2026-09-14T08:00:11+00:00",
-      "d": "14/09",
+      "published": "2026-09-15T21:00:54+00:00",
+      "d": "15/09",
       "s": "crude",
-      "t": "Middle East shipping squeezed as Hormuz and Bab el-Mandeb risks converge",
-      "x": "Middle Eastern shipping patterns face another violent reshuffle after fresh vessel attacks around Hormuz, the shutdown of Saudi Arabia’s critical East-West oil pipeline and the Houthis’ advance into the heart of the Bab...",
+      "t": "Intermodal Weekly Market Report Week 37 2026 Broker’s Insight",
+      "x": "The pressure on Middle Eastern energy flows has intensified further, as disruption expands to infrastructure used to bypass Hormuz, following Source: Intermodal",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-37-2026-brokers-insight/"
+    },
+    {
+      "published": "2026-09-15T21:00:50+00:00",
+      "d": "15/09",
+      "s": "dry",
+      "t": "Banchero Costa Weekly Market Report, Week 37 2026",
+      "x": "In Jan-Aug 2026, global seaborne coal loadings increased by +1.7% yo-y to 866.8 mln t (excluding cabotage), based on vessel tracking Source: banchero costa & c s.p.a",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-37-2026/"
+    },
+    {
+      "published": "2026-09-15T19:11:06+00:00",
+      "d": "15/09",
+      "s": "macro",
+      "t": "Oil Prices Surge as Saudi Red Sea Loadings Halt, Libya Shuts Fields",
+      "x": "Oil prices rose by over $3 on Tuesday after shipping industry sources said oil loadings at Saudi Arabia's Red Sea port of Yanbu had been suspended, and Libya halted operations at three oil fields, heightening concerns...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oil-prices-surge-as-saudi-red-sea-loadings-halt-libya-shuts-fields/"
+    },
+    {
+      "published": "2026-09-15T15:57:42+00:00",
+      "d": "15/09",
+      "s": "macro",
+      "t": "Port of Los Angeles Cargo Operations Disrupted After Containers Go Overboard",
+      "x": "Three shipping containers fell from a vessel into the water at the Port of Los Angeles on Tuesday, forcing authorities to establish a safety zone while crews worked to secure...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/port-of-los-angeles-cargo-operations-disrupted-after-containers-go-overboard/"
+    },
+    {
+      "published": "2026-09-15T14:51:52+00:00",
+      "d": "15/09",
+      "s": "macro",
+      "t": "Oman Says ‘El Gaia’ Being Towed to Port; Two Crew Missing",
+      "x": "Omani authorities said Tuesday that the Panama-flagged tanker El Gaia is being towed to port after a fire aboard the vessel was brought under control, while two crew members remain missing. Oman’s...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oman-says-el-gaia-being-towed-to-port-two-crew-missing/"
+    },
+    {
+      "published": "2026-09-15T13:03:09+00:00",
+      "d": "15/09",
+      "s": "crude",
+      "t": "Seoul revives long-haul crude freight subsidy",
+      "x": "South Korea is reviving subsidies for long-haul crude imports from outside the Middle East, a move that could provide another boost to tanker tonne-mile demand as Seoul seeks to lock in the diversification achieved...",
       "su": "Splash247",
-      "url": "https://splash247.com/middle-east-shipping-squeezed-as-hormuz-and-bab-el-mandeb-risks-converge/"
+      "url": "https://splash247.com/seoul-revives-long-haul-crude-freight-subsidy/"
+    },
+    {
+      "published": "2026-09-15T12:38:59+00:00",
+      "d": "15/09",
+      "s": "macro",
+      "t": "Maersk Keeps Defying Bearish Expectations as Shares Soar",
+      "x": "A.P. Moller-Maersk A/S keeps giving analysts reasons to reconsider their bearish views on its shares. The stock has surged nearly 60% this year as a boost to freight rates from stronger demand and supply line...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/maersk-keeps-defying-bearish-expectations-as-shares-soar/"
+    },
+    {
+      "published": "2026-09-15T08:15:43+00:00",
+      "d": "15/09",
+      "s": "crude",
+      "t": "Tanker boom breaks every historical benchmark",
+      "x": "A benchmark tanker rate has entered seven figures for the first time, marking an extraordinary moment in shipping history as war risk sends earnings across virtually every tanker class to record or near-record levels...",
+      "su": "Splash247",
+      "url": "https://splash247.com/tanker-boom-breaks-every-historical-benchmark/"
     }
   ]
 }
