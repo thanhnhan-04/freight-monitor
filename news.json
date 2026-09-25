@@ -1,86 +1,95 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "items": [
     {
-      "published": "2026-09-23T22:42:39+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "Onex VLCC buying spree takes shape",
-      "x": "Onex DMCC has emerged as one of the tanker market’s most aggressive VLCC buyers, with at least five supertankers now linked to the Dubai trading house through broker reports and sales registers. Splash reported on...",
+      "published": "2026-09-25T02:50:03+00:00",
+      "d": "25/09",
+      "s": "product",
+      "t": "Hafnia closes in on 20% of Torm and raises $300m",
+      "x": "Hafnia has raised $300m in fresh equity after making another move on Torm, taking its holding in the Danish product tanker owner to 19.85%. The BW Group-backed tanker giant allocated 35.49m new shares at NOK80 apiece...",
       "su": "Splash247",
-      "url": "https://splash247.com/onex-vlcc-buying-spree-takes-shape/"
+      "url": "https://splash247.com/hafnia-closes-in-on-20-of-torm-and-raises-300m/"
     },
     {
-      "published": "2026-09-23T22:40:47+00:00",
-      "d": "23/09",
-      "s": "dry",
-      "t": "Seafarer killed and capesize adrift in Hormuz",
-      "x": "The human and commercial toll from the battle for the Strait of Hormuz continues to mount, with one seafarer killed yesterday after the Cape Dao capesize was struck while transiting the waterway. The 2002-built, Antigua...",
-      "su": "Splash247",
-      "url": "https://splash247.com/seafarer-killed-and-capesize-adrift-in-hormuz/"
-    },
-    {
-      "published": "2026-09-23T21:34:42+00:00",
-      "d": "23/09",
+      "published": "2026-09-25T02:18:20+00:00",
+      "d": "25/09",
       "s": "macro",
-      "t": "Coast Guard Awards $315 Million Kodiak Pier Contract to Support Arctic Fleet Expansion",
-      "x": "The U.S. Coast Guard has awarded a $315 million contract to Tutor Perini Corp. to build a new fuel pier and major cutter mooring at Base Kodiak, Alaska, as the service prepares...",
+      "t": "Russia plans $2.35bn exporter levy to bankroll Arctic icebreakers",
+      "x": "Russia is proposing a new levy on seaborne exports to raise more than RUB200bn ($2.35bn) for nuclear icebreakers needed to expand traffic along the Northern Sea Route. A draft government decree prepared by the transport...",
+      "su": "Splash247",
+      "url": "https://splash247.com/russia-plans-2-35bn-exporter-levy-to-bankroll-arctic-icebreakers/"
+    },
+    {
+      "published": "2026-09-25T01:41:42+00:00",
+      "d": "25/09",
+      "s": "macro",
+      "t": "Panama slips to third in global flag rankings",
+      "x": "Panama’s long retreat from the top of the global ship registry rankings has reached another milestone, with the once dominant flag now overtaken by the Marshall Islands to fall into third place. The latest Clarksons...",
+      "su": "Splash247",
+      "url": "https://splash247.com/panama-slips-to-third-in-global-flag-rankings/"
+    },
+    {
+      "published": "2026-09-24T21:00:59+00:00",
+      "d": "24/09",
+      "s": "crude",
+      "t": "VLCCs: Freight Boom Reprices the Fleet",
+      "x": "The VLCC market has experienced a sharp repricing during 2026, with the most significant acceleration taking place since late July as exceptionally strong freight earnings have fed directly into secondhand values. While...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/vlccs-freight-boom-reprices-the-fleet/"
+    },
+    {
+      "published": "2026-09-24T21:00:59+00:00",
+      "d": "24/09",
+      "s": "macro",
+      "t": "Ocean hull market faces growing risk pressures despite global premium growth, reports IUMI",
+      "x": "The global ocean hull insurance market is continuing to soften despite apparent growth in the overall premium base, according to Ilias P.Tsakiris, Chair of the Ocean Hull Committee speaking at the International Union of...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ocean-hull-market-faces-growing-risk-pressures-despite-global-premium-growth-reports-iumi/"
+    },
+    {
+      "published": "2026-09-24T21:00:58+00:00",
+      "d": "24/09",
+      "s": "crude",
+      "t": "When the Levee Breaks",
+      "x": "The weakest June for Chinese crude imports in a decade did not cost a single barrel of throughput. Imports fell 41.3% on the year, runs held above 12.4 mb/d, and product exports went up. The difference came out of the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/when-the-levee-breaks/"
+    },
+    {
+      "published": "2026-09-24T21:00:57+00:00",
+      "d": "24/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Rises to Near 2-Week High",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose by 1.2% to its highest since September 11 at 3,473 points on Thursday. The capesize index, which typically...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-near-2-week-high/"
+    },
+    {
+      "published": "2026-09-24T21:00:57+00:00",
+      "d": "24/09",
+      "s": "dry",
+      "t": "Colombia’s coal trade enters a new phase as policy and logistics drive demand",
+      "x": "Colombia’s position in the global coal market is undergoing a structural shift; robust exports, renewed access to the Israeli market and frequent disruptions to its logistics infrastructure are shaping the outlook for...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/colombias-coal-trade-enters-a-new-phase-as-policy-and-logistics-drive-demand/"
+    },
+    {
+      "published": "2026-09-24T21:00:53+00:00",
+      "d": "24/09",
+      "s": "crude",
+      "t": "Marine insurers lose billions supporting Hormuz energy flows: IUMI",
+      "x": "Insurance companies have lost billions to cover war risks for shipping during the ongoing US-Iran conflict to support global energy trades, despite a jump in headline premium rates, according to a senior official of the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/marine-insurers-lose-billions-supporting-hormuz-energy-flows-iumi/"
+    },
+    {
+      "published": "2026-09-24T16:06:10+00:00",
+      "d": "24/09",
+      "s": "macro",
+      "t": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns",
+      "x": "The Drewry World Container Index edged lower this week as falling Asia-Europe rates outweighed firmer pricing on the Transpacific, with carriers preparing another round of blank sailings ahead of China’s...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/coast-guard-awards-315-million-kodiak-pier-contract-to-support-arctic-fleet-expansion/"
-    },
-    {
-      "published": "2026-09-23T21:00:58+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "BIMCO: Supply Pressure Is Mounting In The Container Shipping Market",
-      "x": "“Disruptions and strong growth in head-haul trades continue to support the container shipping market in 2026, but accelerating fleet growth could weaken the supply/demand balance in 2027,” says Niels Rasmussen, Chief...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/bimco-supply-pressure-is-mounting-in-the-container-shipping-market/"
-    },
-    {
-      "published": "2026-09-23T21:00:57+00:00",
-      "d": "23/09",
-      "s": "dry",
-      "t": "Baltic Dry Index Ticks Down",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, edged down by 0.1% to 3,430 points on Wednesday, though remaining close to the highest since September 14. The...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-ticks-down/"
-    },
-    {
-      "published": "2026-09-23T21:00:57+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "Deciphering the dirty tanker record rally",
-      "x": "In order to decipher this historic level of freight rates we will focus on the drivers in three different parts: 1 – Cargo supply and demand This is the perspective where record VLCC rates are least justified. Global...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/deciphering-the-dirty-tanker-record-rally/"
-    },
-    {
-      "published": "2026-09-23T21:00:55+00:00",
-      "d": "23/09",
-      "s": "macro",
-      "t": "Steel flows face fresh challenges in the final quarter of 2026",
-      "x": "Steel flows slip into negative growth in July 2026 • Global steel flows fall 1% y/y in July 2026 to reach 22.2 Mt. • China’s share of global steel flows rises from 41.6% in July 2025 to 45.7% in July 2026, driven by a...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026/"
-    },
-    {
-      "published": "2026-09-23T21:00:51+00:00",
-      "d": "23/09",
-      "s": "dry",
-      "t": "New Baltic Handysize futures contracts now listed on SGX and EEX",
-      "x": "Baltic Exchange is pleased to announce that both SGX and European Energy Exchange (EEX) are now offering new Baltic Handysize futures contracts, providing market participants with dedicated tools to manage their...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/new-baltic-handysize-futures-contracts-now-listed-on-sgx-and-eex/"
-    },
-    {
-      "published": "2026-09-23T21:00:45+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "Which Indian Shipyards Can Actually Build a VLCC?",
-      "x": "India is steadily emerging as a formidable player in the global shipbuilding landscape. However, constructing a Very Large Crude Carrier (VLCC) demands capabilities that extend far beyond conventional shipbuilding...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/which-indian-shipyards-can-actually-build-a-vlcc/"
+      "url": "https://gcaptain.com/container-rates-edge-lower-ahead-of-golden-week-as-suez-traffic-returns/"
     },
     {
       "published": "2026-09-23T20:25:54+00:00",
@@ -90,15 +99,6 @@
       "x": "Global oil trading firms Vitol and Trafigura are pushing for steeper discounts on Venezuelan crude oil as rising freight rates shrink their margins, five sources familiar with the matter said.",
       "su": "gCaptain",
       "url": "https://gcaptain.com/traders-push-for-discounts-for-venezuelan-oil-as-shipping-costs-soar/"
-    },
-    {
-      "published": "2026-09-23T14:47:51+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN",
-      "x": "An Indian seafarer has been killed after the Antigua and Barbuda-flagged bulk carrier Cape Dao was attacked and abandoned near the Strait of Hormuz, adding to a mounting casualty toll as the...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/"
     }
   ]
 }
