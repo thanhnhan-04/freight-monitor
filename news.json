@@ -1,104 +1,113 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-28",
   "items": [
     {
-      "published": "2026-09-25T02:50:03+00:00",
-      "d": "25/09",
+      "published": "2026-09-27T21:00:59+00:00",
+      "d": "27/09",
       "s": "product",
-      "t": "Hafnia closes in on 20% of Torm and raises $300m",
-      "x": "Hafnia has raised $300m in fresh equity after making another move on Torm, taking its holding in the Danish product tanker owner to 19.85%. The BW Group-backed tanker giant allocated 35.49m new shares at NOK80 apiece...",
-      "su": "Splash247",
-      "url": "https://splash247.com/hafnia-closes-in-on-20-of-torm-and-raises-300m/"
+      "t": "Product Tanker Rates on the Rise",
+      "x": "The product tanker market is also experiencing a strong upwards trend, following the latest developments. In its latest weekly report, shipbroker Gibson said that “the global CPP market remains firmly supported this...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/product-tanker-rates-on-the-rise/"
     },
     {
-      "published": "2026-09-25T02:18:20+00:00",
-      "d": "25/09",
+      "published": "2026-09-27T21:00:58+00:00",
+      "d": "27/09",
       "s": "macro",
-      "t": "Russia plans $2.35bn exporter levy to bankroll Arctic icebreakers",
-      "x": "Russia is proposing a new levy on seaborne exports to raise more than RUB200bn ($2.35bn) for nuclear icebreakers needed to expand traffic along the Northern Sea Route. A draft government decree prepared by the transport...",
-      "su": "Splash247",
-      "url": "https://splash247.com/russia-plans-2-35bn-exporter-levy-to-bankroll-arctic-icebreakers/"
+      "t": "Asia-US container rates still rising; liquid tanker rates ex-US Gulf largely stable",
+      "x": "Rates for shipping containers from east Asia and China to the US rose this week on resilient demand and persistent, weather-driven congestion at Asian ports, while rates for liquid chemical tankers ex-US Gulf were flat...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-still-rising-liquid-tanker-rates-ex-us-gulf-largely-stable/"
     },
     {
-      "published": "2026-09-25T01:41:42+00:00",
+      "published": "2026-09-27T21:00:58+00:00",
+      "d": "27/09",
+      "s": "dry",
+      "t": "Dry Bulk Market Trending Higher Again",
+      "x": "Capesize The Capesize market continued to climb towards the highs seen earlier this month before losing some momentum on the final day of the week. Nevertheless, the timecharter average edged up $142 week-on-week to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher-again/"
+    },
+    {
+      "published": "2026-09-27T21:00:56+00:00",
+      "d": "27/09",
+      "s": "product",
+      "t": "Tankers: VLCCs Easing, While Clean Tankers on the Rise",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index increased by 41.67 points this week to WS875.56, with the corresponding Baltic round-trip TCE rising from $237,000/day to $252,100/day. On a trip west the TC20 90kt...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-vlccs-easing-while-clean-tankers-on-the-rise/"
+    },
+    {
+      "published": "2026-09-27T21:00:40+00:00",
+      "d": "27/09",
+      "s": "lpg",
+      "t": "IMO targets alternative fuel spill response",
+      "x": "Participants at an International Maritime Organization (IMO) forum have called for greater cooperation to address gaps in spill-response preparedness as shipping expands its use of alternative bunker fuels. The IMO’s...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/imo-targets-alternative-fuel-spill-response/"
+    },
+    {
+      "published": "2026-09-27T21:00:38+00:00",
+      "d": "27/09",
+      "s": "dry",
+      "t": "China agrees to buy 10 million tons of U.S. coal in 2027 and 2028",
+      "x": "China has agreed to purchase at least 10 million metric tons of U.S. coal in both 2027 and 2028 as Washington and Beijing expand trade cooperation following their latest high-level talks, Bloomberg reported. The coal...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/china-agrees-to-buy-10-million-tons-of-u-s-coal-in-2027-and-2028/"
+    },
+    {
+      "published": "2026-09-26T18:29:30+00:00",
+      "d": "26/09",
+      "s": "dry",
+      "t": "Russia Can Restart 80% Of Black Sea Grain Export If Attacks Stop",
+      "x": "By Gleb Stolyarov MOSCOW, Sept 25 (Reuters) – Russia could quickly restart up to 80% of its grain terminal capacity in the Black Sea and Sea of Azov if diplomatic efforts to...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russia-can-restart-80-of-black-sea-grain-export-if-attacks-stop/"
+    },
+    {
+      "published": "2026-09-25T16:45:36+00:00",
+      "d": "25/09",
+      "s": "crude",
+      "t": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo",
+      "x": "Two of the Iran-linked oil supertankers interdicted by American naval forces early in the war are just weeks away from reaching the US, where authorities have pledged to seize the vessels and millions of dollars worth...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/seized-iranian-oil-tankers-head-toward-u-s-with-600-million-cargo/"
+    },
+    {
+      "published": "2026-09-25T16:38:28+00:00",
+      "d": "25/09",
+      "s": "crude",
+      "t": "Gulf of Oman Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
+      "x": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/"
+    },
+    {
+      "published": "2026-09-25T09:35:00+00:00",
+      "d": "25/09",
+      "s": "dry",
+      "t": "Sincere Navigation adds modern kamsarmax in $38.5m deal",
+      "x": "Taiwanese owner Sincere Navigation has agreed to pay $38.5m for a 2019-built kamsarmax as it continues reshaping its mixed tanker and dry bulk fleet. The Taipei-listed company disclosed that its indirect wholly owned...",
+      "su": "Splash247",
+      "url": "https://splash247.com/sincere-navigation-adds-modern-kamsarmax-in-38-5m-deal/"
+    },
+    {
+      "published": "2026-09-25T09:20:00+00:00",
+      "d": "25/09",
+      "s": "dry",
+      "t": "Precious seals fresh ultramax fixture",
+      "x": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter...",
+      "su": "Splash247",
+      "url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/"
+    },
+    {
+      "published": "2026-09-25T05:00:42+00:00",
       "d": "25/09",
       "s": "macro",
       "t": "Panama slips to third in global flag rankings",
       "x": "Panama’s long retreat from the top of the global ship registry rankings has reached another milestone, with the once dominant flag now overtaken by the Marshall Islands to fall into third place. The latest Clarksons...",
       "su": "Splash247",
       "url": "https://splash247.com/panama-slips-to-third-in-global-flag-rankings/"
-    },
-    {
-      "published": "2026-09-24T21:00:59+00:00",
-      "d": "24/09",
-      "s": "crude",
-      "t": "VLCCs: Freight Boom Reprices the Fleet",
-      "x": "The VLCC market has experienced a sharp repricing during 2026, with the most significant acceleration taking place since late July as exceptionally strong freight earnings have fed directly into secondhand values. While...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vlccs-freight-boom-reprices-the-fleet/"
-    },
-    {
-      "published": "2026-09-24T21:00:59+00:00",
-      "d": "24/09",
-      "s": "macro",
-      "t": "Ocean hull market faces growing risk pressures despite global premium growth, reports IUMI",
-      "x": "The global ocean hull insurance market is continuing to soften despite apparent growth in the overall premium base, according to Ilias P.Tsakiris, Chair of the Ocean Hull Committee speaking at the International Union of...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ocean-hull-market-faces-growing-risk-pressures-despite-global-premium-growth-reports-iumi/"
-    },
-    {
-      "published": "2026-09-24T21:00:58+00:00",
-      "d": "24/09",
-      "s": "crude",
-      "t": "When the Levee Breaks",
-      "x": "The weakest June for Chinese crude imports in a decade did not cost a single barrel of throughput. Imports fell 41.3% on the year, runs held above 12.4 mb/d, and product exports went up. The difference came out of the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/when-the-levee-breaks/"
-    },
-    {
-      "published": "2026-09-24T21:00:57+00:00",
-      "d": "24/09",
-      "s": "dry",
-      "t": "Baltic Dry Index Rises to Near 2-Week High",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose by 1.2% to its highest since September 11 at 3,473 points on Thursday. The capesize index, which typically...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-near-2-week-high/"
-    },
-    {
-      "published": "2026-09-24T21:00:57+00:00",
-      "d": "24/09",
-      "s": "dry",
-      "t": "Colombia’s coal trade enters a new phase as policy and logistics drive demand",
-      "x": "Colombia’s position in the global coal market is undergoing a structural shift; robust exports, renewed access to the Israeli market and frequent disruptions to its logistics infrastructure are shaping the outlook for...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/colombias-coal-trade-enters-a-new-phase-as-policy-and-logistics-drive-demand/"
-    },
-    {
-      "published": "2026-09-24T21:00:53+00:00",
-      "d": "24/09",
-      "s": "crude",
-      "t": "Marine insurers lose billions supporting Hormuz energy flows: IUMI",
-      "x": "Insurance companies have lost billions to cover war risks for shipping during the ongoing US-Iran conflict to support global energy trades, despite a jump in headline premium rates, according to a senior official of the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/marine-insurers-lose-billions-supporting-hormuz-energy-flows-iumi/"
-    },
-    {
-      "published": "2026-09-24T16:06:10+00:00",
-      "d": "24/09",
-      "s": "macro",
-      "t": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns",
-      "x": "The Drewry World Container Index edged lower this week as falling Asia-Europe rates outweighed firmer pricing on the Transpacific, with carriers preparing another round of blank sailings ahead of China’s...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/container-rates-edge-lower-ahead-of-golden-week-as-suez-traffic-returns/"
-    },
-    {
-      "published": "2026-09-23T20:25:54+00:00",
-      "d": "23/09",
-      "s": "crude",
-      "t": "Traders Push for Discounts for Venezuelan Oil as Shipping Costs Soar",
-      "x": "Global oil trading firms Vitol and Trafigura are pushing for steeper discounts on Venezuelan crude oil as rising freight rates shrink their margins, five sources familiar with the matter said.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/traders-push-for-discounts-for-venezuelan-oil-as-shipping-costs-soar/"
     }
   ]
 }
