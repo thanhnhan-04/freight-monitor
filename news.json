@@ -1,113 +1,107 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "items": [
     {
-      "published": "2026-09-27T21:00:59+00:00",
-      "d": "27/09",
+      "published": "2026-09-28T21:00:59+00:00",
+      "d": "28/09",
+      "s": "dry",
+      "t": "Baltic Dry Index Down to Near 1-Month Low",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, dropping about 4.6% to its lowest since September 1 at 3,268 points. The...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-to-near-1-month-low/"
+    },
+    {
+      "published": "2026-09-28T21:00:59+00:00",
+      "d": "28/09",
+      "s": "dry",
+      "t": "Dry Bulk Market: China’s Iron Ore Demand Could Fall In the Coming Weeks",
+      "x": "While short-term Chinese iron ore demand has proved to be strong, things could turn sour after the country’s return from the upcoming public holidays. In its latest weekly report, shipbroker Intermodal said that...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-chinas-iron-ore-demand-could-fall-in-the-coming-weeks/"
+    },
+    {
+      "published": "2026-09-28T21:00:58+00:00",
+      "d": "28/09",
+      "s": "dry",
+      "t": "Could the Central African Republic – Kribi iron ore corridor become the next major source of Capesize demand?",
+      "x": "A&S Resources, which is developing iron ore and other mineral assets in the Central African Republic, has announced plans to develop a railway line linking its deposits with Cameroon’s Kribi port. The proposed corridor...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/could-the-central-african-republic-kribi-iron-ore-corridor-become-the-next-major-source-of-capesize-demand/"
+    },
+    {
+      "published": "2026-09-28T21:00:50+00:00",
+      "d": "28/09",
+      "s": "dry",
+      "t": "Xclusiv Shipbrokers Weekly 28th September 2026",
+      "x": "The Capesize market has emerged as one of the clearest examples of how improved cargo demand, stronger tonne-mile Source: Xclusiv Shipbrokers Inc.",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/"
+    },
+    {
+      "published": "2026-09-28T21:00:39+00:00",
+      "d": "28/09",
       "s": "product",
-      "t": "Product Tanker Rates on the Rise",
-      "x": "The product tanker market is also experiencing a strong upwards trend, following the latest developments. In its latest weekly report, shipbroker Gibson said that “the global CPP market remains firmly supported this...",
+      "t": "US considers diesel export restrictions",
+      "x": "Louisiana’s Governor Jeff Landry declared a state of emergency over diesel supplies. For a month, farmers and loggers will be allowed to use lower-taxed “dyed diesel” in their on-road vehicles, to give them some relief...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/product-tanker-rates-on-the-rise/"
+      "url": "https://www.hellenicshippingnews.com/us-considers-diesel-export-restrictions/"
     },
     {
-      "published": "2026-09-27T21:00:58+00:00",
-      "d": "27/09",
-      "s": "macro",
-      "t": "Asia-US container rates still rising; liquid tanker rates ex-US Gulf largely stable",
-      "x": "Rates for shipping containers from east Asia and China to the US rose this week on resilient demand and persistent, weather-driven congestion at Asian ports, while rates for liquid chemical tankers ex-US Gulf were flat...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-still-rising-liquid-tanker-rates-ex-us-gulf-largely-stable/"
-    },
-    {
-      "published": "2026-09-27T21:00:58+00:00",
-      "d": "27/09",
-      "s": "dry",
-      "t": "Dry Bulk Market Trending Higher Again",
-      "x": "Capesize The Capesize market continued to climb towards the highs seen earlier this month before losing some momentum on the final day of the week. Nevertheless, the timecharter average edged up $142 week-on-week to...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher-again/"
-    },
-    {
-      "published": "2026-09-27T21:00:56+00:00",
-      "d": "27/09",
-      "s": "product",
-      "t": "Tankers: VLCCs Easing, While Clean Tankers on the Rise",
-      "x": "Clean LR2 The TC1 75kt MEG/Japan index increased by 41.67 points this week to WS875.56, with the corresponding Baltic round-trip TCE rising from $237,000/day to $252,100/day. On a trip west the TC20 90kt...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tankers-vlccs-easing-while-clean-tankers-on-the-rise/"
-    },
-    {
-      "published": "2026-09-27T21:00:40+00:00",
-      "d": "27/09",
-      "s": "lpg",
-      "t": "IMO targets alternative fuel spill response",
-      "x": "Participants at an International Maritime Organization (IMO) forum have called for greater cooperation to address gaps in spill-response preparedness as shipping expands its use of alternative bunker fuels. The IMO’s...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/imo-targets-alternative-fuel-spill-response/"
-    },
-    {
-      "published": "2026-09-27T21:00:38+00:00",
-      "d": "27/09",
-      "s": "dry",
-      "t": "China agrees to buy 10 million tons of U.S. coal in 2027 and 2028",
-      "x": "China has agreed to purchase at least 10 million metric tons of U.S. coal in both 2027 and 2028 as Washington and Beijing expand trade cooperation following their latest high-level talks, Bloomberg reported. The coal...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/china-agrees-to-buy-10-million-tons-of-u-s-coal-in-2027-and-2028/"
-    },
-    {
-      "published": "2026-09-26T18:29:30+00:00",
-      "d": "26/09",
-      "s": "dry",
-      "t": "Russia Can Restart 80% Of Black Sea Grain Export If Attacks Stop",
-      "x": "By Gleb Stolyarov MOSCOW, Sept 25 (Reuters) – Russia could quickly restart up to 80% of its grain terminal capacity in the Black Sea and Sea of Azov if diplomatic efforts to...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-can-restart-80-of-black-sea-grain-export-if-attacks-stop/"
-    },
-    {
-      "published": "2026-09-25T16:45:36+00:00",
-      "d": "25/09",
+      "published": "2026-09-28T21:00:37+00:00",
+      "d": "28/09",
       "s": "crude",
-      "t": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo",
-      "x": "Two of the Iran-linked oil supertankers interdicted by American naval forces early in the war are just weeks away from reaching the US, where authorities have pledged to seize the vessels and millions of dollars worth...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/seized-iranian-oil-tankers-head-toward-u-s-with-600-million-cargo/"
+      "t": "Gulf oil exports recover, but why is the world still facing a $100 crude shock?",
+      "x": "Gulf oil exports are recovering after months of disruption caused by the US-Israeli war with Iran, but supplies are still far below the levels seen before the conflict. Crude exports from the Middle East‘s main oil...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/gulf-oil-exports-recover-but-why-is-the-world-still-facing-a-100-crude-shock/"
     },
     {
-      "published": "2026-09-25T16:38:28+00:00",
-      "d": "25/09",
-      "s": "crude",
-      "t": "Gulf of Oman Ship-to-ship Oil Transfers Reach Limit as Saudi Exports Surge",
-      "x": "Ship-to-ship transfers in the Gulf of Oman for Middle Eastern oil from inside the Strait of Hormuz have reached their limits after Saudi Arabia diverted exports from the Red Sea, adding to shipments from other...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge/"
-    },
-    {
-      "published": "2026-09-25T09:35:00+00:00",
-      "d": "25/09",
-      "s": "dry",
-      "t": "Sincere Navigation adds modern kamsarmax in $38.5m deal",
-      "x": "Taiwanese owner Sincere Navigation has agreed to pay $38.5m for a 2019-built kamsarmax as it continues reshaping its mixed tanker and dry bulk fleet. The Taipei-listed company disclosed that its indirect wholly owned...",
-      "su": "Splash247",
-      "url": "https://splash247.com/sincere-navigation-adds-modern-kamsarmax-in-38-5m-deal/"
-    },
-    {
-      "published": "2026-09-25T09:20:00+00:00",
-      "d": "25/09",
-      "s": "dry",
-      "t": "Precious seals fresh ultramax fixture",
-      "x": "Thailand’s Precious Shipping has lined up another index-linked ultramax charter, fixing the Sunisa Naree to Singapore’s PACC Line for up to 13 months. The Bangkok-listed owner told the stock exchange that the charter...",
-      "su": "Splash247",
-      "url": "https://splash247.com/precious-seals-fresh-ultramax-fixture/"
-    },
-    {
-      "published": "2026-09-25T05:00:42+00:00",
-      "d": "25/09",
+      "published": "2026-09-28T17:11:07+00:00",
+      "d": "28/09",
       "s": "macro",
-      "t": "Panama slips to third in global flag rankings",
-      "x": "Panama’s long retreat from the top of the global ship registry rankings has reached another milestone, with the once dominant flag now overtaken by the Marshall Islands to fall into third place. The latest Clarksons...",
-      "su": "Splash247",
-      "url": "https://splash247.com/panama-slips-to-third-in-global-flag-rankings/"
+      "t": "Panama Canal Adds Transit Capacity as Rainfall Brings Relief",
+      "x": "The Panama Canal is easing restrictions on vessel draft and daily transits after improved rainfall and water-saving measures helped stabilize conditions in the waterway’s drought-sensitive watershed. The Panama Canal...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/panama-canal-adds-transit-capacity-as-rainfall-brings-relief/"
+    },
+    {
+      "published": "2026-09-28T16:58:47+00:00",
+      "d": "28/09",
+      "s": "crude",
+      "t": "Europe Draws More LNG as Hormuz Crisis Tightens Global Market",
+      "x": "European imports of liquefied natural gas are rising ahead of the Northern Hemisphere winter, as prolonged disruptions to flows through the Strait of Hormuz threaten to intensify global competition for the fuel.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/europe-draws-more-lng-as-hormuz-crisis-tightens-global-market/"
+    },
+    {
+      "published": "2026-09-28T16:10:43+00:00",
+      "d": "28/09",
+      "s": "macro",
+      "t": "A.P. Moller Capital Takes Majority Stake in Euroports",
+      "x": "A.P. Moller Capital has agreed to acquire a majority stake in Euroports Group, adding one of Europe’s largest bulk and breakbulk terminal operators to its growing portfolio of transportation and logistics...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/a-p-moller-capital-takes-majority-stake-in-euroports/"
+    },
+    {
+      "published": "2026-09-28T15:16:28+00:00",
+      "d": "28/09",
+      "s": "crude",
+      "t": "NBC News: Eight Marines Injured in Previously Undisclosed Iranian Attack in Hormuz",
+      "x": "Eight U.S. Marines were injured when an Iranian cruise missile struck a vessel they were operating aboard in the Strait of Hormuz earlier this month, according to a previously unreported...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/nbc-news-eight-marines-injured-in-previously-undisclosed-iranian-attack-in-hormuz/"
+    },
+    {
+      "published": "2026-09-28T13:16:50+00:00",
+      "d": "28/09",
+      "s": "macro",
+      "t": "Rhine Drops Below Shipping Threshold as Freight Costs Rise",
+      "x": "Water levels in the Rhine River plummeted to record lows over the weekend, threatening transport on a key shipping corridor for energy and industrial commodities across central Europe.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/rhine-drops-below-shipping-threshold-as-freight-costs-rise/"
     }
+  ],
+  "errors": [
+    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
