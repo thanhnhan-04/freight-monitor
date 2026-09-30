@@ -1,107 +1,113 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
-      "published": "2026-09-28T21:00:59+00:00",
-      "d": "28/09",
-      "s": "dry",
-      "t": "Baltic Dry Index Down to Near 1-Month Low",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, dropping about 4.6% to its lowest since September 1 at 3,268 points. The...",
+      "published": "2026-09-29T21:00:58+00:00",
+      "d": "29/09",
+      "s": "macro",
+      "t": "Unlocking the full value of vessel data: BIMCO’s Energy Efficiency Data Sharing Clause 2025",
+      "x": "Every ship generates a significant amount of operational and performance data. When appropriate arrangements are in place, this data can support a range of activities, including vessel performance monitoring, voyage...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-to-near-1-month-low/"
+      "url": "https://www.hellenicshippingnews.com/unlocking-the-full-value-of-vessel-data-bimcos-energy-efficiency-data-sharing-clause-2025/"
     },
     {
-      "published": "2026-09-28T21:00:59+00:00",
-      "d": "28/09",
+      "published": "2026-09-29T21:00:57+00:00",
+      "d": "29/09",
       "s": "dry",
-      "t": "Dry Bulk Market: China’s Iron Ore Demand Could Fall In the Coming Weeks",
-      "x": "While short-term Chinese iron ore demand has proved to be strong, things could turn sour after the country’s return from the upcoming public holidays. In its latest weekly report, shipbroker Intermodal said that...",
+      "t": "Baltic Dry Index Down for 3rd Day",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, decreased for a third straight session on Tuesday, dropping about 2.8% to a fresh low since September 1 at 3,178...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-chinas-iron-ore-demand-could-fall-in-the-coming-weeks/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-for-3rd-day-5/"
     },
     {
-      "published": "2026-09-28T21:00:58+00:00",
-      "d": "28/09",
+      "published": "2026-09-29T21:00:57+00:00",
+      "d": "29/09",
       "s": "dry",
-      "t": "Could the Central African Republic – Kribi iron ore corridor become the next major source of Capesize demand?",
-      "x": "A&S Resources, which is developing iron ore and other mineral assets in the Central African Republic, has announced plans to develop a railway line linking its deposits with Cameroon’s Kribi port. The proposed corridor...",
+      "t": "Steel demand softens as iron ore flows face growing headwinds",
+      "x": "Iron ore market fundamentals continued to soften as subdued Chinese steel demand kept pressure on inventories and reduced the need for additional seaborne supply. While Simandou is emerging as an increasingly important...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/could-the-central-african-republic-kribi-iron-ore-corridor-become-the-next-major-source-of-capesize-demand/"
+      "url": "https://www.hellenicshippingnews.com/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds/"
     },
     {
-      "published": "2026-09-28T21:00:50+00:00",
-      "d": "28/09",
-      "s": "dry",
-      "t": "Xclusiv Shipbrokers Weekly 28th September 2026",
-      "x": "The Capesize market has emerged as one of the clearest examples of how improved cargo demand, stronger tonne-mile Source: Xclusiv Shipbrokers Inc.",
+      "published": "2026-09-29T21:00:53+00:00",
+      "d": "29/09",
+      "s": "macro",
+      "t": "PPA S.A. Reports Lower First Half Results as Infrastructure Investments Keep Growing",
+      "x": "PPA S.A. announced its financial results for the first half of 2026, demonstrating revenue resilience and decreasing the negative year-on-year change in earnings compared to the first-quarter results. Despite the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-28th-september-2026/"
+      "url": "https://www.hellenicshippingnews.com/ppa-s-a-reports-lower-first-half-results-as-infrastructure-investments-keep-growing/"
     },
     {
-      "published": "2026-09-28T21:00:39+00:00",
-      "d": "28/09",
+      "published": "2026-09-29T21:00:50+00:00",
+      "d": "29/09",
+      "s": "dry",
+      "t": "Banchero Costa Weekly Market Report, Week 39 2026",
+      "x": "Soybeans are one of the most important dry bulk commodities, and account for around 3 percent of all seaborne Source: banchero costa & c s.p.a",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-39-2026/"
+    },
+    {
+      "published": "2026-09-29T21:00:50+00:00",
+      "d": "29/09",
+      "s": "macro",
+      "t": "Ningbo Containerized Freight Index Report, 25 September 2026",
+      "x": "In the week ending Sep-25, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-25-september-2026/"
+    },
+    {
+      "published": "2026-09-29T20:00:00+00:00",
+      "d": "29/09",
+      "s": "dry",
+      "t": "Geneva Dry unveils expanded agenda for 2027 edition",
+      "x": "Geneva Dry, the world’s premier annual dry bulk shipping conference, has launched marketing for its 2027 edition with an expanded agenda featuring new sessions on bauxite, investment and crewing, alongside a...",
+      "su": "Splash247",
+      "url": "https://splash247.com/geneva-dry-unveils-expanded-agenda-for-2027-edition/"
+    },
+    {
+      "published": "2026-09-29T16:41:11+00:00",
+      "d": "29/09",
       "s": "product",
-      "t": "US considers diesel export restrictions",
-      "x": "Louisiana’s Governor Jeff Landry declared a state of emergency over diesel supplies. For a month, farmers and loggers will be allowed to use lower-taxed “dyed diesel” in their on-road vehicles, to give them some relief...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/us-considers-diesel-export-restrictions/"
+      "t": "Russian Crude Exports Boom Blunted by Kremlin’s Diesel Sales Ban",
+      "x": "Russia shipped the most crude in a month-and-a-half, while a jump in prices propelled the value of those cargoes close to the highest since the start of the invasion of Ukraine in 2022. But the benefits to the Kremlin...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russian-crude-exports-boom-blunted-by-kremlins-diesel-sales-ban/"
     },
     {
-      "published": "2026-09-28T21:00:37+00:00",
-      "d": "28/09",
-      "s": "crude",
-      "t": "Gulf oil exports recover, but why is the world still facing a $100 crude shock?",
-      "x": "Gulf oil exports are recovering after months of disruption caused by the US-Israeli war with Iran, but supplies are still far below the levels seen before the conflict. Crude exports from the Middle East‘s main oil...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/gulf-oil-exports-recover-but-why-is-the-world-still-facing-a-100-crude-shock/"
-    },
-    {
-      "published": "2026-09-28T17:11:07+00:00",
-      "d": "28/09",
+      "published": "2026-09-29T16:38:24+00:00",
+      "d": "29/09",
       "s": "macro",
-      "t": "Panama Canal Adds Transit Capacity as Rainfall Brings Relief",
-      "x": "The Panama Canal is easing restrictions on vessel draft and daily transits after improved rainfall and water-saving measures helped stabilize conditions in the waterway’s drought-sensitive watershed. The Panama Canal...",
+      "t": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
+      "x": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/panama-canal-adds-transit-capacity-as-rainfall-brings-relief/"
+      "url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/"
     },
     {
-      "published": "2026-09-28T16:58:47+00:00",
-      "d": "28/09",
+      "published": "2026-09-29T15:53:56+00:00",
+      "d": "29/09",
       "s": "crude",
-      "t": "Europe Draws More LNG as Hormuz Crisis Tightens Global Market",
-      "x": "European imports of liquefied natural gas are rising ahead of the Northern Hemisphere winter, as prolonged disruptions to flows through the Strait of Hormuz threaten to intensify global competition for the fuel.",
+      "t": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
+      "x": "The maritime picture in the Strait of Hormuz is becoming harder to verify, with another delayed report of a vessel strike raising questions over how much of the fighting is...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/europe-draws-more-lng-as-hormuz-crisis-tightens-global-market/"
+      "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/"
     },
     {
-      "published": "2026-09-28T16:10:43+00:00",
-      "d": "28/09",
-      "s": "macro",
-      "t": "A.P. Moller Capital Takes Majority Stake in Euroports",
-      "x": "A.P. Moller Capital has agreed to acquire a majority stake in Euroports Group, adding one of Europe’s largest bulk and breakbulk terminal operators to its growing portfolio of transportation and logistics...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/a-p-moller-capital-takes-majority-stake-in-euroports/"
+      "published": "2026-09-29T12:57:12+00:00",
+      "d": "29/09",
+      "s": "product",
+      "t": "Scorpio pushes fleet renewal with tanker newbuilds and ship sales",
+      "x": "Scorpio Tankers has doubled its directly controlled VLCC orderbook and added another pair of LR2s in China, committing $415.6m to four newbuildings while continuing to clear older tonnage from its fleet. The Emanuele...",
+      "su": "Splash247",
+      "url": "https://splash247.com/scorpio-pushes-fleet-renewal-with-tanker-newbuilds-and-ship-sales/"
     },
     {
-      "published": "2026-09-28T15:16:28+00:00",
-      "d": "28/09",
-      "s": "crude",
-      "t": "NBC News: Eight Marines Injured in Previously Undisclosed Iranian Attack in Hormuz",
-      "x": "Eight U.S. Marines were injured when an Iranian cruise missile struck a vessel they were operating aboard in the Strait of Hormuz earlier this month, according to a previously unreported...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/nbc-news-eight-marines-injured-in-previously-undisclosed-iranian-attack-in-hormuz/"
-    },
-    {
-      "published": "2026-09-28T13:16:50+00:00",
-      "d": "28/09",
-      "s": "macro",
-      "t": "Rhine Drops Below Shipping Threshold as Freight Costs Rise",
-      "x": "Water levels in the Rhine River plummeted to record lows over the weekend, threatening transport on a key shipping corridor for energy and industrial commodities across central Europe.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/rhine-drops-below-shipping-threshold-as-freight-costs-rise/"
+      "published": "2026-09-29T12:03:00+00:00",
+      "d": "29/09",
+      "s": "product",
+      "t": "Tufton scores 81% uplift on MR charter",
+      "x": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12...",
+      "su": "Splash247",
+      "url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/"
     }
-  ],
-  "errors": [
-    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
