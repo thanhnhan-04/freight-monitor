@@ -1,68 +1,95 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
-      "published": "2026-09-29T21:00:58+00:00",
-      "d": "29/09",
-      "s": "macro",
-      "t": "Unlocking the full value of vessel data: BIMCO’s Energy Efficiency Data Sharing Clause 2025",
-      "x": "Every ship generates a significant amount of operational and performance data. When appropriate arrangements are in place, this data can support a range of activities, including vessel performance monitoring, voyage...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/unlocking-the-full-value-of-vessel-data-bimcos-energy-efficiency-data-sharing-clause-2025/"
-    },
-    {
-      "published": "2026-09-29T21:00:57+00:00",
-      "d": "29/09",
+      "published": "2026-09-30T21:54:49+00:00",
+      "d": "30/09",
       "s": "dry",
-      "t": "Baltic Dry Index Down for 3rd Day",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, decreased for a third straight session on Tuesday, dropping about 2.8% to a fresh low since September 1 at 3,178...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-down-for-3rd-day-5/"
-    },
-    {
-      "published": "2026-09-29T21:00:57+00:00",
-      "d": "29/09",
-      "s": "dry",
-      "t": "Steel demand softens as iron ore flows face growing headwinds",
-      "x": "Iron ore market fundamentals continued to soften as subdued Chinese steel demand kept pressure on inventories and reduced the need for additional seaborne supply. While Simandou is emerging as an increasingly important...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds/"
-    },
-    {
-      "published": "2026-09-29T21:00:53+00:00",
-      "d": "29/09",
-      "s": "macro",
-      "t": "PPA S.A. Reports Lower First Half Results as Infrastructure Investments Keep Growing",
-      "x": "PPA S.A. announced its financial results for the first half of 2026, demonstrating revenue resilience and decreasing the negative year-on-year change in earnings compared to the first-quarter results. Despite the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ppa-s-a-reports-lower-first-half-results-as-infrastructure-investments-keep-growing/"
-    },
-    {
-      "published": "2026-09-29T21:00:50+00:00",
-      "d": "29/09",
-      "s": "dry",
-      "t": "Banchero Costa Weekly Market Report, Week 39 2026",
-      "x": "Soybeans are one of the most important dry bulk commodities, and account for around 3 percent of all seaborne Source: banchero costa & c s.p.a",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-39-2026/"
-    },
-    {
-      "published": "2026-09-29T21:00:50+00:00",
-      "d": "29/09",
-      "s": "macro",
-      "t": "Ningbo Containerized Freight Index Report, 25 September 2026",
-      "x": "In the week ending Sep-25, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-25-september-2026/"
-    },
-    {
-      "published": "2026-09-29T20:00:00+00:00",
-      "d": "29/09",
-      "s": "dry",
-      "t": "Geneva Dry unveils expanded agenda for 2027 edition",
-      "x": "Geneva Dry, the world’s premier annual dry bulk shipping conference, has launched marketing for its 2027 edition with an expanded agenda featuring new sessions on bauxite, investment and crewing, alongside a...",
+      "t": "Norden: The capital shift from tankers to dry cargo",
+      "x": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving...",
       "su": "Splash247",
-      "url": "https://splash247.com/geneva-dry-unveils-expanded-agenda-for-2027-edition/"
+      "url": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/"
+    },
+    {
+      "published": "2026-09-30T21:06:56+00:00",
+      "d": "30/09",
+      "s": "macro",
+      "t": "U.S. Ports Push Nuclear Power, Faster Dredging at Record AAPA Convention",
+      "x": "The American Association of Port Authorities wrapped up its annual convention in New Orleans on Wednesday after drawing its largest attendance ever, with more than 900 participants representing over 90 ports.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-ports-push-nuclear-power-faster-dredging-at-record-aapa-convention/"
+    },
+    {
+      "published": "2026-09-30T21:00:59+00:00",
+      "d": "30/09",
+      "s": "macro",
+      "t": "PATH TO NET ZERO: Shipping companies face slow low-carbon bunker transition",
+      "x": "Major shipping companies have made progress in reducing the greenhouse gas emissions intensity of their operations but are struggling to achieve emission cuts in absolute terms. In their latest annual reports, the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/path-to-net-zero-shipping-companies-face-slow-low-carbon-bunker-transition/"
+    },
+    {
+      "published": "2026-09-30T21:00:57+00:00",
+      "d": "30/09",
+      "s": "dry",
+      "t": "Baltic Dry index at Over 1-Month Low",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, retreated for a fourth straight session on Wednesday, slumping about 2.1% to its lowest since August 27 at 3,113...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-over-1-month-low-2/"
+    },
+    {
+      "published": "2026-09-30T21:00:57+00:00",
+      "d": "30/09",
+      "s": "dry",
+      "t": "US dry bulk shipments to China jump 104% as trade relations improve",
+      "x": "“During the first three quarters of 2026, US dry bulk shipments to China have grown 104% y/y, driven by a 176% y/y increase in the shipment of grains. Volumes between the two countries weakened in 2025 amid rising trade...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/us-dry-bulk-shipments-to-china-jump-104-as-trade-relations-improve/"
+    },
+    {
+      "published": "2026-09-30T21:00:55+00:00",
+      "d": "30/09",
+      "s": "crude",
+      "t": "Is Iran Losing Its Grip on Strait of Hormuz Traffic?",
+      "x": "Iran has demanded that all Strait of Hormuz transits use the northern corridor through its territorial waters. Rising volumes of Saudi, Iraqi, and Kuwaiti crude, along with UAE volumes that cannot reach Fujairah by...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/is-iran-losing-its-grip-on-strait-of-hormuz-traffic/"
+    },
+    {
+      "published": "2026-09-30T21:00:53+00:00",
+      "d": "30/09",
+      "s": "macro",
+      "t": "International Chamber of Shipping expands collection of free practical resources for seafarers and shipping companies...",
+      "x": "The International Chamber of Shipping (ICS) has expanded its range of free resources available to the global maritime community, providing ship owners and operators, managers, seafarers and industry stakeholders with...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/international-chamber-of-shipping-expands-collection-of-free-practical-resources-for-seafarers-and-shipping-companies-worldwide/"
+    },
+    {
+      "published": "2026-09-30T21:00:51+00:00",
+      "d": "30/09",
+      "s": "macro",
+      "t": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
+      "x": "Northwest Europe Prompt fuel availability is tight in the ARA ports, a trader said. Buyers are advised lead times of 5-7 days to get good coverage from suppliers. Suppliers are also reportedly facing some loading issues...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-201/"
+    },
+    {
+      "published": "2026-09-30T20:33:00+00:00",
+      "d": "30/09",
+      "s": "dry",
+      "t": "China Merchants locks in $2.8bn Simandou VLOC contract",
+      "x": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong...",
+      "su": "Splash247",
+      "url": "https://splash247.com/china-merchants-locks-in-2-8bn-simandou-vloc-contract/"
+    },
+    {
+      "published": "2026-09-30T15:36:09+00:00",
+      "d": "30/09",
+      "s": "crude",
+      "t": "Three More Tanker Attacks Surface in Delayed Hormuz Reports",
+      "x": "Three more attacks on tankers in the Strait of Hormuz have surfaced through delayed reports from UK Maritime Trade Operations, adding to growing uncertainty over how quickly incidents in the...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/three-more-tanker-attacks-surface-in-delayed-hormuz-reports/"
     },
     {
       "published": "2026-09-29T16:41:11+00:00",
@@ -72,42 +99,6 @@
       "x": "Russia shipped the most crude in a month-and-a-half, while a jump in prices propelled the value of those cargoes close to the highest since the start of the invasion of Ukraine in 2022. But the benefits to the Kremlin...",
       "su": "gCaptain",
       "url": "https://gcaptain.com/russian-crude-exports-boom-blunted-by-kremlins-diesel-sales-ban/"
-    },
-    {
-      "published": "2026-09-29T16:38:24+00:00",
-      "d": "29/09",
-      "s": "macro",
-      "t": "Trump Denies Offering Iran Sanctions Relief, Tehran Says it is Ready for Talks",
-      "x": "US President Donald Trump said he has offered Iran nothing to end the war, rejecting media reports that cited US officials saying he was willing to ease sanctions and release frozen funds for \"concrete\" steps regarding...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/trump-denies-offering-iran-sanctions-relief-tehran-says-it-is-ready-for-talks/"
-    },
-    {
-      "published": "2026-09-29T15:53:56+00:00",
-      "d": "29/09",
-      "s": "crude",
-      "t": "Fog of War Deepens in Hormuz as Ship Attacks Go Unreported for Days",
-      "x": "The maritime picture in the Strait of Hormuz is becoming harder to verify, with another delayed report of a vessel strike raising questions over how much of the fighting is...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/"
-    },
-    {
-      "published": "2026-09-29T12:57:12+00:00",
-      "d": "29/09",
-      "s": "product",
-      "t": "Scorpio pushes fleet renewal with tanker newbuilds and ship sales",
-      "x": "Scorpio Tankers has doubled its directly controlled VLCC orderbook and added another pair of LR2s in China, committing $415.6m to four newbuildings while continuing to clear older tonnage from its fleet. The Emanuele...",
-      "su": "Splash247",
-      "url": "https://splash247.com/scorpio-pushes-fleet-renewal-with-tanker-newbuilds-and-ship-sales/"
-    },
-    {
-      "published": "2026-09-29T12:03:00+00:00",
-      "d": "29/09",
-      "s": "product",
-      "t": "Tufton scores 81% uplift on MR charter",
-      "x": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12...",
-      "su": "Splash247",
-      "url": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/"
     }
   ]
 }
