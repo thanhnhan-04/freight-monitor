@@ -1,113 +1,107 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "items": [
     {
-      "published": "2026-10-01T21:37:13+00:00",
-      "d": "01/10",
-      "s": "macro",
-      "t": "UK Hits Eight Russian Ships in New Sanctions Package",
-      "x": "The United Kingdom has imposed sanctions on eight ships as part of a broader package targeting Russian energy revenues, maritime logistics and individuals accused of supporting Moscow’s war in Ukraine....",
+      "published": "2026-10-05T01:26:11+00:00",
+      "d": "05/10",
+      "s": "crude",
+      "t": "Middle East Crude Oil Exports Exceed Pre-War Levels But Attacks Increase",
+      "x": "By Florence Tan SINGAPORE, Oct 5 (Reuters) – Crude oil exports from the Middle East rose above pre-war levels in four of the seven days of the final week of September, shipping data showed...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/uk-hits-eight-russian-ships-in-new-sanctions-package/"
+      "url": "https://gcaptain.com/middle-east-crude-oil-exports-exceed-pre-war-levels-but-attacks-increase/"
     },
     {
-      "published": "2026-10-01T21:28:21+00:00",
-      "d": "01/10",
+      "published": "2026-10-04T21:00:58+00:00",
+      "d": "04/10",
       "s": "crude",
-      "t": "Another Tanker Hit in Strait of Hormuz as Attacks Continue",
-      "x": "A tanker has been struck by an unknown projectile while transiting the Strait of Hormuz, the latest in a string of attacks that have emerged over the past several days...",
+      "t": "Tankers: Can the US Sustain Increased Crude Export Capabilities?",
+      "x": "The tanker market could be facing a lack of crude oil cargo supply, should infrastructure in major oil exporting countries, like the US, shifts domestically. In its latest weekly report, shipbroker Gibson said that “US...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-can-the-us-sustain-increased-crude-export-capabilities/"
+    },
+    {
+      "published": "2026-10-04T21:00:58+00:00",
+      "d": "04/10",
+      "s": "macro",
+      "t": "Asia-US container rates rise, could be at peak; liquid chem tanker rates ex-USG tick higher",
+      "x": "Rates for shipping containers from east Asia and China to the US were mostly higher this week as carriers continue to manage capacity via blank sailings, while liquid tanker rates ex-US Gulf were steady to higher on...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-could-be-at-peak-liquid-chem-tanker-rates-ex-usg-tick-higher/"
+    },
+    {
+      "published": "2026-10-04T21:00:57+00:00",
+      "d": "04/10",
+      "s": "dry",
+      "t": "Dry Bulk Shipping: Capesize Market Sentiment Gradually Improving",
+      "x": "Capesize The Capesize market surrendered all of last week’s gains, extending its decline despite a firmer finish to the week. The BCI 182 5TC fell $2,796 from Monday’s opening level, although it recovered $296 on Friday...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesize-market-sentiment-gradually-improving/"
+    },
+    {
+      "published": "2026-10-04T21:00:48+00:00",
+      "d": "04/10",
+      "s": "crude",
+      "t": "Report: Iran’s IRGC hit 7 ‘violating’ oilers in Hormuz Strait in 5 days",
+      "x": "The navy of Iran’s Islamic Revolution Guard Corps (IRGC) has targeted at least seven “violating” oil tankers in the Strait of Hormuz in the past five days, the semi-official Fars news agency reported Saturday. The IRGC...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/report-irans-irgc-hit-7-violating-oilers-in-hormuz-strait-in-5-days/"
+    },
+    {
+      "published": "2026-10-04T21:00:42+00:00",
+      "d": "04/10",
+      "s": "crude",
+      "t": "Latam’s oil trade is being rerouted by the Middle East crisis",
+      "x": "Medium and heavy crude is the market’s real shortage Middle Eastern supply outages have pushed the global crude balance into a deficit of roughly 1 to 2 million b/d, with these outages driving down the availability of...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/latams-oil-trade-is-being-rerouted-by-the-middle-east-crisis/"
+    },
+    {
+      "published": "2026-10-04T21:00:38+00:00",
+      "d": "04/10",
+      "s": "macro",
+      "t": "Neptune Bunker Information Update: Off-Spec Trends Highlight Risk Areas",
+      "x": "The Neptune Bunker Information tab has been updated with bunker quality data covering April to September 2026, providing Members with further insight into regional fuel quality trends and areas of elevated risk. Several...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/neptune-bunker-information-update-off-spec-trends-highlight-risk-areas/"
+    },
+    {
+      "published": "2026-10-04T16:47:33+00:00",
+      "d": "04/10",
+      "s": "crude",
+      "t": "Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz",
+      "x": "By Salma El Wardany Oct 4, 2026 (Bloomberg) –Iraq’s state tanker company arranged a very large crude carrier to transport 2 million barrels beyond the Strait of Hormuz, marking a move...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-attacks-continue/"
+      "url": "https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/"
     },
     {
-      "published": "2026-10-01T21:00:59+00:00",
-      "d": "01/10",
-      "s": "dry",
-      "t": "Dry Bulk Market: Capesizes Showing Strength",
-      "x": "In the dry bulk market, the Capesize sector has emerged as a clear winner over the past few months. In its latest weekly report, shipbroker Xclusiv said that “the Capesize market has emerged as one of the clearest...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strength-2/"
-    },
-    {
-      "published": "2026-10-01T21:00:59+00:00",
-      "d": "01/10",
-      "s": "crude",
-      "t": "MABUX: October Bunker Prices Expected to Remain Volatile",
-      "x": "September’s bunker market was driven primarily by geopolitical and supply-side factors. Middle East uncertainty, reduced Gulf and Russian product flows, and tight distillate and VLSFO supply supported prices, while...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/mabux-october-bunker-prices-expected-to-remain-volatile/"
-    },
-    {
-      "published": "2026-10-01T21:00:57+00:00",
-      "d": "01/10",
+      "published": "2026-10-03T17:25:03+00:00",
+      "d": "03/10",
       "s": "macro",
-      "t": "Suez Transits Are Up 59%, and Rates Are About to Fall",
-      "x": "Carriers Have Returned to Suez, and the Data Confirms It Maritime media sources state that container shipping is moving from a capacity shortage to a surplus as carriers return to Suez and shorter voyages free up ships...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/suez-transits-are-up-59-and-rates-are-about-to-fall/"
-    },
-    {
-      "published": "2026-10-01T21:00:55+00:00",
-      "d": "01/10",
-      "s": "crude",
-      "t": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-      "x": "Crude oil exports from the Strait of Hormuz have basically returned to levels normal before the Iran war, as U.S. military escorts have boosted shipments and pipelines have redirected flows. Crude transiting Hormuz...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/crude-oil-exports-through-the-strait-of-hormuz-hit-prewar-levels-but-fuel-shipments-remain-constrained/"
-    },
-    {
-      "published": "2026-10-01T21:00:51+00:00",
-      "d": "01/10",
-      "s": "macro",
-      "t": "ECONSHIP 2026: Chios at the centre of international maritime research",
-      "x": "The 3rd European Conference on Shipping, Intermodalism & Ports (ECONSHIP 2026) has concluded in Chios after three days of proceedings, from 23 to 25 September 2026. The Conference was organised by the Department of...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/econship-2026-chios-at-the-centre-of-international-maritime-research/"
-    },
-    {
-      "published": "2026-10-01T21:00:49+00:00",
-      "d": "01/10",
-      "s": "macro",
-      "t": "Drewry’s Global Container Port Throughput Index fell 3.3% MoM in July",
-      "x": "The Drewry Container Port Throughput Indices are a series of calendar adjusted volume growth/decline indices based on monthly throughput data for a sample of over 340 ports worldwide, representing over 80% of global...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/drewrys-global-container-port-throughput-index-fell-3-3-mom-in-july/"
-    },
-    {
-      "published": "2026-10-01T20:00:00+00:00",
-      "d": "01/10",
-      "s": "dry",
-      "t": "Fragmented trade drives dry bulk tonne-mile demand",
-      "x": "Dry bulk shipping has entered the final quarter of 2026 in considerably better shape than most owners expected, with industry leaders at last week’s Splash Singapore conference arguing that increasingly fragmented trade...",
-      "su": "Splash247",
-      "url": "https://splash247.com/fragmented-trade-drives-dry-bulk-tonne-mile-demand/"
-    },
-    {
-      "published": "2026-10-01T18:04:09+00:00",
-      "d": "01/10",
-      "s": "crude",
-      "t": "Tankers enter the death zone",
-      "x": "Like climbers entering the death zone above 8,000 metres en route to the summit of Everest, VLCCs have entered their own peak: the moment where prices for secondhand tonnage surpass newbuild prices, and sell signs flash...",
-      "su": "Splash247",
-      "url": "https://splash247.com/tankers-enter-the-death-zone/"
-    },
-    {
-      "published": "2026-10-01T17:27:39+00:00",
-      "d": "01/10",
-      "s": "dry",
-      "t": "Turkey and UN Broker New Talks on Russia-Ukraine Black Sea Truce",
-      "x": "(Bloomberg) — Turkey and the United Nations have set up fresh talks in Russia and Ukraine to discuss a Black Sea ceasefire, trying to coalesce scattered efforts to protect grain...",
+      "t": "Russia Hits Liberian-Flagged Ship In Ukraine’s Odesa port, Kills One",
+      "x": "KYIV, Oct 3 (Reuters) – Russia has attacked a Liberian-flagged cargo ship in one of Ukraine’s Black Sea ports in the Odesa region, killing one person and injuring three, the Ukrainian sea ports administration...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/turkey-and-un-broker-new-talks-on-russia-ukraine-black-sea-truce/"
+      "url": "https://gcaptain.com/russia-hits-liberian-flagged-ship-in-ukraines-odesa-port-kills-one/"
     },
     {
-      "published": "2026-10-01T14:22:00+00:00",
-      "d": "01/10",
+      "published": "2026-10-02T19:02:06+00:00",
+      "d": "02/10",
+      "s": "crude",
+      "t": "Six Vessels Hit in Strait of Hormuz Since Sunday",
+      "x": "Another tanker has been struck in the Strait of Hormuz, bringing the number of vessels reported hit in the strategic waterway since Sunday to at least six. UK Maritime Trade...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/"
+    },
+    {
+      "published": "2026-10-02T16:58:02+00:00",
+      "d": "02/10",
       "s": "product",
-      "t": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
-      "x": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment...",
-      "su": "Splash247",
-      "url": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/"
+      "t": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
+      "x": "The Group of Seven nations and its partners are to release as much as 100 million barrels of emergency oil and diesel stocks amid pressure from the Trump administration to quell rising fuel prices.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/g7-to-release-up-to-100-million-barrels-of-diesel-crude/"
     }
+  ],
+  "errors": [
+    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
