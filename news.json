@@ -1,107 +1,113 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
-      "published": "2026-10-05T01:26:11+00:00",
+      "published": "2026-10-05T22:28:14+00:00",
       "d": "05/10",
       "s": "crude",
-      "t": "Middle East Crude Oil Exports Exceed Pre-War Levels But Attacks Increase",
-      "x": "By Florence Tan SINGAPORE, Oct 5 (Reuters) – Crude oil exports from the Middle East rose above pre-war levels in four of the seven days of the final week of September, shipping data showed...",
+      "t": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
+      "x": "UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/middle-east-crude-oil-exports-exceed-pre-war-levels-but-attacks-increase/"
+      "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/"
     },
     {
-      "published": "2026-10-04T21:00:58+00:00",
-      "d": "04/10",
+      "published": "2026-10-05T21:00:58+00:00",
+      "d": "05/10",
       "s": "crude",
-      "t": "Tankers: Can the US Sustain Increased Crude Export Capabilities?",
-      "x": "The tanker market could be facing a lack of crude oil cargo supply, should infrastructure in major oil exporting countries, like the US, shifts domestically. In its latest weekly report, shipbroker Gibson said that “US...",
+      "t": "Shipping Market Outlook: Q4 2026",
+      "x": "As we enter a new quarter, shipping markets remain gripped by an escalating geopolitical crisis. The US-Iran Memorandum of Understanding (MOU) lapsed in mid-August without renewal, and by early September the two sides...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tankers-can-the-us-sustain-increased-crude-export-capabilities/"
+      "url": "https://www.hellenicshippingnews.com/shipping-market-outlook-q4-2026/"
     },
     {
-      "published": "2026-10-04T21:00:58+00:00",
-      "d": "04/10",
+      "published": "2026-10-05T21:00:57+00:00",
+      "d": "05/10",
+      "s": "crude",
+      "t": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
+      "x": "Middle East oil exports, excluding Iran, surpassed the pre-war average of 18 million barrels per day last week, despite attacks in the Strait of Hormuz, according to data from the maritime tracking firm Kpler. Crude oil...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/mideast-oil-exports-exceeded-pre-iran-war-levels-kpler-data/"
+    },
+    {
+      "published": "2026-10-05T21:00:55+00:00",
+      "d": "05/10",
       "s": "macro",
-      "t": "Asia-US container rates rise, could be at peak; liquid chem tanker rates ex-USG tick higher",
-      "x": "Rates for shipping containers from east Asia and China to the US were mostly higher this week as carriers continue to manage capacity via blank sailings, while liquid tanker rates ex-US Gulf were steady to higher on...",
+      "t": "The diversification of MEG trading patterns is already underway",
+      "x": "MEG exporters are diversifying trade patterns. Iraq leads this shift by using direct voyages as well as Malaysian lightering for long-haul routes, while Saudi Arabia relies on direct voyages supported by its national...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-could-be-at-peak-liquid-chem-tanker-rates-ex-usg-tick-higher/"
+      "url": "https://www.hellenicshippingnews.com/the-diversification-of-meg-trading-patterns-is-already-underway/"
     },
     {
-      "published": "2026-10-04T21:00:57+00:00",
-      "d": "04/10",
+      "published": "2026-10-05T21:00:53+00:00",
+      "d": "05/10",
+      "s": "crude",
+      "t": "Iraq seeks to buy crude oil tankers to handle shipments beyond Strait of Hormuz: INA",
+      "x": "Iraqi Oil Tankers Co. aims to purchase and own crude oil tankers, allowing it to ship crude beyond the Strait of Hormuz rather than offloading it to buyers at Basrah port, the state-run Iraqi News Agency reported Oct...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/iraq-seeks-to-buy-crude-oil-tankers-to-handle-shipments-beyond-strait-of-hormuz-ina/"
+    },
+    {
+      "published": "2026-10-05T21:00:49+00:00",
+      "d": "05/10",
       "s": "dry",
-      "t": "Dry Bulk Shipping: Capesize Market Sentiment Gradually Improving",
-      "x": "Capesize The Capesize market surrendered all of last week’s gains, extending its decline despite a firmer finish to the week. The BCI 182 5TC fell $2,796 from Monday’s opening level, although it recovered $296 on Friday...",
+      "t": "Baltic Dry Index Falls to Over 1-Month Low",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, dropped about 2.5% to its lowest since August 26 at 3,070 points on Monday, halting two successive sessions of...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesize-market-sentiment-gradually-improving/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-over-1-month-low/"
     },
     {
-      "published": "2026-10-04T21:00:48+00:00",
-      "d": "04/10",
-      "s": "crude",
-      "t": "Report: Iran’s IRGC hit 7 ‘violating’ oilers in Hormuz Strait in 5 days",
-      "x": "The navy of Iran’s Islamic Revolution Guard Corps (IRGC) has targeted at least seven “violating” oil tankers in the Strait of Hormuz in the past five days, the semi-official Fars news agency reported Saturday. The IRGC...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/report-irans-irgc-hit-7-violating-oilers-in-hormuz-strait-in-5-days/"
-    },
-    {
-      "published": "2026-10-04T21:00:42+00:00",
-      "d": "04/10",
-      "s": "crude",
-      "t": "Latam’s oil trade is being rerouted by the Middle East crisis",
-      "x": "Medium and heavy crude is the market’s real shortage Middle Eastern supply outages have pushed the global crude balance into a deficit of roughly 1 to 2 million b/d, with these outages driving down the availability of...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/latams-oil-trade-is-being-rerouted-by-the-middle-east-crisis/"
-    },
-    {
-      "published": "2026-10-04T21:00:38+00:00",
-      "d": "04/10",
+      "published": "2026-10-05T21:00:39+00:00",
+      "d": "05/10",
       "s": "macro",
-      "t": "Neptune Bunker Information Update: Off-Spec Trends Highlight Risk Areas",
-      "x": "The Neptune Bunker Information tab has been updated with bunker quality data covering April to September 2026, providing Members with further insight into regional fuel quality trends and areas of elevated risk. Several...",
+      "t": "High power costs could unplug UK shore power – Portsmouth port authority",
+      "x": "High electricity costs are “stifling” the use of shore power at UK ports and risk leaving newly built infrastructure underused, Portsmouth International Port’s director Mike Sellers has warned. The UK government has...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/neptune-bunker-information-update-off-spec-trends-highlight-risk-areas/"
+      "url": "https://www.hellenicshippingnews.com/high-power-costs-could-unplug-uk-shore-power-portsmouth-port-authority/"
     },
     {
-      "published": "2026-10-04T16:47:33+00:00",
-      "d": "04/10",
-      "s": "crude",
-      "t": "Iraq Shifts Oil Strategy By Arranging Tanker To Move Past Hormuz",
-      "x": "By Salma El Wardany Oct 4, 2026 (Bloomberg) –Iraq’s state tanker company arranged a very large crude carrier to transport 2 million barrels beyond the Strait of Hormuz, marking a move...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz/"
-    },
-    {
-      "published": "2026-10-03T17:25:03+00:00",
-      "d": "03/10",
+      "published": "2026-10-05T20:31:00+00:00",
+      "d": "05/10",
       "s": "macro",
-      "t": "Russia Hits Liberian-Flagged Ship In Ukraine’s Odesa port, Kills One",
-      "x": "KYIV, Oct 3 (Reuters) – Russia has attacked a Liberian-flagged cargo ship in one of Ukraine’s Black Sea ports in the Odesa region, killing one person and injuring three, the Ukrainian sea ports administration...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-hits-liberian-flagged-ship-in-ukraines-odesa-port-kills-one/"
+      "t": "How close is shipping to the top?",
+      "x": "Shipping markets rarely announce the top with any clarity. More often, the argument about whether the peak has arrived only really starts when freight rates are still climbing, asset values are making less and less...",
+      "su": "Splash247",
+      "url": "https://splash247.com/how-close-is-shipping-to-the-top/"
     },
     {
-      "published": "2026-10-02T19:02:06+00:00",
-      "d": "02/10",
+      "published": "2026-10-05T20:02:21+00:00",
+      "d": "05/10",
       "s": "crude",
-      "t": "Six Vessels Hit in Strait of Hormuz Since Sunday",
-      "x": "Another tanker has been struck in the Strait of Hormuz, bringing the number of vessels reported hit in the strategic waterway since Sunday to at least six. UK Maritime Trade...",
+      "t": "Kuwait Oil Output at 75% of Prewar as Hormuz Transits Rise",
+      "x": "Kuwait is pumping oil at about 75% of the level seen before the Iran war as more tankers take the risk of navigating the Strait of Hormuz.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/"
+      "url": "https://gcaptain.com/kuwait-oil-output-at-75-of-prewar-as-hormuz-transits-rise/"
     },
     {
-      "published": "2026-10-02T16:58:02+00:00",
-      "d": "02/10",
-      "s": "product",
-      "t": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
-      "x": "The Group of Seven nations and its partners are to release as much as 100 million barrels of emergency oil and diesel stocks amid pressure from the Trump administration to quell rising fuel prices.",
+      "published": "2026-10-05T18:02:48+00:00",
+      "d": "05/10",
+      "s": "crude",
+      "t": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "x": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/g7-to-release-up-to-100-million-barrels-of-diesel-crude/"
+      "url": "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/"
+    },
+    {
+      "published": "2026-10-05T16:13:33+00:00",
+      "d": "05/10",
+      "s": "crude",
+      "t": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+      "x": "Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/"
+    },
+    {
+      "published": "2026-10-05T16:01:05+00:00",
+      "d": "05/10",
+      "s": "macro",
+      "t": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
+      "x": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/"
     }
-  ],
-  "errors": [
-    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
