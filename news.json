@@ -1,113 +1,113 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-12",
   "items": [
     {
-      "published": "2026-10-08T21:00:59+00:00",
-      "d": "08/10",
+      "published": "2026-10-11T21:10:00+00:00",
+      "d": "11/10",
       "s": "dry",
-      "t": "Baltic dry bulk freight index hits six-week low on weaker rates",
-      "x": "The Baltic Exchange’s dry bulk freight index dropped to its lowest point in more than six weeks on Thursday as declining capesize rates offset increases in the panamax and supramax segments. The main Baltic index, which...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-bulk-freight-index-hits-six-week-low-on-weaker-rates/"
+      "t": "Baltic states push for EU-wide ban on Russian grain transit",
+      "x": "Estonia, Latvia and Lithuania have called for an EU-wide ban on Russian grain transit, seeking to block Moscow from redirecting agricultural exports through European transport networks as disruption in the Black Sea...",
+      "su": "Splash247",
+      "url": "https://splash247.com/baltic-states-push-for-eu-wide-ban-on-russian-grain-transit/"
     },
     {
-      "published": "2026-10-08T21:00:59+00:00",
-      "d": "08/10",
-      "s": "dry",
-      "t": "Dry Bulk Shipping Fleet Growing, But Ageing as Well",
-      "x": "The dry bulk fleet’s supply is facing a new period of increased newbuilding deliveries, among an ageing background. In its latest weekly report, shipbroker Xclusiv said that “dry bulk supply growth has remained...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-fleet-growing-but-ageing-as-well/"
-    },
-    {
-      "published": "2026-10-08T21:00:58+00:00",
-      "d": "08/10",
-      "s": "product",
-      "t": "LR2 demand grows despite 28% fall in clean product volumes",
-      "x": "“During the first nine months of 2026, clean product volumes loaded on LR2 tankers fell 28% year-on-year following disruptions in the Strait of Hormuz. Despite the lower volumes, tonne-mile demand increased 2%...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/lr2-demand-grows-despite-28-fall-in-clean-product-volumes/"
-    },
-    {
-      "published": "2026-10-08T21:00:57+00:00",
-      "d": "08/10",
+      "published": "2026-10-11T21:00:59+00:00",
+      "d": "11/10",
       "s": "macro",
-      "t": "XENETA Weekly Shipping Market Update: Falling Rates Welcome News For European Shippers In Tender Season While...",
-      "x": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief...",
+      "t": "Tankers Are on Fire After Multiple Attacks",
+      "x": "While tanker rates are exploding once again, the ships themselves and of course their crews have never been in more danger. In its latest weekly report, shipbroker Gibson said that “last week, tanker attacks in the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xeneta-weekly-shipping-market-update-falling-rates-welcome-news-for-european-shippers-in-tender-season-while-transpacific-edges-downwards/"
+      "url": "https://www.hellenicshippingnews.com/tankers-are-on-fire-after-multiple-attacks/"
     },
     {
-      "published": "2026-10-08T21:00:55+00:00",
-      "d": "08/10",
+      "published": "2026-10-11T21:00:58+00:00",
+      "d": "11/10",
+      "s": "dry",
+      "t": "Dry Bulk Shipping: Capesizes Under Pressure",
+      "x": "Capesize The market remained under pressure through the week, with persistent Atlantic weakness outweighing a gradual recovery in the Pacific. The 5TC continued to edge lower, falling from $43,833 on Monday to $39,363...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-under-pressure/"
+    },
+    {
+      "published": "2026-10-11T21:00:58+00:00",
+      "d": "11/10",
+      "s": "crude",
+      "t": "Global VLCC Spot Earnings Rise To $805,000/Day",
+      "x": "Clarksons Research, the data and analytics arm of the Clarksons Group, continue to track and monitor shipping activity and markets impacted by the Middle East conflict, with energy shipping markets experiencing...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/global-vlcc-spot-earnings-rise-to-805000-day/"
+    },
+    {
+      "published": "2026-10-11T21:00:57+00:00",
+      "d": "11/10",
+      "s": "crude",
+      "t": "India and the Widening Tanker Freight Squeeze",
+      "x": "This week’s Tanker Market Monitor tracks India’s return to Iraqi supply as Gulf oil movements recover amid persistent shipping risk. Yanbu is rebuilding its role as an export outlet, but insurance costs and the onward...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/india-and-the-widening-tanker-freight-squeeze/"
+    },
+    {
+      "published": "2026-10-11T21:00:56+00:00",
+      "d": "11/10",
+      "s": "crude",
+      "t": "VLCCs Climbing the Record Charts",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index decreased by only a single point this week to WS928. The corresponding Baltic round-trip TCE fell by $2,000 to $267,600/day. For the TC20 90kt MEG/UK-Continent run the index...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/vlccs-climbing-the-record-charts/"
+    },
+    {
+      "published": "2026-10-11T21:00:54+00:00",
+      "d": "11/10",
+      "s": "crude",
+      "t": "Appetite for US crude oil exports climbs despite high freight",
+      "x": "US crude exports remained elevated at 3.5 million b/d in September, edging up from 3.4 million b/d in August, according to S&P Global Commodities at Sea(opens in a new tab) data, but well below the May peak of 4.4...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/appetite-for-us-crude-oil-exports-climbs-despite-high-freight/"
+    },
+    {
+      "published": "2026-10-11T20:40:00+00:00",
+      "d": "11/10",
+      "s": "dry",
+      "t": "Danaos plots Norwegian listing for bulker business",
+      "x": "Greek owner Danaos is exploring a carve-out of its dry bulk business and the sale of a minority stake through a potential listing in Norway. The New York-listed John Coustas-led company said it has mandated investment...",
+      "su": "Splash247",
+      "url": "https://splash247.com/danaos-plots-norwegian-listing-for-bulker-business/"
+    },
+    {
+      "published": "2026-10-11T20:20:00+00:00",
+      "d": "11/10",
       "s": "lpg",
-      "t": "The Decarbonisation of European Ports",
-      "x": "European ports are being remade. Long established as cargo-handling facilities, they are becoming multi-functional nodes at the intersection of the energy transition, digitalisation and infrastructure resilience...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/the-decarbonisation-of-european-ports/"
+      "t": "Shipping’s extraordinary boom refuses to peak",
+      "x": "Global shipping earnings have reached another extraordinary milestone, with Clarksons Research’s cross-sector ClarkSea Index surging 12% in a week to an unprecedented $84,951 a day, its fifth consecutive all-time high...",
+      "su": "Splash247",
+      "url": "https://splash247.com/shippings-extraordinary-boom-refuses-to-peak/"
     },
     {
-      "published": "2026-10-08T21:00:53+00:00",
-      "d": "08/10",
-      "s": "macro",
-      "t": "Descartes Releases October Global Shipping Report: U.S. Container Imports Reach Highest September Volume on Record",
-      "x": "Descartes Systems Group, the global leader in uniting logistics-intensive businesses in commerce, released its October Global Shipping Report for logistics and supply chain professionals. U.S. container imports reached...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/descartes-releases-october-global-shipping-report-u-s-container-imports-reach-highest-september-volume-on-record/"
+      "published": "2026-10-11T20:00:00+00:00",
+      "d": "11/10",
+      "s": "dry",
+      "t": "Star Bulk sells down kamsarmax pair to Hermes",
+      "x": "Nasdaq-listed Greek dry bulk heavyweight Star Bulk Carriers has agreed to sell a 35% ownership interest in two recently built kamsarmax bulkers to Itochu’s investment and asset-holding vehicle, Hermes World Maritime...",
+      "su": "Splash247",
+      "url": "https://splash247.com/star-bulk-sells-down-kamsarmax-pair-to-hermes/"
     },
     {
-      "published": "2026-10-08T18:25:43+00:00",
-      "d": "08/10",
-      "s": "macro",
-      "t": "U.S. Sanctions 22 More Tankers in Crackdown on Iran’s Shadow Fleet",
-      "x": "The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-sanctions-22-more-tankers-in-crackdown-on-irans-shadow-fleet/"
-    },
-    {
-      "published": "2026-10-08T18:03:28+00:00",
-      "d": "08/10",
-      "s": "macro",
-      "t": "U.S. Container Imports Slow After Stronger-Than-Expected Summer",
-      "x": "U.S. container imports are finally beginning to slow after an unusually long peak shipping season that stretched through the summer and into early fall, according to the latest Global Port Tracker report from the...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-container-imports-slow-after-stronger-than-expected-summer/"
-    },
-    {
-      "published": "2026-10-08T17:23:31+00:00",
-      "d": "08/10",
+      "published": "2026-10-11T14:28:20+00:00",
+      "d": "11/10",
       "s": "crude",
-      "t": "Supertankers Racing to Middle East Worsen Global Ship Crunch",
-      "x": "(Bloomberg) — Supertankers are racing to the Middle East to cash in on soaring fees for carrying oil through the Strait of Hormuz, exacerbating a global shortage of vessels that...",
+      "t": "More Tankers Hit in Hormuz as U.S. Strikes Cargo Ship",
+      "x": "Two more tankers have been struck in the Strait of Hormuz as U.S. forces disable a cargo vessel in the Gulf of Oman, extending a sharp escalation in attacks on commercial shipping.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/supertankers-racing-to-middle-east-worsen-global-ship-crunch/"
+      "url": "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/"
     },
     {
-      "published": "2026-10-08T17:03:39+00:00",
-      "d": "08/10",
+      "published": "2026-10-11T05:40:15+00:00",
+      "d": "11/10",
       "s": "crude",
-      "t": "Attack Risks Rise for Tankers as Iran Vows to Block More Hormuz Routes",
-      "x": "Tankers are facing a higher risk of attacks and intimidation as they try to get critical shipments through the Strait of Hormuz after Iran issued new warnings it would block routes that it has not authorized, sources...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/"
-    },
-    {
-      "published": "2026-10-08T14:25:15+00:00",
-      "d": "08/10",
-      "s": "crude",
-      "t": "Tanker Attack Off Qatar Signals Wider Threat Beyond Hormuz",
-      "x": "A chemical tanker was struck by multiple projectiles off the coast of Qatar on Wednesday, with casualties reported among its crew, in the latest attack on commercial shipping as violence...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/tanker-attack-off-qatar-signals-wider-threat-beyond-hormuz/"
-    },
-    {
-      "published": "2026-10-08T14:10:23+00:00",
-      "d": "08/10",
-      "s": "crude",
-      "t": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
-      "x": "The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia's shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/"
+      "t": "Tanker war spreads across Gulf",
+      "x": "Attacks on commercial shipping are spreading deeper into the Gulf as Iran widens its campaign beyond Hormuz, with a fully laden VLCC struck off the UAE and another tanker hit in the strait over the weekend. The...",
+      "su": "Splash247",
+      "url": "https://splash247.com/tanker-war-spreads-across-gulf/"
     }
   ]
 }
