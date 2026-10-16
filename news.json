@@ -1,68 +1,95 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
-      "published": "2026-10-14T21:00:59+00:00",
-      "d": "14/10",
+      "published": "2026-10-15T21:00:59+00:00",
+      "d": "15/10",
       "s": "macro",
-      "t": "Deliveries Are Still Being Delayed As Container Freight Rates Fluctuate",
-      "x": "Container freight rates from Asia to Europe have fallen significantly since July, but shipping delays remain a challenge for importers in Europe, according to Sogese’s October Europe Container Market Update, published...",
+      "t": "Tanker Rates Are Up, But So Is Ships’ Supply",
+      "x": "Tanker supply has been growing over the past few years, as more and more newbuildings are entering the global fleet. In its latest weekly report, shipbroker Xclusiv said that “tanker fleet growth has accelerated...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/deliveries-are-still-being-delayed-as-container-freight-rates-fluctuate/"
+      "url": "https://www.hellenicshippingnews.com/tanker-rates-are-up-but-so-is-ships-supply/"
     },
     {
-      "published": "2026-10-14T21:00:58+00:00",
-      "d": "14/10",
+      "published": "2026-10-15T21:00:58+00:00",
+      "d": "15/10",
       "s": "macro",
-      "t": "Suez Canal container ship transits exceed 50% of pre-disruption levels",
-      "x": "“During the first two weeks of October, weekly container ship capacity transiting the Suez Canal averaged 753k TEU, according to Clarksons Research, compared with 1,457k TEU during the same period in 2023. Since the...",
+      "t": "MR Freight Divergence: A Market Poised for Rebalancing",
+      "x": "MR demand shifts back towards regional trading Pacific origin MR earnings have maintained a substantial premium over Atlantic routes throughout 2026, while regional tonne mile demand has shifted considerably since April...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/suez-canal-container-ship-transits-exceed-50-of-pre-disruption-levels/"
+      "url": "https://www.hellenicshippingnews.com/mr-freight-divergence-a-market-poised-for-rebalancing/"
     },
     {
-      "published": "2026-10-14T21:00:53+00:00",
-      "d": "14/10",
-      "s": "crude",
-      "t": "Security Worries Reshape Russia’s September Oil Exports",
-      "x": "Russia shipped 142.7 million barrels of crude, clean petroleum products (CPP) in September, according to Windward analysis using Vortexa data. Crude made up 110.4 million barrels, a pace of some 3.7 million barrels per...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/security-worries-reshape-russias-september-oil-exports/"
-    },
-    {
-      "published": "2026-10-14T21:00:51+00:00",
-      "d": "14/10",
-      "s": "macro",
-      "t": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
-      "x": "Northwest Europe Fuel availability is tight for prompt supplies in ARA ports, and buyers are advised lead times of 5-7 days to get good coverage from suppliers, a trader said. B100 has remained at significant price...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-203/"
-    },
-    {
-      "published": "2026-10-14T21:00:47+00:00",
-      "d": "14/10",
+      "published": "2026-10-15T21:00:57+00:00",
+      "d": "15/10",
       "s": "dry",
-      "t": "Port Hedland Iron Ore Exports Slightly Higher in September",
-      "x": "Pilbara Ports delivered a total monthly throughput of 69.3 million tonnes (Mt) during September 2026. This was a one per cent increase compared to September 2025. The Port of Port Hedland achieved a monthly throughput...",
+      "t": "Baltic Dry Index Extends Slide",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, slumped about 4.6% to its lowest since june 30 at 2,545 points on Thursday, marking the ninth consecutive session...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/port-hedland-iron-ore-exports-slightly-higher-in-september/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-extends-slide/"
     },
     {
-      "published": "2026-10-14T21:00:45+00:00",
-      "d": "14/10",
-      "s": "product",
-      "t": "EU economy chief doubtful Russian diesel exports will affect prices",
-      "x": "EU economy chief Valdis Dombrovskis told AFP on Tuesday that Russian diesel sales recently authorised by the United States were unlikely to move the price of the commodity, which has spiked since the start of the Iran...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/eu-economy-chief-doubtful-russian-diesel-exports-will-affect-prices/"
-    },
-    {
-      "published": "2026-10-14T18:03:08+00:00",
-      "d": "14/10",
+      "published": "2026-10-15T21:00:45+00:00",
+      "d": "15/10",
       "s": "macro",
-      "t": "Port of Savannah Wins Approval for $2.3 Billion Container Terminal",
-      "x": "Georgia Ports has secured federal approval for a $2.3 billion container terminal that will add 3.5 million TEUs of capacity at the Port of Savannah.",
+      "t": "A complete guide to container tracking",
+      "x": "The operational question around container tracking has shifted from “where is it now?” to “when will it arrive, and what will it cost if it doesn’t?” For beneficial cargo owners (BCOs), freight forwarders, and terminal...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/a-complete-guide-to-container-tracking/"
+    },
+    {
+      "published": "2026-10-15T21:00:43+00:00",
+      "d": "15/10",
+      "s": "macro",
+      "t": "India urges Russia, Ukraine to protect Black Sea shipping",
+      "x": "India has urged both Russia and Ukraine to ensure safe passage for commercial shipping through the Black Sea as attacks on merchant vessels put Indian seafarers at risk and threaten to disrupt vital food and energy...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/india-urges-russia-ukraine-to-protect-black-sea-shipping/"
+    },
+    {
+      "published": "2026-10-15T21:00:29+00:00",
+      "d": "15/10",
+      "s": "lpg",
+      "t": "US propane exports hit record high on surging European, Asian demand",
+      "x": "US propane exports continued to rise in September, climbing to a record high 2.2 million b/d, S&P Global Commodities at Sea(opens in a new tab) data showed. The increase from August was driven by exports to Europe...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/us-propane-exports-hit-record-high-on-surging-european-asian-demand/"
+    },
+    {
+      "published": "2026-10-15T17:27:59+00:00",
+      "d": "15/10",
+      "s": "crude",
+      "t": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
+      "x": "When the oil supertanker Esteem Explorer sails from the United States to Japan in late November, loaded with about 2 million barrels of crude, the journey will cost $81 million. The same journey would have cost $9.1...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/port-of-savannah-wins-approval-for-2-3-billion-container-terminal/"
+      "url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/"
+    },
+    {
+      "published": "2026-10-15T10:04:00+00:00",
+      "d": "15/10",
+      "s": "dry",
+      "t": "Jinhui cashes in on veteran bulker",
+      "x": "Hong Kong-based dry bulk owner Jinhui Shipping and Transportation has agreed to sell another ageing supramax, continuing its fleet renewal drive with a $14.6m deal involving a Hong Kong buyer. The Oslo-listed company...",
+      "su": "Splash247",
+      "url": "https://splash247.com/jinhui-cashes-in-on-veteran-bulker/"
+    },
+    {
+      "published": "2026-10-15T09:54:00+00:00",
+      "d": "15/10",
+      "s": "dry",
+      "t": "Icon Energy expands boxship exposure",
+      "x": "Nasdaq-listed Greek dry bulk owner Icon Energy is expanding its containership investments, agreeing to take a minority stake in a second feeder vessel employed under a long-term charter. The Ismini Panagiotidi-led...",
+      "su": "Splash247",
+      "url": "https://splash247.com/icon-energy-expands-boxship-exposure/"
+    },
+    {
+      "published": "2026-10-15T08:15:25+00:00",
+      "d": "15/10",
+      "s": "crude",
+      "t": "Hormuz claims two more ships in fresh wave of strikes",
+      "x": "Two ships have sunk near the Strait of Hormuz as fresh attacks on commercial shipping have hit three containerships linked to Abu Dhabi’s AD Ports Group. The Singapore-flagged GFS Pride, a 2008-built, 2,824 teu feeder...",
+      "su": "Splash247",
+      "url": "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/"
     },
     {
       "published": "2026-10-14T17:22:39+00:00",
@@ -72,42 +99,6 @@
       "x": "By Jonathan Saul and Renee Maltezou LONDON, Oct 14 (Reuters) – A container ship and a dry bulk carrier have both sunk near the Strait of Hormuz in the past...",
       "su": "gCaptain",
       "url": "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/"
-    },
-    {
-      "published": "2026-10-14T17:15:02+00:00",
-      "d": "14/10",
-      "s": "crude",
-      "t": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
-      "x": "Six months into a war that sowed upheaval in the Persian Gulf, Qatar found itself stuck. By late August, even limited shipments from the gas heavyweight had all but stopped following a projectile attack on one of its...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/"
-    },
-    {
-      "published": "2026-10-14T15:36:02+00:00",
-      "d": "14/10",
-      "s": "dry",
-      "t": "EuroDry adds third $37m kamsarmax at Hengli",
-      "x": "Aristides Pittas-led EuroDry has returned to China’s Hengli Shipbuilding for another kamsarmax, adding a third 82,000 dwt newbuilding to a fleet renewal programme now worth almost $183m. The Nasdaq-listed dry bulk owner...",
-      "su": "Splash247",
-      "url": "https://splash247.com/eurodry-adds-third-37m-kamsarmax-at-hengli/"
-    },
-    {
-      "published": "2026-10-14T12:45:47+00:00",
-      "d": "14/10",
-      "s": "crude",
-      "t": "Container Ship Sinks Near Hormuz After Being Hit by Projectile, Sources Say",
-      "x": "A container ship has sunk near the Strait of Hormuz after being hit by a projectile and a separate dry bulk vessel is sinking in another incident, maritime security sources said on Wednesday.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say/"
-    },
-    {
-      "published": "2026-10-14T08:30:40+00:00",
-      "d": "14/10",
-      "s": "crude",
-      "t": "Japan prepares to pay for oil’s long way round",
-      "x": "Japan is preparing to subsidise the additional cost of importing oil from suppliers outside the Strait of Hormuz, in a significant government intervention aimed at reducing the country’s dependence on the increasingly...",
-      "su": "Splash247",
-      "url": "https://splash247.com/japan-prepares-to-pay-for-oils-long-way-round/"
     }
   ]
 }
