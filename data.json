@@ -1,50 +1,35 @@
 {
-  "updated": "2026-10-16T02:49:19Z",
+  "updated": "2026-10-19T02:55:30Z",
   "series": [
     {
       "key": "rwtc",
       "name": "Dầu thô WTI (giao ngay)",
       "unit": "$/bbl",
-      "value": 101.91,
-      "date": "2026-10-14",
-      "chg": 1.05,
-      "chgPct": 1.04
+      "error": "The read operation timed out"
     },
     {
       "key": "rbrte",
       "name": "Dầu Brent (giao ngay)",
       "unit": "$/bbl",
-      "value": 126.55,
-      "date": "2026-10-14",
-      "chg": 0.77,
-      "chgPct": 0.61
+      "error": "The read operation timed out"
     },
     {
       "key": "wcestus1",
       "name": "Tồn kho dầu thô Mỹ",
       "unit": "nghìn bbl",
-      "value": 415577.0,
-      "date": "2026-10-09",
-      "chg": -8557.0,
-      "chgPct": -2.02
+      "error": "The read operation timed out"
     },
     {
       "key": "wgtstus1",
       "name": "Tồn kho xăng Mỹ",
       "unit": "nghìn bbl",
-      "value": 208262.0,
-      "date": "2026-10-09",
-      "chg": 3518.0,
-      "chgPct": 1.72
+      "error": "The read operation timed out"
     },
     {
       "key": "wdistus1",
       "name": "Tồn kho diesel/distillate Mỹ",
       "unit": "nghìn bbl",
-      "value": 102611.0,
-      "date": "2026-10-09",
-      "chg": -2527.0,
-      "chgPct": -2.4
+      "error": "The read operation timed out"
     },
     {
       "key": "wprstus1",
