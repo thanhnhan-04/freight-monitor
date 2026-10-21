@@ -1,104 +1,113 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "items": [
     {
-      "published": "2026-10-19T23:33:26+00:00",
-      "d": "19/10",
-      "s": "crude",
-      "t": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-      "x": "The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/"
-    },
-    {
-      "published": "2026-10-19T21:00:59+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T21:00:59+00:00",
+      "d": "20/10",
       "s": "dry",
-      "t": "Baltic Dry Index Breaks 10-Day Losing Run",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its long ten-day losing sreak on Monday, rising about 1.4% to 2,546 points, mainly due to a rebound in...",
+      "t": "Baltic Dry Index Rises Further to Near 1-Week High",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a second session on Tuesday, rising about 1.9% to a near one-week high of 2,593 points. The main...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-10-day-losing-run/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-further-to-near-1-week-high/"
     },
     {
-      "published": "2026-10-19T21:00:59+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T21:00:59+00:00",
+      "d": "20/10",
+      "s": "lpg",
+      "t": "Shipping: More Newbuilding Contracting This Week",
+      "x": "A number of newbuilding orders were reported over the past week. In its latest weekly report, shipbroker Banchero Costa commented that “newbuilding activity this week was broad-based, with significant contracting across...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/shipping-more-newbuilding-contracting-this-week/"
+    },
+    {
+      "published": "2026-10-20T21:00:57+00:00",
+      "d": "20/10",
       "s": "macro",
-      "t": "Shipping: The El Niño Effect",
-      "x": "The El Niño impact on shipping is one to consider, when considering potential 2027 freight disruptions. In its latest weekly report, shipbroker Intermodal said that “with El Niño now established and forecasters pointing...",
+      "t": "Ports Are Scaling AI. Here’s How to Make It Deliver",
+      "x": "Ports and terminals are no strangers to reinvention. Over the past 50 years, the industry has managed and adapted to the shift to containerization and ever-larger vessels, the move from paper manifests to electronic...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/"
+      "url": "https://www.hellenicshippingnews.com/ports-are-scaling-ai-heres-how-to-make-it-deliver/"
     },
     {
-      "published": "2026-10-19T21:00:58+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T21:00:57+00:00",
+      "d": "20/10",
       "s": "crude",
-      "t": "How Conflict in the Middle East is Impacting Maritime",
-      "x": "Middle Eastern buyers have been far more active in the Tanker S&P market over the past quarter. Between July 1 and Oct. 5, they made 34 Tanker purchases, up from 21 in the same period last year, an increase of more than...",
+      "t": "Secondhand VLCCs Now Valued Above Newbuildings",
+      "x": "At the end of September, a 15-year-old VLCC was valued above a newbuilding for the first time at USD 139.2 mil for 310,000 DWT, compared to USD 138.7 mil for newbuilding vessels. The move is part of a wider inversion of...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/how-conflict-in-the-middle-east-is-impacting-maritime-3/"
+      "url": "https://www.hellenicshippingnews.com/secondhand-vlccs-now-valued-above-newbuildings/"
     },
     {
-      "published": "2026-10-19T21:00:57+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T21:00:54+00:00",
+      "d": "20/10",
       "s": "macro",
-      "t": "How Ports Can Become Catalysts For The Blue Economy",
-      "x": "Valued at between $2.6 and $5.1 trillion, the ocean economy supports billions of livelihoods and carries more than 80% of global trade by volume. However, its continued expansion will increasingly intersect with natural...",
+      "t": "Intermodal Weekly Market Report Week 42 2026 Broker’s Insight",
+      "x": "China’s rapidly expanding automotive exports have emerged as a key driver of the Pure Car and Truck Carrier (PCTC) market Source: Intermodal",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/how-ports-can-become-catalysts-for-the-blue-economy/"
+      "url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-42-2026-brokers-insight/"
     },
     {
-      "published": "2026-10-19T21:00:55+00:00",
-      "d": "19/10",
-      "s": "dry",
-      "t": "InterManager Warns Enclosed Space Deaths Demand Urgent Industry Action",
-      "x": "InterManager has called for urgent industry action on enclosed space safety after its latest research highlighted persistent failures in procedures, training, leadership and accident prevention. The organisation has...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/intermanager-warns-enclosed-space-deaths-demand-urgent-industry-action/"
-    },
-    {
-      "published": "2026-10-19T21:00:54+00:00",
-      "d": "19/10",
-      "s": "product",
-      "t": "Xclusiv Shipbrokers Weekly 19th October 2026",
-      "x": "The product tanker market has experienced an extraordinary freight rally between early August and mid-October Source: Xclusiv Shipbrokers Inc.",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-19th-october-2026/"
-    },
-    {
-      "published": "2026-10-19T17:04:12+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T21:00:51+00:00",
+      "d": "20/10",
       "s": "macro",
-      "t": "Russian Oil Exports by Arctic Route Jump Amid World Freight Crisis",
-      "x": "Russia's oil exports through its Northern Sea Route (NSR) in 2026 have already exceeded last year's by nearly 50%, with some 20 million barrels shipped to Asia from the start of navigation in July to mid-October...",
+      "t": "ENGINE: East of Suez Bunker Fuel Availability Outlook",
+      "x": "Singapore and Malaysia Availability of all bunker grades in Singapore is very tight, with suppliers recommending a notice of 12-15 days for VLSFO, a source said. HSFO availability is expected to remain tight until...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-206/"
+    },
+    {
+      "published": "2026-10-20T17:46:36+00:00",
+      "d": "20/10",
+      "s": "crude",
+      "t": "Iran Claims More Tankers Hit Mines in Hormuz, But Evidence Remains Elusive",
+      "x": "Iran’s Revolutionary Guards claimed Tuesday that a supertanker caught fire after striking a naval mine south of the Strait of Hormuz, adding to a series of similar claims that have...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/russian-oil-exports-by-arctic-route-jump-amid-world-freight-crisis/"
+      "url": "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/"
     },
     {
-      "published": "2026-10-19T16:26:30+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T16:27:14+00:00",
+      "d": "20/10",
       "s": "macro",
-      "t": "Iran’s Main Oil Terminals Remain Empty as US Blockade Bites",
-      "x": "Iran’s main oil-loading terminals have remained empty for weeks, adding to signs that a US naval blockade of the country is throttling Tehran’s exports.",
+      "t": "Trump’s Plan to Revive Sanctioned Tankers Faces Tough Sell",
+      "x": "(Bloomberg) — A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance checks and sky-high...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/"
+      "url": "https://gcaptain.com/trumps-plan-to-revive-sanctioned-tankers-faces-tough-sell/"
     },
     {
-      "published": "2026-10-19T10:00:00+00:00",
-      "d": "19/10",
-      "s": "product",
-      "t": "Nanjing Tanker picks Dalian for LR2 quartet",
-      "x": "China Merchants-controlled Nanjing Tanker has selected Dalian Shipbuilding Industry Corporation (DSIC) to build four more LR2 product and crude tankers, taking its planned newbuilding programme in the segment at the...",
+      "published": "2026-10-20T13:24:14+00:00",
+      "d": "20/10",
+      "s": "lpg",
+      "t": "BW LPG India offloads 18-year-old VLGC for over $80m",
+      "x": "New York- and Oslo-listed gas carrier giant BW LPG is cashing in again on strong secondhand values, agreeing to sell an 18-year-old VLGC for more than $80m as it presses ahead with a major fleet renewal programme. The...",
       "su": "Splash247",
-      "url": "https://splash247.com/nanjing-tanker-picks-dalian-for-lr2-quartet/"
+      "url": "https://splash247.com/bw-lpg-india-offloads-18-year-old-vlgc-for-over-80m/"
     },
     {
-      "published": "2026-10-19T02:24:26+00:00",
-      "d": "19/10",
+      "published": "2026-10-20T10:40:00+00:00",
+      "d": "20/10",
+      "s": "crude",
+      "t": "Marinakis tanker venture locks down $930m for 11 VLCC newbuilds",
+      "x": "Greek shipowner Capital Tankers has lined up $930.3m in financing for 11 VLCC newbuildings under construction in China and South Korea, making further headway in funding its expanding crude tanker fleet. The Evangelos...",
+      "su": "Splash247",
+      "url": "https://splash247.com/marinakis-tanker-venture-locks-down-930m-for-11-vlcc-newbuilds/"
+    },
+    {
+      "published": "2026-10-20T09:40:00+00:00",
+      "d": "20/10",
       "s": "dry",
-      "t": "Ukraine Talks with Turkey, India, Egypt Over Grain Corridor",
-      "x": "By Daryna Krasnolutska, Volodymyr Verbianyi and Olesia Safronova Oct 18, 2026 (Bloomberg) –Ukraine is in talks with Turkey, Egypt and India on the possibility of opening up Black Sea civil navigation,...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/ukraine-talks-with-turkey-india-egypt-over-grain-corridor/"
+      "t": "Transworld adds supramax in fresh fleet move",
+      "x": "India’s Transworld Shipping Lines has returned to the secondhand dry bulk market, agreeing to acquire a supramax carrier for $16.5m as it continues reshaping its fleet. The Navi Mumbai-based owner has struck a deal to...",
+      "su": "Splash247",
+      "url": "https://splash247.com/transworld-adds-supramax-in-fresh-fleet-move/"
+    },
+    {
+      "published": "2026-10-20T08:50:46+00:00",
+      "d": "20/10",
+      "s": "crude",
+      "t": "US moves to legitimise shadow tanker fleet",
+      "x": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed...",
+      "su": "Splash247",
+      "url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/"
     }
   ]
 }
