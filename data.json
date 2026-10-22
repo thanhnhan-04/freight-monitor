@@ -1,68 +1,65 @@
 {
-  "updated": "2026-10-21T02:59:41Z",
+  "updated": "2026-10-22T02:58:51Z",
   "series": [
     {
       "key": "rwtc",
       "name": "Dầu thô WTI (giao ngay)",
       "unit": "$/bbl",
-      "value": 101.91,
-      "date": "2026-10-14",
-      "chg": 1.05,
-      "chgPct": 1.04
+      "value": 107.89,
+      "date": "2026-10-20",
+      "chg": -2.12,
+      "chgPct": -1.93
     },
     {
       "key": "rbrte",
       "name": "Dầu Brent (giao ngay)",
       "unit": "$/bbl",
-      "value": 126.55,
-      "date": "2026-10-14",
-      "chg": 0.77,
-      "chgPct": 0.61
+      "value": 115.22,
+      "date": "2026-10-20",
+      "chg": -3.6,
+      "chgPct": -3.03
     },
     {
       "key": "wcestus1",
       "name": "Tồn kho dầu thô Mỹ",
       "unit": "nghìn bbl",
-      "value": 415577.0,
-      "date": "2026-10-09",
-      "chg": -8557.0,
-      "chgPct": -2.02
+      "value": 412517.0,
+      "date": "2026-10-16",
+      "chg": -3060.0,
+      "chgPct": -0.74
     },
     {
       "key": "wgtstus1",
       "name": "Tồn kho xăng Mỹ",
       "unit": "nghìn bbl",
-      "value": 208262.0,
-      "date": "2026-10-09",
-      "chg": 3518.0,
-      "chgPct": 1.72
+      "value": 205310.0,
+      "date": "2026-10-16",
+      "chg": -2952.0,
+      "chgPct": -1.42
     },
     {
       "key": "wdistus1",
       "name": "Tồn kho diesel/distillate Mỹ",
       "unit": "nghìn bbl",
-      "value": 102611.0,
-      "date": "2026-10-09",
-      "chg": -2527.0,
-      "chgPct": -2.4
+      "value": 104286.0,
+      "date": "2026-10-16",
+      "chg": 1675.0,
+      "chgPct": 1.63
     },
     {
       "key": "wprstus1",
       "name": "Tồn kho propane Mỹ",
       "unit": "nghìn bbl",
-      "value": 106375.0,
-      "date": "2026-10-09",
-      "chg": -1471.0,
-      "chgPct": -1.36
+      "value": 105846.0,
+      "date": "2026-10-16",
+      "chg": -529.0,
+      "chgPct": -0.5
     },
     {
       "key": "wcrexus2",
       "name": "Xuất khẩu dầu thô Mỹ",
       "unit": "nghìn bbl/ngày",
-      "value": 4570.0,
-      "date": "2026-10-09",
-      "chg": -195.0,
-      "chgPct": -4.09
+      "error": "HTTP Error 502: Bad Gateway"
     }
   ]
 }
