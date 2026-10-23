@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T02:58:51Z",
+  "updated": "2026-10-23T03:02:23Z",
   "series": [
     {
       "key": "rwtc",
@@ -59,7 +59,10 @@
       "key": "wcrexus2",
       "name": "Xuất khẩu dầu thô Mỹ",
       "unit": "nghìn bbl/ngày",
-      "error": "HTTP Error 502: Bad Gateway"
+      "value": 3442.0,
+      "date": "2026-10-16",
+      "chg": -1128.0,
+      "chgPct": -24.68
     }
   ]
 }
