@@ -1,6 +1,96 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
+    {
+      "published": "2026-10-28T19:39:17+00:00",
+      "d": "28/10",
+      "s": "macro",
+      "t": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
+      "x": "The ports of Los Angeles and Long Beach have identified liquefied natural gas (LNG) and methanol as the most viable alternative marine fuels for the near and medium term, with...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/los-angeles-long-beach-ports-identify-lng-and-methanol-as-leading-alternative-marine-fuels/"
+    },
+    {
+      "published": "2026-10-28T17:29:33+00:00",
+      "d": "28/10",
+      "s": "product",
+      "t": "U.S. Senator Demands Russian Diesel Tanker Turn Around as Legal Fight Escalates",
+      "x": "U.S. Senator Richard Blumenthal (D-Conn.) is demanding that a tanker reportedly carrying Russian diesel to the United States reverse course, warning its owner that delivering the cargo would violate federal...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-senator-demands-russian-diesel-tanker-turn-around-as-legal-fight-escalates/"
+    },
+    {
+      "published": "2026-10-28T16:32:21+00:00",
+      "d": "28/10",
+      "s": "dry",
+      "t": "Russia Turns to Arctic WW2 Route to Export Grain",
+      "x": "Russia, the world's largest wheat exporter, has turned to an Arctic World War II shipping route to export grain for the first time as the conflict in Ukraine stalls Black Sea trade and officials warn of risks in the...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russia-turns-to-arctic-ww2-route-to-export-grain/"
+    },
+    {
+      "published": "2026-10-28T16:27:19+00:00",
+      "d": "28/10",
+      "s": "crude",
+      "t": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+      "x": "(Bloomberg) — The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/"
+    },
+    {
+      "published": "2026-10-28T16:05:59+00:00",
+      "d": "28/10",
+      "s": "product",
+      "t": "Scorpio Tankers Reports $181,000-a-Day LR2 Rates as Middle East War Upends Oil Trade",
+      "x": "Scorpio Tankers is reporting a sharp surge in tanker earnings as the war in the Middle East disrupts global oil flows, with its LR2 product tankers securing bookings averaging $181,000...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/scorpio-tankers-reports-181000-a-day-lr2-rates-as-middle-east-war-upends-oil-trade/"
+    },
+    {
+      "published": "2026-10-28T14:07:56+00:00",
+      "d": "28/10",
+      "s": "macro",
+      "t": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
+      "x": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/"
+    },
+    {
+      "published": "2026-10-28T08:15:12+00:00",
+      "d": "28/10",
+      "s": "crude",
+      "t": "Iran singles out Sinokor",
+      "x": "Iran has threatened South Korean tanker giant Sinokor, the world’s dominant VLCC owner, with sweeping action against its fleet from November 1, accusing the company of repeatedly violating Tehran’s restrictions on...",
+      "su": "Splash247",
+      "url": "https://splash247.com/iran-singles-out-sinokor/"
+    },
+    {
+      "published": "2026-10-28T07:45:53+00:00",
+      "d": "28/10",
+      "s": "product",
+      "t": "Sanctioned Russian tankers head for US carrying diesel",
+      "x": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today...",
+      "su": "Splash247",
+      "url": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/"
+    },
+    {
+      "published": "2026-10-28T07:31:38+00:00",
+      "d": "28/10",
+      "s": "crude",
+      "t": "Venergy breaks into VLCCs with Hengli order",
+      "x": "Greek shipowner Vyron Vasileiadis is taking his rapidly expanding tanker business into the VLCC segment, with Venergy Maritime linked to two firm newbuildings and options for another two at China’s Hengli Heavy...",
+      "su": "Splash247",
+      "url": "https://splash247.com/venergy-breaks-into-vlccs-with-hengli-order/"
+    },
+    {
+      "published": "2026-10-28T06:00:22+00:00",
+      "d": "28/10",
+      "s": "dry",
+      "t": "Meadway Bulkers splashes out on ultramax series in China",
+      "x": "Greek dry bulk owner Meadway Bulkers has been linked to an order for six ultramax newbuildings at China’s Nantong Xiangyu Shipbuilding, marking its largest shipbuilding commitment since becoming a standalone company in...",
+      "su": "Splash247",
+      "url": "https://splash247.com/meadway-bulkers-splashes-out-on-ultramax-series-in-china/"
+    },
     {
       "published": "2026-10-27T22:00:59+00:00",
       "d": "27/10",
@@ -18,96 +108,6 @@
       "x": "The Strait of Hormuz had six VLCC transits on Oct. 25, the most since Oct. 17, while the Bab al-Mandab Strait recorded one VLCC on both Oct. 24 and Oct. 25, S&P Global Commodities at Sea said in an Oct. 26 report...",
       "su": "Hellenic Shipping News",
       "url": "https://www.hellenicshippingnews.com/vlcc-transits-climb-at-hormuz-steady-at-bab-al-mandab-for-second-day/"
-    },
-    {
-      "published": "2026-10-27T22:00:57+00:00",
-      "d": "27/10",
-      "s": "macro",
-      "t": "IUMI’s annual Stats Report highlights modest market development amid continued soft conditions across all main business...",
-      "x": "The International Union of Marine Insurance (IUMI) has, today, released its 2026 analysis of the global marine insurance market – the IUMI “Stats Report”. This annual document reports on the state of the marine...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/iumis-annual-stats-report-highlights-modest-market-development-amid-continued-soft-conditions-across-all-main-business-lines/"
-    },
-    {
-      "published": "2026-10-27T22:00:53+00:00",
-      "d": "27/10",
-      "s": "dry",
-      "t": "Baltic Dry Index Falls to 1-Week Low",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, declined for a third session on Tuesday, falling roughly 1% to its lowest since October 20 at 2,603 points. The...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1-week-low/"
-    },
-    {
-      "published": "2026-10-27T22:00:51+00:00",
-      "d": "27/10",
-      "s": "crude",
-      "t": "Tanker owners can’t call a $140m ship too old to upgrade, says BAR Technologies",
-      "x": "With new VLCCs ordered today won’t be delivering until 2029, most of the ships that will carry the world’s oil this decade are already trading. Portsmouth, UK, 20 October 2026. With a 15-year-old tanker now worth more...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tanker-owners-cant-call-a-140m-ship-too-old-to-upgrade-says-bar-technologies/"
-    },
-    {
-      "published": "2026-10-27T22:00:47+00:00",
-      "d": "27/10",
-      "s": "macro",
-      "t": "ENGINE: East of Suez Bunker Fuel Availability Outlook",
-      "x": "Singapore and Malaysia Bunker fuel availability remains tight in Singapore, with constrained fuel oil inventories. Reduced supply flows and tightening inventories across East of Suez continue to weigh on availability at...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-207/"
-    },
-    {
-      "published": "2026-10-27T19:35:58+00:00",
-      "d": "27/10",
-      "s": "macro",
-      "t": "Trump Administration Awards $498 Million for U.S. Port Upgrades, Below Recent Funding Levels",
-      "x": "The Trump administration announced $498 million in federal grants Tuesday to modernize U.S. ports, funding 35 projects across 19 states ranging from aging dock replacements and cargo-handling equipment to fuel...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/trump-administration-awards-498-million-for-u-s-port-upgrades-below-recent-funding-levels/"
-    },
-    {
-      "published": "2026-10-27T16:54:10+00:00",
-      "d": "27/10",
-      "s": "macro",
-      "t": "New RAmparts 3800 Ship-Handling/Fire-Fighting 2 Tug Design for Ningbo Port",
-      "x": "Robert Allan Ltd. is pleased to announce the award to design a new RAmparts 3800 Ship-Handling/Fire-Fighting 2 (FiFi 2) tug for Ningbo Port. The vessel will be constructed by Jiangsu Zhenjiang Shipyard...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/new-ramparts-3800-ship-handling-fire-fighting-2-tug-design-for-ningbo-port/"
-    },
-    {
-      "published": "2026-10-27T16:49:34+00:00",
-      "d": "27/10",
-      "s": "crude",
-      "t": "Oil Tanker Tycoon’s WhatsApp Messages Drive Big Market Moves",
-      "x": "The messages from the world’s biggest supertanker owner often begin with pleasantries: “Dear Ladies and Gentlemen.” Within minutes, the WhatsApps are the talk of the oil-tanker industry, a multibillion-dollar corner of...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-tanker-tycoons-whatsapp-messages-drive-big-market-moves/"
-    },
-    {
-      "published": "2026-10-27T16:41:16+00:00",
-      "d": "27/10",
-      "s": "crude",
-      "t": "Russia Ships Less Crude Even as Key Baltic Port’s Flows Rebound",
-      "x": "Russia shipped the least crude in more than a month, even as operations at its key Baltic port recovered strongly from an earlier halt.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/russia-ships-less-crude-even-as-key-baltic-ports-flows-rebound/"
-    },
-    {
-      "published": "2026-10-27T14:12:36+00:00",
-      "d": "27/10",
-      "s": "crude",
-      "t": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
-      "x": "Iran’s Persian Gulf Strait Authority said it would take “legal action” against tankers belonging to Sinokor, the world’s biggest oil tanker owner that has carried millions of barrels out of the Strait of Hormuz in...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz/"
-    },
-    {
-      "published": "2026-10-27T10:00:00+00:00",
-      "d": "27/10",
-      "s": "dry",
-      "t": "Zijin Mining orders bulker pair for African mineral trade",
-      "x": "Chinese mining giant Zijin Mining has returned to Shandong Xinneng Shipbuilding for two 3,000 dwt bulk carriers, expanding its dedicated mineral transport operation on Lake Tanganyika in eastern Africa. The latest...",
-      "su": "Splash247",
-      "url": "https://splash247.com/zijin-mining-orders-bulker-pair-for-african-mineral-trade/"
     }
   ]
 }
