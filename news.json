@@ -1,113 +1,113 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "published": "2026-11-03T03:00:00+00:00",
+      "published": "2026-11-03T22:00:59+00:00",
+      "d": "03/11",
+      "s": "crude",
+      "t": "Hormuz Oct crossings at 3-month high despite attacks, Red Sea traffic also rises",
+      "x": "Strait of Hormuz shipping traffic rose to its highest monthly level since July in October, supported by stronger dry-bulk and LNG movements despite a decline in VLCC traffic and mounting regional threats, S&P Global...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/hormuz-oct-crossings-at-3-month-high-despite-attacks-red-sea-traffic-also-rises/"
+    },
+    {
+      "published": "2026-11-03T22:00:57+00:00",
+      "d": "03/11",
+      "s": "dry",
+      "t": "Baltic Dry Index at Over 2-Week Low",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, eased for the second straight session on Tuesday, dropping 2.2% to its lowest since October 19 at 2,590 points...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-over-2-week-low-2/"
+    },
+    {
+      "published": "2026-11-03T22:00:57+00:00",
+      "d": "03/11",
+      "s": "dry",
+      "t": "Panamax vessels lose out in Q3 as shifting grain trade boosts smaller bulk carriers",
+      "x": "Panamax bulk carriers have emerged as the principal losers from changing global grain trade patterns, while smaller Supramax and Handysize vessels have benefited from the redistribution of wheat and corn shipments...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/panamax-vessels-lose-out-in-q3-as-shifting-grain-trade-boosts-smaller-bulk-carriers/"
+    },
+    {
+      "published": "2026-11-03T22:00:53+00:00",
+      "d": "03/11",
+      "s": "crude",
+      "t": "Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz",
+      "x": "Between October 29 and 30, Iran attacked at least four tankers across the Strait of Hormuz and the waters around it. The attacks ranged from projectiles to hull-mounted explosives, and they struck laden and empty...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers-near-the-strait-of-hormuz/"
+    },
+    {
+      "published": "2026-11-03T22:00:49+00:00",
+      "d": "03/11",
+      "s": "crude",
+      "t": "India’s crude imports hit record high in Oct as refiners stock up for festivals, product exports",
+      "x": "Crude imports by Indian refiners rose to an all-time high of 5.54 million b/d in October, as refiners capitalized on improved availability to build supplies ahead of festival demand, while processing higher volumes to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/indias-crude-imports-hit-record-high-in-oct-as-refiners-stock-up-for-festivals-product-exports/"
+    },
+    {
+      "published": "2026-11-03T22:00:43+00:00",
+      "d": "03/11",
+      "s": "lpg",
+      "t": "Australia first as green ammonia is bunkered to ammonia-powered bulk carrier at the Port of Port Hedland",
+      "x": "In a first for Australia, green ammonia has been transferred to an ammonia-powered dry bulk carrier at the Port of Port Hedland, marking a major step towards low-emission shipping. Mineral Europa, the world’s first...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/australia-first-as-green-ammonia-is-bunkered-to-ammonia-powered-bulk-carrier-at-the-port-of-port-hedland/"
+    },
+    {
+      "published": "2026-11-03T17:47:08+00:00",
+      "d": "03/11",
+      "s": "crude",
+      "t": "Hormuz Standoff Leaves Both Sides With Economic Pain",
+      "x": "As US President Donald Trump threatens renewed attacks against Iran, Tehran’s intermittent strikes on commercial vessels have left the two sides locked in a painful economic standoff.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/"
+    },
+    {
+      "published": "2026-11-03T17:03:13+00:00",
+      "d": "03/11",
+      "s": "product",
+      "t": "New Jersey Governor Warns Ports Against Handling Russian Diesel",
+      "x": "New Jersey Governor Mikie Sherrill is warning port and terminal operators not to accept Russian diesel shipments heading toward the U.S. East Coast, arguing that the Trump administration’s authorization of...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/new-jersey-governor-warns-ports-against-handling-russian-diesel/"
+    },
+    {
+      "published": "2026-11-03T16:25:54+00:00",
+      "d": "03/11",
+      "s": "dry",
+      "t": "Australia Bans Bulk Carrier Over Repeated Falsification of Crew Rest Records",
+      "x": "The Australian Maritime Safety Authority (AMSA) has banned a Marshall Islands-flagged bulk carrier from Australian ports for 90 days after inspectors discovered that crew work and rest records had been...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/australia-bans-bulk-carrier-over-repeated-falsification-of-crew-rest-records/"
+    },
+    {
+      "published": "2026-11-03T12:46:08+00:00",
+      "d": "03/11",
+      "s": "macro",
+      "t": "Norway Detains Sanctioned Chinese Vessel Over False Flag Registration",
+      "x": "Norway has detained a Chinese-owned heavy-lift vessel sanctioned for its role in delivering equipment to Russia’s Arctic LNG 2 project, in what appears to be the first known detention in the Arctic of a Chinese vessel...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/norway-detains-sanctioned-chinese-vessel-over-false-flag-registration/"
+    },
+    {
+      "published": "2026-11-03T12:00:00+00:00",
+      "d": "03/11",
+      "s": "macro",
+      "t": "ELPI nets double Middle East offshore vessel deal",
+      "x": "Indonesian offshore vessel operator PT Pelayaran Nasional Ekalya Purnamasari (ELPI) has secured a three-year charter contract worth $12.04m with UAE-based Atlantic Maritime Group. The contract covers two crewboat...",
+      "su": "Splash247",
+      "url": "https://splash247.com/elpi-nets-double-middle-east-offshore-vessel-deal/"
+    },
+    {
+      "published": "2026-11-03T08:00:00+00:00",
       "d": "03/11",
       "s": "dry",
       "t": "Splash Singapore unveils 2027 agenda with three new sessions tackling shipping’s biggest challenges",
       "x": "Splash Singapore has unveiled the agenda for its 2027 edition, introducing three new sessions examining crewing, operational efficiency and maritime investment alongside traditional tanker and dry bulk market outlooks...",
       "su": "Splash247",
       "url": "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/"
-    },
-    {
-      "published": "2026-11-02T22:00:59+00:00",
-      "d": "02/11",
-      "s": "macro",
-      "t": "Ardmore Shipping: Decarbonization through the details",
-      "x": "The regulatory requirements governing environmental performance continue to ratchet up, with the EU Emissions Trading System in place for large ships entering EU ports since January 2024, FuelEU Maritime in effect since...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/ardmore-shipping-decarbonization-through-the-details/"
-    },
-    {
-      "published": "2026-11-02T22:00:58+00:00",
-      "d": "02/11",
-      "s": "macro",
-      "t": "Alternative-fuel ships outpace port readiness, new LR report finds",
-      "x": "Alternative-fuel vessel orders are outpacing the development of the port infrastructure needed to support them, according to a new global study by Lloyd’s Register (LR), highlighting a growing gap between ship...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/alternative-fuel-ships-outpace-port-readiness-new-lr-report-finds/"
-    },
-    {
-      "published": "2026-11-02T22:00:57+00:00",
-      "d": "02/11",
-      "s": "dry",
-      "t": "Baltic Dry Index Slips to Near 1-Week Low",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped its three-day winning streak on Monday, dropping by 2.4% to its lowest since October 27 at 2,648 points...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-slips-to-near-1-week-low/"
-    },
-    {
-      "published": "2026-11-02T22:00:57+00:00",
-      "d": "02/11",
-      "s": "dry",
-      "t": "Could India’s steel ‘Vision 2047’ create the next breakthrough for dry bulk demand?",
-      "x": "The government of India’s newly released draft National Steel Policy ‘Vision 2047’ targets 531 million tonnes of crude steel production, 772 million tonnes of iron ore demand and 236 million tonnes of coking coal demand...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/could-indias-steel-vision-2047-create-the-next-breakthrough-for-dry-bulk-demand/"
-    },
-    {
-      "published": "2026-11-02T22:00:55+00:00",
-      "d": "02/11",
-      "s": "crude",
-      "t": "MABUX: Global Bunker Market To Maintain A Firm But Highly Volatile Trend In November",
-      "x": "October’s global bunker market remained under strong geopolitical and supply-side pressure. Middle East tensions, disruptions to oil product flows, tight regional fuel availability and rising LNG prices continued to...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/mabux-global-bunker-market-to-maintain-a-firm-but-highly-volatile-trend-in-november/"
-    },
-    {
-      "published": "2026-11-02T22:00:53+00:00",
-      "d": "02/11",
-      "s": "product",
-      "t": "Fuel Switch Snapshot: Pooling slump erases LBM’s edge over LNG",
-      "x": "Liquefied biomethane (LBM) has flipped from a $2/mt discount to LNG to a $48/mt premium over it in Rotterdam for vessels with Otto medium speed (Otto MS) engines. For vessels with diesel slow speed (diesel SS) engines...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/fuel-switch-snapshot-pooling-slump-erases-lbms-edge-over-lng/"
-    },
-    {
-      "published": "2026-11-02T21:06:16+00:00",
-      "d": "02/11",
-      "s": "macro",
-      "t": "Alternative-Fuel Ship Orders Outpace Port Bunkering Infrastructure, Lloyd’s Register Warns",
-      "x": "The global shipping industry is ordering alternative-fuel vessels faster than ports can develop the infrastructure needed to fuel them, according to a new report from Lloyd’s Register (LR), highlighting a...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/alternative-fuel-ship-orders-outpace-port-bunkering-infrastructure-lloyds-register-warns/"
-    },
-    {
-      "published": "2026-11-02T20:14:00+00:00",
-      "d": "02/11",
-      "s": "macro",
-      "t": "When the ship pays back before the owner does",
-      "x": "Fuel-saving retrofits can pay for themselves long before the shipowner who funded them sees a return. A new BIMCO contract seeks to resolve shipping’s longstanding divide between who pays for efficiency and who pockets...",
-      "su": "Splash247",
-      "url": "https://splash247.com/when-the-ship-pays-back-before-the-owner-does/"
-    },
-    {
-      "published": "2026-11-02T18:20:44+00:00",
-      "d": "02/11",
-      "s": "dry",
-      "t": "Broad Industry Coalition Urges Permanent Suspension of Costly U.S. Port Fees on China-Linked Ships",
-      "x": "A broad coalition of maritime, agricultural, manufacturing, retail and logistics organizations is urging the Trump administration to permanently suspend U.S. port fees targeting China-linked vessels, warning that...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/broad-industry-coalition-urges-permanent-suspension-of-costly-u-s-port-fees-on-china-linked-ships/"
-    },
-    {
-      "published": "2026-11-02T18:02:25+00:00",
-      "d": "02/11",
-      "s": "crude",
-      "t": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-      "x": "(Bloomberg) — Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval-2/"
-    },
-    {
-      "published": "2026-11-02T16:00:49+00:00",
-      "d": "02/11",
-      "s": "crude",
-      "t": "New Wave of Attacks Hits Tankers and LNG Carrier in Strait of Hormuz and Persian Gulf",
-      "x": "A tanker was struck by two unidentified projectiles in the Persian Gulf late Sunday, marking the latest in a series of attacks on commercial shipping in and around the Strait...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/new-wave-of-attacks-hits-tankers-and-lng-carrier-in-strait-of-hormuz-and-persian-gulf/"
     }
   ]
 }
