@@ -1,95 +1,113 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "items": [
     {
-      "published": "2026-11-05T22:49:48+00:00",
-      "d": "05/11",
-      "s": "lpg",
-      "t": "Ammonia-Powered Bulk Carrier Takes on Green Fuel in Australian First",
-      "x": "Australia has completed its first green ammonia bunkering operation involving an ammonia-powered bulk carrier, marking another step toward bringing alternative fuels into commercial shipping. The operation took place...",
+      "published": "2026-11-08T22:30:33+00:00",
+      "d": "08/11",
+      "s": "crude",
+      "t": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz",
+      "x": "Nov 8 (Reuters) – Iraq has reached understandings with the United States to allow Iraqi oil exports through the Strait of Hormuz via a shipping lane near Oman, Foreign Minister Fuad Hussein said in...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/ammonia-powered-bulk-carrier-takes-on-green-fuel-in-australian-first/"
+      "url": "https://gcaptain.com/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz/"
     },
     {
-      "published": "2026-11-05T22:00:59+00:00",
-      "d": "05/11",
+      "published": "2026-11-08T22:00:59+00:00",
+      "d": "08/11",
+      "s": "crude",
+      "t": "Tankers: VLCC Market Cools Down",
+      "x": "The tanker market has witnessed a decline over the course of the past week. In its latest weekly report, shipbroker Affinity said that “VLCCs have softened throughout the week as limited enquiry and increasingly...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-vlcc-market-cools-down/"
+    },
+    {
+      "published": "2026-11-08T22:00:58+00:00",
+      "d": "08/11",
+      "s": "macro",
+      "t": "Asia-US container rates largely stable; liquid tanker rates steady to higher",
+      "x": "Rates for shipping containers from east Asia and China to the US were largely stable this week while rates for liquid chemical tankers ex-US Gulf were steady to higher. Rates to the West Coast edged higher on the low...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-largely-stable-liquid-tanker-rates-steady-to-higher/"
+    },
+    {
+      "published": "2026-11-08T22:00:58+00:00",
+      "d": "08/11",
       "s": "dry",
-      "t": "Newbuilding Orders Piling Up",
-      "x": "The newbuilding market has remained very elevated over the past week, as owners have kept securing more orders. In its latest weekly report, shipbroker Banchero Costa said that “newbuilding activity remained...",
+      "t": "Dry Bulk Market: Capesizes End The Week on Firmer Note",
+      "x": "Capesize The Capesize market experienced a mixed but ultimately firmer week, with an initial period of weakness giving way to improved sentiment and firmer conditions, although momentum remained uneven across the...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/newbuilding-orders-piling-up/"
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-firmer-note/"
     },
     {
-      "published": "2026-11-05T22:00:59+00:00",
-      "d": "05/11",
-      "s": "macro",
-      "t": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
-      "x": "Sanctioned Tankers Fake Their Positions Near the Bosphorus A cluster of seven sanctioned Russian tankers were found to have routinely and deliberately manipulated AIS over the past 90 days to falsely claim they were...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/"
-    },
-    {
-      "published": "2026-11-05T22:00:57+00:00",
-      "d": "05/11",
-      "s": "lpg",
-      "t": "Dorian LPG Ltd. Reports Record Earnings on Strong Market Conditions and Ship Resale Profits",
-      "x": "Dorian LPG Ltd., a leading owner and operator of modern very large gas carriers (“VLGCs”), reported its financial results for the three months ended September 30, 2026. Key Recent Developments • Declared an irregular...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dorian-lpg-ltd-reports-record-earnings-on-strong-market-conditions-and-ship-resale-profits/"
-    },
-    {
-      "published": "2026-11-05T22:00:57+00:00",
-      "d": "05/11",
-      "s": "macro",
-      "t": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding...",
-      "x": "Global ocean container shipping spot rates are forecast to fall 30% in 2027, according to the Xeneta Ocean Outlook Report unveiled today by Chief Analyst Peter Sand to more than 800 industry leaders from the world’s...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xeneta-summit-analysts-forecast-ocean-freight-spot-rates-to-fall-30-in-2027-as-red-sea-return-sees-capacity-flooding-back/"
-    },
-    {
-      "published": "2026-11-05T22:00:55+00:00",
-      "d": "05/11",
+      "published": "2026-11-08T22:00:56+00:00",
+      "d": "08/11",
       "s": "crude",
-      "t": "Iran says five tankers and tugboat caught fire in Hormuz",
-      "x": "Five oil tankers and a tugboat caught fire in the Strait of Hormuz, Iran’s Revolutionary Guards and army said in separate statements, according to local media on Thursday. Since the outbreak of the Iran war in late...",
+      "t": "VLCC Tankers Retreated Last Week",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index eased by eight points this week to WS1005, while the corresponding Baltic round-trip TCE edged up by $100 to $292,000/day. For the TC20 90kt MEG/UK-Continent run, the index dropped...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/iran-says-five-tankers-and-tugboat-caught-fire-in-hormuz/"
+      "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
     },
     {
-      "published": "2026-11-05T22:00:49+00:00",
-      "d": "05/11",
-      "s": "macro",
-      "t": "Global trade is growing. The capacity it needs doesn’t stop at the quay",
-      "x": "A container terminal can handle more cargo than ever before and still leave its customers waiting. Larger vessels and more efficient shipping networks have transformed how goods move across oceans. But the roads...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/global-trade-is-growing-the-capacity-it-needs-doesnt-stop-at-the-quay/"
-    },
-    {
-      "published": "2026-11-05T21:10:53+00:00",
-      "d": "05/11",
+      "published": "2026-11-08T22:00:54+00:00",
+      "d": "08/11",
       "s": "crude",
-      "t": "MARAD Approves $1 Billion Offshore Crude Oil Export Port Off Louisiana",
-      "x": "The Trump administration has approved a $1 billion offshore crude oil export project off the coast of Louisiana, clearing a major regulatory hurdle for a facility designed to load some...",
+      "t": "IMO Council urges stronger protection of seafarers amid threats to global shipping",
+      "x": "Council condemns attacks on merchant shipping in the Red Sea and Black Sea, mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure. The Council of the International...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/"
+    },
+    {
+      "published": "2026-11-08T22:00:48+00:00",
+      "d": "08/11",
+      "s": "macro",
+      "t": "Drewry: Intra Asia Container Index Down Last Week",
+      "x": "Drewry’s Intra-Asia Container Index (IACI) declined by $26 to $1,478 per 40ft container. However, spot rates across intra-Asia trade remained uneven. While rates on routes such as Shanghai–Singapore and Ho Chi Minh...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-last-week/"
+    },
+    {
+      "published": "2026-11-08T13:40:32+00:00",
+      "d": "08/11",
+      "s": "macro",
+      "t": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
+      "x": "By Lucia Kassai, Devika Krishna Kumar, Charles Gorrivan and Archie Hunter Nov 8, 2026 (Bloomberg) –Oil traders are seeking approval from the US government to use some tankers that were sanctioned...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/"
+      "url": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/"
     },
     {
-      "published": "2026-11-05T11:25:54+00:00",
-      "d": "05/11",
+      "published": "2026-11-07T13:57:29+00:00",
+      "d": "07/11",
       "s": "macro",
-      "t": "HEA Energy snaps up Subsea7’s six-ship heavy transport business",
-      "x": "Abu Dhabi-based HEA Energy has struck a deal to acquire Subsea7’s heavy transportation business, adding a six-vessel operation to its growing offshore fleet. The transaction will see Subsea7’s offshore renewables arm...",
-      "su": "Splash247",
-      "url": "https://splash247.com/hea-energy-snaps-up-subsea7s-six-ship-heavy-transport-business/"
+      "t": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
+      "x": "By Laura Curtis Nov 7, 2026 (Bloomberg) –The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/"
     },
     {
-      "published": "2026-11-05T11:10:00+00:00",
-      "d": "05/11",
-      "s": "product",
-      "t": "Seacon snaps up fresh tanker in $19.6m deal",
-      "x": "Hong Kong-listed Seacon Shipping has struck a $19.6m deal for a newly built oil and chemical tanker, adding to its fleet amid reports of a four-vessel MR tanker disposal. The Qingdao-based owner’s Singapore subsidiary...",
+      "published": "2026-11-07T13:36:17+00:00",
+      "d": "07/11",
+      "s": "crude",
+      "t": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
+      "x": "By Vallari Srivastava and Sumit Saha Nov 6 (Reuters) – The Iran conflict has sent tanker rates soaring, forcing sellers to deepen discounts on heavy crude grades and giving US Gulf Coast...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/"
+    },
+    {
+      "published": "2026-11-06T17:11:47+00:00",
+      "d": "06/11",
+      "s": "crude",
+      "t": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
+      "x": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/"
+    },
+    {
+      "published": "2026-11-06T09:19:00+00:00",
+      "d": "06/11",
+      "s": "crude",
+      "t": "Venergy doubles VLCC order at Hengli",
+      "x": "Greek shipowner Vyron Vasileiadis has firmed up another two VLCCs at China’s Hengli Heavy Industries, doubling Venergy Maritime’s debut supertanker order to four vessels. The Piraeus-based company exercised the options...",
       "su": "Splash247",
-      "url": "https://splash247.com/seacon-snaps-up-fresh-tanker-in-19-6m-deal/"
+      "url": "https://splash247.com/venergy-doubles-vlcc-order-at-hengli/"
     }
   ]
 }
