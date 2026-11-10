@@ -1,6 +1,105 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
+    {
+      "published": "2026-11-09T22:06:37+00:00",
+      "d": "09/11",
+      "s": "crude",
+      "t": "Coast Guard Airlifts Four Oil Tanker Crew Members After Suspected Food Poisoning",
+      "x": "The U.S. Coast Guard evacuated four crew members from a Cyprus-flagged oil tanker off Puerto Rico on Sunday after they reportedly fell ill with suspected food poisoning. An MH-60T Jayhawk...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/coast-guard-airlifts-four-oil-tanker-crew-members-after-suspected-food-poisoning/"
+    },
+    {
+      "published": "2026-11-09T22:00:59+00:00",
+      "d": "09/11",
+      "s": "dry",
+      "t": "Baltic Dry Index Advances for 4th Day",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a fourth session on Monday, rising by 1.8% to its highest since October 9 at 2,854 points. The...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-advances-for-4th-day/"
+    },
+    {
+      "published": "2026-11-09T22:00:59+00:00",
+      "d": "09/11",
+      "s": "dry",
+      "t": "Dry Bulk Shipping: Thermal Coal Market Heating Up",
+      "x": "Demand for thermal coal is growing once more, with shipping standing to benefit. In its latest weekly report, shipbroker Intermodal said that “with the winter heating season underway, the thermal coal market is...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-thermal-coal-market-heating-up/"
+    },
+    {
+      "published": "2026-11-09T22:00:58+00:00",
+      "d": "09/11",
+      "s": "dry",
+      "t": "China’s 2026 Thermal Coal Imports: 295 Mt Hinges on Winter Restocking",
+      "x": "We retain a range of 285–310 million tonnes (Mt) for China’s 2026 seaborne thermal coal imports, with 295 Mt as our conditional central case. Extending October’s arrival pace gives 288.96 Mt. Winter restocking could...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/chinas-2026-thermal-coal-imports-295-mt-hinges-on-winter-restocking/"
+    },
+    {
+      "published": "2026-11-09T22:00:57+00:00",
+      "d": "09/11",
+      "s": "macro",
+      "t": "Listening is not enough to protect seafarers’ mental health",
+      "x": "The maritime industry has become much better at asking seafarers how they feel. The harder question is whether it is prepared to act on what they say. Surveys, welfare reports and personal testimony have brought mental...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/listening-is-not-enough-to-protect-seafarers-mental-health/"
+    },
+    {
+      "published": "2026-11-09T22:00:53+00:00",
+      "d": "09/11",
+      "s": "macro",
+      "t": "Iran Expands Its Use of Fraudulent Ship Registries to Evade Sanctions",
+      "x": "Nearly 300 Iranian-Linked Ships Sail Under Fraudulent Flags Nearly 300 Iranian-linked ships have been tracked using fraudulent ship registries over the past 90 days to evade sanctions, an accelerating issue that...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/iran-expands-its-use-of-fraudulent-ship-registries-to-evade-sanctions/"
+    },
+    {
+      "published": "2026-11-09T22:00:50+00:00",
+      "d": "09/11",
+      "s": "macro",
+      "t": "Ningbo Containerized Freight Index Report, 6 November 2026",
+      "x": "In the week ending Nov-6, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes 2443.2 points, Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-6-november-2026/"
+    },
+    {
+      "published": "2026-11-09T19:43:47+00:00",
+      "d": "09/11",
+      "s": "macro",
+      "t": "G7 Launches Global Port Security Network to Combat Drug Trafficking",
+      "x": "France on Monday laurched a new G7-backed network linking major seaports, customs authorities and international organizations in an effort to crack down on drug trafficking through global maritime supply chains....",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/g7-launches-global-port-security-network-to-combat-drug-trafficking/"
+    },
+    {
+      "published": "2026-11-09T14:53:56+00:00",
+      "d": "09/11",
+      "s": "crude",
+      "t": "COSCO unveils massive supertanker fleet push",
+      "x": "Chinese tanker giant COSCO Shipping Energy Transportation has unveiled a sweeping fleet expansion involving 24 VLCC newbuildings, signing contracts worth RMB9.48bn ($1.42bn) for ten supertankers and lining up another 14...",
+      "su": "Splash247",
+      "url": "https://splash247.com/cosco-unveils-massive-supertanker-fleet-push/"
+    },
+    {
+      "published": "2026-11-09T14:07:41+00:00",
+      "d": "09/11",
+      "s": "dry",
+      "t": "RCL adds $213m boxship pair to growing orderbook",
+      "x": "Thailand’s Regional Container Lines (RCL) has added another two neo-panamax containerships to its expanding newbuilding programme, committing around $213m for a pair of 9,200 teu vessels. The Bangkok-listed carrier has...",
+      "su": "Splash247",
+      "url": "https://splash247.com/rcl-adds-213m-boxship-pair-to-growing-orderbook/"
+    },
+    {
+      "published": "2026-11-09T10:40:00+00:00",
+      "d": "09/11",
+      "s": "dry",
+      "t": "A.E. Nomikos adds Oshima kamsarmax to fleet renewal drive",
+      "x": "Greek dry bulk owner A.E. Nomikos Shipping Investments has returned to Japan’s Oshima Shipbuilding for a kamsarmax newbuilding, continuing its fleet renewal programme with a vessel scheduled to join its fleet towards...",
+      "su": "Splash247",
+      "url": "https://splash247.com/a-e-nomikos-adds-oshima-kamsarmax-to-fleet-renewal-drive/"
+    },
     {
       "published": "2026-11-08T22:30:33+00:00",
       "d": "08/11",
@@ -9,105 +108,6 @@
       "x": "Nov 8 (Reuters) – Iraq has reached understandings with the United States to allow Iraqi oil exports through the Strait of Hormuz via a shipping lane near Oman, Foreign Minister Fuad Hussein said in...",
       "su": "gCaptain",
       "url": "https://gcaptain.com/iraq-has-reached-understandings-with-us-to-allow-oil-exports-through-hormuz/"
-    },
-    {
-      "published": "2026-11-08T22:00:59+00:00",
-      "d": "08/11",
-      "s": "crude",
-      "t": "Tankers: VLCC Market Cools Down",
-      "x": "The tanker market has witnessed a decline over the course of the past week. In its latest weekly report, shipbroker Affinity said that “VLCCs have softened throughout the week as limited enquiry and increasingly...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tankers-vlcc-market-cools-down/"
-    },
-    {
-      "published": "2026-11-08T22:00:58+00:00",
-      "d": "08/11",
-      "s": "macro",
-      "t": "Asia-US container rates largely stable; liquid tanker rates steady to higher",
-      "x": "Rates for shipping containers from east Asia and China to the US were largely stable this week while rates for liquid chemical tankers ex-US Gulf were steady to higher. Rates to the West Coast edged higher on the low...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-largely-stable-liquid-tanker-rates-steady-to-higher/"
-    },
-    {
-      "published": "2026-11-08T22:00:58+00:00",
-      "d": "08/11",
-      "s": "dry",
-      "t": "Dry Bulk Market: Capesizes End The Week on Firmer Note",
-      "x": "Capesize The Capesize market experienced a mixed but ultimately firmer week, with an initial period of weakness giving way to improved sentiment and firmer conditions, although momentum remained uneven across the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-firmer-note/"
-    },
-    {
-      "published": "2026-11-08T22:00:56+00:00",
-      "d": "08/11",
-      "s": "crude",
-      "t": "VLCC Tankers Retreated Last Week",
-      "x": "Clean LR2 The TC1 75kt MEG/Japan index eased by eight points this week to WS1005, while the corresponding Baltic round-trip TCE edged up by $100 to $292,000/day. For the TC20 90kt MEG/UK-Continent run, the index dropped...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
-    },
-    {
-      "published": "2026-11-08T22:00:54+00:00",
-      "d": "08/11",
-      "s": "crude",
-      "t": "IMO Council urges stronger protection of seafarers amid threats to global shipping",
-      "x": "Council condemns attacks on merchant shipping in the Red Sea and Black Sea, mourns loss of 25th seafarer since onset of Strait of Hormuz conflict, and renews Secretary-General’s tenure. The Council of the International...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/"
-    },
-    {
-      "published": "2026-11-08T22:00:48+00:00",
-      "d": "08/11",
-      "s": "macro",
-      "t": "Drewry: Intra Asia Container Index Down Last Week",
-      "x": "Drewry’s Intra-Asia Container Index (IACI) declined by $26 to $1,478 per 40ft container. However, spot rates across intra-Asia trade remained uneven. While rates on routes such as Shanghai–Singapore and Ho Chi Minh...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-last-week/"
-    },
-    {
-      "published": "2026-11-08T13:40:32+00:00",
-      "d": "08/11",
-      "s": "macro",
-      "t": "Oil Traders In Talks With US To Get Sanctioned Ships Back To Sea",
-      "x": "By Lucia Kassai, Devika Krishna Kumar, Charles Gorrivan and Archie Hunter Nov 8, 2026 (Bloomberg) –Oil traders are seeking approval from the US government to use some tankers that were sanctioned...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-traders-in-talks-with-us-to-get-sanctioned-ships-back-to-sea/"
-    },
-    {
-      "published": "2026-11-07T13:57:29+00:00",
-      "d": "07/11",
-      "s": "macro",
-      "t": "LA Port Strike Threat Deferred Again As Labor Talks Drag On",
-      "x": "By Laura Curtis Nov 7, 2026 (Bloomberg) –The union representing about 250 security workers at the US’s busiest ports agreed to continue negotiations on a new labor contract for two more...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/la-port-strike-threat-deferred-again-as-labor-talks-drag-on/"
-    },
-    {
-      "published": "2026-11-07T13:36:17+00:00",
-      "d": "07/11",
-      "s": "crude",
-      "t": "Soaring Freight Rates Give US Refiners Edge As Crude Discounts Widen",
-      "x": "By Vallari Srivastava and Sumit Saha Nov 6 (Reuters) – The Iran conflict has sent tanker rates soaring, forcing sellers to deepen discounts on heavy crude grades and giving US Gulf Coast...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/"
-    },
-    {
-      "published": "2026-11-06T17:11:47+00:00",
-      "d": "06/11",
-      "s": "crude",
-      "t": "U.S. Targets Cuba’s Oil Tanker Fleet in New Sanctions Crackdown",
-      "x": "The Trump administration has expanded sanctions targeting Cuba’s maritime and energy sectors, identifying five Cuban-flagged vessels as blocked property and opening the door to further sanctions against foreign...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/"
-    },
-    {
-      "published": "2026-11-06T09:19:00+00:00",
-      "d": "06/11",
-      "s": "crude",
-      "t": "Venergy doubles VLCC order at Hengli",
-      "x": "Greek shipowner Vyron Vasileiadis has firmed up another two VLCCs at China’s Hengli Heavy Industries, doubling Venergy Maritime’s debut supertanker order to four vessels. The Piraeus-based company exercised the options...",
-      "su": "Splash247",
-      "url": "https://splash247.com/venergy-doubles-vlcc-order-at-hengli/"
     }
   ]
 }
