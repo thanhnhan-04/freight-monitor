@@ -1,113 +1,113 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "published": "2026-11-11T00:22:43+00:00",
+      "published": "2026-11-11T22:00:59+00:00",
+      "d": "11/11",
+      "s": "macro",
+      "t": "US Treasury may allow purchase of sanctioned tankers on case basis",
+      "x": "The US Treasury Department may allow companies to buy sanctioned shipping vessels and return them to legitimate shipping on a case-by-case basis, according to a government source and a person with knowledge of the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/us-treasury-may-allow-purchase-of-sanctioned-tankers-on-case-basis/"
+    },
+    {
+      "published": "2026-11-11T22:00:58+00:00",
+      "d": "11/11",
+      "s": "dry",
+      "t": "Tankers In High Demand During October",
+      "x": "October’s secondhand market showed a clear shift towards tankers, despite little change in overall activity. A total of 168 vessels changed hands, unchanged year on year and 2% above September. Tanker sales rose 61% to...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-in-high-demand-during-october/"
+    },
+    {
+      "published": "2026-11-11T22:00:57+00:00",
+      "d": "11/11",
+      "s": "dry",
+      "t": "Baltic Dry Index Up for 6th Day",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose by 3.4% to its highest since October 8 at 2,959 points, extending gains for the sixth consecutive session...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-6th-day/"
+    },
+    {
+      "published": "2026-11-11T22:00:55+00:00",
+      "d": "11/11",
+      "s": "macro",
+      "t": "Global Shipping Report: October U.S. Container Imports Hit Record Volume",
+      "x": "U.S. containerized imports totaled 2,674,808 twenty-foot equivalent units (TEUs) in October 2026, up 5.0% from September and 16.0% from October 2025. October marked the highest monthly volume on record, exceeding the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/global-shipping-report-october-u-s-container-imports-hit-record-volume/"
+    },
+    {
+      "published": "2026-11-11T22:00:50+00:00",
+      "d": "11/11",
+      "s": "dry",
+      "t": "Banchero Costa Weekly Market Report, Week 45 2026",
+      "x": "Bauxite is one of the most important dry bulk commodities, accounting for 4.4 percent of all seaborne dry bulk trade in 2025, rising to 4.9 Source: banchero costa & c s.p.a",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-45-2026/"
+    },
+    {
+      "published": "2026-11-11T22:00:49+00:00",
+      "d": "11/11",
+      "s": "macro",
+      "t": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
+      "x": "Northwest Europe Fuel availability remains tight in the ARA ports for prompt delivery dates, and buyers are recommended lead times of 5-7 days to get good coverage from suppliers and secure deliveries at competitive...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-207/"
+    },
+    {
+      "published": "2026-11-11T19:52:09+00:00",
       "d": "11/11",
       "s": "product",
-      "t": "Russian Diesel Tanker Awaits Orders Off U.S. Coast Amid Import Ban Dispute",
-      "x": "OSLO, Nov 10 (Reuters) – President Donald Trump’s energy chief said on Tuesday the US was confident that the first cargo of Russian diesel headed for the US would eventually...",
+      "t": "Russian Diesel Tanker Makes U-Turn After Heading to U.S.",
+      "x": "(Bloomberg) — A tanker carrying Russian diesel that had briefly signaled the US made a U-turn about 400 nautical miles off New York, compounding uncertainty over deliveries to the North American market....",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/"
+      "url": "https://gcaptain.com/russian-diesel-tanker-makes-u-turn-after-heading-to-u-s/"
     },
     {
-      "published": "2026-11-10T22:00:59+00:00",
-      "d": "10/11",
-      "s": "crude",
-      "t": "Russian crude exports fall on G7 tankers as Greek operators flee for better earnings",
-      "x": "Russian crude exports on G7 tankers fell sharply in October as Greek operators were enticed by strong earnings elsewhere and steered away from Black Sea conflicts, according to S&P Global Commodities at Sea(opens in a...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/russian-crude-exports-fall-on-g7-tankers-as-greek-operators-flee-for-better-earnings/"
-    },
-    {
-      "published": "2026-11-10T22:00:58+00:00",
-      "d": "10/11",
-      "s": "crude",
-      "t": "Atlantic Tanker Earnings Fall Faster Than Gulf Earnings",
-      "x": "The TD3C/TD22 earnings ratio rose from 2.73 on 30 October to 3.10 on 6 November, as US Gulf–China VLCC earnings fell 16.2% to around $415,000/day, against a 4.8% decline on Middle East Gulf–China to $1.29 million/day...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/atlantic-tanker-earnings-fall-faster-than-gulf-earnings/"
-    },
-    {
-      "published": "2026-11-10T22:00:57+00:00",
-      "d": "10/11",
-      "s": "dry",
-      "t": "Baltic Dry Index Up for 5th Day",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, advanced for a fifth straight session on Tuesday, up 0.3% to a fresh high since October 9 at 2,862 points. The...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-5th-day-2/"
-    },
-    {
-      "published": "2026-11-10T22:00:57+00:00",
-      "d": "10/11",
-      "s": "dry",
-      "t": "COP31: Broad maritime coalition launches breakthrough 20% electrification goal by 2035",
-      "x": "This decade is critical for decarbonizing the maritime sector. Integrated energy planning, accelerated action and ambitious policy implementation are vital to keep international shipping on track for net-zero by or...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/cop31-broad-maritime-coalition-launches-breakthrough-20-electrification-goal-by-2035/"
-    },
-    {
-      "published": "2026-11-10T22:00:55+00:00",
-      "d": "10/11",
-      "s": "macro",
-      "t": "Carriers may secure only part of their November rate increases as Suez returns, Sogese report says",
-      "x": "Freight rates to Europe have rebounded since early October after falling steadily from their July peak, but the conditions behind the rebound are mixed. Cargo demand is positive, with Far East to Europe volumes up 12.2%...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/carriers-may-secure-only-part-of-their-november-rate-increases-as-suez-returns-sogese-report-says/"
-    },
-    {
-      "published": "2026-11-10T22:00:51+00:00",
-      "d": "10/11",
-      "s": "macro",
-      "t": "Xeneta Ocean Outlook 2027: Three Years, Three Shocks, And What Comes Next",
-      "x": "For the third year running, 2026 began with an expectation that ocean container rates would soften. For the third year running, a shock got there first. In 2024 it was the rate spike impact of Red Sea conflict...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xeneta-ocean-outlook-2027-three-years-three-shocks-and-what-comes-next/"
-    },
-    {
-      "published": "2026-11-10T20:47:24+00:00",
-      "d": "10/11",
-      "s": "macro",
-      "t": "U.S. Formalizes Two-Month Extension of China Ship Port Fee Suspension",
-      "x": "The Trump administration has formally extended its suspension of port fees targeting Chinese-built and Chinese-operated vessels for another two months, keeping the controversial measures on hold while Washington...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-formalizes-two-month-extension-of-china-ship-port-fee-suspension/"
-    },
-    {
-      "published": "2026-11-10T20:24:01+00:00",
-      "d": "10/11",
-      "s": "macro",
-      "t": "Port of Brunswick Expands Auto Shipping Capacity as Georgia Manufacturing Booms",
-      "x": "The Georgia Ports Authority is expanding automotive shipping capacity at the Port of Brunswick as a growing number of global automakers establish manufacturing operations across the state, strengthening Georgia’s...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/port-of-brunswick-expands-auto-shipping-capacity-as-georgia-manufacturing-booms/"
-    },
-    {
-      "published": "2026-11-10T17:17:41+00:00",
-      "d": "10/11",
+      "published": "2026-11-11T18:40:24+00:00",
+      "d": "11/11",
       "s": "product",
-      "t": "Rubico targets five-ship MR fleet with latest Top Ships newbuild swoop",
-      "x": "Nasdaq-listed Rubico has struck a deal to take another two MR tanker newbuildings from Top Ships in a $14.5m deal, continuing the reshuffle of Evangelos Pistiolis-linked tanker orders in China. The Athens-based owner is...",
+      "t": "Russian Diesel Faces U.S. Buyer Resistance Despite Trump Sanctions Waiver",
+      "x": "US companies are unlikely to import Russian diesel as a tanker full of the fuel idles off the US Eastern Seaboard, experts said, despite President Donald Trump's temporary waiver of some sanctions on Moscow's fuel...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/russian-diesel-faces-u-s-buyer-resistance-despite-trump-sanctions-waiver/"
+    },
+    {
+      "published": "2026-11-11T17:20:22+00:00",
+      "d": "11/11",
+      "s": "crude",
+      "t": "Tankers Continue to Burn in the Middle East Despite Hopes for De-escalation",
+      "x": "Despite market bets on a de-escalation in the Iran war, new evidence has emerged in recent days of strikes on tankers in the Strait of Hormuz and on energy infrastructure in the Middle East.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation/"
+    },
+    {
+      "published": "2026-11-11T16:39:00+00:00",
+      "d": "11/11",
+      "s": "crude",
+      "t": "Volare snaps up $210m VLCC in Trafigura-linked deal",
+      "x": "Trafigura-backed tanker owner Volare Shipping has agreed to acquire a VLCC newbuilding from an affiliate of its controlling shareholder for $210m, adding another supertanker to its expanding fleet just weeks after its...",
       "su": "Splash247",
-      "url": "https://splash247.com/rubico-targets-five-ship-mr-fleet-with-latest-top-ships-newbuild-swoop/"
+      "url": "https://splash247.com/volare-snaps-up-210m-vlcc-in-trafigura-linked-deal/"
     },
     {
-      "published": "2026-11-10T17:00:38+00:00",
-      "d": "10/11",
+      "published": "2026-11-11T16:38:00+00:00",
+      "d": "11/11",
+      "s": "macro",
+      "t": "Canada puts Iranian tanker giant back under sanctions",
+      "x": "Canada has reinstated sanctions against the National Iranian Tanker Company (NITC), reversing relief granted a decade ago under the international nuclear agreement with Tehran. The move forms part of a package targeting...",
+      "su": "Splash247",
+      "url": "https://splash247.com/canada-puts-iranian-tanker-giant-back-under-sanctions/"
+    },
+    {
+      "published": "2026-11-11T16:35:00+00:00",
+      "d": "11/11",
       "s": "product",
-      "t": "Tanker Carrying Russian Diesel Halts off U.S. Coast, Shipping Data Shows",
-      "x": "A tanker carrying the first cargo of Russian diesel for the United States has come to a halt off the US east coast, shipping data showed on Tuesday, with its operator saying its destination had not yet been decided.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/tanker-carrying-russian-diesel-halts-off-u-s-coast-shipping-data-shows/"
-    },
-    {
-      "published": "2026-11-10T16:57:38+00:00",
-      "d": "10/11",
-      "s": "crude",
-      "t": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz",
-      "x": "A vessel operated by ADNOC Logistics & Services was damaged in an attack in UAE territorial waters on Tuesday, as maritime authorities reported a separate apparent projectile strike against a...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/"
+      "t": "Yangzijiang tied to Torm’s LR2 newbuild push",
+      "x": "Singapore-listed Yangzijiang Maritime Development has been linked to Danish tanker giant Torm’s latest LR2 newbuilding venture, putting a name to the mystery partner behind an eight-ship programme announced last week...",
+      "su": "Splash247",
+      "url": "https://splash247.com/yangzijiang-tied-to-torms-lr2-newbuild-push/"
     }
   ]
 }
