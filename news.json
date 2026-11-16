@@ -1,113 +1,98 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "items": [
     {
-      "published": "2026-11-13T04:20:00+00:00",
+      "published": "2026-11-15T22:00:59+00:00",
+      "d": "15/11",
+      "s": "crude",
+      "t": "Tankers: A Crude Correction, But Rates Remain Well Above Historical Levels",
+      "x": "A combination of factors have forced the tanker market rates lower this past month, but they still remain quite elevated by historical standards. In its latest weekly report, shipbroker Gibson said that “crude tanker...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankers-a-crude-correction-but-rates-remain-well-above-historical-levels/"
+    },
+    {
+      "published": "2026-11-15T22:00:58+00:00",
+      "d": "15/11",
+      "s": "dry",
+      "t": "Dry Bulk Shipping: Capesizes Retain Positive Momentum",
+      "x": "Capesize The Capesize market maintained a positive trajectory throughout the week, with the Pacific emerging as the clear driver of overall gains. Despite some midweek volatility, improving miner demand and increasingly...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-retain-positive-momentum-2/"
+    },
+    {
+      "published": "2026-11-15T22:00:57+00:00",
+      "d": "15/11",
+      "s": "crude",
+      "t": "VLCC Deliveries Rise Fivefold as the Orderbook Builds",
+      "x": "VLCC supply is starting to arrive. After a sharp rise in ordering, the first of the new tonnage is reaching the water, with deliveries already well ahead of last year. Using VesselsValue data, we look at what is on...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/vlcc-deliveries-rise-fivefold-as-the-orderbook-builds/"
+    },
+    {
+      "published": "2026-11-15T22:00:56+00:00",
+      "d": "15/11",
+      "s": "crude",
+      "t": "VLCCs Remained Under Pressure Last Week",
+      "x": "Clean LR2 The TC1 75kt MEG/Japan index ultimately ticked up by 8 points this week to WS1016, while the corresponding Baltic round-trip TCE edged up by $3,061 to $298,000/day. For the TC20 90kt MEG/UK-Continent run, the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/vlccs-remained-under-pressure-last-week/"
+    },
+    {
+      "published": "2026-11-15T22:00:54+00:00",
+      "d": "15/11",
+      "s": "dry",
+      "t": "Australia Bauxite: Fewer Cargoes Overall, but More of Them Bound for China",
+      "x": "Lower exports overall. Signal Ocean’s tracked flows show Australian bauxite exports reached 51.44 Mt during January–October 2026, down 4.8% from 54.05 Mt a year earlier and slightly below the 51.73 Mt recorded in the...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/australia-bauxite-fewer-cargoes-overall-but-more-of-them-bound-for-china/"
+    },
+    {
+      "published": "2026-11-15T22:00:52+00:00",
+      "d": "15/11",
+      "s": "macro",
+      "t": "Xeneta Weekly Ocean Container Shipping Market Update: Rates Start To Tumble From Far East To US East Coast Following...",
+      "x": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-rates-start-to-tumble-from-far-east-to-us-east-coast-following-record-breaking-capacity-in-october/"
+    },
+    {
+      "published": "2026-11-15T21:19:58+00:00",
+      "d": "15/11",
+      "s": "macro",
+      "t": "Imported Goods Keep Surging Through Southern California Ports",
+      "x": "By Laura Curtis Nov 15, 2026, (Bloomberg)–Import containers moving through the US’s busiest trade hub passed the one million mark for the second time in October, as some firms bring in...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/imported-goods-keep-surging-through-southern-california-ports/"
+    },
+    {
+      "published": "2026-11-14T14:41:03+00:00",
+      "d": "14/11",
+      "s": "crude",
+      "t": "Oil Tanker On Fire After Hitting Mine In Hormuz",
+      "x": "Nov 14 (Reuters) – Iran’s navy said an oil tanker caught fire on Saturday morning after hitting a naval mine in the eastern Strait of Hormuz, Iranian state media reported. Reuters could not immediately...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/"
+    },
+    {
+      "published": "2026-11-13T17:51:12+00:00",
+      "d": "13/11",
+      "s": "crude",
+      "t": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+      "x": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/"
+    },
+    {
+      "published": "2026-11-13T17:37:39+00:00",
       "d": "13/11",
       "s": "macro",
-      "t": "New report identifies Hong Kong’s place in world shipping",
-      "x": "Hong Kong Maritime Week is about to kick off. To celebrate the occasion, Splash today publishes a 48-page magazine on the city’s maritime hub credentials. A ship can be ordered at a mainland Chinese yard, owned through...",
-      "su": "Splash247",
-      "url": "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/"
-    },
-    {
-      "published": "2026-11-12T22:00:59+00:00",
-      "d": "12/11",
-      "s": "dry",
-      "t": "Newbuilding Contracting Activity Remains Elevated",
-      "x": "More newbuilding orders have continued to pour into global shipyards, as owners are looking to increase their exposure to both the wet and the dry bulk markets. In its latest weekly report, shipbroker Intermodal said...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/newbuilding-contracting-activity-remains-elevated/"
-    },
-    {
-      "published": "2026-11-12T22:00:58+00:00",
-      "d": "12/11",
-      "s": "product",
-      "t": "LR2s Turn Dirty: A larger fleet, but fewer LR2s trading clean",
-      "x": "Dirty Employment Gains Ground The LR2 market has undergone a marked change in vessel employment since the start of 2025. Signal Ocean data show that dirty employment accounted for 74.2% of the LR2 fleet on 30 October...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/lr2s-turn-dirty-a-larger-fleet-but-fewer-lr2s-trading-clean/"
-    },
-    {
-      "published": "2026-11-12T22:00:57+00:00",
-      "d": "12/11",
-      "s": "dry",
-      "t": "Baltic Dry Index Advances for 7th Day",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a seventh straight session on Thursday, rising by 2.1% to its highest since October 5 at 3,020 points...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-advances-for-7th-day/"
-    },
-    {
-      "published": "2026-11-12T22:00:57+00:00",
-      "d": "12/11",
-      "s": "dry",
-      "t": "Dry bulk ship recycling falls 36% to 18-year low",
-      "x": "“Between January and October 2026, dry bulk ship recycling fell 36% y/y to 3m DWT, its lowest level in 18 years. Only 70 ships were recycled, primarily smaller ships in the handysize and supramax segments, as strong...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-ship-recycling-falls-36-to-18-year-low/"
-    },
-    {
-      "published": "2026-11-12T22:00:55+00:00",
-      "d": "12/11",
-      "s": "macro",
-      "t": "Remembering the role of our ports",
-      "x": "Yesterday, on Remembrance Day, we remember all those who served, those who made the ultimate sacrifice, and the families and communities whose lives were changed by conflict. Throughout both World Wars, ports across...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/remembering-the-role-of-our-ports/"
-    },
-    {
-      "published": "2026-11-12T22:00:49+00:00",
-      "d": "12/11",
-      "s": "dry",
-      "t": "Costamare Bulkers Holdings Limited Reports Third Quarter Net Income of $17 Million",
-      "x": "Costamare Bulkers Holdings Limited reported unaudited financial results for the third quarter (“Q3 2026”) and nine-month period (“9M 2026”) ended September 30, 2026. OPERATIONAL AND STRATEGIC UPDATES • Owned-fleet...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/costamare-bulkers-holdings-limited-reports-third-quarter-net-income-of-17-million/"
-    },
-    {
-      "published": "2026-11-12T18:26:56+00:00",
-      "d": "12/11",
-      "s": "dry",
-      "t": "Seanergy lines up four more bulkers in $855m fleet push",
-      "x": "Greek capesize specialist Seanergy Maritime has added four more vessels worth $264m to its fleet investment programme, taking its total spending commitments to $855m. The Nasdaq-listed owner, led by Stamatis Tsantanis...",
-      "su": "Splash247",
-      "url": "https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/"
-    },
-    {
-      "published": "2026-11-12T18:20:34+00:00",
-      "d": "12/11",
-      "s": "crude",
-      "t": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
-      "x": "A projectile struck the engine room of the Liberia-flagged crude oil tanker Dominica Prosperity off the United Arab Emirates on Wednesday, forcing the evacuation of all 22 crew members as...",
+      "t": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+      "x": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on...",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/tanker-ablaze-off-uae-as-more-attacks-rattle-gulf-shipping/"
-    },
-    {
-      "published": "2026-11-12T11:16:36+00:00",
-      "d": "12/11",
-      "s": "macro",
-      "t": "EU’s Russian Arctic LNG Bill Hits €8.7 Billion as Yamal Faces Shipping Challenge Come January",
-      "x": "The European Union paid an estimated €8.7 billion for liquefied natural gas from Russia’s Yamal project in the first 10 months of 2026, exceeding the estimated total for all of 2025, as the countdown to a ban on Russian...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/eus-russian-arctic-lng-bill-hits-e8-7-billion-as-yamal-faces-shipping-challenge-come-january/"
-    },
-    {
-      "published": "2026-11-12T10:08:00+00:00",
-      "d": "12/11",
-      "s": "crude",
-      "t": "Oman Monitors Handling of Oil Tanker Run Aground Off Its Coast",
-      "x": "Oman's National Emergency Management Committee discussed on Thursday the latest developments in handling the grounding of an oil tanker off Al Qibliyah Island and the progress of operations to deal with its cargo.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/oman-monitors-handling-of-oil-tanker-run-aground-off-its-coast/"
-    },
-    {
-      "published": "2026-11-12T10:03:00+00:00",
-      "d": "12/11",
-      "s": "crude",
-      "t": "Benin Ships First Crude Cargo for Decades From Revived Oil Field",
-      "x": "Benin has rejoined the ranks of West Africa’s oil-exporting states, with its first crude oil cargo headed to Europe from an offshore field that had been dormant since the late 1990s.",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field/"
+      "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/"
     }
+  ],
+  "errors": [
+    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
