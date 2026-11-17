@@ -1,98 +1,113 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "published": "2026-11-15T22:00:59+00:00",
-      "d": "15/11",
-      "s": "crude",
-      "t": "Tankers: A Crude Correction, But Rates Remain Well Above Historical Levels",
-      "x": "A combination of factors have forced the tanker market rates lower this past month, but they still remain quite elevated by historical standards. In its latest weekly report, shipbroker Gibson said that “crude tanker...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/tankers-a-crude-correction-but-rates-remain-well-above-historical-levels/"
+      "published": "2026-11-16T23:20:40+00:00",
+      "d": "16/11",
+      "s": "macro",
+      "t": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions",
+      "x": "The European Union has imposed a new round of sanctions targeting the shipowners, vessel managers, insurers and financial networks supporting Russia’s shadow fleet, expanding its efforts to disrupt the maritime...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/"
     },
     {
-      "published": "2026-11-15T22:00:58+00:00",
-      "d": "15/11",
+      "published": "2026-11-16T22:30:41+00:00",
+      "d": "16/11",
+      "s": "crude",
+      "t": "UKMTO Reports Two Tanker Attacks in Strait of Hormuz",
+      "x": "Two tankers were reportedly attacked in the Strait of Hormuz on Monday, November 16, with both incidents resulting in engine-room fires and one vessel left disabled, according to separate warnings...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/"
+    },
+    {
+      "published": "2026-11-16T22:00:57+00:00",
+      "d": "16/11",
       "s": "dry",
-      "t": "Dry Bulk Shipping: Capesizes Retain Positive Momentum",
-      "x": "Capesize The Capesize market maintained a positive trajectory throughout the week, with the Pacific emerging as the clear driver of overall gains. Despite some midweek volatility, improving miner demand and increasingly...",
+      "t": "Baltic Dry Index at Near1-Week Low",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, sliding about 2% to a near one-week low of 2,921 points. The main...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesizes-retain-positive-momentum-2/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-near1-week-low/"
     },
     {
-      "published": "2026-11-15T22:00:57+00:00",
-      "d": "15/11",
+      "published": "2026-11-16T22:00:53+00:00",
+      "d": "16/11",
+      "s": "macro",
+      "t": "OceanScore advances port emissions intelligence ambitions through agreement with RightShip on MEP customer portfolio",
+      "x": "OceanScore has signed an agreement with RightShip to assume responsibility for the customer portfolio of RightShip’s Maritime Emissions Portal (MEP), marking a further step in OceanScore’s ambition to establish a global...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/oceanscore-advances-port-emissions-intelligence-ambitions-through-agreement-with-rightship-on-mep-customer-portfolio/"
+    },
+    {
+      "published": "2026-11-16T22:00:50+00:00",
+      "d": "16/11",
+      "s": "macro",
+      "t": "Ningbo Containerized Freight Index Report, 13 November 2026",
+      "x": "In the week ending Nov-13, Ningbo Containerized Freight Index (NCFI) issued by Ningbo Shipping Exchange (NBSE) quotes Below find the NCFI Weekly Index Data chart: Source: Ningbo Shipping Exchange",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ningbo-containerized-freight-index-report-13-november-2026/"
+    },
+    {
+      "published": "2026-11-16T22:00:49+00:00",
+      "d": "16/11",
+      "s": "macro",
+      "t": "NorthStandard growth and diversification underpin positive 2027–28 renewal outlook",
+      "x": "NorthStandard has announced a positive pre-renewal outlook for the 2027–28 marine insurance year, underpinned by continued growth and diversification as it builds long-term financial resilience. The outlook comes as...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/northstandard-growth-and-diversification-underpin-positive-2027-28-renewal-outlook/"
+    },
+    {
+      "published": "2026-11-16T22:00:43+00:00",
+      "d": "16/11",
       "s": "crude",
-      "t": "VLCC Deliveries Rise Fivefold as the Orderbook Builds",
-      "x": "VLCC supply is starting to arrive. After a sharp rise in ordering, the first of the new tonnage is reaching the water, with deliveries already well ahead of last year. Using VesselsValue data, we look at what is on...",
+      "t": "Venezuela eyes bigger slice of India’s oil imports from Russia",
+      "x": "Venezuela could regain a share of India’s crude oil imports from Russia as Washington continues to exert greater pressure on buyers of Russian oil, according to Rystad Energy. The consultancy said the shift in US policy...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vlcc-deliveries-rise-fivefold-as-the-orderbook-builds/"
+      "url": "https://www.hellenicshippingnews.com/venezuela-eyes-bigger-slice-of-indias-oil-imports-from-russia/"
     },
     {
-      "published": "2026-11-15T22:00:56+00:00",
-      "d": "15/11",
-      "s": "crude",
-      "t": "VLCCs Remained Under Pressure Last Week",
-      "x": "Clean LR2 The TC1 75kt MEG/Japan index ultimately ticked up by 8 points this week to WS1016, while the corresponding Baltic round-trip TCE edged up by $3,061 to $298,000/day. For the TC20 90kt MEG/UK-Continent run, the...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/vlccs-remained-under-pressure-last-week/"
-    },
-    {
-      "published": "2026-11-15T22:00:54+00:00",
-      "d": "15/11",
+      "published": "2026-11-16T22:00:37+00:00",
+      "d": "16/11",
       "s": "dry",
-      "t": "Australia Bauxite: Fewer Cargoes Overall, but More of Them Bound for China",
-      "x": "Lower exports overall. Signal Ocean’s tracked flows show Australian bauxite exports reached 51.44 Mt during January–October 2026, down 4.8% from 54.05 Mt a year earlier and slightly below the 51.73 Mt recorded in the...",
+      "t": "Iron ore may rebound slightly as steel export orders improve",
+      "x": "The average imported iron ore margin rose from -7.71 yuan/mt to -5.90 yuan/mt in the latest period, with losses narrowing on higher spot prices for some products and lower seaborne premiums. On the supply side, SMM data...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/australia-bauxite-fewer-cargoes-overall-but-more-of-them-bound-for-china/"
+      "url": "https://www.hellenicshippingnews.com/iron-ore-may-rebound-slightly-as-steel-export-orders-improve/"
     },
     {
-      "published": "2026-11-15T22:00:52+00:00",
-      "d": "15/11",
-      "s": "macro",
-      "t": "Xeneta Weekly Ocean Container Shipping Market Update: Rates Start To Tumble From Far East To US East Coast Following...",
-      "x": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-rates-start-to-tumble-from-far-east-to-us-east-coast-following-record-breaking-capacity-in-october/"
-    },
-    {
-      "published": "2026-11-15T21:19:58+00:00",
-      "d": "15/11",
-      "s": "macro",
-      "t": "Imported Goods Keep Surging Through Southern California Ports",
-      "x": "By Laura Curtis Nov 15, 2026, (Bloomberg)–Import containers moving through the US’s busiest trade hub passed the one million mark for the second time in October, as some firms bring in...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/imported-goods-keep-surging-through-southern-california-ports/"
-    },
-    {
-      "published": "2026-11-14T14:41:03+00:00",
-      "d": "14/11",
+      "published": "2026-11-16T18:45:55+00:00",
+      "d": "16/11",
       "s": "crude",
-      "t": "Oil Tanker On Fire After Hitting Mine In Hormuz",
-      "x": "Nov 14 (Reuters) – Iran’s navy said an oil tanker caught fire on Saturday morning after hitting a naval mine in the eastern Strait of Hormuz, Iranian state media reported. Reuters could not immediately...",
+      "t": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
+      "x": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz.",
       "su": "gCaptain",
-      "url": "https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/"
+      "url": "https://gcaptain.com/the-oil-market-is-brimming-with-crude-despite-tanker-attacks/"
     },
     {
-      "published": "2026-11-13T17:51:12+00:00",
-      "d": "13/11",
-      "s": "crude",
-      "t": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
-      "x": "Global oil markets are beginning to recover from the Iran war, but shipping through the Strait of Hormuz remains severely disrupted, with vessel traffic roughly 65% below pre-conflict levels and...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/"
+      "published": "2026-11-16T12:54:05+00:00",
+      "d": "16/11",
+      "s": "dry",
+      "t": "Xylas wins second term at Intercargo",
+      "x": "Greek shipowner John Xylas has secured another two years at the helm of dry bulk shipping association Intercargo, with executives from Berge Bulk and Fleet Management joining its leadership team. Members meeting in Rome...",
+      "su": "Splash247",
+      "url": "https://splash247.com/xylas-wins-second-term-at-intercargo/"
     },
     {
-      "published": "2026-11-13T17:37:39+00:00",
-      "d": "13/11",
-      "s": "macro",
-      "t": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
-      "x": "The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/"
+      "published": "2026-11-16T10:00:00+00:00",
+      "d": "16/11",
+      "s": "dry",
+      "t": "Himalaya secures fresh 2027 charter cover for newcastlemax pair",
+      "x": "Tor Olav Trøim-backed Himalaya Shipping has switched two of its newcastlemax bulkers from index-linked employment to fixed-rate charters averaging $41,550 per day for the first quarter of 2027. The Oslo- and New...",
+      "su": "Splash247",
+      "url": "https://splash247.com/himalaya-secures-fresh-2027-charter-cover-for-newcastlemax-pair/"
+    },
+    {
+      "published": "2026-11-16T09:45:00+00:00",
+      "d": "16/11",
+      "s": "lpg",
+      "t": "SwissChemGas joins VLAC ordering rush with Hengli pair",
+      "x": "Greece-linked LPG trader SwissChemGas has been linked to an order for two very large ammonia carriers at China’s Hengli Heavy Industries, joining a growing list of owners investing in the sector. Shipbroking sources...",
+      "su": "Splash247",
+      "url": "https://splash247.com/swisschemgas-joins-vlac-ordering-rush-with-hengli-pair/"
     }
-  ],
-  "errors": [
-    "Splash247: mismatched tag: line 93, column 2"
   ]
 }
