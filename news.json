@@ -1,113 +1,113 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
-      "published": "2026-11-19T02:27:00+00:00",
+      "published": "2026-11-19T22:00:59+00:00",
       "d": "19/11",
       "s": "dry",
-      "t": "Geneva Dry: TCC’s Emily Koo on the disconnect between dry bulk rates and asset prices",
-      "x": "TCC Group’s Emily Koo warns that elevated vessel prices, an overreliance on market statistics and a narrow focus on technology risk distracting dry bulk shipping from the bigger challenges ahead. The growing disconnect...",
-      "su": "Splash247",
-      "url": "https://splash247.com/geneva-dry-tccs-emily-koo-on-the-disconnect-between-dry-bulk-rates-and-asset-prices/"
-    },
-    {
-      "published": "2026-11-18T22:00:59+00:00",
-      "d": "18/11",
-      "s": "product",
-      "t": "Clean tankers freight slumps as Persian Gulf transits slow amid attacks",
-      "x": "Medium Range, or MR, tanker freight across Asia-Pacific slumped Nov. 18, falling w125 on a benchmark route from the Middle East due to slower oil flows through the risky waters of the Strait of Hormuz, market...",
+      "t": "Dry Bulk Market: Kamsarmax Rebounds, Soybeans Set Records",
+      "x": "While the larger Capesize ship class continues to act as a benchmark for the broader dry bulk market, smaller sizes have shown significant diversion over the past few days. In its latest weekly report, shipbroker...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/clean-tankers-freight-slumps-as-persian-gulf-transits-slow-amid-attacks/"
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-market-kamsarmax-rebounds-soybeans-set-records/"
     },
     {
-      "published": "2026-11-18T22:00:57+00:00",
-      "d": "18/11",
+      "published": "2026-11-19T22:00:58+00:00",
+      "d": "19/11",
       "s": "dry",
-      "t": "Baltic Dry Index Recovers",
-      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose by 0.7% to 2,914 points on Wednesday, after a 1% decrease in the prior session. The main support came from...",
+      "t": "Dry Bulk Shipping: Asian Vessel Availability Tightens Despite Softer Freight",
+      "x": "Capesize and Panamax led the weekly freight gains, with the BCI rising 8.6% and the BPI 5.7%, compared with more modest increases of 1.2% for Supramax and 2.3% for Handysize. The improvement was largely concentrated on...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-recovers/"
+      "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-asian-vessel-availability-tightens-despite-softer-freight/"
     },
     {
-      "published": "2026-11-18T22:00:57+00:00",
-      "d": "18/11",
+      "published": "2026-11-19T22:00:57+00:00",
+      "d": "19/11",
       "s": "dry",
-      "t": "Guinea climbs to third-largest iron ore exporter as shipments surpass 5m tonnes",
-      "x": "“In October 2026, Guinea became the world’s third-largest iron ore exporter, with exports surpassing 5m tonnes for the first time and accounting for 3% of global iron ore volumes. The country has gradually ramped up...",
+      "t": "Baltic Dry Index Edges Down",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell by 0.5% to 2,901 points on Thursday, after increasing by 0.7% in the prior session. The capesize index...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/guinea-climbs-to-third-largest-iron-ore-exporter-as-shipments-surpass-5m-tonnes/"
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-3/"
     },
     {
-      "published": "2026-11-18T22:00:55+00:00",
-      "d": "18/11",
+      "published": "2026-11-19T22:00:53+00:00",
+      "d": "19/11",
+      "s": "macro",
+      "t": "Drewry: Asia-Europe capacity returns via Suez – but security concerns remain",
+      "x": "Drewry’s Red Sea Diversion Tracker delivers timely intelligence to shippers, carriers, ports and other stakeholders on the evolving structure of carrier networks. This tracker page is updated fortnightly (every other...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/drewry-asia-europe-capacity-returns-via-suez-but-security-concerns-remain/"
+    },
+    {
+      "published": "2026-11-19T22:00:49+00:00",
+      "d": "19/11",
       "s": "crude",
-      "t": "Iran’s Hormuz blacklist reshapes flows, but exports hold",
-      "x": "Iran has designated more than half the tankers involved in Gulf shuttle operations, but so far the restrictions have not reduced the volume of oil moving through the shuttle relay. Instead, Vortexa data indicates that...",
+      "t": "Two supertankers struck mines in Strait of Hormuz, Iran’s Revolutionary Guard says",
+      "x": "Two supertankers caught fire after hitting mines in the Strait of Hormuz, Iran’s Revolutionary Guard has said, adding that the vessels were taking an “unauthorized route” through the conduit. In a statement to Iran’s...",
       "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/irans-hormuz-blacklist-reshapes-flows-but-exports-hold/"
+      "url": "https://www.hellenicshippingnews.com/two-supertankers-struck-mines-in-strait-of-hormuz-irans-revolutionary-guard-says/"
     },
     {
-      "published": "2026-11-18T22:00:51+00:00",
-      "d": "18/11",
+      "published": "2026-11-19T22:00:37+00:00",
+      "d": "19/11",
+      "s": "crude",
+      "t": "TankerLink: Shore Power For Tankers",
+      "x": "Today we’re introducing TankerLink, our new product line of cable management systems that can connect all tanker typesto shore power. Is it FSRU, shuttle tanker, chemical tanker or oil tanker, new product line ensures...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/tankerlink-shore-power-for-tankers/"
+    },
+    {
+      "published": "2026-11-19T21:48:20+00:00",
+      "d": "19/11",
+      "s": "crude",
+      "t": "Court Ruling Threatens License for $2.1 Billion Texas Offshore Oil Export Project",
+      "x": "A court ruling has jeopardized a license for Sentinel Midstream’s $2.1 billion deepwater crude oil export project off the Texas coast, an environmental group that petitioned the court said this week.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/court-ruling-threatens-license-for-2-1-billion-texas-offshore-oil-export-project/"
+    },
+    {
+      "published": "2026-11-19T17:26:25+00:00",
+      "d": "19/11",
+      "s": "crude",
+      "t": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+      "x": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide/"
+    },
+    {
+      "published": "2026-11-19T17:13:54+00:00",
+      "d": "19/11",
+      "s": "macro",
+      "t": "Panama Files Criminal Complaint Tied to CK Hutchison Ports Dispute",
+      "x": "Panama's comptroller general said on Wednesday it had filed a criminal complaint over suspected irregularities uncovered in an audit of a state contract with a unit of Hong Kong conglomerate CK Hutchison.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute/"
+    },
+    {
+      "published": "2026-11-19T13:42:50+00:00",
+      "d": "19/11",
+      "s": "crude",
+      "t": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
+      "x": "Some of the world’s top commodity-trading houses are in talks to secure more long-term supplies of Qatari crude, seeking to build on their success at shuttling oil out of the Persian Gulf during the Iran-US war.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies/"
+    },
+    {
+      "published": "2026-11-19T12:10:00+00:00",
+      "d": "19/11",
       "s": "product",
-      "t": "Hafnia Limited Announces Third Quarter Net Profit Of USD 170.8 million",
-      "x": "Hafnia Limited, a leading product tanker company with a diversified and modern fleet of over 100 vessels, announced results for the three and nine months ended 30 September 2026. Highlights and Recent Activity Third...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/hafnia-limited-announces-third-quarter-net-profit-of-usd-170-8-million/"
+      "t": "Torm hits back at Hafnia over rejected merger bids",
+      "x": "Danish product tanker giant Torm has hit back at Hafnia following its abandoned takeover pursuit, revealing that it rejected several merger proposals from its rival because they offered no meaningful premium and...",
+      "su": "Splash247",
+      "url": "https://splash247.com/torm-hits-back-at-hafnia-over-rejected-merger-bids/"
     },
     {
-      "published": "2026-11-18T22:00:49+00:00",
-      "d": "18/11",
+      "published": "2026-11-19T11:27:00+00:00",
+      "d": "19/11",
       "s": "product",
-      "t": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
-      "x": "Northwest Europe Prompt fuel availability is tight in ARA ports, with buyers recommended lead times of 5-7 days to get good coverage from suppliers, a trader told ENGINE. The ARA’s independently held fuel oil stocks...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-208/"
-    },
-    {
-      "published": "2026-11-18T19:12:14+00:00",
-      "d": "18/11",
-      "s": "lpg",
-      "t": "TARA GAS Burning Off Oman as Another Tanker Attack Leaves 11 Injured",
-      "x": "The LPG tanker TARA GAS remained on fire and adrift in the Strait of Hormuz on Wednesday, according to a new navigational warning, as independently verified video showed the vessel...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/tara-gas-burning-off-oman-as-another-tanker-attack-leaves-11-injured/"
-    },
-    {
-      "published": "2026-11-18T18:38:45+00:00",
-      "d": "18/11",
-      "s": "macro",
-      "t": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
-      "x": "The US military will treat ships that receive cargo at sea from vessels loaded in Iran as attempting to evade its blockade of Iranian ports and could take action against them, according to an advisory issued by US...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/"
-    },
-    {
-      "published": "2026-11-18T17:08:34+00:00",
-      "d": "18/11",
-      "s": "macro",
-      "t": "Strike Threat Looms at Ports of Los Angeles and Long Beach as Labor Talks Stall",
-      "x": "A potential strike at the nation’s busiest container port complex is back on the table after contract negotiations between waterfront employers and a union representing about 250 port security workers...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/"
-    },
-    {
-      "published": "2026-11-18T10:45:00+00:00",
-      "d": "18/11",
-      "s": "macro",
-      "t": "DEME orders pair of autonomous offshore survey vessels",
-      "x": "Belgian marine contractor DEME has ordered two uncrewed offshore survey vessels from Dutch technology specialist DEMCON Unmanned Systems, expanding its capabilities in remote and autonomous offshore operations. The...",
+      "t": "Stamford firms up 10 MR tankers in China",
+      "x": "Singapore-based Stamford Shipping has firmed up an order for 10 MR product tankers at China’s Nantong CIMC Sinopacific Offshore & Engineering (CIMC SOE), with the yard also securing two vessels of the same design from...",
       "su": "Splash247",
-      "url": "https://splash247.com/deme-orders-pair-of-autonomous-offshore-survey-vessels/"
-    },
-    {
-      "published": "2026-11-18T10:30:00+00:00",
-      "d": "18/11",
-      "s": "dry",
-      "t": "CSSC Shipping adds two bulkers and takes over ASL boxship pair",
-      "x": "Hong Kong-listed CSSC Shipping has signed up for another two 80,000 dwt grain carriers in China while moving to take over a pair of containership newbuildings from ASL Shipping in a combined HK$1.73bn ($221m)...",
-      "su": "Splash247",
-      "url": "https://splash247.com/cssc-shipping-adds-two-bulkers-and-takes-over-asl-boxship-pair/"
+      "url": "https://splash247.com/stamford-firms-up-10-mr-tankers-in-china/"
     }
   ]
 }
