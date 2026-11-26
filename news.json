@@ -1,68 +1,104 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
-      "published": "2026-11-25T06:28:36+00:00",
+      "published": "2026-11-25T22:00:59+00:00",
+      "d": "25/11",
+      "s": "macro",
+      "t": "ETS for maritime revision – The EU must not miss the opportunity to protect its ports and maritime connectivity",
+      "x": "Ahead of the European Parliament’s Environment Committee vote on the maritime EU Emissions Trading System (ETS), FEPORT, representing European private port companies and terminal operators, the European Transport...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/ets-for-maritime-revision-the-eu-must-not-miss-the-opportunity-to-protect-its-ports-and-maritime-connectivity/"
+    },
+    {
+      "published": "2026-11-25T22:00:58+00:00",
+      "d": "25/11",
+      "s": "macro",
+      "t": "WSC report highlights global renewable marine fuel opportunities as dual-fuel fleet set to meet 20% of liner energy...",
+      "x": "Investment in new container ships and vehicle carriers is creating a substantial potential market for renewable marine fuels, according to a new report released today by the World Shipping Council. By around 2030, ships...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/wsc-report-highlights-global-renewable-marine-fuel-opportunities-as-dual-fuel-fleet-set-to-meet-20-of-liner-energy-demand-by-2030/"
+    },
+    {
+      "published": "2026-11-25T22:00:57+00:00",
+      "d": "25/11",
+      "s": "dry",
+      "t": "Baltic Dry Index Scales Near 2-Month Peak",
+      "x": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a third session on Wednesday, rising 1.3% to its highest since October 2 at 3,107 points. Gains were...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-scales-near-2-month-peak/"
+    },
+    {
+      "published": "2026-11-25T22:00:55+00:00",
+      "d": "25/11",
+      "s": "lpg",
+      "t": "STEALTHGAS INC. Reports Strong Third Quarter Profits",
+      "x": "STEALTHGAS INC., a ship-owning company serving the liquefied petroleum gas (LPG) sector of the international shipping industry, announced its unaudited financial and operating results for the third quarter and nine...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/stealthgas-inc-reports-strong-third-quarter-profits/"
+    },
+    {
+      "published": "2026-11-25T22:00:53+00:00",
+      "d": "25/11",
+      "s": "dry",
+      "t": "Diana Shipping Inc. Reports Third Quarter Net Loss on Transaction-Related Costs",
+      "x": "Diana Shipping Inc., a global shipping company specializing in the ownership and bareboat charter-in of dry bulk vessels, today reported net loss of $0.5 million and net loss attributable to common stockholders of $1.9...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/diana-shipping-inc-reports-third-quarter-net-loss-on-transaction-related-costs/"
+    },
+    {
+      "published": "2026-11-25T22:00:47+00:00",
+      "d": "25/11",
+      "s": "macro",
+      "t": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
+      "x": "Northwest Europe Prompt fuel availability is tight in ARA ports, with buyers recommended a notice of 5-7 days to get competitive offers from a wide selection of suppliers, a trader said. The ARA’s independently held...",
+      "su": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-209/"
+    },
+    {
+      "published": "2026-11-25T17:35:31+00:00",
+      "d": "25/11",
+      "s": "macro",
+      "t": "U.S. Targets China, EU With New Tariffs Citing Overcapacity",
+      "x": "The US announced plans to impose a fresh round of tariffs on goods from China, the European Union and a dozen other economies under President Donald Trump’s push to restore sweeping global import taxes that the Supreme...",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/u-s-targets-china-eu-with-new-tariffs-citing-overcapacity/"
+    },
+    {
+      "published": "2026-11-25T13:44:01+00:00",
       "d": "25/11",
       "s": "crude",
-      "t": "Hormuz has followed the ships that sailed around it",
-      "x": "Up to 50 tankers have been hit through their Fortinet firewalls. Who did it is still open. Where the ships were sailing is not. Brad Calloway from Zed Three explains. The VL Prosperity was nowhere near the Strait of...",
-      "su": "Splash247",
-      "url": "https://splash247.com/hormuz-has-followed-the-ships-that-sailed-around-it/"
+      "t": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading",
+      "x": "A record three-quarters of the global fleet of large tankers designed to transport oil products are tapping higher earnings to ship crude, keeping the cost to move fuels elevated.",
+      "su": "gCaptain",
+      "url": "https://gcaptain.com/most-large-fuel-tankers-now-ship-dirty-crude-upending-trading/"
     },
     {
-      "published": "2026-11-24T22:00:59+00:00",
-      "d": "24/11",
-      "s": "lpg",
-      "t": "One in Five Newbuilding Orders This Year Belong to Greek Interests",
-      "x": "Greek owners have been accumulating newbuilding orders so far this year, as prices keep grinding higher. In its latest weekly report, shipbroker Xclusiv said that “Greek owners account for more than one in five...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/one-in-five-newbuilding-orders-this-year-belong-to-greek-interests/"
-    },
-    {
-      "published": "2026-11-24T22:00:59+00:00",
-      "d": "24/11",
-      "s": "crude",
-      "t": "EU moves to ban tankers insured in Russia, repair services at Russian refineries",
-      "x": "The EU has moved to ban all tankers insured in Russia and bar European companies from helping build, operate or repair Russian energy infrastructure, including refineries, in a new sanctions package that may further...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/eu-moves-to-ban-tankers-insured-in-russia-repair-services-at-russian-refineries/"
-    },
-    {
-      "published": "2026-11-24T22:00:58+00:00",
-      "d": "24/11",
-      "s": "crude",
-      "t": "Good Times Bad Times: The Premium Stays with the Strait",
-      "x": "In October, we wrote that if the transfer network off Oman kept pace, Gulf crude would carry China’s refill and keep drawing tonnage east, supporting earnings on both routes. The relay largely kept pace. The earnings...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/good-times-bad-times-the-premium-stays-with-the-strait/"
-    },
-    {
-      "published": "2026-11-24T22:00:57+00:00",
-      "d": "24/11",
-      "s": "macro",
-      "t": "China is back buying US soybeans at harvest, as US wheat exports fall by about a third",
-      "x": "China took about 4.3 Mt of US soybeans in September and October, against almost none a year earlier during the trade war. Our view is that US soybean shipments to China look to be heading about 15% higher over the July...",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/china-is-back-buying-us-soybeans-at-harvest-as-us-wheat-exports-fall-by-about-a-third/"
-    },
-    {
-      "published": "2026-11-24T22:00:54+00:00",
-      "d": "24/11",
+      "published": "2026-11-25T12:40:00+00:00",
+      "d": "25/11",
       "s": "dry",
-      "t": "Banchero Costa Weekly Market Report, Week 47 2026",
-      "x": "Steel products are one of the most important dry bulk commodities, accounting for 4.2 percent of all seaborne dry bulk trade in 2025, Source: banchero costa & c s.p.a",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-47-2026/"
+      "t": "Shenzhen Energy makes $44m dry bulk newbuild move",
+      "x": "Chinese power group Shenzhen Energy is moving ahead with the renewal of its dry bulk fleet, selecting CSSC Huangpu Wenchong Shipbuilding to build an 82,000 dwt kamsarmax in a deal worth RMB296m ($44.4m). The...",
+      "su": "Splash247",
+      "url": "https://splash247.com/shenzhen-energy-makes-44m-dry-bulk-newbuild-move/"
     },
     {
-      "published": "2026-11-24T22:00:50+00:00",
-      "d": "24/11",
+      "published": "2026-11-25T11:40:00+00:00",
+      "d": "25/11",
       "s": "crude",
-      "t": "Intermodal Weekly Market Report Week 47 2026 Broker’s Insight",
-      "x": "Brazil traditionally holds a prominent role in Atlantic Basin crude trading, with the expansion of its offshore production further underpinning Source: Intermodal",
-      "su": "Hellenic Shipping News",
-      "url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-47-2026-brokers-insight/"
+      "t": "Neda makes VLCC comeback with Chinese order",
+      "x": "Greek shipowner Neda Maritime Agency has returned to the VLCC newbuilding market, lining up one firm vessel and an option for another at China’s New Times Shipbuilding. Shipbrokers have linked the Lykiardopoulos...",
+      "su": "Splash247",
+      "url": "https://splash247.com/neda-makes-vlcc-comeback-with-chinese-order/"
+    },
+    {
+      "published": "2026-11-25T11:00:00+00:00",
+      "d": "25/11",
+      "s": "dry",
+      "t": "Safe Bulkers offloads vintage post-panamax for $15m",
+      "x": "Polys Hajioannou-led Safe Bulkers is clearing out more older tonnage, striking a $14.86m deal to sell a 20-year-old post-panamax bulk carrier. The New York- and Athens-listed owner revealed in a US securities filing...",
+      "su": "Splash247",
+      "url": "https://splash247.com/safe-bulkers-offloads-vintage-post-panamax-for-15m/"
     },
     {
       "published": "2026-11-24T19:04:01+00:00",
@@ -72,42 +108,6 @@
       "x": "French authorities have successfully refloated the Malta-flagged bulk carrier MIRO G, four days after the vessel ran aground on France’s Atlantic coast during severe weather. The Atlantic Maritime Prefecture confirmed...",
       "su": "gCaptain",
       "url": "https://gcaptain.com/grounded-bulk-carrier-miro-g-successfully-refloated-off-french-beach/"
-    },
-    {
-      "published": "2026-11-24T18:19:57+00:00",
-      "d": "24/11",
-      "s": "crude",
-      "t": "Four More Ships Attacked as Iran Widens Hormuz Crackdown to Tugboats",
-      "x": "Four more commercial vessels have been attacked in and around the Strait of Hormuz, bringing the number of reported tanker strikes in the strategic waterway to 10 in a single...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/four-more-ships-attacked-as-iran-widens-hormuz-crackdown-to-tugboats/"
-    },
-    {
-      "published": "2026-11-24T16:47:06+00:00",
-      "d": "24/11",
-      "s": "crude",
-      "t": "Swedish Club Urges Ships to Avoid Strait of Hormuz as Security Situation Deteriorates",
-      "x": "Marine insurer The Swedish Club is warning shipowners against non-essential transits of the Strait of Hormuz as escalating attacks on commercial shipping, mounting congestion and persistent navigational interference...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/swedish-club-urges-ships-to-avoid-strait-of-hormuz-as-security-situation-deteriorates/"
-    },
-    {
-      "published": "2026-11-24T16:43:11+00:00",
-      "d": "24/11",
-      "s": "dry",
-      "t": "Grounded bulker pulled free off French coast",
-      "x": "Salvors have successfully refloated the 28,200 dwt bulk carrier Miro G, four days after the ship was driven onto a beach on France’s Atlantic coast. The 2011-built, Malta-flagged bulker was pulled clear of the shoreline...",
-      "su": "Splash247",
-      "url": "https://splash247.com/grounded-bulker-pulled-free-off-french-coast/"
-    },
-    {
-      "published": "2026-11-24T16:13:27+00:00",
-      "d": "24/11",
-      "s": "crude",
-      "t": "Used Supertankers Now Cost More Than New Ships as Hormuz War Upends Shipping Markets",
-      "x": "The war with Iran has so severely distorted the global oil tanker market that 15-year-old supertankers are now worth considerably more than brand-new vessels, highlighting the extraordinary premium placed on...",
-      "su": "gCaptain",
-      "url": "https://gcaptain.com/used-supertankers-now-cost-more-than-new-ships-as-hormuz-war-upends-shipping-markets/"
     }
   ]
 }
